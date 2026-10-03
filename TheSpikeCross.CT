@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries/>
+  <LuaScript>--[[
+  The Spike Cross - offline trainer for Cheat Engine (Lua)
+
+  SCOPE
+    In-match helpers for story mode, practice and matches against the CPU:
+      * stat lock (multiplier or fixed values; originals restored on release)
+      * stamina lock
+      * score adjust
+      * game speed (Cheat Engine speedhack)
+
+    Deliberately NOT included: gold / premium currency, training or upgrade
+    shortcuts, character / costume / skill unlocks, or anything written to the
+    saved profile. Those touch paid items and carry over into online play.
+
+  MODE GUARD
+    Every feature is gated by a mode guard that you configure once (see
+    docs/SETUP_GUIDE.md). If the guard is not configured, cannot be read, or
+    reports a mode that is not in your offline list, all features switch off
+    and game speed returns to 1.0. It fails closed.
+
+  HOW TO USE
+    1. Fill in CONFIG below with the values you find (docs/SETUP_GUIDE.md).
+    2. Open TheSpikeCross.CT in Cheat Engine (or paste this file into
+       Table &gt; Show Cheat Table Lua Script) and execute it.
+    3. Start the game; the trainer attaches automatically.
+]]
+
+-- If an older copy of the trainer is still running (script re-executed),
+-- shut it down first so its code hooks are restored and not stacked.
+if _G.SpikeCrossTrainer and type(_G.SpikeCrossTrainer.shutdown) == "function" then
+  pcall(_G.SpikeCrossTrainer.shutdown)
+end
+
+local Trainer = {}
+
+--------------------------------------------------------------------------------
+-- CONFIG -- everything you fill in lives here.
+--
+-- Sources describe where a value lives. Two kinds:
+--   { expr = "[[GameAssembly.dll+1A2B3C0]+B8]+44" }
+--       A Cheat Engine address expression (pointer chain). Use this when the
+--       pointer scanner gives you a stable path.
+--   { hook = "player", offset = 0x44 }
+--       A field at &lt;offset&gt; inside the object captured by a code hook (see
+--       CONFIG.hooks). This is the usual approach for Unity games.
+-- `nil` means "not configured yet"; the trainer shows it as such.
+--------------------------------------------------------------------------------
+local CONFIG = {
+  -- Exact process name, e.g. "TheSpikeCross.exe". nil = auto-detect by
+  -- looking for a running process whose name contains `processMatch`.
+  processName  = nil,
+  processMatch = "spike",
+
+  -- How often (ms) values are re-applied and the guard re-checked.
+  tickMs = 100,
+
+  -- A captured object pointer older than this (ms) is treated as gone.
+  -- Protects against writing into a player object after the match ended.
+  staleMs = 2000,
+
+  -- Code hooks. Each one copies a register (the object pointer) into a slot
+  -- every time the game runs the hooked instruction.
+  --   module   : module to scan ("GameAssembly.dll" for IL2CPP builds,
+  --              nil to scan all executable memory, e.g. for Mono JIT code)
+  --   aob      : unique byte pattern, wildcards as ??
+  --   offset   : bytes from the start of the pattern to the hooked instruction
+  --   length   : total bytes of the whole instructions being replaced (&gt;= 5);
+  --              they must not contain jumps, calls or RIP-relative operands
+  --   register : register holding the object pointer (rcx, rbx, rsi, ...)
+  --   filter   : optional { offset = 0x.., size = "dword"|"byte", equals = n }
+  --              only capture objects where that field equals n (for example
+  --              "is the human-controlled player"), so CPU players are skipped
+  hooks = {
+    player = { module = "GameAssembly.dll", aob = nil, offset = 0, length = nil, register = nil, filter = nil },
+    match  = { module = "GameAssembly.dll", aob = nil, offset = 0, length = nil, register = nil, filter = nil },
+  },
+
+  -- Mode guard: a value that tells which game mode is running.
+  --   allowed : list of values that mean an offline mode (story, practice,
+  --             vs CPU). Anything else blocks every feature.
+  --   names   : optional labels shown in the UI, keyed by value.
+  guard = {
+    source  = nil,               -- e.g. { hook = "match", offset = 0x30 }
+    type    = "int32",
+    allowed = {},                -- e.g. { 1, 2, 4 }
+    names   = {},                -- e.g. { [1] = "Story", [2] = "Practice", [4] = "vs CPU" }
+  },
+
+  -- In-match stats of YOUR player. Rename, remove or add entries to match the
+  -- game. `type` is "float", "double" or "int32".
+  -- `max` (optional) clamps the target so the physics do not break.
+  stats = {
+    { key = "spike",   label = "Spike",   source = nil, type = "float" },
+    { key = "serve",   label = "Serve",   source = nil, type = "float" },
+    { key = "block",   label = "Block",   source = nil, type = "float" },
+    { key = "receive", label = "Receive", source = nil, type = "float" },
+    { key = "toss",    label = "Toss",    source = nil, type = "float" },
+    { key = "jump",    label = "Jump",    source = nil, type = "float" },
+    { key = "speed",   label = "Speed",   source = nil, type = "float" },
+  },
+  -- Default multiplier applied to a stat's original value when its target
+  -- box in the UI is left empty.
+  statMultiplier = 1.5,
+
+  stamina = {
+    current  = nil,              -- source of current stamina
+    max      = nil,              -- source of max stamina (preferred) ...
+    maxValue = nil,              -- ... or a fixed number to hold it at
+    type     = "float",
+  },
+
+  score = {
+    mine   = nil,                -- source of your team's score
+    theirs = nil,                -- source of the opponent's score
+    type   = "int32",
+  },
+
+  speed = { min = 0.25, max = 5.0, step = 0.25, default = 2.0 },
+
+  -- Hotkeys (virtual key codes; nil disables one). Resolved at start so the
+  -- VK_ constants come from Cheat Engine.
+  hotkeys = {
+    toggleStats   = "VK_F5",
+    toggleStamina = "VK_F6",
+    toggleSpeed   = "VK_F7",
+    speedDown     = "VK_F8",
+    speedUp       = "VK_F9",
+    myScoreUp     = "VK_F10",
+    theirScoreDown = "VK_F11",
+  },
+}
+Trainer.CONFIG = CONFIG
+
+local VALID_REGISTERS = {
+  rax = true, rbx = true, rcx = true, rdx = true, rsi = true, rdi = true, rbp = true,
+  r8 = true, r9 = true, r10 = true, r11 = true, r12 = true, r13 = true, r14 = true, r15 = true,
+}
+
+--------------------------------------------------------------------------------
+-- Logging
+--------------------------------------------------------------------------------
+local lastLogged = {}
+local function log(msg)
+  print("[SpikeCross] " .. tostring(msg))
+end
+-- Logs a message only when it differs from the last one under `key`.
+local function logOnce(key, msg)
+  if lastLogged[key] ~= msg then
+    lastLogged[key] = msg
+    log(msg)
+  end
+end
+
+local function now()
+  return getTickCount()
+end
+
+--------------------------------------------------------------------------------
+-- Runtime state
+--------------------------------------------------------------------------------
+local state = {
+  pid          = nil,
+  aliveCheck   = 0,
+  guardOk      = false,
+  guardReason  = "not attached",
+  statsLocked  = false,
+  staminaLocked = false,
+  speedOn      = false,
+  speed        = CONFIG.speed.default,
+  appliedSpeed = 1.0,
+  statTargets  = {},             -- key -&gt; number (UI override), nil = multiplier
+  originals    = {},             -- stat key -&gt; { addr = n, value = v }
+  status       = "",
+}
+Trainer._state = state
+
+--------------------------------------------------------------------------------
+-- Code hooks
+--------------------------------------------------------------------------------
+local Hooks = {}
+Hooks.live = {}                  -- name -&gt; { inj, len, orig, mem, slot, enabled, ptr, seen }
+Hooks.failed = {}                -- name -&gt; error message (not retried until reset)
+
+-- Absolute address for Auto Assembler, zero-padded so it always starts with
+-- a digit and can never be read as a label name.
+local function aaAddr(n)
+  return string.format("%016X", n)
+end
+
+local function hexBytes(bytes, first, last)
+  local parts = {}
+  for i = first or 1, last or #bytes do
+    parts[#parts + 1] = string.format("%02X", bytes[i])
+  end
+  return table.concat(parts, " ")
+end
+
+function Hooks.isConfigured(name)
+  local h = CONFIG.hooks[name]
+  return type(h) == "table" and type(h.aob) == "string" and h.aob ~= ""
+    and type(h.length) == "number" and type(h.register) == "string"
+end
+
+-- Returns the single address of `aob` inside `module` (or anywhere executable
+-- when module is nil). Fails if the pattern matches zero or several times.
+function Hooks.findUnique(module, aob)
+  local lo, hi
+  if module then
+    lo = getAddressSafe(module)
+    if not lo or lo == 0 then return nil, "module " .. module .. " not loaded" end
+    hi = lo + (getModuleSize(module) or 0)
+  end
+  local list = AOBScan(aob, "+X")
+  if not list then return nil, "pattern not found" end
+  local hits = {}
+  for i = 0, list.Count - 1 do
+    local a = tonumber(list[i], 16)
+    if a and (not lo or (a &gt;= lo and a &lt; hi)) then hits[#hits + 1] = a end
+  end
+  list.destroy()
+  if #hits == 0 then return nil, "pattern not found" .. (module and (" in " .. module) or "") end
+  if #hits &gt; 1 then return nil, "pattern matches " .. #hits .. " places; make it longer" end
+  return hits[1]
+end
+
+-- Builds the Auto Assembler script that installs hook `h`.
+function Hooks.buildEnableScript(name, h, inj, mem, slot, orig)
+  local L = {}
+  local skip = "spk_skip_" .. name
+  if h.filter then L[#L + 1] = "label(" .. skip .. ")" end
+  L[#L + 1] = aaAddr(mem) .. ":"
+  if h.filter then
+    local size = h.filter.size or "dword"
+    L[#L + 1] = "  pushfq"
+    L[#L + 1] = string.format("  cmp %s ptr [%s+%X],#%d", size, h.register, h.filter.offset, h.filter.equals)
+    L[#L + 1] = "  jne " .. skip
+    L[#L + 1] = string.format("  mov [%s],%s", aaAddr(slot), h.register)
+    L[#L + 1] = skip .. ":"
+    L[#L + 1] = "  popfq"
+  else
+    L[#L + 1] = string.format("  mov [%s],%s", aaAddr(slot), h.register)
+  end
+  L[#L + 1] = "  db " .. hexBytes(orig)
+  L[#L + 1] = "  jmp " .. aaAddr(inj + #orig)
+  L[#L + 1] = aaAddr(inj) .. ":"
+  L[#L + 1] = "  jmp " .. aaAddr(mem)
+  if #orig &gt; 5 then
+    local nops = {}
+    for i = 1, #orig - 5 do nops[i] = "90" end
+    L[#L + 1] = "  db " .. table.concat(nops, " ")
+  end
+  return table.concat(L, "\n")
+end
+
+-- Name of the hook the mode guard reads through, if any.
+function Hooks.guardHook()
+  local src = CONFIG.guard.source
+  return type(src) == "table" and src.hook or nil
+end
+
+-- Feature hooks only go into the game while an offline mode is confirmed.
+-- The guard's own hook is the one exception: it is needed to find out.
+function Hooks.mayEnable(name)
+  return state.guardOk or name == Hooks.guardHook()
+end
+
+function Hooks.enable(name)
+  local live = Hooks.live[name]
+  if live and live.enabled then return true end
+  if Hooks.failed[name] then return false, Hooks.failed[name] end
+  if not Hooks.mayEnable(name) then return false, "waiting for an offline mode" end
+
+  local function fail(why)
+    Hooks.failed[name] = why
+    log("hook '" .. name .. "' not installed: " .. why)
+    return false, why
+  end
+
+  if not Hooks.isConfigured(name) then return false, "hook '" .. name .. "' not configured" end
+  local h = CONFIG.hooks[name]
+  if not VALID_REGISTERS[h.register] then return fail("register must be a 64-bit register like rcx") end
+  if h.length &lt; 5 or h.length &gt; 32 then return fail("length must be between 5 and 32 bytes") end
+  if h.filter and (type(h.filter.offset) ~= "number" or type(h.filter.equals) ~= "number") then
+    return fail("filter needs numeric offset and equals")
+  end
+
+  local base, why = Hooks.findUnique(h.module, h.aob)
+  if not base then return fail(why) end
+  local inj = base + (h.offset or 0)
+
+  local orig = readBytes(inj, h.length, true)
+  if not orig or #orig ~= h.length then return fail("cannot read code bytes") end
+  if orig[1] == 0xE9 then return fail("code is already hooked (another table or script?)") end
+
+  if not live then
+    -- Allocated once per attach and reused; freeing hook memory while a game
+    -- thread may still be inside it would crash the game.
+    local mem = allocateMemory(0x100, inj)
+    if not mem or mem == 0 then return fail("cannot allocate memory near the hook") end
+    if math.abs(mem - (inj + 5)) &gt;= 0x7FFFFFFF then
+      return fail("allocated memory too far away for a 5-byte jump")
+    end
+    live = { mem = mem, slot = mem + 0x80 }
+    Hooks.live[name] = live
+  end
+  live.inj, live.len, live.orig = inj, h.length, orig
+  live.ptr, live.seen = nil, nil
+  writePointer(live.slot, 0)
+
+  local ok, err = autoAssemble(Hooks.buildEnableScript(name, h, inj, live.mem, live.slot, orig))
+  if not ok then return fail("auto assembler error: " .. tostring(err)) end
+  live.enabled = true
+  log("hook '" .. name .. "' installed at " .. string.format("%X", inj))
+  return true
+end
+
+function Hooks.disable(name)
+  local live = Hooks.live[name]
+  if not live or not live.enabled then return end
+  local ok, err = autoAssemble(aaAddr(live.inj) .. ":\n  db " .. hexBytes(live.orig))
+  if not ok then log("hook '" .. name .. "' restore failed: " .. tostring(err)) end
+  live.enabled = false
+  live.ptr, live.seen = nil, nil
+end
+
+function Hooks.disableAll()
+  for name in pairs(Hooks.live) do Hooks.disable(name) end
+end
+
+-- Removes every hook except the guard's, restoring the original game code.
+function Hooks.disableFeatureHooks()
+  local keep = Hooks.guardHook()
+  for name in pairs(Hooks.live) do
+    if name ~= keep then Hooks.disable(name) end
+  end
+end
+
+-- Pulls freshly captured pointers out of every enabled hook. The slot is
+-- cleared after each read so a pointer only counts while the game keeps
+-- running the hooked instruction.
+function Hooks.poll()
+  local t = now()
+  for _, live in pairs(Hooks.live) do
+    if live.enabled then
+      local p = readPointer(live.slot)
+      if p and p ~= 0 then
+        live.ptr, live.seen = p, t
+        writePointer(live.slot, 0)
+      end
+    end
+  end
+end
+
+-- The captured object pointer for hook `name`, or nil + reason.
+function Hooks.pointer(name)
+  local ok, why = Hooks.enable(name)
+  if not ok then return nil, why end
+  local live = Hooks.live[name]
+  if not live.ptr then return nil, "waiting for hook '" .. name .. "' (enter a match)" end
+  if now() - live.seen &gt; CONFIG.staleMs then return nil, "hook '" .. name .. "' is stale (not in a match?)" end
+  return live.ptr
+end
+
+function Hooks.reset()
+  Hooks.live = {}
+  Hooks.failed = {}
+end
+
+Trainer.Hooks = Hooks
+
+--------------------------------------------------------------------------------
+-- Values
+--------------------------------------------------------------------------------
+local Values = {}
+
+local IO = {
+  float  = { "readFloat",   "writeFloat"   },
+  double = { "readDouble",  "writeDouble"  },
+  int32  = { "readInteger", "writeInteger" },
+}
+
+function Values.isConfigured(src)
+  if type(src) ~= "table" then return false end
+  if type(src.expr) == "string" and src.expr ~= "" then return true end
+  return type(src.hook) == "string" and type(src.offset) == "number" and Hooks.isConfigured(src.hook)
+end
+
+function Values.address(src)
+  if not Values.isConfigured(src) then return nil, "not configured" end
+  if src.expr and src.expr ~= "" then
+    local a = getAddressSafe(src.expr)
+    if not a or a == 0 then return nil, "address expression did not resolve" end
+    return a
+  end
+  local base, why = Hooks.pointer(src.hook)
+  if not base then return nil, why end
+  return base + src.offset
+end
+
+function Values.readAt(addr, vtype)
+  local io = IO[vtype]
+  if not io then error("unknown value type " .. tostring(vtype)) end
+  if vtype == "int32" then return _G[io[1]](addr, true) end
+  return _G[io[1]](addr)
+end
+
+function Values.writeAt(addr, vtype, v)
+  local io = IO[vtype]
+  if not io then error("unknown value type " .. tostring(vtype)) end
+  if vtype == "int32" then v = math.floor(v + 0.5) end
+  return _G[io[2]](addr, v)
+end
+
+function Values.read(src, vtype)
+  local a, why = Values.address(src)
+  if not a then return nil, why end
+  local v = Values.readAt(a, vtype)
+  if v == nil then return nil, "address not readable" end
+  return v, a
+end
+
+Trainer.Values = Values
+
+--------------------------------------------------------------------------------
+-- Mode guard (fails closed)
+--------------------------------------------------------------------------------
+local Guard = {}
+
+function Guard.check()
+  local g = CONFIG.guard
+  if not Values.isConfigured(g.source) or type(g.allowed) ~= "table" or #g.allowed == 0 then
+    return false, "Mode guard not configured (docs/SETUP_GUIDE.md, step 2)"
+  end
+  local v, why = Values.read(g.source, g.type or "int32")
+  if v == nil then return false, "Mode guard: " .. tostring(why) end
+  for _, allowed in ipairs(g.allowed) do
+    if v == allowed then
+      return true, "Offline mode: " .. tostring((g.names or {})[v] or v)
+    end
+  end
+  return false, "Blocked: mode " .. tostring((g.names or {})[v] or v) .. " is not in the offline list"
+end
+
+Trainer.Guard = Guard
+
+--------------------------------------------------------------------------------
+-- Features
+--------------------------------------------------------------------------------
+local Features = {}
+
+-- Target value for one stat given its original value.
+function Features.statTarget(stat, original)
+  local t = state.statTargets[stat.key]
+  if t == nil then t = original * CONFIG.statMultiplier end
+  if stat.max and t &gt; stat.max then t = stat.max end
+  return t
+end
+
+function Features.applyStats()
+  for _, stat in ipairs(CONFIG.stats) do
+    if Values.isConfigured(stat.source) then
+      local addr = Values.address(stat.source)
+      if addr then
+        local rec = state.originals[stat.key]
+        if not rec or rec.addr ~= addr then
+          -- First time we see this object: remember the real value.
+          local v = Values.readAt(addr, stat.type)
+          if v ~= nil then
+            rec = { addr = addr, value = v }
+            state.originals[stat.key] = rec
+          end
+        end
+        if rec then Values.writeAt(addr, stat.type, Features.statTarget(stat, rec.value)) end
+      end
+    end
+  end
+end
+
+-- Puts original stat values back, but only into objects that are still the
+-- live, freshly captured ones. Anything else may already be freed.
+function Features.restoreStats()
+  for _, stat in ipairs(CONFIG.stats) do
+    local rec = state.originals[stat.key]
+    if rec then
+      local addr = Values.address(stat.source)
+      if addr and addr == rec.addr then Values.writeAt(addr, stat.type, rec.value) end
+    end
+  end
+  state.originals = {}
+end
+
+function Features.applyStamina()
+  local s = CONFIG.stamina
+  local addr = Values.address(s.current)
+  if not addr then return end
+  local maxv
+  if Values.isConfigured(s.max) then
+    maxv = Values.read(s.max, s.type)
+  else
+    maxv = s.maxValue
+  end
+  if type(maxv) == "number" then Values.writeAt(addr, s.type, maxv) end
+end
+
+function Features.applySpeed(target)
+  if target ~= state.appliedSpeed then
+    speedhack_setSpeed(target)
+    state.appliedSpeed = target
+  end
+end
+
+-- Adds `delta` to a score, never going below zero. Returns the new score or
+-- nil + reason.
+function Features.adjustScore(which, delta)
+  if not state.guardOk then return nil, state.guardReason end
+  local src = CONFIG.score[which]
+  local v, addrOrWhy = Values.read(src, CONFIG.score.type)
+  if v == nil then return nil, addrOrWhy end
+  local nv = math.max(0, v + delta)
+  Values.writeAt(addrOrWhy, CONFIG.score.type, nv)
+  return nv
+end
+
+function Features.anyActive()
+  return state.statsLocked or state.staminaLocked or state.speedOn
+end
+
+function Features.disableAll(reason)
+  if state.statsLocked then Features.restoreStats() end
+  state.statsLocked = false
+  state.staminaLocked = false
+  state.speedOn = false
+  Features.applySpeed(1.0)
+  if reason then log("features off: " .. reason) end
+end
+
+-- Turns a feature on or off on request (UI or hotkey). Turning on is refused
+-- while the guard is not satisfied.
+function Features.set(name, on)
+  if on and not state.guardOk then
+    state.status = "Refused: " .. state.guardReason
+    log(state.status)
+    return false
+  end
+  if name == "stats" then
+    if not on and state.statsLocked then Features.restoreStats() end
+    state.statsLocked = on
+  elseif name == "stamina" then
+    state.staminaLocked = on
+  elseif name == "speed" then
+    state.speedOn = on
+    if not on then Features.applySpeed(1.0) end
+  else
+    error("unknown feature " .. tostring(name))
+  end
+  state.status = name .. (on and " on" or " off")
+  return true
+end
+
+function Features.setSpeed(v)
+  local c = CONFIG.speed
+  v = math.max(c.min, math.min(c.max, v))
+  state.speed = v
+  return v
+end
+
+Trainer.Features = Features
+
+--------------------------------------------------------------------------------
+-- Process attach
+--------------------------------------------------------------------------------
+local Proc = {}
+
+local function processListHas(pid)
+  local list = getProcesslist()
+  return type(list) == "table" and list[pid] ~= nil
+end
+
+local function findGameProcess()
+  local list = getProcesslist()
+  if type(list) ~= "table" then return nil end
+  for pid, pname in pairs(list) do
+    local n = tostring(pname):lower()
+    if CONFIG.processName then
+      if n == CONFIG.processName:lower() then return pid, pname end
+    elseif n:find(CONFIG.processMatch:lower(), 1, true) then
+      return pid, pname
+    end
+  end
+  return nil
+end
+
+function Proc.onDetach()
+  if state.pid then log("game process gone; trainer detached") end
+  state.pid = nil
+  -- The game's memory (and our hooks with it) is gone; drop the records.
+  Hooks.reset()
+  state.originals = {}
+  state.statsLocked, state.staminaLocked, state.speedOn = false, false, false
+  state.appliedSpeed = 1.0
+  state.guardOk, state.guardReason = false, "not attached"
+end
+
+-- Returns true while attached to the game, attaching when it appears.
+function Proc.ensureAttached()
+  local t = now()
+  if state.pid then
+    if getOpenedProcessID() ~= state.pid then
+      Proc.onDetach()
+    elseif t - state.aliveCheck &gt; 2000 then
+      state.aliveCheck = t
+      if not processListHas(state.pid) then Proc.onDetach() end
+    end
+    if state.pid then return true end
+  end
+  local pid, pname = findGameProcess()
+  if not pid then
+    state.guardReason = "Waiting for the game to start"
+    return false
+  end
+  openProcess(pid)
+  if getOpenedProcessID() ~= pid then
+    state.guardReason = "Could not open the game process"
+    return false
+  end
+  if reinitializeSymbolhandler then reinitializeSymbolhandler(true) end
+  state.pid, state.aliveCheck = pid, t
+  log("attached to " .. tostring(pname) .. " (pid " .. tostring(pid) .. ")")
+  return true
+end
+
+Trainer.Proc = Proc
+
+--------------------------------------------------------------------------------
+-- Tick
+--------------------------------------------------------------------------------
+local UI = {}
+
+function Trainer.tick()
+  if not Proc.ensureAttached() then
+    UI.refresh()
+    return
+  end
+  Hooks.poll()
+  local ok, why = Guard.check()
+  state.guardOk, state.guardReason = ok, why
+  if not ok then
+    if Features.anyActive() then Features.disableAll(why) end
+    Features.applySpeed(1.0)
+    Hooks.disableFeatureHooks()
+    UI.refresh()
+    return
+  end
+  if state.statsLocked then Features.applyStats() end
+  if state.staminaLocked then Features.applyStamina() end
+  Features.applySpeed(state.speedOn and state.speed or 1.0)
+  UI.refresh()
+end
+
+local tickErrors = 0
+local function safeTick()
+  local ok, err = pcall(Trainer.tick)
+  if ok then
+    tickErrors = 0
+    return
+  end
+  tickErrors = tickErrors + 1
+  logOnce("tick", "error: " .. tostring(err))
+  if tickErrors &gt;= 10 then
+    pcall(Features.disableAll, "repeated errors")
+    tickErrors = 0
+  end
+end
+
+--------------------------------------------------------------------------------
+-- UI
+--------------------------------------------------------------------------------
+UI.form = nil
+UI.updating = false
+UI.statRows = {}
+
+local function describe(src, vtype)
+  if not Values.isConfigured(src) then return "not configured" end
+  local v, why = Values.read(src, vtype)
+  if v == nil then return why end
+  if vtype == "int32" then return tostring(v) end
+  return string.format("%.2f", v)
+end
+
+function UI.refresh()
+  local f = UI.form
+  if not f then return end
+  UI.updating = true
+  UI.procLabel.Caption = state.pid and ("Attached: pid " .. state.pid) or "Not attached"
+  UI.guardLabel.Caption = state.guardReason or ""
+  UI.guardLabel.Font.Color = state.guardOk and 0x008000 or 0x0000C0
+  UI.statsBox.Checked = state.statsLocked
+  UI.staminaBox.Checked = state.staminaLocked
+  UI.speedBox.Checked = state.speedOn
+  UI.speedLabel.Caption = string.format("Speed: %.2fx", state.speed)
+  if state.pid then
+    for _, row in ipairs(UI.statRows) do
+      row.value.Caption = describe(row.stat.source, row.stat.type)
+    end
+    UI.staminaValue.Caption = describe(CONFIG.stamina.current, CONFIG.stamina.type)
+    UI.scoreValue.Caption = describe(CONFIG.score.mine, CONFIG.score.type)
+      .. "  :  " .. describe(CONFIG.score.theirs, CONFIG.score.type)
+  end
+  UI.statusLabel.Caption = state.status or ""
+  UI.updating = false
+end
+
+local function addLabel(parent, text, x, y)
+  local l = createLabel(parent)
+  l.Caption, l.Left, l.Top = text, x, y
+  return l
+end
+
+local function addCheck(parent, text, x, y, onChange)
+  local c = createCheckBox(parent)
+  c.Caption, c.Left, c.Top = text, x, y
+  c.OnChange = function(sender)
+    if UI.updating then return end
+    onChange(sender.Checked)
+    UI.refresh()
+  end
+  return c
+end
+
+local function addButton(parent, text, x, y, w, onClick)
+  local b = createButton(parent)
+  b.Caption, b.Left, b.Top, b.Width = text, x, y, w
+  b.OnClick = function() onClick(); UI.refresh() end
+  return b
+end
+
+local function scoreAction(which, delta)
+  local v, why = Features.adjustScore(which, delta)
+  state.status = v and ("score set to " .. v) or ("score: " .. tostring(why))
+end
+
+function UI.build()
+  local f = createForm(false)
+  UI.form = f
+  f.Caption = "The Spike Cross - Offline Trainer"
+  f.Width, f.Height = 440, 470
+  f.Position = "poScreenCenter"
+  f.BorderStyle = "bsSingle"
+
+  local y = 8
+  UI.procLabel = addLabel(f, "Not attached", 10, y); y = y + 20
+  UI.guardLabel = addLabel(f, "", 10, y); y = y + 28
+
+  UI.statsBox = addCheck(f, "Lock stats (in-match)   [F5]", 10, y, function(on) Features.set("stats", on) end)
+  addLabel(f, "Empty box = " .. CONFIG.statMultiplier .. "x original", 230, y + 2)
+  y = y + 26
+  for _, stat in ipairs(CONFIG.stats) do
+    local row = { stat = stat }
+    addLabel(f, stat.label, 24, y + 3)
+    row.edit = createEdit(f)
+    row.edit.Left, row.edit.Top, row.edit.Width = 110, y, 70
+    row.edit.OnChange = function(sender)
+      state.statTargets[stat.key] = tonumber(sender.Text)
+    end
+    row.value = addLabel(f, "", 190, y + 3)
+    UI.statRows[#UI.statRows + 1] = row
+    y = y + 26
+  end
+  y = y + 6
+
+  UI.staminaBox = addCheck(f, "Lock stamina at max   [F6]", 10, y, function(on) Features.set("stamina", on) end)
+  UI.staminaValue = addLabel(f, "", 230, y + 2)
+  y = y + 30
+
+  addLabel(f, "Score (mine : theirs)", 10, y + 3)
+  UI.scoreValue = addLabel(f, "", 150, y + 3)
+  y = y + 24
+  addButton(f, "Mine +1 [F10]", 10, y, 100, function() scoreAction("mine", 1) end)
+  addButton(f, "Mine -1", 115, y, 70, function() scoreAction("mine", -1) end)
+  addButton(f, "Theirs +1", 195, y, 80, function() scoreAction("theirs", 1) end)
+  addButton(f, "Theirs -1 [F11]", 280, y, 110, function() scoreAction("theirs", -1) end)
+  y = y + 34
+
+  UI.speedBox = addCheck(f, "Speedhack   [F7]", 10, y, function(on) Features.set("speed", on) end)
+  UI.speedLabel = addLabel(f, "", 150, y + 2)
+  addButton(f, "- [F8]", 250, y - 2, 60, function() Features.setSpeed(state.speed - CONFIG.speed.step) end)
+  addButton(f, "+ [F9]", 315, y - 2, 60, function() Features.setSpeed(state.speed + CONFIG.speed.step) end)
+  y = y + 34
+
+  addButton(f, "Retry hooks", 10, y, 100, function()
+    Hooks.failed = {}
+    state.status = "hook errors cleared"
+  end)
+  addButton(f, "Close trainer", 115, y, 100, function() Trainer.shutdown() end)
+  y = y + 32
+  UI.statusLabel = addLabel(f, "", 10, y)
+
+  f.Height = y + 30
+  f.OnClose = function()
+    Trainer.shutdown(true)
+    return caFree
+  end
+  f.show()
+end
+
+--------------------------------------------------------------------------------
+-- Hotkeys
+--------------------------------------------------------------------------------
+local hotkeyObjects = {}
+
+local function bindHotkey(keyName, fn)
+  if not keyName then return end
+  local key = _G[keyName]
+  if not key then
+    log("unknown hotkey " .. tostring(keyName))
+    return
+  end
+  hotkeyObjects[#hotkeyObjects + 1] = createHotkey(function()
+    pcall(fn)
+    UI.refresh()
+  end, key)
+end
+
+local function bindHotkeys()
+  local hk = CONFIG.hotkeys
+  bindHotkey(hk.toggleStats,   function() Features.set("stats",   not state.statsLocked) end)
+  bindHotkey(hk.toggleStamina, function() Features.set("stamina", not state.staminaLocked) end)
+  bindHotkey(hk.toggleSpeed,   function() Features.set("speed",   not state.speedOn) end)
+  bindHotkey(hk.speedDown,     function() Features.setSpeed(state.speed - CONFIG.speed.step) end)
+  bindHotkey(hk.speedUp,       function() Features.setSpeed(state.speed + CONFIG.speed.step) end)
+  bindHotkey(hk.myScoreUp,     function() scoreAction("mine", 1) end)
+  bindHotkey(hk.theirScoreDown, function() scoreAction("theirs", -1) end)
+end
+
+--------------------------------------------------------------------------------
+-- Lifecycle
+--------------------------------------------------------------------------------
+local timer = nil
+local shuttingDown = false
+
+-- fromForm: called by the window's OnClose, which frees the form itself.
+function Trainer.shutdown(fromForm)
+  if shuttingDown then return end
+  shuttingDown = true
+  if timer then timer.destroy(); timer = nil end
+  for _, h in ipairs(hotkeyObjects) do pcall(function() h.destroy() end) end
+  hotkeyObjects = {}
+  if state.pid then
+    pcall(Features.disableAll, nil)
+    pcall(Hooks.disableAll)
+  end
+  local f = UI.form
+  UI.form = nil
+  if f and not fromForm then pcall(function() f.close() end) end
+  if _G.SpikeCrossTrainer == Trainer then _G.SpikeCrossTrainer = nil end
+  log("trainer closed")
+end
+
+function Trainer.start()
+  UI.build()
+  bindHotkeys()
+  timer = createTimer(nil, false)
+  timer.Interval = CONFIG.tickMs
+  timer.OnTimer = safeTick
+  timer.Enabled = true
+  log("trainer started; waiting for the game")
+end
+
+_G.SpikeCrossTrainer = Trainer
+
+-- Tests load this file with SPIKE_CROSS_TEST set and drive it directly.
+if not _G.SPIKE_CROSS_TEST then Trainer.start() end
+
+return Trainer
+</LuaScript>
+</CheatTable>
