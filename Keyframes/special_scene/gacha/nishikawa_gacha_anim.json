@@ -1,0 +1,317 @@
+[
+  {
+    "strength": 120,
+    "position": 0,
+    "hair": 29,
+    "uniform": 57,
+    "index": 2,
+    "shoes": 2,
+    "playStyle": 0,
+    "jump": 120,
+    "height": 183,
+    "_x": 2255,
+    "key": 0,
+    "frame": 0.1,
+    "playerId": "2",
+    "_y": 1511
+  },
+  {
+    "_x": 2121,
+    "skin": 1,
+    "key": 1,
+    "frame": 0.5,
+    "_y": 969,
+    "index": 3
+  },
+  {
+    "strength": 150,
+    "position": 2,
+    "hair": 65,
+    "uniform": 135,
+    "index": 1,
+    "shoes": 50,
+    "playStyle": 150,
+    "jump": 165,
+    "height": 188,
+    "_x": 1106,
+    "key": 0,
+    "frame": 2,
+    "playerId": "164",
+    "_y": 1484
+  },
+  {
+    "x": 813.9423828125,
+    "scale": 0.24999999999999967,
+    "smooth": 0,
+    "y": 1481,
+    "frame": 4.900000000000001,
+    "key": 26
+  },
+  {
+    "r_index": 1000,
+    "key": 13,
+    "frame": 5.899999999999995
+  },
+  {
+    "r_index": 2,
+    "key": 2,
+    "r_move_speed": -10,
+    "frame": 7,
+    "r_move_run": true
+  },
+  {
+    "r_index": 1,
+    "key": 2,
+    "r_move_speed": 10,
+    "frame": 10,
+    "r_move_run": true
+  },
+  {
+    "r_index": 2,
+    "key": 3,
+    "frame": 12
+  },
+  {
+    "r_index": 1000,
+    "key": 13,
+    "frame": 17.399999999999977
+  },
+  {
+    "_spd": 8,
+    "_x": 2221,
+    "_l_p_power": 1,
+    "r_index": 3,
+    "key": 19,
+    "frame": 19,
+    "_y": 960,
+    "_dir": 90
+  },
+  {
+    "r_index": 2,
+    "key": 10,
+    "toss_type": 2,
+    "frame": 60
+  },
+  {
+    "r_index": 2,
+    "key": 10,
+    "toss_type": 2,
+    "frame": 99
+  },
+  {
+    "r_index": 1,
+    "key": 7,
+    "frame": 107
+  },
+  {
+    "x": 1943.9423828125,
+    "scale": 0.24999999999999967,
+    "smooth": 0,
+    "y": 1481,
+    "frame": 110,
+    "key": 26
+  },
+  {
+    "r_index": 1,
+    "key": 3,
+    "frame": 117
+  },
+  {
+    "sfx_name": "SFX_THUNDER_ZAP_01",
+    "sfx_volume": 1,
+    "sfx_pitch": 1,
+    "r_index": 1002,
+    "key": 22,
+    "frame": 117.05000000000092
+  },
+  {
+    "_y": 1526,
+    "_x": 2064,
+    "r_index": 1003,
+    "key": 23,
+    "part_name": "ps_nishikawa_receive",
+    "frame": 124,
+    "is_bm_add": false,
+    "angle": 0
+  },
+  {
+    "is_bm_add": false,
+    "_x": 2050,
+    "r_index": 1003,
+    "key": 23,
+    "part_name": "ps_nishikawa_jump",
+    "frame": 138,
+    "angle": 0,
+    "_y": 1603
+  },
+  {
+    "r_index": 1,
+    "key": 2,
+    "r_move_speed": 10,
+    "frame": 139,
+    "r_move_run": true
+  },
+  {
+    "r_index": 1,
+    "key": 7,
+    "frame": 139
+  },
+  {
+    "sfx_name": "SFX_THUNDER_JUMP",
+    "sfx_volume": 1,
+    "sfx_pitch": 0.9,
+    "r_index": 1002,
+    "key": 22,
+    "frame": 139.89999999999998
+  },
+  {
+    "x": 2053.9423828125,
+    "scale": 0.24999999999999967,
+    "smooth": 0,
+    "y": 1481,
+    "frame": 145.89999999999978,
+    "key": 26
+  },
+  {
+    "r_index": 1000,
+    "key": 12,
+    "frame": 162,
+    "slow": 20
+  },
+  {
+    "r_index": 2,
+    "key": 2,
+    "r_move_speed": -10,
+    "frame": 164,
+    "r_move_run": true
+  },
+  {
+    "r_index": 1000,
+    "key": 13,
+    "frame": 167.69999999999933
+  },
+  {
+    "r_index": 1,
+    "key": 7,
+    "frame": 172
+  },
+  {
+    "sfx_name": "SFX_THUNDER_ZAP_02",
+    "sfx_volume": 1,
+    "sfx_pitch": 1,
+    "r_index": 1002,
+    "key": 22,
+    "frame": 173.36666666666792
+  },
+  {
+    "r_index": 1,
+    "key": 3,
+    "frame": 174
+  },
+  {
+    "x": 2207.9423828125,
+    "scale": 0.4499999999999996,
+    "smooth": 0,
+    "y": 1203,
+    "frame": 176.69999999999968,
+    "key": 26
+  },
+  {
+    "angle": 0,
+    "_x": 2232,
+    "r_index": 1003,
+    "key": 23,
+    "part_name": "ps_nishikawa_swing_ray",
+    "frame": 182,
+    "_y": 1023,
+    "is_bm_add": false
+  },
+  {
+    "r_index": 1001,
+    "key": 14,
+    "frame": 183,
+    "shake": 40
+  },
+  {
+    "r_index": 1000,
+    "key": 12,
+    "frame": 183,
+    "slow": 15
+  },
+  {
+    "is_bm_add": false,
+    "_x": 2266,
+    "r_index": 1003,
+    "key": 23,
+    "part_name": "ps_nishikawa_spike",
+    "frame": 184,
+    "angle": 0,
+    "_y": 973
+  },
+  {
+    "r_player_index": 1,
+    "key": 18,
+    "frame": 186.39999999999992
+  },
+  {
+    "r_index": 1000,
+    "key": 13,
+    "frame": 190.36666666666613
+  },
+  {
+    "r_index": 1,
+    "key": 3,
+    "frame": 208
+  },
+  {
+    "sfx_name": "SFX_THUNDER_ZAP_01",
+    "sfx_volume": 1,
+    "sfx_pitch": 1,
+    "r_index": 1002,
+    "key": 22,
+    "frame": 220
+  },
+  {
+    "animation_name": "spike_fall_default",
+    "r_index": 1,
+    "key": 11,
+    "frame": 220,
+    "animation_speed": 0.8
+  },
+  {
+    "r_index": 1001,
+    "key": 14,
+    "frame": 220.36666666666764,
+    "shake": 10
+  },
+  {
+    "_y": 1532,
+    "_x": 2227,
+    "r_index": 1003,
+    "key": 23,
+    "part_name": "ps_nishikawa_receive",
+    "frame": 221,
+    "is_bm_add": false,
+    "angle": 0
+  },
+  {
+    "animation_name": "standing_black_thunder_nishikawa",
+    "r_index": 1,
+    "key": 11,
+    "frame": 291.3666666666676,
+    "animation_speed": 0.8
+  },
+  {
+    "r_index": 2,
+    "key": 3,
+    "frame": 297
+  },
+  {
+    "x": 2225.942138671875,
+    "scale": 0.22999999999999968,
+    "smooth": 1,
+    "y": 1510,
+    "frame": 330.366666666666,
+    "key": 26
+  }
+]

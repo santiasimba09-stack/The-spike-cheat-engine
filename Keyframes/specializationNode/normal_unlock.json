@@ -1,0 +1,1145 @@
+{
+  "version": 0.1,
+  "fps": 60,
+  "duration": 90,
+  "layers": [
+    {
+      "id": "Essential/sfx",
+      "name": "SFX_ELECTRIC_TICK",
+      "type": "default",
+      "from": 35,
+      "to": 90,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        },
+        {
+          "name": "channel",
+          "type": "string"
+        },
+        {
+          "name": "gain",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sound": "SFX_THUNDER_ZAP_01",
+        "channel": "ui",
+        "gain": 2
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 17,
+              "v": 0
+            },
+            {
+              "t": 113,
+              "v": 86
+            }
+          ]
+        },
+        "gain": {
+          "type": "number",
+          "default": 2,
+          "keys": [
+            {
+              "t": 47,
+              "v": 1
+            },
+            {
+              "t": 86,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sfx",
+      "name": "BOOM",
+      "type": "default",
+      "from": 0,
+      "to": 40,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        },
+        {
+          "name": "gain",
+          "type": "number"
+        },
+        {
+          "name": "channel",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "sound": "SFX_BIG_BOOM",
+        "gain": 1,
+        "channel": "ui"
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 10,
+              "v": 100
+            }
+          ]
+        },
+        "gain": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 34,
+              "v": 1
+            },
+            {
+              "t": 35,
+              "v": 1
+            },
+            {
+              "t": 51,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sfx",
+      "name": "BOOM_1",
+      "type": "default",
+      "from": 3,
+      "to": 43,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        },
+        {
+          "name": "gain",
+          "type": "number"
+        },
+        {
+          "name": "channel",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "sound": "SFX_JAEHYUN_TRAINING_FIRE",
+        "gain": 1,
+        "channel": "ui"
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 3,
+              "v": 0
+            },
+            {
+              "t": 43,
+              "v": 100
+            }
+          ]
+        },
+        "gain": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 38,
+              "v": 1
+            },
+            {
+              "t": 54,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "SpecializationNode/outFrame",
+      "name": "OutFrame 1",
+      "type": "default",
+      "from": 0,
+      "to": 90,
+      "paramDefs": [
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        },
+        {
+          "name": "subimg",
+          "type": "number"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "color": 6381921,
+        "colourBlend": 0.3,
+        "subimg": 1,
+        "blend": 1
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 1.0206532547999696,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1.0206532547999696,
+          "keys": []
+        }
+      },
+      "parentName": "Sprite 1"
+    },
+    {
+      "id": "SpecializationNode/outFrame",
+      "name": "OutFrame 1_1",
+      "type": "default",
+      "from": 0,
+      "to": 90,
+      "paramDefs": [
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "color": 14737632,
+        "colourBlend": 0.1463
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      },
+      "parentName": "OutFrame 1"
+    },
+    {
+      "id": "SpecializationNode/sprite",
+      "name": "Sprite 1_2",
+      "type": "default",
+      "from": 0,
+      "to": 90,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        },
+        {
+          "name": "index",
+          "type": "number"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_ui_specialization_frame_01",
+        "color": 16777215,
+        "colourBlend": 0.4,
+        "index": 3,
+        "blend": 1
+      },
+      "keyframes": {
+        "opacity": {
+          "type": "number",
+          "default": 0.193,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 2.2,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 2.2,
+          "keys": []
+        }
+      },
+      "parentName": "Sprite 1"
+    },
+    {
+      "id": "SpecializationNode/sprite",
+      "name": "Sprite 1",
+      "type": "default",
+      "from": 0,
+      "to": 90,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_ui_specialization_frame_01",
+        "color": 0,
+        "colourBlend": 0.1037
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0.3073
+            },
+            {
+              "t": 12,
+              "v": 1.6073,
+              "in": {
+                "x": 0,
+                "y": 0.9207
+              },
+              "out": {
+                "x": 0.3442,
+                "y": 0.0694
+              }
+            },
+            {
+              "t": 90,
+              "v": 1.3073,
+              "in": {
+                "x": 0.3243,
+                "y": 0.9923
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0.3073
+            },
+            {
+              "t": 12,
+              "v": 1.6073,
+              "in": {
+                "x": 0,
+                "y": 0.9207
+              },
+              "out": {
+                "x": 0.3442,
+                "y": 0.0694
+              }
+            },
+            {
+              "t": 90,
+              "v": 1.3073,
+              "in": {
+                "x": 0.3243,
+                "y": 0.9923
+              }
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 14,
+              "v": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "SpecializationNode/sprite",
+      "name": "Sprite 1_1",
+      "type": "default",
+      "from": 0,
+      "to": 90,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        },
+        {
+          "name": "index",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_ui_specialization_frame_01",
+        "color": 4013373,
+        "colourBlend": -1.0996,
+        "index": 2
+      },
+      "keyframes": {},
+      "parentName": "Sprite 1"
+    },
+    {
+      "id": "Essential/surfaceTarget",
+      "name": "Surface Target 1",
+      "type": "default",
+      "from": 0,
+      "to": 65,
+      "paramDefs": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "left",
+          "type": "number"
+        },
+        {
+          "name": "right",
+          "type": "number"
+        },
+        {
+          "name": "top",
+          "type": "number"
+        },
+        {
+          "name": "bottom",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "name": "drawStack",
+        "left": 40,
+        "right": 40,
+        "top": 40,
+        "bottom": 40
+      },
+      "keyframes": {}
+    },
+    {
+      "id": "SpecializationNode/drawStack",
+      "name": "DrawStack_1",
+      "type": "default",
+      "from": 0,
+      "to": 65,
+      "paramDefs": [
+        {
+          "name": "colourBlend",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "colourBlend": 0.8067,
+        "color": 16777215
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 0.8213,
+          "keys": [
+            {
+              "t": 6,
+              "v": 0.5086
+            },
+            {
+              "t": 10,
+              "v": 0.8213
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 0.8213000000000001,
+          "keys": [
+            {
+              "t": 6,
+              "v": 0.5086
+            },
+            {
+              "t": 10,
+              "v": 0.8213000000000001
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "colourBlend": {
+          "type": "number",
+          "default": 0.8067,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "Essential/surfaceEnd",
+      "name": "Surface End 1",
+      "type": "default",
+      "from": 0,
+      "to": 65,
+      "paramDefs": [],
+      "params": {},
+      "keyframes": {}
+    },
+    {
+      "id": "SpecializationNode/drawStack",
+      "name": "DrawStack",
+      "type": "default",
+      "from": 0,
+      "to": 90,
+      "paramDefs": [
+        {
+          "name": "colorBlend",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "colorBlend": 0,
+        "colourBlend": 0.1,
+        "color": 16777215
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 1.1,
+          "keys": [
+            {
+              "t": 6,
+              "v": 0
+            },
+            {
+              "t": 14,
+              "v": 0.8200411576526708,
+              "in": {
+                "x": 0,
+                "y": 0.9207
+              },
+              "out": {
+                "x": 0.3442,
+                "y": 0.0694
+              }
+            },
+            {
+              "t": 45,
+              "v": 0.7649353629618297,
+              "in": {
+                "x": 0.3243,
+                "y": 0.9923
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1.1,
+          "keys": [
+            {
+              "t": 6,
+              "v": 0
+            },
+            {
+              "t": 14,
+              "v": 0.8200411576526708,
+              "in": {
+                "x": 0,
+                "y": 0.9207
+              },
+              "out": {
+                "x": 0.3442,
+                "y": 0.0694
+              }
+            },
+            {
+              "t": 45,
+              "v": 0.7649353629618297,
+              "in": {
+                "x": 0.3243,
+                "y": 0.9923
+              }
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 5,
+              "v": 0
+            },
+            {
+              "t": 16,
+              "v": 1
+            }
+          ]
+        }
+      },
+      "parentName": "Sprite 1"
+    },
+    {
+      "id": "Advanced/voronoiFracture",
+      "name": "VoronoiFracture 1",
+      "type": "default",
+      "from": 0,
+      "to": 65,
+      "paramDefs": [
+        {
+          "name": "surface",
+          "type": "string"
+        },
+        {
+          "name": "pattern",
+          "type": "number"
+        },
+        {
+          "name": "cells",
+          "type": "number"
+        },
+        {
+          "name": "relax",
+          "type": "number"
+        },
+        {
+          "name": "stagger",
+          "type": "number"
+        },
+        {
+          "name": "ease",
+          "type": "number"
+        },
+        {
+          "name": "fadeOutEnd",
+          "type": "number"
+        },
+        {
+          "name": "fadeOut",
+          "type": "number"
+        },
+        {
+          "name": "spin",
+          "type": "number"
+        },
+        {
+          "name": "rotJitter",
+          "type": "number"
+        },
+        {
+          "name": "scaleEnd",
+          "type": "number"
+        },
+        {
+          "name": "distMax",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "surface": "drawStack",
+        "pattern": 2,
+        "cells": 16,
+        "relax": 2,
+        "stagger": 0.0083,
+        "ease": 8,
+        "fadeOutEnd": 0.5,
+        "fadeOut": 0.2,
+        "spin": 10,
+        "rotJitter": 300,
+        "scaleEnd": 0.5,
+        "distMax": 10
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0,
+              "out": {
+                "x": 0.4444,
+                "y": 0.255
+              }
+            },
+            {
+              "t": 65,
+              "v": 40,
+              "in": {
+                "x": 0.5697,
+                "y": 0.9576
+              }
+            }
+          ]
+        }
+      },
+      "parentName": "Sprite 1"
+    },
+    {
+      "id": "SpecializationNode/coreSprite",
+      "name": "CoreSprite 1",
+      "type": "default",
+      "from": 0,
+      "to": 90,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_ui_specialization_overlay_01",
+        "colourBlend": 0.3333
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 1.0084142889925802,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1.0084142889925811,
+          "keys": []
+        }
+      },
+      "parentName": "Sprite 1"
+    },
+    {
+      "id": "SpecializationNode/sprite",
+      "name": "lock",
+      "type": "default",
+      "from": 0,
+      "to": 90,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        },
+        {
+          "name": "index",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_ui_specialization_lock_01",
+        "color": 11250603,
+        "colourBlend": 0,
+        "index": 2
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 0.2843,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0.2843
+            },
+            {
+              "t": 38,
+              "v": 0.3756
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 0.2842999999999997,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0.2842999999999997
+            },
+            {
+              "t": 38,
+              "v": 0.3756
+            }
+          ]
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 107,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 107,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            },
+            {
+              "t": 38,
+              "v": 0
+            }
+          ]
+        }
+      },
+      "parentName": "Sprite 1"
+    },
+    {
+      "id": "SpecializationNode/sprite",
+      "name": "lock_2",
+      "type": "default",
+      "from": 0,
+      "to": 90,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        },
+        {
+          "name": "index",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_ui_specialization_lock_01",
+        "color": 1184274,
+        "colourBlend": 0,
+        "index": 1
+      },
+      "keyframes": {},
+      "parentName": "lock"
+    },
+    {
+      "id": "SpecializationNode/sprite",
+      "name": "lock_1",
+      "type": "default",
+      "from": 0,
+      "to": 90,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_ui_specialization_lock_01",
+        "color": 16777215,
+        "colourBlend": 0
+      },
+      "keyframes": {},
+      "parentName": "lock"
+    },
+    {
+      "id": "SpecializationNode/particle",
+      "name": "Particle 1_1",
+      "type": "default",
+      "from": 0,
+      "to": 90,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "mode",
+          "type": "number"
+        },
+        {
+          "name": "sizeDeath",
+          "type": "number"
+        },
+        {
+          "name": "ease",
+          "type": "number"
+        },
+        {
+          "name": "wiggleAmp",
+          "type": "number"
+        },
+        {
+          "name": "wiggleFreq",
+          "type": "number"
+        },
+        {
+          "name": "amount",
+          "type": "number"
+        },
+        {
+          "name": "sizeJitter",
+          "type": "number"
+        },
+        {
+          "name": "distMax",
+          "type": "number"
+        },
+        {
+          "name": "lifeMin",
+          "type": "number"
+        },
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "distMin",
+          "type": "number"
+        },
+        {
+          "name": "sizeBirth",
+          "type": "number"
+        },
+        {
+          "name": "rotJitter",
+          "type": "number"
+        },
+        {
+          "name": "spin",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_specialization_seq_triangle",
+        "mode": 2,
+        "sizeDeath": 0,
+        "ease": 5,
+        "wiggleAmp": 10,
+        "wiggleFreq": 0.1,
+        "amount": 10,
+        "sizeJitter": 5,
+        "distMax": 200,
+        "lifeMin": 0.1,
+        "speed": 0.9,
+        "distMin": 60,
+        "sizeBirth": 0.03,
+        "rotJitter": 93.5911,
+        "spin": 50,
+        "color": 16777215
+      },
+      "keyframes": {}
+    },
+    {
+      "id": "SpecializationNode/particle",
+      "name": "Particle 1_3",
+      "type": "default",
+      "from": 43,
+      "to": 60,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "mode",
+          "type": "number"
+        },
+        {
+          "name": "sizeDeath",
+          "type": "number"
+        },
+        {
+          "name": "amount",
+          "type": "number"
+        },
+        {
+          "name": "sizeJitter",
+          "type": "number"
+        },
+        {
+          "name": "distMax",
+          "type": "number"
+        },
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "distMin",
+          "type": "number"
+        },
+        {
+          "name": "sizeBirth",
+          "type": "number"
+        },
+        {
+          "name": "rotJitter",
+          "type": "number"
+        },
+        {
+          "name": "spin",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        },
+        {
+          "name": "shape",
+          "type": "number"
+        },
+        {
+          "name": "emitW",
+          "type": "number"
+        },
+        {
+          "name": "fadeOut",
+          "type": "number"
+        },
+        {
+          "name": "fadeIn",
+          "type": "number"
+        },
+        {
+          "name": "lifeMin",
+          "type": "number"
+        },
+        {
+          "name": "wiggleAmp",
+          "type": "number"
+        },
+        {
+          "name": "wiggleFreq",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_specialization_seq_thunder",
+        "mode": 1,
+        "sizeDeath": 0.77,
+        "amount": 3,
+        "sizeJitter": 0.3767,
+        "distMax": 0,
+        "speed": 16,
+        "distMin": 0,
+        "sizeBirth": 0.7,
+        "rotJitter": 360,
+        "spin": 0,
+        "color": 16777215,
+        "colourBlend": 0.9163,
+        "shape": 0,
+        "emitW": 62.2,
+        "fadeOut": 0.1,
+        "fadeIn": 0.1,
+        "lifeMin": 1,
+        "wiggleAmp": 1,
+        "wiggleFreq": 10
+      },
+      "keyframes": {
+        "amount": {
+          "type": "number",
+          "default": 2,
+          "keys": []
+        }
+      },
+      "parentName": "Layer 6"
+    }
+  ]
+}

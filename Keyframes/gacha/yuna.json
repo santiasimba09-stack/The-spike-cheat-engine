@@ -1,0 +1,1176 @@
+{
+  "version": 0.1,
+  "fps": 60,
+  "duration": 400,
+  "layers": [
+    {
+      "id": "Essential/sfx",
+      "name": "SFX_ambience_sea_1",
+      "type": "default",
+      "from": 0,
+      "to": 400,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        },
+        {
+          "name": "gain",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sound": "SFX_ambience_sea_01",
+        "gain": 0.5
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 593.3334
+            },
+            {
+              "t": 400,
+              "v": 893.3334
+            }
+          ]
+        },
+        "gain": {
+          "type": "number",
+          "default": 0.5,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 14,
+              "v": 0.1
+            },
+            {
+              "t": 340,
+              "v": 0.5
+            },
+            {
+              "t": 400,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sfx",
+      "name": "s_woosh_2",
+      "type": "default",
+      "from": 0,
+      "to": 105,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        },
+        {
+          "name": "gain",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sound": "s_woosh_1",
+        "gain": 2
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 105,
+              "v": 53
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sfx",
+      "name": "s_woosh_1",
+      "type": "default",
+      "from": 122,
+      "to": 258,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        },
+        {
+          "name": "gain",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sound": "s_woosh_1",
+        "gain": 2
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 122,
+              "v": 0
+            },
+            {
+              "t": 257,
+              "v": 53
+            }
+          ]
+        },
+        "gain": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 195,
+              "v": 1
+            },
+            {
+              "t": 231,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "GachaCinematic/camera",
+      "name": "Camera 1",
+      "type": "default",
+      "from": 0,
+      "to": 400,
+      "paramDefs": [
+        {
+          "name": "xrot",
+          "type": "number"
+        },
+        {
+          "name": "z",
+          "type": "number"
+        },
+        {
+          "name": "shakeFreq",
+          "type": "number"
+        },
+        {
+          "name": "shakeAmp",
+          "type": "number"
+        },
+        {
+          "name": "shakeAmpZ",
+          "type": "number"
+        },
+        {
+          "name": "shakeAmpRot",
+          "type": "number"
+        },
+        {
+          "name": "yrot",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "xrot": -38.5999,
+        "z": 2222.4,
+        "shakeFreq": 0.25,
+        "shakeAmp": 60,
+        "shakeAmpZ": 20,
+        "shakeAmpRot": 0.5,
+        "yrot": -8.55
+      },
+      "keyframes": {
+        "xrot": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1.0333,
+          "keys": []
+        },
+        "zoom": {
+          "type": "number",
+          "default": 1.8711377033318488,
+          "keys": []
+        },
+        "yrot": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "z": {
+          "type": "number",
+          "default": 2222.4,
+          "keys": [
+            {
+              "t": 0,
+              "v": 2588.432,
+              "out": {
+                "x": 0.9406,
+                "y": 0.0668
+              }
+            },
+            {
+              "t": 300,
+              "v": 1676.0333,
+              "in": {
+                "x": 0.0935,
+                "y": 0.8687
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "GachaCinematic/surfaceTarget",
+      "name": "SurfaceTarget 1",
+      "type": "default",
+      "from": 0,
+      "to": 400,
+      "paramDefs": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "respectUserPpfx",
+          "type": "bool"
+        },
+        {
+          "name": "renderScale",
+          "type": "number"
+        },
+        {
+          "name": "sepAlpha",
+          "type": "bool"
+        }
+      ],
+      "params": {
+        "name": "surf",
+        "respectUserPpfx": true,
+        "renderScale": 0.75,
+        "sepAlpha": true
+      },
+      "keyframes": {}
+    },
+    {
+      "id": "GachaCinematic/spritePath",
+      "name": "Background_1",
+      "type": "default",
+      "from": 0,
+      "to": 400,
+      "paramDefs": [
+        {
+          "name": "path",
+          "type": "string"
+        },
+        {
+          "name": "use3d",
+          "type": "bool"
+        },
+        {
+          "name": "z",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "yrot",
+          "type": "number"
+        },
+        {
+          "name": "zrot",
+          "type": "number"
+        },
+        {
+          "name": "xrot",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "path": "image_resource\\backgrounds\\backOcean2.jpg",
+        "use3d": false,
+        "z": -5000,
+        "color": 14803454,
+        "yrot": 19.2777,
+        "zrot": -0.7778,
+        "xrot": -25.1112
+      },
+      "keyframes": {
+        "anchorX": {
+          "type": "number",
+          "default": -386.3889,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": -320,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 76.65099999999872,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 76.651,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 61.1112,
+          "keys": []
+        },
+        "x": {
+          "type": "number",
+          "default": -1561.1109,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 3.36,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "GachaCinematic/illust",
+      "name": "Illust 1",
+      "type": "default",
+      "from": 0,
+      "to": 400,
+      "paramDefs": [
+        {
+          "name": "illust",
+          "type": "string"
+        },
+        {
+          "name": "index",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "illust": "ILLUST_YUNA",
+        "index": 2
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 300,
+              "v": 300
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1.483,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1.4829999999999994,
+          "keys": [
+            {
+              "t": 159,
+              "v": 1.4829999999999994,
+              "out": {
+                "x": 1,
+                "y": -0.0092
+              }
+            },
+            {
+              "t": 179,
+              "v": 1.4337
+            },
+            {
+              "t": 206,
+              "v": 1.4829999999999994,
+              "in": {
+                "x": 0,
+                "y": 0.9922
+              }
+            },
+            {
+              "t": 255,
+              "v": 1.4829999999999994,
+              "out": {
+                "x": 1,
+                "y": -0.0092
+              }
+            },
+            {
+              "t": 270,
+              "v": 1.4337
+            },
+            {
+              "t": 300,
+              "v": 1.4829999999999994,
+              "in": {
+                "x": 0,
+                "y": 0.9922
+              }
+            }
+          ]
+        },
+        "anchorY": {
+          "type": "number",
+          "default": -8.3334,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 1,
+              "v": 0,
+              "out": {
+                "x": 0.9731,
+                "y": 0.0734
+              }
+            },
+            {
+              "t": 159,
+              "v": 1
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 159,
+              "v": 0,
+              "out": {
+                "x": 0.7984,
+                "y": 0.0897
+              }
+            },
+            {
+              "t": 206,
+              "v": 3,
+              "in": {
+                "x": 0,
+                "y": 0.8882
+              }
+            },
+            {
+              "t": 255,
+              "v": 3.1,
+              "out": {
+                "x": 0.7266,
+                "y": 0.1103
+              }
+            },
+            {
+              "t": 300,
+              "v": -1,
+              "in": {
+                "x": 0,
+                "y": 0.8882
+              }
+            }
+          ]
+        },
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 619.894,
+          "keys": []
+        },
+        "index": {
+          "type": "number",
+          "default": 2,
+          "keys": [
+            {
+              "t": 178,
+              "v": 2
+            },
+            {
+              "t": 179,
+              "v": 4
+            },
+            {
+              "t": 271,
+              "v": 4
+            },
+            {
+              "t": 272,
+              "v": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/surfaceEnd",
+      "name": "SurfaceEnd 1",
+      "type": "default",
+      "from": 0,
+      "to": 400,
+      "paramDefs": [],
+      "params": {},
+      "keyframes": {}
+    },
+    {
+      "id": "GachaCinematic/surfaceFx",
+      "name": "SurfaceFx 1",
+      "type": "default",
+      "from": 0,
+      "to": 400,
+      "paramDefs": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "respectUserPpfxDraw",
+          "type": "bool"
+        },
+        {
+          "name": "Blur_Enable",
+          "type": "bool"
+        },
+        {
+          "name": "Blur_Amount",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "name": "surf",
+        "respectUserPpfxDraw": true,
+        "Blur_Enable": true,
+        "Blur_Amount": 0.4
+      },
+      "keyframes": {
+        "Blur_Amount": {
+          "type": "number",
+          "default": 0.4,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0.4,
+              "out": {
+                "x": 1,
+                "y": 0.157
+              }
+            },
+            {
+              "t": 180,
+              "v": 0,
+              "in": {
+                "x": 0.5064,
+                "y": 0.9859
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "GachaCinematic/particle",
+      "name": "Particle 1",
+      "type": "default",
+      "from": 0,
+      "to": 400,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "distMax",
+          "type": "number"
+        },
+        {
+          "name": "emitD",
+          "type": "number"
+        },
+        {
+          "name": "amount",
+          "type": "number"
+        },
+        {
+          "name": "ease",
+          "type": "number"
+        },
+        {
+          "name": "seed",
+          "type": "number"
+        },
+        {
+          "name": "lifeMin",
+          "type": "number"
+        },
+        {
+          "name": "wiggleAmp",
+          "type": "number"
+        },
+        {
+          "name": "wiggleFreq",
+          "type": "number"
+        },
+        {
+          "name": "mode",
+          "type": "number"
+        },
+        {
+          "name": "sizeDeath",
+          "type": "number"
+        },
+        {
+          "name": "sizeJitter",
+          "type": "number"
+        },
+        {
+          "name": "fadeOut",
+          "type": "number"
+        },
+        {
+          "name": "fadeIn",
+          "type": "number"
+        },
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "z",
+          "type": "number"
+        },
+        {
+          "name": "sizeBirth",
+          "type": "number"
+        },
+        {
+          "name": "colorDeath",
+          "type": "number"
+        },
+        {
+          "name": "colorBirth",
+          "type": "number"
+        },
+        {
+          "name": "shape",
+          "type": "number"
+        },
+        {
+          "name": "emitW",
+          "type": "number"
+        },
+        {
+          "name": "emitH",
+          "type": "number"
+        },
+        {
+          "name": "alpha",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_circle_256_256",
+        "distMax": 712.3,
+        "emitD": 3678.5667,
+        "amount": 60,
+        "ease": 3,
+        "seed": 7769,
+        "lifeMin": 0.25,
+        "wiggleAmp": 10,
+        "wiggleFreq": 0.5,
+        "mode": 1,
+        "sizeDeath": 0.05,
+        "sizeJitter": 3.1606,
+        "fadeOut": 0.9,
+        "fadeIn": 1,
+        "speed": 0.1,
+        "z": 2200,
+        "sizeBirth": 0.01,
+        "colorDeath": 16763796,
+        "colorBirth": 16435089,
+        "shape": 2,
+        "emitW": 1000,
+        "emitH": 600,
+        "alpha": 0.4
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 0.8445,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 0.8444999999999981,
+          "keys": []
+        },
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 81.6667,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 0.72,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "sp_baam_1",
+      "type": "default",
+      "from": 0,
+      "to": 195,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_baam",
+        "blend": 1
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 43.6111,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 43.6111,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0.2,
+              "out": {
+                "x": 0.7732,
+                "y": 0.2107
+              }
+            },
+            {
+              "t": 195,
+              "v": 0,
+              "in": {
+                "x": 0.625,
+                "y": 0.9485
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/flexText",
+      "name": "Line",
+      "type": "default",
+      "from": 0,
+      "to": 173,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "text": "<size=32><b=0.75><blur duration=100><shadow=0.8>\"#PLAYER/SEO_YUNA/GACHA/LINE_2\""
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 300,
+              "v": 300
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0.7767
+            },
+            {
+              "t": 136,
+              "v": 1,
+              "in": {
+                "x": 0,
+                "y": 0.9666
+              },
+              "out": {
+                "x": 1,
+                "y": 0.0603
+              }
+            },
+            {
+              "t": 173,
+              "v": 2,
+              "in": {
+                "x": 1,
+                "y": 0.3499
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0.7767
+            },
+            {
+              "t": 136,
+              "v": 1,
+              "in": {
+                "x": 0,
+                "y": 0.9666
+              },
+              "out": {
+                "x": 1,
+                "y": 0.0603
+              }
+            },
+            {
+              "t": 173,
+              "v": 2,
+              "in": {
+                "x": 1,
+                "y": 0.3499
+              }
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 15,
+              "v": 1
+            },
+            {
+              "t": 136,
+              "v": 1
+            },
+            {
+              "t": 166,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "GachaCinematic/illust",
+      "name": "IllustLoader",
+      "type": "default",
+      "from": 0,
+      "to": 60,
+      "paramDefs": [
+        {
+          "name": "illust",
+          "type": "string"
+        },
+        {
+          "name": "index",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "illust": "ILLUST_YUNA",
+        "index": 2
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 17,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1.483,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1.4829999999999994,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": -8.3334,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 619.894,
+          "keys": []
+        },
+        "index": {
+          "type": "number",
+          "default": 5,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 60,
+              "v": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/flexText",
+      "name": "Line_1",
+      "type": "default",
+      "from": 184,
+      "to": 395,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "name": "halign",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "text": "<size=32><b=0.5><shadow=0.8><fadein=20><slide x=-100 duration=10><slide x=-40 duration=200>#PLAYER/SEO_YUNA/GACHA/LINE",
+        "halign": 0
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": -4.8334,
+          "keys": []
+        },
+        "x": {
+          "type": "number",
+          "default": 271.8333,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "GachaCinematic/sprite",
+      "name": "Sprite 1_2",
+      "type": "default",
+      "from": 385,
+      "to": 400,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_box",
+        "color": 0
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 2000,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 2000,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 385,
+              "v": 0
+            },
+            {
+              "t": 400,
+              "v": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "GachaCinematic/sprite",
+      "name": "Sprite 1_1",
+      "type": "default",
+      "from": 0,
+      "to": 15,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_box",
+        "color": 0
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 2000,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 2000,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            },
+            {
+              "t": 15,
+              "v": 0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1850 @@
+{
+  "version": 0.1,
+  "fps": 60,
+  "duration": 340,
+  "layers": [
+    {
+      "id": "MiniGameResult/background",
+      "name": "Background 1",
+      "type": "default",
+      "from": 0,
+      "to": 340,
+      "paramDefs": [
+        {
+          "name": "height",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "height": 660
+      },
+      "keyframes": {
+        "height": {
+          "type": "number",
+          "default": 660,
+          "keys": [
+            {
+              "t": 244,
+              "v": 2320,
+              "out": {
+                "x": 1,
+                "y": 0.038
+              }
+            },
+            {
+              "t": 324,
+              "v": 792,
+              "in": {
+                "x": 0.0407,
+                "y": 0.9458
+              }
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 30,
+              "v": 0
+            },
+            {
+              "t": 294,
+              "v": 0.6
+            },
+            {
+              "t": 313,
+              "v": 0.75
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/flexText",
+      "name": "score",
+      "type": "default",
+      "from": 199,
+      "to": 340,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "text": "<size=32><b=0.8><glow=0.4><fadein><chromatic x=10 duration=20><slide x=240 duration=20><color=#FF9500>#NEW_BEST_RECORD",
+        "color": 3721983
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 199,
+              "v": 0
+            },
+            {
+              "t": 302,
+              "v": 103
+            }
+          ]
+        },
+        "y": {
+          "type": "number",
+          "default": -120,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      },
+      "parentName": "Layer 4"
+    },
+    {
+      "id": "MiniGameResult/currentRecord",
+      "name": "currentRecord",
+      "type": "default",
+      "from": 32,
+      "to": 137,
+      "paramDefs": [
+        {
+          "name": "value",
+          "type": "number"
+        },
+        {
+          "name": "text",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "value": 1,
+        "text": "<size=102><b><shadow>"
+      },
+      "keyframes": {
+        "value": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 32,
+              "v": 0.001
+            },
+            {
+              "t": 137,
+              "v": 1,
+              "in": {
+                "x": 0,
+                "y": 0.9321
+              }
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 132,
+              "v": 1
+            },
+            {
+              "t": 137,
+              "v": 0.5533
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 132,
+              "v": 1
+            },
+            {
+              "t": 137,
+              "v": 0.5533
+            }
+          ]
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        }
+      },
+      "parentName": "Layer 4"
+    },
+    {
+      "id": "MiniGameResult/currentRecord",
+      "name": "currentRecord_1",
+      "type": "default",
+      "from": 137,
+      "to": 340,
+      "paramDefs": [
+        {
+          "name": "value",
+          "type": "number"
+        },
+        {
+          "name": "text",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "value": 1,
+        "text": "<size=102><b><shadow><color=#FEBC71><glow=0.3>"
+      },
+      "keyframes": {
+        "value": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 32,
+              "v": 0.001
+            },
+            {
+              "t": 137,
+              "v": 1,
+              "in": {
+                "x": 0,
+                "y": 0.9321
+              }
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      },
+      "parentName": "Layer 4"
+    },
+    {
+      "id": "MiniGameResult/currentRecord",
+      "name": "currentRecord_2",
+      "type": "default",
+      "from": 137,
+      "to": 167,
+      "paramDefs": [
+        {
+          "name": "value",
+          "type": "number"
+        },
+        {
+          "name": "text",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "value": 1,
+        "text": "<size=102><b>"
+      },
+      "keyframes": {
+        "value": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 32,
+              "v": 0.001
+            },
+            {
+              "t": 137,
+              "v": 1,
+              "in": {
+                "x": 0,
+                "y": 0.9321
+              }
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 137,
+              "v": 0.2
+            },
+            {
+              "t": 167,
+              "v": 0
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 137,
+              "v": 1
+            },
+            {
+              "t": 167,
+              "v": 1.7,
+              "in": {
+                "x": 0,
+                "y": 0.9877
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 137,
+              "v": 1
+            },
+            {
+              "t": 167,
+              "v": 1.7,
+              "in": {
+                "x": 0,
+                "y": 0.9877
+              }
+            }
+          ]
+        }
+      },
+      "parentName": "Layer 4"
+    },
+    {
+      "id": "",
+      "name": "Layer 4",
+      "type": "default",
+      "from": 32,
+      "to": 340,
+      "paramDefs": [],
+      "params": {},
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 32,
+              "v": 2,
+              "out": {
+                "x": 0,
+                "y": 0.8758
+              }
+            },
+            {
+              "t": 48,
+              "v": 0.4,
+              "in": {
+                "x": 0,
+                "y": 0.9801
+              },
+              "out": {
+                "x": 0.3287,
+                "y": 0.1684
+              }
+            },
+            {
+              "t": 137,
+              "v": 0.8,
+              "in": {
+                "x": 0.7768,
+                "y": 0.1763
+              },
+              "out": {
+                "x": 0.1857,
+                "y": 0.9697
+              }
+            },
+            {
+              "t": 270,
+              "v": 1.2,
+              "in": {
+                "x": 0.8338,
+                "y": 0.9608
+              },
+              "out": {
+                "x": 0.5118,
+                "y": 0.0131
+              }
+            },
+            {
+              "t": 330,
+              "v": 1.0839,
+              "in": {
+                "x": 0.3008,
+                "y": 0.9936
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 32,
+              "v": 2,
+              "out": {
+                "x": 0,
+                "y": 0.8758
+              }
+            },
+            {
+              "t": 48,
+              "v": 0.4,
+              "in": {
+                "x": 0,
+                "y": 0.9801
+              },
+              "out": {
+                "x": 0.3287,
+                "y": 0.1684
+              }
+            },
+            {
+              "t": 137,
+              "v": 0.8,
+              "in": {
+                "x": 0.7768,
+                "y": 0.1763
+              },
+              "out": {
+                "x": 0.1857,
+                "y": 0.9697
+              }
+            },
+            {
+              "t": 270,
+              "v": 1.2,
+              "in": {
+                "x": 0.8338,
+                "y": 0.9608
+              },
+              "out": {
+                "x": 0.5118,
+                "y": 0.0131
+              }
+            },
+            {
+              "t": 330,
+              "v": 1.0839,
+              "in": {
+                "x": 0.3008,
+                "y": 0.9936
+              }
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 32,
+              "v": 0
+            },
+            {
+              "t": 137,
+              "v": 1
+            }
+          ]
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 270,
+              "v": 11.3333,
+              "out": {
+                "x": 0.4775,
+                "y": -0.0035
+              }
+            },
+            {
+              "t": 330,
+              "v": -126.1111,
+              "in": {
+                "x": 0,
+                "y": 0.978
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "MiniGameResult/reward",
+      "name": "Reward 1",
+      "type": "default",
+      "from": 298,
+      "to": 342,
+      "paramDefs": [],
+      "params": {},
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 0.8,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 0.8,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": -10,
+          "keys": []
+        }
+      },
+      "parentName": "Layer 9"
+    },
+    {
+      "id": "Essential/flexText",
+      "name": "REWARD",
+      "type": "default",
+      "from": 298,
+      "to": 342,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "text": "<size=32><b=0.2><fadein>#INGAME/REWARD",
+        "color": 3721983
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 102,
+              "v": 0
+            },
+            {
+              "t": 298,
+              "v": 0
+            },
+            {
+              "t": 342,
+              "v": 44.00000000000001
+            }
+          ]
+        },
+        "y": {
+          "type": "number",
+          "default": -126.5876,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      },
+      "parentName": "Layer 9"
+    },
+    {
+      "id": "",
+      "name": "Layer 9",
+      "type": "default",
+      "from": 298,
+      "to": 342,
+      "paramDefs": [],
+      "params": {},
+      "keyframes": {
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 298,
+              "v": 379.8333,
+              "out": {
+                "x": 0,
+                "y": 1.0553
+              }
+            },
+            {
+              "t": 329,
+              "v": 220.5,
+              "in": {
+                "x": 0.9499,
+                "y": 1.0077
+              }
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 298,
+              "v": 0
+            },
+            {
+              "t": 315,
+              "v": 1
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 0.8,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 0.8,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "Essential/sfx",
+      "name": "SFX_REWARD_02",
+      "type": "default",
+      "from": 32,
+      "to": 224,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "sound": "SFX_REWARD_02"
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 32,
+              "v": 0
+            },
+            {
+              "t": 224,
+              "v": 250
+            },
+            {
+              "t": 240,
+              "v": 264.42622950819674
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/particle",
+      "name": "Particle 1",
+      "type": "default",
+      "from": 27,
+      "to": 132,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "mode",
+          "type": "number"
+        },
+        {
+          "name": "sizeDeath",
+          "type": "number"
+        },
+        {
+          "name": "ease",
+          "type": "number"
+        },
+        {
+          "name": "wiggleAmp",
+          "type": "number"
+        },
+        {
+          "name": "wiggleFreq",
+          "type": "number"
+        },
+        {
+          "name": "amount",
+          "type": "number"
+        },
+        {
+          "name": "sizeJitter",
+          "type": "number"
+        },
+        {
+          "name": "distMax",
+          "type": "number"
+        },
+        {
+          "name": "lifeMin",
+          "type": "number"
+        },
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "distMin",
+          "type": "number"
+        },
+        {
+          "name": "fadeOut",
+          "type": "number"
+        },
+        {
+          "name": "fadeIn",
+          "type": "number"
+        },
+        {
+          "name": "colorBirth",
+          "type": "number"
+        },
+        {
+          "name": "colorDeath",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_baam_ingame_UI",
+        "mode": 0,
+        "sizeDeath": 0.1,
+        "ease": 1,
+        "wiggleAmp": 10,
+        "wiggleFreq": 0.1,
+        "amount": 20,
+        "sizeJitter": 1,
+        "distMax": 1950,
+        "lifeMin": 0.25,
+        "speed": 2,
+        "distMin": 100,
+        "fadeOut": 0.9,
+        "fadeIn": 2,
+        "colorBirth": 60159,
+        "colorDeath": 48127
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 13,
+              "v": 90
+            },
+            {
+              "t": 132,
+              "v": 0,
+              "in": {
+                "x": 0.8132,
+                "y": -0.0574
+              }
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 27,
+              "v": 0
+            },
+            {
+              "t": 132,
+              "v": 5.42
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/particle",
+      "name": "Particle 1_1",
+      "type": "default",
+      "from": 137,
+      "to": 340,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "mode",
+          "type": "number"
+        },
+        {
+          "name": "sizeDeath",
+          "type": "number"
+        },
+        {
+          "name": "ease",
+          "type": "number"
+        },
+        {
+          "name": "wiggleAmp",
+          "type": "number"
+        },
+        {
+          "name": "wiggleFreq",
+          "type": "number"
+        },
+        {
+          "name": "amount",
+          "type": "number"
+        },
+        {
+          "name": "sizeJitter",
+          "type": "number"
+        },
+        {
+          "name": "distMax",
+          "type": "number"
+        },
+        {
+          "name": "lifeMin",
+          "type": "number"
+        },
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "distMin",
+          "type": "number"
+        },
+        {
+          "name": "sizeBirth",
+          "type": "number"
+        },
+        {
+          "name": "colorBirth",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_baam_ingame_UI",
+        "mode": 2,
+        "sizeDeath": 0.03,
+        "ease": 4,
+        "wiggleAmp": 10,
+        "wiggleFreq": 0.1,
+        "amount": 20,
+        "sizeJitter": 2,
+        "distMax": 750,
+        "lifeMin": 0.25,
+        "speed": 0.5,
+        "distMin": 10,
+        "sizeBirth": 0.1,
+        "colorBirth": 60159
+      },
+      "keyframes": {}
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "sp_boom",
+      "type": "default",
+      "from": 137,
+      "to": 340,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_boom",
+        "blend": 1,
+        "color": 6407679
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 137,
+              "v": 0.1,
+              "out": {
+                "x": 0,
+                "y": 0.631
+              }
+            },
+            {
+              "t": 197,
+              "v": 6.86,
+              "in": {
+                "x": 0,
+                "y": 0.9908
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 137,
+              "v": 0.1,
+              "out": {
+                "x": 0,
+                "y": 0.631
+              }
+            },
+            {
+              "t": 197,
+              "v": 6.86,
+              "in": {
+                "x": 0,
+                "y": 0.9908
+              }
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 137,
+              "v": 0.2
+            },
+            {
+              "t": 197,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "sp_boom_4",
+      "type": "default",
+      "from": 137,
+      "to": 240,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_boom",
+        "blend": 1,
+        "color": 6407679
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 137,
+              "v": 0.1,
+              "out": {
+                "x": 0,
+                "y": 0.631
+              }
+            },
+            {
+              "t": 197,
+              "v": 6.86,
+              "in": {
+                "x": 0,
+                "y": 0.9908
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 137,
+              "v": 0.1,
+              "out": {
+                "x": 0,
+                "y": 0.631
+              }
+            },
+            {
+              "t": 197,
+              "v": 6.86,
+              "in": {
+                "x": 0,
+                "y": 0.9908
+              }
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 137,
+              "v": 0.2
+            },
+            {
+              "t": 197,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "sp_boom_1",
+      "type": "default",
+      "from": 37,
+      "to": 147,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_boom",
+        "blend": 1,
+        "color": 54783
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 37,
+              "v": 10,
+              "in": {
+                "x": 0,
+                "y": 0.9908
+              },
+              "out": {
+                "x": 0.397,
+                "y": 0.0107
+              }
+            },
+            {
+              "t": 147,
+              "v": 1,
+              "out": {
+                "x": 0,
+                "y": 0.631
+              },
+              "in": {
+                "x": 0.9275,
+                "y": 0.9982
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 37,
+              "v": 10,
+              "in": {
+                "x": 0,
+                "y": 0.9908
+              },
+              "out": {
+                "x": 0.397,
+                "y": 0.0107
+              }
+            },
+            {
+              "t": 147,
+              "v": 1,
+              "out": {
+                "x": 0,
+                "y": 0.631
+              },
+              "in": {
+                "x": 0.9275,
+                "y": 0.9982
+              }
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 82,
+              "v": 0
+            },
+            {
+              "t": 127,
+              "v": 0.1
+            },
+            {
+              "t": 147,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "sp_boom_3",
+      "type": "default",
+      "from": 0,
+      "to": 110,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_boom",
+        "blend": 1,
+        "color": 60159
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 10,
+              "in": {
+                "x": 0,
+                "y": 0.9908
+              },
+              "out": {
+                "x": 0.397,
+                "y": 0.0107
+              }
+            },
+            {
+              "t": 110,
+              "v": 1,
+              "out": {
+                "x": 0,
+                "y": 0.631
+              },
+              "in": {
+                "x": 0.9275,
+                "y": 0.9982
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 10,
+              "in": {
+                "x": 0,
+                "y": 0.9908
+              },
+              "out": {
+                "x": 0.397,
+                "y": 0.0107
+              }
+            },
+            {
+              "t": 110,
+              "v": 1,
+              "out": {
+                "x": 0,
+                "y": 0.631
+              },
+              "in": {
+                "x": 0.9275,
+                "y": 0.9982
+              }
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 45,
+              "v": 0
+            },
+            {
+              "t": 90,
+              "v": 0.1
+            },
+            {
+              "t": 110,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "sp_boom_2",
+      "type": "default",
+      "from": 0,
+      "to": 81,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_boom",
+        "blend": 1,
+        "color": 56831
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 8.930350414597775,
+              "in": {
+                "x": 0.17351818744576025,
+                "y": 0.04802423521173956
+              },
+              "out": {
+                "x": 0.6005218454387774,
+                "y": 0.38361514704446015
+              }
+            },
+            {
+              "t": 81,
+              "v": 1,
+              "out": {
+                "x": 0,
+                "y": 0.43566674405686495
+              },
+              "in": {
+                "x": 0.9428009644370018,
+                "y": 0.9985798860136083
+              }
+            },
+            {
+              "t": 240,
+              "v": 1,
+              "in": {
+                "x": 0.4767054329206272,
+                "y": 0.7464366646885255
+              },
+              "out": {
+                "x": 0.9041717273230017,
+                "y": 0.9646393673821877
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 8.930350414597775,
+              "in": {
+                "x": 0.17351818744576025,
+                "y": 0.04802423521173956
+              },
+              "out": {
+                "x": 0.6005218454387774,
+                "y": 0.38361514704446015
+              }
+            },
+            {
+              "t": 81,
+              "v": 1,
+              "out": {
+                "x": 0,
+                "y": 0.43566674405686495
+              },
+              "in": {
+                "x": 0.9428009644370018,
+                "y": 0.9985798860136083
+              }
+            },
+            {
+              "t": 240,
+              "v": 1,
+              "in": {
+                "x": 0.4767054329206272,
+                "y": 0.7464366646885255
+              },
+              "out": {
+                "x": 0.9041717273230017,
+                "y": 0.9646393673821877
+              }
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 16,
+              "v": 0
+            },
+            {
+              "t": 61,
+              "v": 0.1
+            },
+            {
+              "t": 81,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "s_gacha_shine",
+      "type": "default",
+      "from": 58,
+      "to": 147,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "s_gacha_shine",
+        "blend": 1,
+        "color": 966369
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 3.1467,
+          "keys": [
+            {
+              "t": 58,
+              "v": 2.3201
+            },
+            {
+              "t": 163,
+              "v": 4.4134
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 3.146700000000002,
+          "keys": [
+            {
+              "t": 58,
+              "v": 2.3201
+            },
+            {
+              "t": 163,
+              "v": 4.4134
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 58,
+              "v": -20
+            },
+            {
+              "t": 163,
+              "v": 18.0733
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1.0067,
+          "keys": [
+            {
+              "t": 58,
+              "v": 0
+            },
+            {
+              "t": 132,
+              "v": 0.8
+            },
+            {
+              "t": 147,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "baam",
+      "type": "default",
+      "from": 36,
+      "to": 141,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_baam_ingame_UI",
+        "blend": 1,
+        "color": 9109501
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 3.1467,
+          "keys": [
+            {
+              "t": 36,
+              "v": 1.8134
+            },
+            {
+              "t": 141,
+              "v": 3.9067
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 3.146700000000002,
+          "keys": [
+            {
+              "t": 36,
+              "v": 1.8134
+            },
+            {
+              "t": 141,
+              "v": 3.9067
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 36,
+              "v": -20
+            },
+            {
+              "t": 141,
+              "v": 18.0733
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1.0067,
+          "keys": [
+            {
+              "t": 77,
+              "v": 0
+            },
+            {
+              "t": 137,
+              "v": 0.4
+            },
+            {
+              "t": 141,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "baam_1",
+      "type": "default",
+      "from": 68,
+      "to": 173,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_baam_ingame_UI",
+        "blend": 1,
+        "color": 8773375
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 3.1467,
+          "keys": [
+            {
+              "t": 68,
+              "v": 4.6934
+            },
+            {
+              "t": 173,
+              "v": 6.7867
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 3.146700000000002,
+          "keys": [
+            {
+              "t": 68,
+              "v": 4.6934
+            },
+            {
+              "t": 173,
+              "v": 6.7867
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 68,
+              "v": -20
+            },
+            {
+              "t": 173,
+              "v": 18.0733
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1.0067,
+          "keys": [
+            {
+              "t": 68,
+              "v": 0
+            },
+            {
+              "t": 142,
+              "v": 0.8
+            },
+            {
+              "t": 173,
+              "v": 0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

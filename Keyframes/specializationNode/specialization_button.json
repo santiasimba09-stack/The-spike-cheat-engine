@@ -1,0 +1,664 @@
+{
+  "version": 0.1,
+  "fps": 60,
+  "duration": 120,
+  "layers": [
+    {
+      "id": "",
+      "name": "Layer 6",
+      "type": "default",
+      "from": 0,
+      "to": 120,
+      "paramDefs": [],
+      "params": {},
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0.1,
+              "out": {
+                "x": 0,
+                "y": 0.8007
+              }
+            },
+            {
+              "t": 5,
+              "v": 1.1847,
+              "out": {
+                "x": 0.5414,
+                "y": 0.0891
+              },
+              "in": {
+                "x": 0.4981,
+                "y": 0.9594
+              }
+            },
+            {
+              "t": 16,
+              "v": 1,
+              "in": {
+                "x": 0.5077,
+                "y": 0.9749
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0.1,
+              "out": {
+                "x": 0,
+                "y": 0.8007
+              }
+            },
+            {
+              "t": 5,
+              "v": 1.1847,
+              "out": {
+                "x": 0.5414,
+                "y": 0.0891
+              },
+              "in": {
+                "x": 0.4981,
+                "y": 0.9594
+              }
+            },
+            {
+              "t": 16,
+              "v": 1,
+              "in": {
+                "x": 0.5077,
+                "y": 0.9749
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "SpecializationCenterNode/center",
+      "name": "Center 1_3",
+      "type": "default",
+      "from": 0,
+      "to": 120,
+      "paramDefs": [
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "subimg",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "color": 16777215,
+        "subimg": 3,
+        "colourBlend": 1,
+        "blend": 1
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 2.4343,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 2.4343000000000017,
+          "keys": []
+        }
+      },
+      "parentName": "Layer 6"
+    },
+    {
+      "id": "SpecializationCenterNode/center",
+      "name": "Center 1",
+      "type": "default",
+      "from": 0,
+      "to": 120,
+      "paramDefs": [
+        {
+          "name": "colourBlend",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "colourBlend": 0.2,
+        "color": 0
+      },
+      "keyframes": {},
+      "parentName": "Layer 6"
+    },
+    {
+      "id": "SpecializationCenterNode/portrait",
+      "name": "Portrait 1",
+      "type": "default",
+      "from": 0,
+      "to": 120,
+      "paramDefs": [],
+      "params": {},
+      "keyframes": {},
+      "parentName": "Layer 6"
+    },
+    {
+      "id": "SpecializationCenterNode/center",
+      "name": "Center 1_1",
+      "type": "default",
+      "from": 0,
+      "to": 120,
+      "paramDefs": [
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "subimg",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "color": 0,
+        "subimg": 2
+      },
+      "keyframes": {},
+      "parentName": "Layer 6"
+    },
+    {
+      "id": "SpecializationCenterNode/center",
+      "name": "Center 1_2",
+      "type": "default",
+      "from": 0,
+      "to": 120,
+      "paramDefs": [
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "subimg",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "color": 16777215,
+        "subimg": 1,
+        "colourBlend": 0.3
+      },
+      "keyframes": {},
+      "parentName": "Layer 6"
+    },
+    {
+      "id": "SpecializationCenterNode/center",
+      "name": "Center 1_5",
+      "type": "default",
+      "from": 0,
+      "to": 69,
+      "paramDefs": [
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "subimg",
+          "type": "number"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "color": 16777215,
+        "subimg": 2,
+        "blend": 1,
+        "colourBlend": 0.7
+      },
+      "keyframes": {
+        "angle": {
+          "type": "number",
+          "default": 180,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            },
+            {
+              "t": 69,
+              "v": 0
+            }
+          ]
+        }
+      },
+      "parentName": "Layer 6"
+    },
+    {
+      "id": "SpecializationCenterNode/center",
+      "name": "Center 1_6",
+      "type": "default",
+      "from": 0,
+      "to": 69,
+      "paramDefs": [
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "subimg",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "color": 16777215,
+        "subimg": 3,
+        "colourBlend": 1,
+        "blend": 1
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 2.289,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 2.2890000000000006,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0.5
+            },
+            {
+              "t": 69,
+              "v": 0,
+              "in": {
+                "x": 0,
+                "y": 0.9855
+              }
+            }
+          ]
+        }
+      },
+      "parentName": "Layer 6"
+    },
+    {
+      "id": "SpecializationCenterNode/particle",
+      "name": "Particle 1_3",
+      "type": "default",
+      "from": 58,
+      "to": 68,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "mode",
+          "type": "number"
+        },
+        {
+          "name": "sizeDeath",
+          "type": "number"
+        },
+        {
+          "name": "amount",
+          "type": "number"
+        },
+        {
+          "name": "sizeJitter",
+          "type": "number"
+        },
+        {
+          "name": "distMax",
+          "type": "number"
+        },
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "distMin",
+          "type": "number"
+        },
+        {
+          "name": "sizeBirth",
+          "type": "number"
+        },
+        {
+          "name": "rotJitter",
+          "type": "number"
+        },
+        {
+          "name": "spin",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        },
+        {
+          "name": "shape",
+          "type": "number"
+        },
+        {
+          "name": "emitW",
+          "type": "number"
+        },
+        {
+          "name": "fadeOut",
+          "type": "number"
+        },
+        {
+          "name": "fadeIn",
+          "type": "number"
+        },
+        {
+          "name": "lifeMin",
+          "type": "number"
+        },
+        {
+          "name": "wiggleAmp",
+          "type": "number"
+        },
+        {
+          "name": "wiggleFreq",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_specialization_seq_thunder",
+        "mode": 1,
+        "sizeDeath": 1.22,
+        "amount": 2,
+        "sizeJitter": 0.79,
+        "distMax": 0,
+        "speed": 16,
+        "distMin": 0,
+        "sizeBirth": 1.2,
+        "rotJitter": 360,
+        "spin": 0,
+        "color": 16777215,
+        "colourBlend": 0.9163,
+        "shape": 0,
+        "emitW": 62.2,
+        "fadeOut": 0.1,
+        "fadeIn": 0.1,
+        "lifeMin": 1,
+        "wiggleAmp": 2,
+        "wiggleFreq": 10
+      },
+      "keyframes": {
+        "amount": {
+          "type": "number",
+          "default": 2,
+          "keys": []
+        }
+      },
+      "parentName": "Layer 6"
+    },
+    {
+      "id": "SpecializationCenterNode/particle",
+      "name": "Particle 1_1",
+      "type": "default",
+      "from": 10,
+      "to": 27,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "mode",
+          "type": "number"
+        },
+        {
+          "name": "sizeDeath",
+          "type": "number"
+        },
+        {
+          "name": "amount",
+          "type": "number"
+        },
+        {
+          "name": "sizeJitter",
+          "type": "number"
+        },
+        {
+          "name": "distMax",
+          "type": "number"
+        },
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "distMin",
+          "type": "number"
+        },
+        {
+          "name": "sizeBirth",
+          "type": "number"
+        },
+        {
+          "name": "rotJitter",
+          "type": "number"
+        },
+        {
+          "name": "spin",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "colourBlend",
+          "type": "number"
+        },
+        {
+          "name": "shape",
+          "type": "number"
+        },
+        {
+          "name": "emitW",
+          "type": "number"
+        },
+        {
+          "name": "fadeOut",
+          "type": "number"
+        },
+        {
+          "name": "fadeIn",
+          "type": "number"
+        },
+        {
+          "name": "lifeMin",
+          "type": "number"
+        },
+        {
+          "name": "wiggleAmp",
+          "type": "number"
+        },
+        {
+          "name": "wiggleFreq",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_specialization_seq_thunder",
+        "mode": 1,
+        "sizeDeath": 1.22,
+        "amount": 2,
+        "sizeJitter": 0.79,
+        "distMax": 0,
+        "speed": 16,
+        "distMin": 0,
+        "sizeBirth": 1.2,
+        "rotJitter": 360,
+        "spin": 0,
+        "color": 16777215,
+        "colourBlend": 0.9163,
+        "shape": 0,
+        "emitW": 62.2,
+        "fadeOut": 0.1,
+        "fadeIn": 0.1,
+        "lifeMin": 1,
+        "wiggleAmp": 2,
+        "wiggleFreq": 10
+      },
+      "keyframes": {
+        "amount": {
+          "type": "number",
+          "default": 2,
+          "keys": []
+        }
+      },
+      "parentName": "Layer 6"
+    },
+    {
+      "id": "Essential/flexText",
+      "name": "FlexText 1",
+      "type": "default",
+      "from": 35,
+      "to": 120,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "text": "<outline><size=38>#SPECIALIZATION"
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 10,
+              "v": 0
+            },
+            {
+              "t": 130,
+              "v": 120
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 35,
+              "v": 0.7,
+              "out": {
+                "x": 0,
+                "y": 0.7931
+              }
+            },
+            {
+              "t": 55,
+              "v": 1,
+              "in": {
+                "x": 0.1921,
+                "y": 0.9906
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 35,
+              "v": 0.7,
+              "out": {
+                "x": 0,
+                "y": 0.7931
+              }
+            },
+            {
+              "t": 55,
+              "v": 1,
+              "in": {
+                "x": 0.1921,
+                "y": 0.9906
+              }
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 35,
+              "v": 0
+            },
+            {
+              "t": 55,
+              "v": 1
+            }
+          ]
+        },
+        "y": {
+          "type": "number",
+          "default": 116.1667,
+          "keys": []
+        }
+      },
+      "parentName": "Layer 6"
+    }
+  ]
+}

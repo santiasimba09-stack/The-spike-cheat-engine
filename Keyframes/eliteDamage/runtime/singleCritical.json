@@ -1,0 +1,1503 @@
+{
+  "version": 0.1,
+  "fps": 60,
+  "duration": 66,
+  "layers": [
+    {
+      "id": "EliteDamage/primaryDamage",
+      "name": "primaryDamageOutline",
+      "type": "default",
+      "from": 0,
+      "to": 66,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "name": "renderScale",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "resourceTint",
+          "type": "bool"
+        },
+        {
+          "name": "mentalColor",
+          "type": "number"
+        },
+        {
+          "name": "staminaColor",
+          "type": "number"
+        },
+        {
+          "name": "outlineWidth",
+          "type": "number"
+        },
+        {
+          "name": "digitStagger",
+          "type": "number"
+        },
+        {
+          "name": "digitDuration",
+          "type": "number"
+        },
+        {
+          "name": "digitScale",
+          "type": "number"
+        },
+        {
+          "name": "valueSign",
+          "type": "number"
+        },
+        {
+          "name": "digitSpring",
+          "type": "bool"
+        },
+        {
+          "name": "digitSpringY",
+          "type": "number"
+        },
+        {
+          "name": "digitStartOpacity",
+          "type": "number"
+        },
+        {
+          "name": "digitFadeDuration",
+          "type": "number"
+        },
+        {
+          "name": "digitEntryOpacity",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "text": "<font=font_ball_speed><size=36>",
+        "maxWidth": 0,
+        "color": 2299403,
+        "halign": 1,
+        "valign": 1,
+        "renderScale": 2,
+        "renderScaleMode": 0,
+        "resourceTint": false,
+        "mentalColor": 16768018,
+        "staminaColor": 3976172,
+        "outlineWidth": 0.5,
+        "shadowEnabled": true,
+        "shadowOffsetX": 0,
+        "shadowOffsetY": 1.5,
+        "shadowAlpha": 0.1,
+        "shadowSourceAlpha": 0.38,
+        "digitStagger": 4,
+        "digitDuration": 9,
+        "digitScale": 1,
+        "valueSign": -1,
+        "digitSpring": true,
+        "digitSpringY": 14,
+        "digitStartOpacity": 0,
+        "digitFadeDuration": 2,
+        "digitEntryOpacity": 0.6
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 66,
+              "v": 70
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1.925,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1.925
+            },
+            {
+              "t": 3,
+              "v": 1.31617647
+            },
+            {
+              "t": 7,
+              "v": 1.12
+            },
+            {
+              "t": 11,
+              "v": 1.12
+            },
+            {
+              "t": 16,
+              "v": 1.12
+            },
+            {
+              "t": 54,
+              "v": 1.12
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1.925,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1.925
+            },
+            {
+              "t": 3,
+              "v": 1.31617647
+            },
+            {
+              "t": 7,
+              "v": 1.12
+            },
+            {
+              "t": 11,
+              "v": 1.12
+            },
+            {
+              "t": 16,
+              "v": 1.12
+            },
+            {
+              "t": 54,
+              "v": 1.12
+            }
+          ]
+        },
+        "y": {
+          "type": "number",
+          "default": 3,
+          "keys": [
+            {
+              "t": 0,
+              "v": 3
+            },
+            {
+              "t": 5,
+              "v": -5
+            },
+            {
+              "t": 8,
+              "v": -3
+            },
+            {
+              "t": 54,
+              "v": -7
+            },
+            {
+              "t": 66,
+              "v": -28
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 2,
+              "v": 0.5
+            },
+            {
+              "t": 3,
+              "v": 0.5
+            },
+            {
+              "t": 54,
+              "v": 0.38,
+              "out": {
+                "x": 0.18,
+                "y": 0
+              },
+              "in": {
+                "x": 0.65,
+                "y": 1
+              }
+            },
+            {
+              "t": 66,
+              "v": 0,
+              "out": {
+                "x": 0.18,
+                "y": 0
+              },
+              "in": {
+                "x": 0.65,
+                "y": 1
+              }
+            }
+          ]
+        },
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "EliteDamage/primaryDamage",
+      "name": "primaryDamage",
+      "type": "default",
+      "from": 0,
+      "to": 66,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "name": "renderScale",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "resourceTint",
+          "type": "bool"
+        },
+        {
+          "name": "mentalColor",
+          "type": "number"
+        },
+        {
+          "name": "staminaColor",
+          "type": "number"
+        },
+        {
+          "name": "resourceGradient",
+          "type": "bool"
+        },
+        {
+          "name": "gradientHighlight",
+          "type": "number"
+        },
+        {
+          "name": "glowAlpha",
+          "type": "number"
+        },
+        {
+          "name": "glowRadius",
+          "type": "number"
+        },
+        {
+          "name": "effectPadding",
+          "type": "number"
+        },
+        {
+          "name": "digitStagger",
+          "type": "number"
+        },
+        {
+          "name": "digitDuration",
+          "type": "number"
+        },
+        {
+          "name": "digitScale",
+          "type": "number"
+        },
+        {
+          "name": "valueSign",
+          "type": "number"
+        },
+        {
+          "name": "digitSpring",
+          "type": "bool"
+        },
+        {
+          "name": "digitSpringY",
+          "type": "number"
+        },
+        {
+          "name": "digitStartOpacity",
+          "type": "number"
+        },
+        {
+          "name": "digitFadeDuration",
+          "type": "number"
+        },
+        {
+          "name": "digitEntryOpacity",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "text": "<font=font_ball_speed><size=36>",
+        "maxWidth": 0,
+        "color": 16769107,
+        "halign": 1,
+        "valign": 1,
+        "renderScale": 2,
+        "renderScaleMode": 0,
+        "resourceTint": true,
+        "mentalColor": 16758837,
+        "staminaColor": 1157631,
+        "resourceGradient": true,
+        "gradientHighlight": 0.52,
+        "glowAlpha": 0,
+        "glowRadius": 1.5,
+        "effectPadding": 0,
+        "digitStagger": 4,
+        "digitDuration": 9,
+        "digitScale": 1,
+        "valueSign": -1,
+        "digitSpring": true,
+        "digitSpringY": 14,
+        "digitStartOpacity": 0,
+        "digitFadeDuration": 2,
+        "digitEntryOpacity": 0.6
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 66,
+              "v": 70
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1.925,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1.925
+            },
+            {
+              "t": 3,
+              "v": 1.31617647
+            },
+            {
+              "t": 7,
+              "v": 1.12
+            },
+            {
+              "t": 11,
+              "v": 1.12
+            },
+            {
+              "t": 16,
+              "v": 1.12
+            },
+            {
+              "t": 54,
+              "v": 1.12
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1.925,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1.925
+            },
+            {
+              "t": 3,
+              "v": 1.31617647
+            },
+            {
+              "t": 7,
+              "v": 1.12
+            },
+            {
+              "t": 11,
+              "v": 1.12
+            },
+            {
+              "t": 16,
+              "v": 1.12
+            },
+            {
+              "t": 54,
+              "v": 1.12
+            }
+          ]
+        },
+        "y": {
+          "type": "number",
+          "default": 3,
+          "keys": [
+            {
+              "t": 0,
+              "v": 3
+            },
+            {
+              "t": 5,
+              "v": -5
+            },
+            {
+              "t": 8,
+              "v": -3
+            },
+            {
+              "t": 54,
+              "v": -7
+            },
+            {
+              "t": 66,
+              "v": -28
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 2,
+              "v": 1
+            },
+            {
+              "t": 3,
+              "v": 0.85
+            },
+            {
+              "t": 7,
+              "v": 1
+            },
+            {
+              "t": 54,
+              "v": 1
+            },
+            {
+              "t": 66,
+              "v": 0
+            }
+          ]
+        },
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "EliteDamage/primaryDamage",
+      "name": "primaryCriticalFlash",
+      "type": "default",
+      "from": 0,
+      "to": 22,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "name": "renderScale",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "resourceTint",
+          "type": "bool"
+        },
+        {
+          "name": "mentalColor",
+          "type": "number"
+        },
+        {
+          "name": "staminaColor",
+          "type": "number"
+        },
+        {
+          "name": "resourceGradient",
+          "type": "bool"
+        },
+        {
+          "name": "gradientHighlight",
+          "type": "number"
+        },
+        {
+          "name": "glowAlpha",
+          "type": "number"
+        },
+        {
+          "name": "glowRadius",
+          "type": "number"
+        },
+        {
+          "name": "effectPadding",
+          "type": "number"
+        },
+        {
+          "name": "digitStagger",
+          "type": "number"
+        },
+        {
+          "name": "digitDuration",
+          "type": "number"
+        },
+        {
+          "name": "digitScale",
+          "type": "number"
+        },
+        {
+          "name": "valueSign",
+          "type": "number"
+        },
+        {
+          "name": "digitSpring",
+          "type": "bool"
+        },
+        {
+          "name": "digitSpringY",
+          "type": "number"
+        },
+        {
+          "name": "digitStartOpacity",
+          "type": "number"
+        },
+        {
+          "name": "digitFadeDuration",
+          "type": "number"
+        },
+        {
+          "name": "digitEntryOpacity",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "text": "<font=font_ball_speed><size=36>",
+        "maxWidth": 0,
+        "color": 16777215,
+        "halign": 1,
+        "valign": 1,
+        "renderScale": 2,
+        "renderScaleMode": 0,
+        "resourceTint": false,
+        "mentalColor": 16768018,
+        "staminaColor": 2403071,
+        "resourceGradient": false,
+        "gradientHighlight": 0.72,
+        "glowAlpha": 0,
+        "glowRadius": 1.5,
+        "effectPadding": 0,
+        "digitStagger": 4,
+        "digitDuration": 9,
+        "digitScale": 1,
+        "valueSign": -1,
+        "digitSpring": true,
+        "digitSpringY": 14,
+        "digitStartOpacity": 0,
+        "digitFadeDuration": 2,
+        "digitEntryOpacity": 0.6
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 66,
+              "v": 70
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1.925,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1.925
+            },
+            {
+              "t": 3,
+              "v": 1.31617647
+            },
+            {
+              "t": 7,
+              "v": 1.12
+            },
+            {
+              "t": 11,
+              "v": 1.12
+            },
+            {
+              "t": 16,
+              "v": 1.12
+            },
+            {
+              "t": 54,
+              "v": 1.12
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1.925,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1.925
+            },
+            {
+              "t": 3,
+              "v": 1.31617647
+            },
+            {
+              "t": 7,
+              "v": 1.12
+            },
+            {
+              "t": 11,
+              "v": 1.12
+            },
+            {
+              "t": 16,
+              "v": 1.12
+            },
+            {
+              "t": 54,
+              "v": 1.12
+            }
+          ]
+        },
+        "y": {
+          "type": "number",
+          "default": 3,
+          "keys": [
+            {
+              "t": 0,
+              "v": 3
+            },
+            {
+              "t": 5,
+              "v": -5
+            },
+            {
+              "t": 8,
+              "v": -3
+            },
+            {
+              "t": 54,
+              "v": -7
+            },
+            {
+              "t": 66,
+              "v": -28
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 2,
+              "v": 0.85
+            },
+            {
+              "t": 4,
+              "v": 0.85
+            },
+            {
+              "t": 10,
+              "v": 0.6
+            },
+            {
+              "t": 22,
+              "v": 0
+            }
+          ]
+        },
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "EliteDamage/criticalLabel",
+      "name": "criticalLabel",
+      "type": "default",
+      "from": 0,
+      "to": 40,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "name": "renderScale",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "effectPadding",
+          "type": "number"
+        },
+        {
+          "name": "fontSize",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "text": "<font=font_signwood_italic><outline distance=0.7 alpha=0.55 color=#18212B>CRIT",
+        "maxWidth": 0,
+        "color": 1671935,
+        "halign": 1,
+        "valign": 1,
+        "renderScale": 2,
+        "renderScaleMode": 0,
+        "effectPadding": 4,
+        "fontSize": 18
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 24,
+              "v": 24
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1.4,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1.4
+            },
+            {
+              "t": 4,
+              "v": 0.96
+            },
+            {
+              "t": 9,
+              "v": 1
+            },
+            {
+              "t": 28,
+              "v": 1
+            },
+            {
+              "t": 40,
+              "v": 1.08
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1.4,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1.4
+            },
+            {
+              "t": 4,
+              "v": 0.96
+            },
+            {
+              "t": 9,
+              "v": 1
+            },
+            {
+              "t": 28,
+              "v": 1
+            },
+            {
+              "t": 40,
+              "v": 1.08
+            }
+          ]
+        },
+        "y": {
+          "type": "number",
+          "default": -49,
+          "keys": [
+            {
+              "t": 0,
+              "v": -49
+            },
+            {
+              "t": 6,
+              "v": -54
+            },
+            {
+              "t": 25,
+              "v": -54
+            },
+            {
+              "t": 40,
+              "v": -62
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 2,
+              "v": 1
+            },
+            {
+              "t": 3,
+              "v": 1
+            },
+            {
+              "t": 25,
+              "v": 1
+            },
+            {
+              "t": 40,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "EliteDamage/primaryDamage",
+      "name": "primaryRecoveryOutline",
+      "type": "default",
+      "from": 0,
+      "to": 66,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "name": "renderScale",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "resourceTint",
+          "type": "bool"
+        },
+        {
+          "name": "mentalColor",
+          "type": "number"
+        },
+        {
+          "name": "staminaColor",
+          "type": "number"
+        },
+        {
+          "name": "outlineWidth",
+          "type": "number"
+        },
+        {
+          "name": "digitStagger",
+          "type": "number"
+        },
+        {
+          "name": "digitDuration",
+          "type": "number"
+        },
+        {
+          "name": "digitScale",
+          "type": "number"
+        },
+        {
+          "name": "valueSign",
+          "type": "number"
+        },
+        {
+          "name": "recoveryAccentColor",
+          "type": "number"
+        },
+        {
+          "name": "digitStartOpacity",
+          "type": "number"
+        },
+        {
+          "name": "digitFadeDuration",
+          "type": "number"
+        },
+        {
+          "name": "digitEntryOpacity",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "text": "<font=font_ball_speed><size=36>",
+        "maxWidth": 0,
+        "color": 11597170,
+        "halign": 1,
+        "valign": 1,
+        "renderScale": 2,
+        "renderScaleMode": 0,
+        "resourceTint": false,
+        "mentalColor": 16768018,
+        "staminaColor": 3976172,
+        "outlineWidth": 0.8,
+        "shadowEnabled": true,
+        "shadowOffsetX": 0,
+        "shadowOffsetY": 1.5,
+        "shadowAlpha": 0.1,
+        "shadowSourceAlpha": 0.38,
+        "digitStagger": 0,
+        "digitDuration": 14,
+        "digitScale": 1.05,
+        "valueSign": 1,
+        "gradientHighlight": 0.38,
+        "glowAlpha": 0,
+        "effectPadding": 0,
+        "recoveryAccentColor": 11597170,
+        "digitStartOpacity": 0,
+        "digitFadeDuration": 2,
+        "digitEntryOpacity": 0.6
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 66,
+              "v": 66
+            }
+          ]
+        },
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            }
+          ]
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 50,
+              "v": 0
+            },
+            {
+              "t": 66,
+              "v": -14
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 2,
+              "v": 0.65
+            },
+            {
+              "t": 50,
+              "v": 0.65
+            },
+            {
+              "t": 66,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "EliteDamage/primaryDamage",
+      "name": "primaryRecoveryGlow",
+      "type": "default",
+      "from": 0,
+      "to": 66,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "name": "renderScale",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "resourceTint",
+          "type": "bool"
+        },
+        {
+          "name": "mentalColor",
+          "type": "number"
+        },
+        {
+          "name": "staminaColor",
+          "type": "number"
+        },
+        {
+          "name": "resourceGradient",
+          "type": "bool"
+        },
+        {
+          "name": "gradientHighlight",
+          "type": "number"
+        },
+        {
+          "name": "glowAlpha",
+          "type": "number"
+        },
+        {
+          "name": "glowRadius",
+          "type": "number"
+        },
+        {
+          "name": "effectPadding",
+          "type": "number"
+        },
+        {
+          "name": "digitStagger",
+          "type": "number"
+        },
+        {
+          "name": "digitDuration",
+          "type": "number"
+        },
+        {
+          "name": "digitScale",
+          "type": "number"
+        },
+        {
+          "name": "valueSign",
+          "type": "number"
+        },
+        {
+          "name": "recoveryAccentColor",
+          "type": "number"
+        },
+        {
+          "name": "digitStartOpacity",
+          "type": "number"
+        },
+        {
+          "name": "digitFadeDuration",
+          "type": "number"
+        },
+        {
+          "name": "digitEntryOpacity",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "text": "<font=font_ball_speed><size=36>",
+        "maxWidth": 0,
+        "color": 16769107,
+        "halign": 1,
+        "valign": 1,
+        "renderScale": 2,
+        "renderScaleMode": 0,
+        "resourceTint": true,
+        "mentalColor": 11597170,
+        "staminaColor": 11597170,
+        "resourceGradient": true,
+        "gradientHighlight": 0,
+        "glowAlpha": 0.25,
+        "glowRadius": 3,
+        "effectPadding": 5,
+        "digitStagger": 0,
+        "digitDuration": 14,
+        "digitScale": 1.05,
+        "valueSign": 1,
+        "recoveryAccentColor": 11597170,
+        "digitStartOpacity": 0,
+        "digitFadeDuration": 2,
+        "digitEntryOpacity": 0.6
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 66,
+              "v": 66
+            }
+          ]
+        },
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            }
+          ]
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 50,
+              "v": 0
+            },
+            {
+              "t": 66,
+              "v": -14
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 2,
+              "v": 0.16
+            },
+            {
+              "t": 50,
+              "v": 0.16
+            },
+            {
+              "t": 66,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "EliteDamage/primaryDamage",
+      "name": "primaryRecovery",
+      "type": "default",
+      "from": 0,
+      "to": 66,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "name": "renderScale",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        },
+        {
+          "name": "resourceTint",
+          "type": "bool"
+        },
+        {
+          "name": "mentalColor",
+          "type": "number"
+        },
+        {
+          "name": "staminaColor",
+          "type": "number"
+        },
+        {
+          "name": "resourceGradient",
+          "type": "bool"
+        },
+        {
+          "name": "gradientHighlight",
+          "type": "number"
+        },
+        {
+          "name": "glowAlpha",
+          "type": "number"
+        },
+        {
+          "name": "glowRadius",
+          "type": "number"
+        },
+        {
+          "name": "effectPadding",
+          "type": "number"
+        },
+        {
+          "name": "digitStagger",
+          "type": "number"
+        },
+        {
+          "name": "digitDuration",
+          "type": "number"
+        },
+        {
+          "name": "digitScale",
+          "type": "number"
+        },
+        {
+          "name": "valueSign",
+          "type": "number"
+        },
+        {
+          "name": "recoveryAccentColor",
+          "type": "number"
+        },
+        {
+          "name": "digitStartOpacity",
+          "type": "number"
+        },
+        {
+          "name": "digitFadeDuration",
+          "type": "number"
+        },
+        {
+          "name": "digitEntryOpacity",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "text": "<font=font_ball_speed><size=36>",
+        "maxWidth": 0,
+        "color": 16769107,
+        "halign": 1,
+        "valign": 1,
+        "renderScale": 2,
+        "renderScaleMode": 0,
+        "resourceTint": true,
+        "mentalColor": 16768018,
+        "staminaColor": 3976172,
+        "resourceGradient": true,
+        "gradientHighlight": 0.38,
+        "glowAlpha": 0,
+        "glowRadius": 1.5,
+        "effectPadding": 0,
+        "digitStagger": 0,
+        "digitDuration": 14,
+        "digitScale": 1.05,
+        "valueSign": 1,
+        "recoveryAccentColor": 11597170,
+        "digitStartOpacity": 0,
+        "digitFadeDuration": 2,
+        "digitEntryOpacity": 0.6
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 66,
+              "v": 66
+            }
+          ]
+        },
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            }
+          ]
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 50,
+              "v": 0
+            },
+            {
+              "t": 66,
+              "v": -14
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 2,
+              "v": 1
+            },
+            {
+              "t": 50,
+              "v": 1
+            },
+            {
+              "t": 66,
+              "v": 0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

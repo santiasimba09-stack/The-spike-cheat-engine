@@ -1,0 +1,1799 @@
+{
+  "version": 0.1,
+  "fps": 60,
+  "duration": 300,
+  "layers": [
+    {
+      "id": "Essential/sfx",
+      "name": "SFX_ambience_sea_01",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        },
+        {
+          "name": "gain",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sound": "SFX_ambience_sea_01",
+        "gain": 0.5
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 102.6667
+            },
+            {
+              "t": 300,
+              "v": 402.6667
+            }
+          ]
+        },
+        "gain": {
+          "type": "number",
+          "default": 0.5,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 14,
+              "v": 0.5
+            },
+            {
+              "t": 240,
+              "v": 0.5
+            },
+            {
+              "t": 300,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sfx",
+      "name": "SFX_RECEIVE",
+      "type": "default",
+      "from": 151,
+      "to": 275,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "sound": "SFX_RECEIVE"
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 151,
+              "v": 0
+            },
+            {
+              "t": 275,
+              "v": 107
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sfx",
+      "name": "SFX_RECEIVE_1",
+      "type": "default",
+      "from": 151,
+      "to": 275,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "sound": "SFX_RECEIVE"
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 151,
+              "v": 0
+            },
+            {
+              "t": 210,
+              "v": 107
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sfx",
+      "name": "s_woosh_1",
+      "type": "default",
+      "from": 134,
+      "to": 187,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        },
+        {
+          "name": "gain",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sound": "s_woosh_1",
+        "gain": 5
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 134,
+              "v": 0
+            },
+            {
+              "t": 187,
+              "v": 53
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sfx",
+      "name": "s_woosh_2",
+      "type": "default",
+      "from": 0,
+      "to": 105,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        },
+        {
+          "name": "gain",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sound": "s_woosh_1",
+        "gain": 2
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 105,
+              "v": 53
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "GachaCinematic/camera",
+      "name": "Camera 1",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "xrot",
+          "type": "number"
+        },
+        {
+          "name": "yrot",
+          "type": "number"
+        },
+        {
+          "name": "zoom",
+          "type": "number"
+        },
+        {
+          "name": "z",
+          "type": "number"
+        },
+        {
+          "name": "shakeFreq",
+          "type": "number"
+        },
+        {
+          "name": "shakeAmp",
+          "type": "number"
+        },
+        {
+          "name": "shakeAmpZ",
+          "type": "number"
+        },
+        {
+          "name": "shakeAmpRot",
+          "type": "number"
+        },
+        {
+          "name": "shakeSeed",
+          "type": "number"
+        },
+        {
+          "name": "fov",
+          "type": "number"
+        },
+        {
+          "name": "zrot",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "xrot": 1,
+        "yrot": 23.3889,
+        "zoom": 1.8722,
+        "z": 1000,
+        "shakeFreq": 0.5,
+        "shakeAmp": 10,
+        "shakeAmpZ": 0.5,
+        "shakeAmpRot": 1,
+        "shakeSeed": 1,
+        "fov": 67.6666,
+        "zrot": 10
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": -517.2222,
+          "keys": []
+        },
+        "xrot": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 111,
+              "v": 16.7722,
+              "out": {
+                "x": 0.30670643437859474,
+                "y": -0.002514992761904477
+              }
+            },
+            {
+              "t": 147,
+              "v": 15.5458,
+              "in": {
+                "x": 0.9248,
+                "y": 0.0827
+              },
+              "out": {
+                "x": 0.003959504342856899,
+                "y": 0.003469336031358714
+              }
+            },
+            {
+              "t": 148,
+              "v": 5.322,
+              "in": {
+                "x": 0.007880893881590276,
+                "y": 0.0069372504764950126
+              },
+              "out": {
+                "x": 0,
+                "y": 0.8786
+              }
+            },
+            {
+              "t": 232,
+              "v": 1.4834,
+              "in": {
+                "x": 0.3374522480101167,
+                "y": 1.0037186964564446
+              }
+            }
+          ]
+        },
+        "yrot": {
+          "type": "number",
+          "default": -8.9444,
+          "keys": [
+            {
+              "t": 111,
+              "v": -15.0556,
+              "out": {
+                "x": 0.30796963744368294,
+                "y": 0.02580785561778063
+              }
+            },
+            {
+              "t": 147,
+              "v": -8.575045440511424,
+              "in": {
+                "x": 0.9573,
+                "y": 0.2838
+              },
+              "out": {
+                "x": 0.003959635961825876,
+                "y": 0.0036356491178429285
+              }
+            },
+            {
+              "t": 148,
+              "v": 0.4716,
+              "in": {
+                "x": 0.007881023861043276,
+                "y": 0.007266110716065919
+              },
+              "out": {
+                "x": 0,
+                "y": 0.7472
+              }
+            },
+            {
+              "t": 232,
+              "v": 10.5,
+              "in": {
+                "x": 0.33654583496138674,
+                "y": 0.9664561093515497
+              }
+            }
+          ]
+        },
+        "zoom": {
+          "type": "number",
+          "default": 1.8722,
+          "keys": [
+            {
+              "t": 0,
+              "v": 2.8333,
+              "out": {
+                "x": 0,
+                "y": 0.7528
+              }
+            },
+            {
+              "t": 69,
+              "v": 2.4555,
+              "out": {
+                "x": 1,
+                "y": -0.2954
+              },
+              "in": {
+                "x": 0.8432,
+                "y": 1.0399
+              }
+            },
+            {
+              "t": 147,
+              "v": 1.5389,
+              "in": {
+                "x": 0.9625,
+                "y": 0.178
+              },
+              "out": {
+                "x": 0.008563002716200719,
+                "y": 0.012937728163204898
+              }
+            },
+            {
+              "t": 148,
+              "v": 1.7,
+              "in": {
+                "x": 0.017000657172643867,
+                "y": 0.025713096615315522
+              },
+              "out": {
+                "x": 0,
+                "y": 0.9354
+              }
+            },
+            {
+              "t": 300,
+              "v": 1,
+              "in": {
+                "x": 0.5882801941406728,
+                "y": 0.9868923768458656
+              }
+            }
+          ]
+        },
+        "z": {
+          "type": "number",
+          "default": 1321,
+          "keys": [
+            {
+              "t": 147,
+              "v": 1321
+            },
+            {
+              "t": 148,
+              "v": 521,
+              "out": {
+                "x": 0,
+                "y": 1.0042
+              }
+            },
+            {
+              "t": 300,
+              "v": 1321,
+              "in": {
+                "x": 0.0345,
+                "y": 0.9963
+              }
+            }
+          ]
+        },
+        "zrot": {
+          "type": "number",
+          "default": 10,
+          "keys": [
+            {
+              "t": 0,
+              "v": 10,
+              "out": {
+                "x": 1,
+                "y": 0.0124
+              }
+            },
+            {
+              "t": 271,
+              "v": -0.6594,
+              "in": {
+                "x": 0.2267,
+                "y": 0.9282
+              }
+            }
+          ]
+        },
+        "shakeAmp": {
+          "type": "number",
+          "default": 10,
+          "keys": [
+            {
+              "t": 147,
+              "v": 10
+            },
+            {
+              "t": 150,
+              "v": 13.8444
+            },
+            {
+              "t": 151,
+              "v": 100
+            },
+            {
+              "t": 300,
+              "v": 10
+            }
+          ]
+        },
+        "shakeFreq": {
+          "type": "number",
+          "default": 0.5,
+          "keys": [
+            {
+              "t": 150,
+              "v": 0.5
+            },
+            {
+              "t": 151,
+              "v": 0.9611
+            },
+            {
+              "t": 300,
+              "v": 0.5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "GachaCinematic/surfaceTarget",
+      "name": "SurfaceTarget 1",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "renderScale",
+          "type": "number"
+        },
+        {
+          "name": "sepAlpha",
+          "type": "bool"
+        }
+      ],
+      "params": {
+        "name": "surf",
+        "renderScale": 0.75,
+        "sepAlpha": true
+      },
+      "keyframes": {}
+    },
+    {
+      "id": "GachaCinematic/spritePath",
+      "name": "Background",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "path",
+          "type": "string"
+        },
+        {
+          "name": "use3d",
+          "type": "bool"
+        },
+        {
+          "name": "z",
+          "type": "number"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "path": "image_resource\\backgrounds\\backOcean2.jpg",
+        "use3d": true,
+        "z": -20000,
+        "color": 16775664
+      },
+      "keyframes": {
+        "anchorX": {
+          "type": "number",
+          "default": -691.5,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": -320,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": -76.3111,
+          "keys": [
+            {
+              "t": 147,
+              "v": -76.3111
+            },
+            {
+              "t": 148,
+              "v": 76.3111
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 76.31110000000048,
+          "keys": [
+            {
+              "t": 147,
+              "v": 76.31110000000048
+            },
+            {
+              "t": 148,
+              "v": 76.31110000000048
+            }
+          ]
+        },
+        "y": {
+          "type": "number",
+          "default": -2113.8887,
+          "keys": []
+        },
+        "x": {
+          "type": "number",
+          "default": 2361.1111,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "sp_baam",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_baam",
+        "blend": 1
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 43.6111,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 43.6111,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            },
+            {
+              "t": 75,
+              "v": 0.2,
+              "in": {
+                "x": 0,
+                "y": 0.9569
+              }
+            },
+            {
+              "t": 148,
+              "v": 0.04
+            },
+            {
+              "t": 150,
+              "v": 0.2
+            },
+            {
+              "t": 300,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "GachaCinematic/spine",
+      "name": "Spine 1",
+      "type": "default",
+      "from": 0,
+      "to": 305,
+      "paramDefs": [
+        {
+          "name": "animation",
+          "type": "string"
+        },
+        {
+          "name": "path",
+          "type": "string"
+        },
+        {
+          "name": "use3d",
+          "type": "bool"
+        },
+        {
+          "name": "z",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "animation": "start",
+        "path": "image_resource\\illust\\spine\\Summer_Training\\Viola\\viola_skeleton.json",
+        "use3d": false,
+        "z": 1000
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 151,
+              "v": 0,
+              "out": {
+                "x": 0.004271899889101356,
+                "y": 0.021706704925855018
+              }
+            },
+            {
+              "t": 163,
+              "v": 10.3321,
+              "in": {
+                "x": 0.008718938541283331,
+                "y": 0.04295467847263737
+              },
+              "out": {
+                "x": 0.12,
+                "y": 0.4617
+              }
+            },
+            {
+              "t": 300,
+              "v": 45.99,
+              "in": {
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 0.2094,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 0.20940000000000022,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 276.6667,
+          "keys": []
+        },
+        "x": {
+          "type": "number",
+          "default": -441.1111,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 147,
+              "v": 0
+            },
+            {
+              "t": 148,
+              "v": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/surfaceEnd",
+      "name": "SurfaceEnd 1",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [],
+      "params": {},
+      "keyframes": {}
+    },
+    {
+      "id": "GachaCinematic/surfaceFx",
+      "name": "SurfaceFx 1",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "respectUserPpfx",
+          "type": "bool"
+        },
+        {
+          "name": "Invert_Enable",
+          "type": "bool"
+        },
+        {
+          "name": "Blur_Enable",
+          "type": "bool"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        },
+        {
+          "name": "respectUserPpfxDraw",
+          "type": "bool"
+        },
+        {
+          "name": "Blur_Resolution",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "name": "surf",
+        "respectUserPpfx": true,
+        "Invert_Enable": false,
+        "Blur_Enable": true,
+        "blend": 0,
+        "respectUserPpfxDraw": true,
+        "Blur_Resolution": 1
+      },
+      "keyframes": {
+        "Blur_Amount": {
+          "type": "number",
+          "default": 0.1,
+          "keys": [
+            {
+              "t": 45,
+              "v": 0.15
+            },
+            {
+              "t": 105,
+              "v": 0
+            },
+            {
+              "t": 165,
+              "v": 0.1
+            },
+            {
+              "t": 225,
+              "v": 0.01,
+              "in": {
+                "x": 0.2089,
+                "y": 0.9418
+              }
+            },
+            {
+              "t": 285,
+              "v": 0
+            },
+            {
+              "t": 292,
+              "v": 0.2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "GachaCinematic/particle",
+      "name": "Particle 1",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "distMax",
+          "type": "number"
+        },
+        {
+          "name": "emitD",
+          "type": "number"
+        },
+        {
+          "name": "amount",
+          "type": "number"
+        },
+        {
+          "name": "ease",
+          "type": "number"
+        },
+        {
+          "name": "seed",
+          "type": "number"
+        },
+        {
+          "name": "lifeMin",
+          "type": "number"
+        },
+        {
+          "name": "wiggleAmp",
+          "type": "number"
+        },
+        {
+          "name": "wiggleFreq",
+          "type": "number"
+        },
+        {
+          "name": "mode",
+          "type": "number"
+        },
+        {
+          "name": "sizeDeath",
+          "type": "number"
+        },
+        {
+          "name": "sizeJitter",
+          "type": "number"
+        },
+        {
+          "name": "fadeOut",
+          "type": "number"
+        },
+        {
+          "name": "fadeIn",
+          "type": "number"
+        },
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "z",
+          "type": "number"
+        },
+        {
+          "name": "sizeBirth",
+          "type": "number"
+        },
+        {
+          "name": "colorDeath",
+          "type": "number"
+        },
+        {
+          "name": "colorBirth",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_circle_256_256",
+        "distMax": 1000,
+        "emitD": 1300,
+        "amount": 30,
+        "ease": 3,
+        "seed": 2,
+        "lifeMin": 0.25,
+        "wiggleAmp": 10,
+        "wiggleFreq": 0.5,
+        "mode": 2,
+        "sizeDeath": 0.05,
+        "sizeJitter": 1.4889,
+        "fadeOut": 0.9,
+        "fadeIn": 1,
+        "speed": 0.2,
+        "z": 736.1111,
+        "sizeBirth": 0.01,
+        "colorDeath": 16763796,
+        "colorBirth": 16435089
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 0.8445,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 0.8444999999999981,
+          "keys": []
+        },
+        "x": {
+          "type": "number",
+          "default": -391.6667,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 285,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "GachaCinematic/particle",
+      "name": "Particle 1_2",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "distMax",
+          "type": "number"
+        },
+        {
+          "name": "emitD",
+          "type": "number"
+        },
+        {
+          "name": "amount",
+          "type": "number"
+        },
+        {
+          "name": "ease",
+          "type": "number"
+        },
+        {
+          "name": "seed",
+          "type": "number"
+        },
+        {
+          "name": "lifeMin",
+          "type": "number"
+        },
+        {
+          "name": "wiggleAmp",
+          "type": "number"
+        },
+        {
+          "name": "wiggleFreq",
+          "type": "number"
+        },
+        {
+          "name": "mode",
+          "type": "number"
+        },
+        {
+          "name": "sizeDeath",
+          "type": "number"
+        },
+        {
+          "name": "sizeJitter",
+          "type": "number"
+        },
+        {
+          "name": "fadeOut",
+          "type": "number"
+        },
+        {
+          "name": "fadeIn",
+          "type": "number"
+        },
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "z",
+          "type": "number"
+        },
+        {
+          "name": "sizeBirth",
+          "type": "number"
+        },
+        {
+          "name": "colorDeath",
+          "type": "number"
+        },
+        {
+          "name": "colorBirth",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_baam",
+        "distMax": 1000,
+        "emitD": 1300,
+        "amount": 30,
+        "ease": 3,
+        "seed": 2,
+        "lifeMin": 0.25,
+        "wiggleAmp": 10,
+        "wiggleFreq": 0.5,
+        "mode": 2,
+        "sizeDeath": 0.1,
+        "sizeJitter": 1.4889,
+        "fadeOut": 0.9,
+        "fadeIn": 1,
+        "speed": 0.2,
+        "z": 736.1111,
+        "sizeBirth": 0.1,
+        "colorDeath": 16763796,
+        "colorBirth": 16435089
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 0.8445,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 0.8444999999999981,
+          "keys": []
+        },
+        "x": {
+          "type": "number",
+          "default": -391.6667,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 285,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "sp_baam_1",
+      "type": "default",
+      "from": 148,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_baam",
+        "blend": 1
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 43.6111,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 43.6111,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            },
+            {
+              "t": 75,
+              "v": 0.2,
+              "in": {
+                "x": 0,
+                "y": 0.9569
+              }
+            },
+            {
+              "t": 149,
+              "v": 0.3
+            },
+            {
+              "t": 240,
+              "v": 0,
+              "in": {
+                "x": 0,
+                "y": 0.9614
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "sp_vignetting",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "sprite": "sp_vignetting"
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 10.4734,
+          "keys": [
+            {
+              "t": 73,
+              "v": 10.4734,
+              "out": {
+                "x": 0.408,
+                "y": -0.0156
+              }
+            },
+            {
+              "t": 120,
+              "v": 15.3345,
+              "in": {
+                "x": 0.1937,
+                "y": 0.9198
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 2.54,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1.5,
+              "out": {
+                "x": 0,
+                "y": 0.7374
+              }
+            },
+            {
+              "t": 35,
+              "v": 3.6025,
+              "out": {
+                "x": 0.4358,
+                "y": -0.1159
+              }
+            },
+            {
+              "t": 75,
+              "v": 2.7419,
+              "in": {
+                "x": 0.5929,
+                "y": 1.6001
+              },
+              "out": {
+                "x": 0.306,
+                "y": 0.0484
+              }
+            },
+            {
+              "t": 120,
+              "v": 10.1833,
+              "in": {
+                "x": 0.4429,
+                "y": 0.9032
+              }
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 0.5,
+          "keys": [
+            {
+              "t": 99,
+              "v": 1
+            },
+            {
+              "t": 120,
+              "v": 0.75
+            },
+            {
+              "t": 151,
+              "v": 0.2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "vignetting_side1",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_box",
+        "color": 0
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 128,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 100,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 128,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      },
+      "parentName": "sp_vignetting"
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "vignetting_side2",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_box",
+        "color": 0
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": -128,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": -1,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 100,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 128,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      },
+      "parentName": "sp_vignetting"
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "vignetting_side3",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_box",
+        "color": 0
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": -128,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": -1,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 256,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 100,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      },
+      "parentName": "sp_vignetting"
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "vignetting_side3_1",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_box",
+        "color": 0
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 128,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 256,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 100,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      },
+      "parentName": "sp_vignetting"
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "sp_box",
+      "type": "default",
+      "from": 0,
+      "to": 300,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "color",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_box",
+        "color": 0
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 10000,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 10000,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            },
+            {
+              "t": 14,
+              "v": 0
+            },
+            {
+              "t": 285,
+              "v": 0
+            },
+            {
+              "t": 300,
+              "v": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/flexText",
+      "name": "Line",
+      "type": "default",
+      "from": 0,
+      "to": 120,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "text": "<size=32><shadow=0.6>#LINE/VIOLA/SUMMERTRAINING"
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 300,
+              "v": 300
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1.4
+            },
+            {
+              "t": 60,
+              "v": 1,
+              "in": {
+                "x": 0,
+                "y": 0.9666
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1.4
+            },
+            {
+              "t": 60,
+              "v": 1,
+              "in": {
+                "x": 0,
+                "y": 0.9666
+              }
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 30,
+              "v": 1
+            },
+            {
+              "t": 105,
+              "v": 1
+            },
+            {
+              "t": 120,
+              "v": 0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "version": 0.1,
+  "fps": 60,
+  "duration": 111,
+  "layers": [
+    {
+      "id": "Essential/flexText",
+      "name": "GAME OVER",
+      "type": "default",
+      "from": 0,
+      "to": 111,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "text": "<font=\"signwood\"><reveal=2><size=72><slide y=40><jump duration=80 y=80><fadein duration=10><glow end=20 alpha=0.15><gradient top=#FEF1EC bottom=#FFC800><i=10>GAME OVER"
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 111,
+              "v": 135
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 97,
+              "v": 1
+            },
+            {
+              "t": 111,
+              "v": 0
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "Essential/sfx",
+      "name": "SFX_SWOOSH_BOOM",
+      "type": "default",
+      "from": 0,
+      "to": 111,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        },
+        {
+          "name": "gain",
+          "type": "number"
+        },
+        {
+          "name": "channel",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "sound": "SFX_SWOOSH_BOOM",
+        "gain": 0.5,
+        "channel": "ui"
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 60
+            },
+            {
+              "t": 111,
+              "v": 228.18181818181816
+            }
+          ]
+        },
+        "gain": {
+          "type": "number",
+          "default": 0.5,
+          "keys": [
+            {
+              "t": 5,
+              "v": 0.5
+            },
+            {
+              "t": 111,
+              "v": 0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

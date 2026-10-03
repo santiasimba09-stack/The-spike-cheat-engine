@@ -1,0 +1,375 @@
+{
+  "version": 0.1,
+  "fps": 60,
+  "duration": 60,
+  "layers": [
+    {
+      "id": "ReplayTransition/particle",
+      "name": "Particle 1",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "amount",
+          "type": "number"
+        },
+        {
+          "name": "partScale",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "amount": 60,
+        "partScale": 1
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 20,
+          "keys": [
+            {
+              "t": 42,
+              "v": 62.0339
+            },
+            {
+              "t": 60,
+              "v": 237.1006,
+              "in": {
+                "x": 1,
+                "y": 0.0048
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 20,
+          "keys": [
+            {
+              "t": 42,
+              "v": 62.0339
+            },
+            {
+              "t": 60,
+              "v": 241.0556,
+              "in": {
+                "x": 1,
+                "y": 0.0048
+              }
+            }
+          ]
+        },
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0,
+              "out": {
+                "x": 0.0223,
+                "y": 0.1603
+              }
+            },
+            {
+              "t": 60,
+              "v": 20,
+              "in": {
+                "x": 0.1206,
+                "y": 0.9481
+              }
+            }
+          ]
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 14.0667
+            },
+            {
+              "t": 45,
+              "v": 1,
+              "in": {
+                "x": 0,
+                "y": 0.9829
+              }
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": -90.6,
+              "out": {
+                "x": 0,
+                "y": 1.0197
+              }
+            },
+            {
+              "t": 60,
+              "v": -156.2868,
+              "in": {
+                "x": 1,
+                "y": -0.118
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ReplayTransition/logo",
+      "name": "Logo 1",
+      "type": "default",
+      "from": 0,
+      "to": 60,
+      "paramDefs": [
+        {
+          "name": "pz",
+          "type": "number"
+        },
+        {
+          "name": "protx",
+          "type": "number"
+        },
+        {
+          "name": "proty",
+          "type": "number"
+        },
+        {
+          "name": "protz",
+          "type": "number"
+        },
+        {
+          "name": "spineFrame",
+          "type": "number"
+        },
+        {
+          "name": "darkness",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "pz": 0.0333,
+        "protx": 0.0467,
+        "proty": 0.0333,
+        "protz": 0.0333,
+        "spineFrame": 0.0333,
+        "darkness": 0.0333
+      },
+      "keyframes": {
+        "protz": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "proty": {
+          "type": "number",
+          "default": 54.16,
+          "keys": [
+            {
+              "t": 0,
+              "v": 70.4267,
+              "out": {
+                "x": 0,
+                "y": 0.2708
+              }
+            },
+            {
+              "t": 60,
+              "v": -49.84,
+              "in": {
+                "x": 1,
+                "y": 0.6678
+              }
+            }
+          ]
+        },
+        "protx": {
+          "type": "number",
+          "default": -36.4667,
+          "keys": [
+            {
+              "t": 0,
+              "v": 15.1266
+            },
+            {
+              "t": 60,
+              "v": -45.0734
+            }
+          ]
+        },
+        "pz": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": -15000
+            },
+            {
+              "t": 2,
+              "v": -5000,
+              "out": {
+                "x": 0.0313,
+                "y": 0.679
+              },
+              "in": {
+                "x": 0.113,
+                "y": 0.5313
+              }
+            },
+            {
+              "t": 60,
+              "v": 1596.8667,
+              "in": {
+                "x": 0.596,
+                "y": 0.576
+              }
+            }
+          ]
+        },
+        "spineFrame": {
+          "type": "number",
+          "default": 0.0333,
+          "keys": [
+            {
+              "t": 5,
+              "v": 10.7266,
+              "out": {
+                "x": 0,
+                "y": 0.2933
+              }
+            },
+            {
+              "t": 58,
+              "v": 83.6133,
+              "in": {
+                "x": 1,
+                "y": 0.2708
+              }
+            }
+          ]
+        },
+        "darkness": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 49,
+              "v": 0
+            },
+            {
+              "t": 59,
+              "v": 0.25
+            },
+            {
+              "t": 60,
+              "v": 0.75
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sfx",
+      "name": "s_bassSwoosh1",
+      "type": "default",
+      "from": 35,
+      "to": 60,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        },
+        {
+          "name": "gain",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sound": "s_bassSwoosh1",
+        "gain": 1.01
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 35,
+              "v": 0
+            },
+            {
+              "t": 77,
+              "v": 160
+            }
+          ]
+        },
+        "gain": {
+          "type": "number",
+          "default": 1.01,
+          "keys": [
+            {
+              "t": 48,
+              "v": 1.01
+            },
+            {
+              "t": 60,
+              "v": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sfx",
+      "name": "s_bassSwoosh1_1",
+      "type": "default",
+      "from": 0,
+      "to": 56,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        },
+        {
+          "name": "gain",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sound": "s_bassSwoosh1",
+        "gain": 1.01
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 56,
+              "v": 160
+            }
+          ]
+        },
+        "gain": {
+          "type": "number",
+          "default": 0.25,
+          "keys": []
+        }
+      }
+    }
+  ]
+}

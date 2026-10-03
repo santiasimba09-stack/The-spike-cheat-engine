@@ -1,0 +1,1197 @@
+{
+  "version": 0.1,
+  "fps": 60,
+  "duration": 180,
+  "layers": [
+    {
+      "id": "Essential/surfaceTarget",
+      "name": "Surf Target",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "left",
+          "type": "number"
+        },
+        {
+          "name": "right",
+          "type": "number"
+        },
+        {
+          "name": "top",
+          "type": "number"
+        },
+        {
+          "name": "bottom",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "name": "surf",
+        "left": 900,
+        "right": 900,
+        "top": 200,
+        "bottom": 200
+      },
+      "keyframes": {}
+    },
+    {
+      "id": "Essential/sfx",
+      "name": "SFX_VICTORY",
+      "type": "default",
+      "from": 0,
+      "to": 190,
+      "paramDefs": [
+        {
+          "name": "sound",
+          "type": "string"
+        },
+        {
+          "name": "channel",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "sound": "SFX_VICTORY",
+        "channel": "ui"
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 240,
+              "v": 240
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/flexText",
+      "name": "Victory Title",
+      "type": "default",
+      "from": 0,
+      "to": 140,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "name": "renderScale",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "text": "<font=signwood><size=104><glow alpha=0.45 end=20><gradient top=#FF8800 bottom=#FED886>VICTORY",
+        "renderScale": 2
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 120,
+              "v": 120
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "Essential/flexText",
+      "name": "Victory Title Mastery",
+      "type": "default",
+      "from": 100,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "text",
+          "type": "string"
+        },
+        {
+          "name": "renderScale",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "text": "<font=signwood><size=104><color=#9F5C1D><glow alpha=1 end=40><cinematic-mastery>VICTORY",
+        "renderScale": 2
+      },
+      "keyframes": {
+        "frame": {
+          "type": "number",
+          "default": 0,
+          "keys": [
+            {
+              "t": 119,
+              "v": 120
+            },
+            {
+              "t": 160,
+              "v": 0
+            }
+          ]
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 100,
+              "v": 0,
+              "out": {
+                "x": 1,
+                "y": 0.0102
+              }
+            },
+            {
+              "t": 140,
+              "v": 1,
+              "in": {
+                "x": 1,
+                "y": 0.2234
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/surfaceEnd",
+      "name": "Surf Target End",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [],
+      "params": {},
+      "keyframes": {}
+    },
+    {
+      "id": "Essential/surfaceTarget",
+      "name": "Inversed Target",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "clearColor",
+          "type": "number"
+        },
+        {
+          "name": "clearAlpha",
+          "type": "number"
+        },
+        {
+          "name": "renderScale",
+          "type": "number"
+        },
+        {
+          "name": "left",
+          "type": "number"
+        },
+        {
+          "name": "right",
+          "type": "number"
+        },
+        {
+          "name": "top",
+          "type": "number"
+        },
+        {
+          "name": "bottom",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "name": "inversed",
+        "clearColor": 16777215,
+        "clearAlpha": 1,
+        "renderScale": 0.4,
+        "left": 900,
+        "right": 900,
+        "top": 200,
+        "bottom": 200
+      },
+      "keyframes": {}
+    },
+    {
+      "id": "Essential/gpuState",
+      "name": "Surf Blend State",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "blend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "blend": 3
+      },
+      "keyframes": {}
+    },
+    {
+      "id": "Essential/surfaceDraw",
+      "name": "Surf Draw",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "name",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "name": "surf"
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "Essential/gpuEnd",
+      "name": "Surf Blend End",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [],
+      "params": {},
+      "keyframes": {}
+    },
+    {
+      "id": "Essential/surfaceEnd",
+      "name": "Inversed Target End",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [],
+      "params": {},
+      "keyframes": {}
+    },
+    {
+      "id": "Essential/surfaceTarget",
+      "name": "Final Target",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "left",
+          "type": "number"
+        },
+        {
+          "name": "right",
+          "type": "number"
+        },
+        {
+          "name": "top",
+          "type": "number"
+        },
+        {
+          "name": "bottom",
+          "type": "number"
+        },
+        {
+          "name": "renderScale",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "name": "final",
+        "left": 900,
+        "right": 900,
+        "top": 200,
+        "bottom": 200,
+        "renderScale": 0.4
+      },
+      "keyframes": {}
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "Gradient White",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "sprite": "sp_gradiant_white"
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 546.1113,
+          "keys": [
+            {
+              "t": 60,
+              "v": -333.9444,
+              "out": {
+                "x": 0,
+                "y": 0.4589
+              }
+            },
+            {
+              "t": 160,
+              "v": 646.6669,
+              "in": {
+                "x": 0.2863,
+                "y": 0.9262
+              }
+            }
+          ]
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": -19.5,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 120,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 260,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "Essential/particle",
+      "name": "Victory Burst FX",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "mode",
+          "type": "number"
+        },
+        {
+          "name": "sizeDeath",
+          "type": "number"
+        },
+        {
+          "name": "ease",
+          "type": "number"
+        },
+        {
+          "name": "wiggleAmp",
+          "type": "number"
+        },
+        {
+          "name": "wiggleFreq",
+          "type": "number"
+        },
+        {
+          "name": "amount",
+          "type": "number"
+        },
+        {
+          "name": "sizeJitter",
+          "type": "number"
+        },
+        {
+          "name": "distMax",
+          "type": "number"
+        },
+        {
+          "name": "lifeMin",
+          "type": "number"
+        },
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "distMin",
+          "type": "number"
+        },
+        {
+          "name": "sizeBirth",
+          "type": "number"
+        },
+        {
+          "name": "colorBirth",
+          "type": "number"
+        },
+        {
+          "name": "colorDeath",
+          "type": "number"
+        },
+        {
+          "name": "shape",
+          "type": "number"
+        },
+        {
+          "name": "emitW",
+          "type": "number"
+        },
+        {
+          "name": "spread",
+          "type": "number"
+        },
+        {
+          "name": "fadeIn",
+          "type": "number"
+        },
+        {
+          "name": "fadeOut",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_baam_ingame_UI",
+        "mode": 1,
+        "sizeDeath": 0.1,
+        "ease": 1,
+        "wiggleAmp": 10,
+        "wiggleFreq": 0.1,
+        "amount": 15,
+        "sizeJitter": 50,
+        "distMax": 300,
+        "lifeMin": 0,
+        "speed": 0.5,
+        "distMin": 100,
+        "sizeBirth": 0.05,
+        "colorBirth": 38399,
+        "colorDeath": 5753599,
+        "shape": 1,
+        "emitW": 1200,
+        "spread": 90,
+        "fadeIn": 0.5,
+        "fadeOut": 1
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            },
+            {
+              "t": 160,
+              "v": 1.1
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            },
+            {
+              "t": 160,
+              "v": 1.1
+            }
+          ]
+        },
+        "y": {
+          "type": "number",
+          "default": 94.1667,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "Essential/gpuState",
+      "name": "Inversed Blend State",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "blend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "blend": 3
+      },
+      "keyframes": {}
+    },
+    {
+      "id": "Essential/surfaceDraw",
+      "name": "Inversed Draw",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "name",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "name": "inversed"
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "Essential/gpuEnd",
+      "name": "Inversed Blend End",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [],
+      "params": {},
+      "keyframes": {}
+    },
+    {
+      "id": "Essential/surfaceEnd",
+      "name": "Final Target End",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [],
+      "params": {},
+      "keyframes": {}
+    },
+    {
+      "id": "Essential/surfaceDraw",
+      "name": "Victory Composite",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "name",
+          "type": "string"
+        }
+      ],
+      "params": {
+        "name": "surf"
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1,
+              "out": {
+                "x": 0,
+                "y": 0.6311
+              }
+            },
+            {
+              "t": 120,
+              "v": 1.5,
+              "in": {
+                "x": 0.1022,
+                "y": 0.9852
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1,
+              "out": {
+                "x": 0,
+                "y": 0.6311
+              }
+            },
+            {
+              "t": 120,
+              "v": 1.5,
+              "in": {
+                "x": 0.1022,
+                "y": 0.9852
+              }
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      }
+    },
+    {
+      "id": "Essential/surfaceDraw",
+      "name": "Final Overlay Draw",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "name": "final",
+        "blend": 1
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": []
+        }
+      },
+      "parentName": "Victory Composite"
+    },
+    {
+      "id": "Essential/surfaceDraw",
+      "name": "Victory Scale Draw",
+      "type": "default",
+      "from": 0,
+      "to": 120,
+      "paramDefs": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "name": "surf",
+        "blend": 1
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 1.5133,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1,
+              "out": {
+                "x": 0,
+                "y": 0.7558
+              }
+            },
+            {
+              "t": 120,
+              "v": 1.8,
+              "in": {
+                "x": 0,
+                "y": 0.9778
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1.5133000000000005,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1,
+              "out": {
+                "x": 0,
+                "y": 0.7558
+              }
+            },
+            {
+              "t": 120,
+              "v": 1.8,
+              "in": {
+                "x": 0,
+                "y": 0.9778
+              }
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0.3
+            },
+            {
+              "t": 120,
+              "v": -0.2
+            }
+          ]
+        }
+      },
+      "parentName": "Victory Composite"
+    },
+    {
+      "id": "Essential/particle",
+      "name": "Victory Spark FX",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "mode",
+          "type": "number"
+        },
+        {
+          "name": "sizeDeath",
+          "type": "number"
+        },
+        {
+          "name": "ease",
+          "type": "number"
+        },
+        {
+          "name": "wiggleAmp",
+          "type": "number"
+        },
+        {
+          "name": "wiggleFreq",
+          "type": "number"
+        },
+        {
+          "name": "amount",
+          "type": "number"
+        },
+        {
+          "name": "sizeJitter",
+          "type": "number"
+        },
+        {
+          "name": "distMax",
+          "type": "number"
+        },
+        {
+          "name": "lifeMin",
+          "type": "number"
+        },
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "distMin",
+          "type": "number"
+        },
+        {
+          "name": "sizeBirth",
+          "type": "number"
+        },
+        {
+          "name": "colorBirth",
+          "type": "number"
+        },
+        {
+          "name": "colorDeath",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_baam_ingame_UI",
+        "mode": 2,
+        "sizeDeath": 0.03,
+        "ease": 6,
+        "wiggleAmp": 10,
+        "wiggleFreq": 0.1,
+        "amount": 15,
+        "sizeJitter": 2,
+        "distMax": 1100,
+        "lifeMin": 0,
+        "speed": 0.5,
+        "distMin": 500,
+        "sizeBirth": 0.1,
+        "colorBirth": 38399,
+        "colorDeath": 5753599
+      },
+      "keyframes": {
+        "xscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            },
+            {
+              "t": 160,
+              "v": 1.1
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 1,
+          "keys": [
+            {
+              "t": 0,
+              "v": 1
+            },
+            {
+              "t": 160,
+              "v": 1.1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "Essential/sprite",
+      "name": "Victory Ring",
+      "type": "default",
+      "from": 0,
+      "to": 160,
+      "paramDefs": [
+        {
+          "name": "sprite",
+          "type": "string"
+        },
+        {
+          "name": "blend",
+          "type": "number"
+        }
+      ],
+      "params": {
+        "sprite": "sp_ingame_effect_Ring",
+        "blend": 1
+      },
+      "keyframes": {
+        "x": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "y": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorX": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "anchorY": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "xscale": {
+          "type": "number",
+          "default": 10,
+          "keys": [
+            {
+              "t": 0,
+              "v": 10
+            },
+            {
+              "t": 160,
+              "v": 20,
+              "in": {
+                "x": 0,
+                "y": 0.938
+              }
+            }
+          ]
+        },
+        "yscale": {
+          "type": "number",
+          "default": 10,
+          "keys": [
+            {
+              "t": 0,
+              "v": 10
+            },
+            {
+              "t": 160,
+              "v": 20,
+              "in": {
+                "x": 0,
+                "y": 0.938
+              }
+            }
+          ]
+        },
+        "angle": {
+          "type": "number",
+          "default": 0,
+          "keys": []
+        },
+        "opacity": {
+          "type": "number",
+          "default": 0.2,
+          "keys": [
+            {
+              "t": 0,
+              "v": 0
+            },
+            {
+              "t": 10,
+              "v": 0.5
+            },
+            {
+              "t": 40,
+              "v": 0.2
+            },
+            {
+              "t": 160,
+              "v": 0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
