@@ -20,6 +20,7 @@ function M.reset()
   M.speed = 1.0
   M.speedCalls = 0
   M.logs = {}
+  M.readonly = {}        -- address -> true (writes fail until fullAccess)
 end
 
 local function install()
@@ -49,10 +50,15 @@ local function install()
     local t = {}
     for i = 0, n - 1 do
       local b = M.code[addr + i]
+      if b == nil then b = M.values[addr + i] end
       if b == nil then return nil end
       t[#t + 1] = b
     end
     return t
+  end
+  function writeBytes(addr, bytes)
+    for i, b in ipairs(bytes) do M.values[addr + i - 1] = b end
+    return true
   end
 
   function allocateMemory() return M.nextAlloc end
@@ -84,7 +90,12 @@ local function install()
   end
 
   local function rd(addr) return M.values[addr] end
-  local function wr(addr, v) M.values[addr] = v; return true end
+  local function wr(addr, v)
+    if M.readonly[addr] then return false end
+    M.values[addr] = v
+    return true
+  end
+  function fullAccess(addr) M.readonly[addr] = nil end
   readPointer, writePointer = rd, wr
   readFloat, writeFloat = rd, wr
   readDouble, writeDouble = rd, wr
