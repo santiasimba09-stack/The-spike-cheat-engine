@@ -1,0 +1,44 @@
+﻿KEY,태국어(th)
+NOT_EXIST_FILTERGROUP,ไม่มีกลุ่มตัวกรอง
+NOT_EXIST_ARENA_POINT_REWARD_LIST,ไม่มีรายการรางวัลคะแนนอารีนา
+NOT_FOUND_ARENA_POINT_REWARD,ไม่มีรางวัลคะแนนสะสมสำหรับซีซันปัจจุบัน
+ALREADY_CLAIMED_ARENA_POINT_REWARD,รับรางวัลคะแนนสะสมแล้ว
+NOT_EXIST_USER_TIER,ไม่มีระดับผู้เล่น
+NOT_EXIST_USER_ATTENDANCE,ไม่พบข้อมูลการเช็กชื่อ
+NOT_EXIST_ACHIEVEMENTLIST,ไม่สามารถโหลดข้อมูลความสำเร็จได้
+NOT_EXIST_TIERLIST,ไม่สามารถโหลดข้อมูลระดับได้
+NOT_ENOUGH_TIER_DIAMOND,คอนเทนต์อารีนาเปิดให้ใช้ตั้งแต่ระดับไดมอนด์ขึ้นไป
+NOT_FOUND_USER_ARENA_ROUND,ไม่พบข้อมูลรอบอารีนาของผู้เล่น
+NOT_COMPLETE_ARENA,ยังไม่จบอารีนา
+NOT_COMPLETE_ROUND,ยังไม่จบรอบ
+NOT_FAILED_ROUND,รอบนี้ยังไม่ล้มเหลว
+NOT_DRAW_CARD,ยังไม่ได้จั่วการ์ด
+INVALID_COST_PACKAGE,แพ็กเกจค่าใช้จ่ายไม่ถูกต้อง
+NOT_EXIST_USER,ไม่พบผู้เล่น
+NOT_ENOUGH_VPOINT,V Point ไม่เพียงพอ
+NOT_ENOUGH_FREEVPOINT,V Point ฟรีไม่เพียงพอ
+NOT_ENOUGH_PAIDVPOINT,V Point แบบชำระเงินไม่เพียงพอ
+NOT_ENOUGH_CREDIT,เครดิตไม่เพียงพอ
+NOT_ENOUGH_EXPPOINT,EXP ไม่เพียงพอ
+NOT_ENOUGH_BLUEFLAME,Blue Flame ไม่เพียงพอ
+NOT_EXIST_INVENTORY,ไม่มีอินเวนทอรี
+ITEM_NOT_FOUND,ไม่พบไอเทม
+NOT_ENOUGH_ITEM_AMOUNT,จำนวนไอเทมไม่เพียงพอ
+NOT_EXIST_AWAKEN_ITEM,ไม่มีรายการไอเทมปลุกพลัง
+NOT_EXIST_PRODUCT_LIST,ไม่มีรายการสินค้า
+NOT_EXIST_PLAYER_LIST,ไม่มีรายชื่อนักกีฬา
+INVALID_PLAYER_ID,ไม่พบนักกีฬา
+INVALID_AWAKEN_ITEM,ไม่พบไอเทมปลุกพลัง
+INVALID_AWAKEN_COST_PRODUCT,ไม่พบสินค้าไอเทมปลุกพลัง
+NOT_ENOUGH_USER_PLAYER,จำนวนนักกีฬาที่มีไม่เพียงพอ
+NOT_ENOUGH_ABILITY_CARD,ไม่สามารถจั่วการ์ด 6 ใบได้
+NOT_AVAILABLE_RESET_TICKET,ไม่สามารถใช้ตั๋วรีเซ็ตได้
+USER_PLAYER_LIST_NOT_FOUND,ไม่มีรายชื่อนักกีฬาของผู้เล่น
+ALREADY_SELECT_DIFFICULTY,เลือกระดับความยากแล้ว
+NOT_SELECT_PLAYER_POOL,ยังไม่ได้เลือกพูลผู้เล่น
+NOT_SELECT_DIFFICULTY,ยังไม่ได้เลือกระดับความยาก
+NOT_START_ROUND,ยังไม่ได้เริ่มรอบ
+DATA_HACKED,ตรวจพบการแก้ไขข้อมูลที่ผิดปกติ
+INVALID_STATUS,ไม่สามารถดำเนินการคำขอนี้ได้ในสถานะปัจจุบัน
+TIME_OVER,หมดเวลา
+NOT_FOUND_USER_ARENA_ROUND,ไม่พบข้อมูลรอบอารีนาของผู้เล่น

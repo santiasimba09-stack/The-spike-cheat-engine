@@ -1,0 +1,300 @@
+﻿KEY,베트남어(vi)
+TUTORIAL_MISSION/BASIC_SERVE,Thực hiện Phát Bóng Cơ Bản
+TUTORIAL_MISSION/BLOCKING,Thực hiện Chắn Bóng
+TUTORIAL_MISSION/FEINT,Thực hiện Cú Nhử
+TUTORIAL_MISSION/JUMP_FLOATER_SERVE,Phát Bóng Nhảy Lắc
+TUTORIAL_MISSION/MOVE_LEFT,Di chuyển sang trái
+TUTORIAL_MISSION/MOVE_RIGHT,Di chuyển sang phải
+TUTORIAL_MISSION/RECEIVE,Thực hiện Đỡ Bóng
+TUTORIAL_MISSION/SLIDING,Thực hiện Trượt Cứu Bóng
+TUTORIAL_MISSION/SPIKE_SERVE,Thực hiện Phát Bóng Tấn Công
+TUTORIAL_MISSION/SPIKE,Thực hiện Đập Bóng
+TUTORIAL_MISSION/PERFECT_BLOCKING,Thực hiện Chặn Bóng Hoàn Hảo
+BLOCK_NET_FRONT_TIP,Chắn bóng phải thực hiện ngay trước lưới!
+BLOCK_FASTER_TIP,Hãy thử bật nhảy sớm hơn một chút!
+BLOCK_SLOWER_TIP,Hãy thử bật nhảy muộn hơn một chút!
+SPIKE_TWICE_TIP,Bạn phải nhấn nút đập bóng thêm một lần nữa khi đang ở trên không!
+SPIKE_NEAR_TIP,Bạn phải nhảy gần quả bóng!
+PRACTICE_MATCH_OKAY_TIP,Vì đây là trận đấu tập nên điểm của đội đối thủ sẽ không tăng!
+MOVE_FAST_AFTER_SERVE_TIP,"Sau khi phát bóng, hãy nhanh chóng di chuyển vào trong sân!#(Di chuyển sang phải)"
+SPIKE_NEAR_TIP_02,"Để thực hiện cú đập bóng, bạn cần tiến lại gần bóng!"
+HOLD_RECEIVE_BUTTON,Bạn có thể giữ nút đỡ bóng liên tục cũng được!
+SPIKE_JUMP_FASTER_TIP,Quá muộn! Bạn cần nhảy nhanh hơn.
+SPIKE_JUMP_LATER_TIP,Quá sớm! Bạn cần nhảy muộn hơn.
+GO_FRONT_NET_TIP,Di chuyển lên lưới và sẵn sàng Chắn Bóng!
+SPIKE_PRESS_LONG_TIP,Nhấn giữ nút Đập Bóng đến hết!
+TUTORIAL_LEVEL_BASIC,Hướng dẫn Cơ Bản
+FEINT_PRESS_AIR_TIP,Nhấn nút Cú Nhử khi đang trên không!
+TUTORIAL_BASIC_MOVEMENT,Động Tác Cơ Bản
+TUTORIAL_MED_MOVEMENT,Động Tác Thường
+TUTORIAL_HARD_MOVEMENT,Động Tác Nâng Cao
+TUTORIAL_BASIC_CONCEPT,Khái Niệm Cơ Bản
+,
+TUTORIAL/SLOWER_MOVE,Giảm Tốc Độ Di Chuyển
+TUTORIAL/SLOWER_MOVE_DES,"Khi pha bóng kéo dài, tốc độ di chuyển của tất cả người chơi sẽ giảm."
+TUTORIAL/MOVE,Di Chuyển
+TUTORIAL/MOVE_DES,Hãy thử di chuyển sang trái/phải
+TUTORIAL/SERVE,Giao Bóng
+TUTORIAL/SERVE_DES,Nhấn (n1) để Giao Bóng!
+TUTORIAL/BLOCKING,Chắn Bóng
+TUTORIAL/BLOCKING_DES,Nhấn và thả (n1) trước lưới để Chắn Bóng!
+TUTORIAL/SCOREBOARD,Xem Bảng Tỷ Số
+TUTORIAL/SCOREBOARD_DES1,Bạn có thể xem thể lực và điểm số của đội ở phía trên màn hình!
+TUTORIAL/SCOREBOARD_DES2,Thể lực sẽ bị tiêu hao khi phòng thủ những cú bóng mạnh.
+TUTORIAL/SCOREBOARD_DES3,"Nếu thiếu thể lực, Đỡ Bóng sẽ thất bại, nên phải chú ý nhé!"
+TUTORIAL/JUMP_FLOATER_SERVE,Phát Bóng Nhảy Lắc
+TUTORIAL/JUMP_FLOATER_SERVE_DES,Giữ (n1) để Giao Bóng!
+TUTORIAL/SPIKE,Đập Bóng
+TUTORIAL/SPIKE_DES,"Nhấn (n1) để Nhảy, rồi (n2) để Đập Bóng!"
+TUTORIAL/RECEIVE,Đỡ Bóng
+TUTORIAL/RECEIVE_DES,Giữ (n1) để Đỡ Bóng!
+TUTORIAL/FEINT,Cú Nhử
+TUTORIAL/FEINT_DES,"Khi ở trên không, nhấn (n1) để thực hiện Cú Nhử!"
+TUTORIAL/SPIKE_DES2,"Sau khi đỡ bóng, hãy đập theo đường chuyền của chuyền hai!"
+TUTORIAL/SLIDING,Trượt Cứu Bóng
+TUTORIAL/SLIDING_DES,Nhấn (n1) để Trượt Cứu Bóng!
+TUTORIAL/SPIKE_SERVE,Phát Bóng Tấn Công
+TUTORIAL/SPIKE_SERVE_DES,"Giữ (n1) để tung bóng lên, rồi (n2) để Đập Bóng!"
+SPIKE_SERVE_TIP,Tung bóng Phát Bóng quá thấp rồi! Giữ nút lâu hơn chút nhé.
+TUTORIAL_SKIP_QUESTION,Bạn có chắc chắn muốn bỏ qua hướng dẫn không? Bạn luôn có thể chơi lại trong Chương Hướng Dẫn.
+TUTORIAL/SHORT_SPIKE,Cú đập bóng ngắn
+TUTORIAL/SHORT_SPIKE_DES2,Có thể dùng (n1) để đập bóng thẳng xuống.
+TUTORIAL/LONG_SPIKE_DES,"Sau khi đỡ bóng, hãy thử đập bóng bằng (n1)!"
+FEVER_TUTORIAL/01,Trận Đột Kích Tuyết có những quy tắc đặc biệt.
+FEVER_TUTORIAL/02,"Mỗi lần ghi điểm, Fever sẽ tích lũy theo độ dài pha bóng."
+FEVER_TUTORIAL/03,"Khi ở trạng thái Fever, Nhiệt độ cơ thể tăng và chỉ số của cầu thủ được tăng lên."
+RECEIVE_TIMING_TUTORIAL/01,"Độ chính xác càng cao, sát thương nhận vào càng ít."
+TUTORIAL/SKILL,Kỹ năng
+TUTORIAL/SKILL_DES,Một số {0} có {1} độc đáo của riêng mình.#Bạn có thể kiểm tra trạng thái hiện tại của {1} đó trên nút có biểu tượng {1}.
+TUTORIAL/SKILL_USE,Dùng Kỹ năng
+TUTORIAL/SKILL_USE_DES,Bạn có thể tương tác với {0} và {1} bằng cách nhấn trực tiếp vào nút.
+TUTORIAL/SKILL_ACTIVATE,Kích Hoạt Kỹ Năng
+TUTORIAL/SKILL_ACTIVATE_DES,Có thể kích hoạt {0} bất cứ lúc nào bằng cách nhấn vào biểu tượng.#{1} sẽ duy trì trạng thái kích hoạt cho đến khi bạn thực hiện {3} với bóng được cường hóa bởi {2}.
+TUTORIAL/SKILL_COOLDOWN,Thời gian đợi để sử dụng lại
+TUTORIAL/SKILL_COOLDOWN_DES,Phần lớn {0} không thể sử dụng trong một thời gian ngắn sau khi hiệu ứng kết thúc.
+TUTORIAL/SKILL_COOLDOWN2_DES,"Phần lớn {0} có {1} sau khi hiệu ứng kết thúc.#Trong thời gian {1}, không thể kích hoạt lại {2}."
+TUTORIAL/SKILL_DURATION,Thời gian duy trì
+TUTORIAL/SKILL_DURATION_DES,{0} sẽ duy trì trạng thái kích hoạt trong {1} đã định sau khi nhấn biểu tượng.
+TUTORIAL/SKILL_STATUS_USING,Đang Có Hiệu Lực
+TUTORIAL/SKILL_STATUS_AVAILABLE,Sẵn Sàng
+TUTORIAL/SKILL_STATUS_UNAVAILABLE,Không thể sử dụng
+TEMPERATURE_TUTORIAL/01,Nhiệt độ cơ thể của cầu thủ được hiển thị ở góc trên bên trái.
+TEMPERATURE_TUTORIAL/02,Nhiệt độ cơ thể giảm sau mỗi pha bóng.
+TEMPERATURE_TUTORIAL/03,"Khi Nhiệt độ cơ thể giảm, chỉ số của cầu thủ cũng giảm theo."
+COUNTER_RECEIVE_TUTORIAL/01,Nhấn nút Đỡ Bóng đúng thời điểm.
+,
+,
+MOVE_TUTORIAL/01,Hôm nay hãy cùng tớ học những động tác cơ bản của bóng chuyền nhé!
+MOVE_TUTORIAL/02,"Trước tiên, cậu đã khởi động cơ thể chưa?"
+MOVE_TUTORIAL/03,Cậu có thể di chuyển bằng phím mũi tên. Hãy thử đi bộ nhẹ quanh sân nhé!
+,
+RECEIVE_TUTORIAL/01,Tốt! Cơ thể đã khởi động chút nào chưa?
+RECEIVE_TUTORIAL/02,Động tác đầu tiên chúng ta sẽ học là đỡ bóng (receive).
+RECEIVE_TUTORIAL/03,Đỡ bóng (receive) là nền tảng của bóng chuyền! Đây là động tác quan trọng khởi đầu mọi pha bóng.
+RECEIVE_TUTORIAL/04,"Tớ sẽ tung bóng nhẹ thôi, cậu thử đỡ xem nhé!"
+,
+JUMPSPIKE_TUTORIAL/01,Giỏi lắm! Lần này chúng ta hãy học động tác đập bóng nhé.
+JUMPSPIKE_TUTORIAL/02,Đập bóng là cú tấn công đưa bóng xuống sân đối phương.
+JUMPSPIKE_TUTORIAL/03,"Tuy là động tác bắt buộc phải biết khi chơi bóng chuyền,#nhưng lại là một động tác khá khó đối với người mới bắt đầu!"
+JUMPSPIKE_TUTORIAL/04,Nhưng hãy tin tớ! Tớ sẽ giúp cậu chắc chắn có thể đập bóng được.
+JUMPSPIKE_TUTORIAL/05,"Ban đầu đánh quả bóng đang bay rất khó,#nên hãy tập với quả bóng cố định trước nhé!"
+,
+RECEIVE_SPIKE_TUTORIAL/01,Giỏi lắm! Đã nắm được cảm giác một chút chưa? Từ giờ mới là thật sự đấy.
+RECEIVE_SPIKE_TUTORIAL/02,"Tớ sẽ chuyền bóng nhẹ thôi, cậu hãy canh thời điểm để đập nhé."
+RECEIVE_SPIKE_TUTORIAL/03,"Nhìn thấy bóng đang bay có thể khiến cậu bối rối, nhưng hãy vung tay bình tĩnh theo đường chuyền của tớ. Chắc chắn cậu sẽ làm được!"
+,
+SERVE_TUTORIAL/01,Tuyệt vời! Trình độ này thì cậu thật sự có tài năng đấy!
+SERVE_TUTORIAL/02,"Nào, bây giờ hãy kết thúc bằng cách học cách phát bóng nhé!"
+SERVE_TUTORIAL/03,Phát bóng là động tác cơ bản trong bóng chuyền bằng cách đưa bóng sang sân đối phương#để bắt đầu trận đấu.
+SERVE_TUTORIAL/04,"Trong bóng chuyền hiện đại, phát bóng là một vũ khí lợi hại! Cầu thủ càng giỏi thì càng có thể thực hiện đa dạng các kiểu phát bóng."
+SERVE_TUTORIAL/05,Nhưng... người mới bắt đầu mà thử ngay những quả phát bóng độ khó cao thì sẽ khá khó đấy.
+SERVE_TUTORIAL/06,Trước tiên chúng ta hãy học cách phát bóng cơ bản nhất.
+SERVE_TUTORIAL/07,"Phát bóng mạnh cũng quan trọng đấy, nhưng trước tiên cứ phải phát bóng ổn định đã! Buổi sau tớ sẽ dạy cậu phát bóng nhảy, nên hôm nay cứ nhẹ nhàng lấy cảm giác thôi nhé."
+,
+PRACTICE_GO_TUTORIAL/01,Vậy là đủ cho các động tác cơ bản rồi. Làm tốt lắm!
+PRACTICE_GO_TUTORIAL/02,"Trận đấu thật có thể khiến cậu căng thẳng, nhưng cứ bình tĩnh làm theo những gì đã học là được!"
+,
+BLOCKING_TUTORIAL/01,Chắn bóng là động tác chặn cú đập bóng của đối phương ở ngay trước lưới.
+BLOCKING_TUTORIAL/02,"Nó có thể thu hẹp đường tấn công của đối thủ,#chỉ cần chạm nhẹ cũng có thể giảm đáng kể sức mạnh, vì vậy nhất định phải học."
+BLOCKING_TUTORIAL/03,"Tớ sẽ đánh nhẹ thôi, cậu muốn thử trực tiếp không?"
+,
+RECEIVE_FEINT_TUTORIAL/01,Giỏi lắm! Giờ tớ qua động tác tiếp theo luôn nhé.
+RECEIVE_FEINT_TUTORIAL/02,Động tác lần này chúng ta học là Cú Nhử!
+RECEIVE_FEINT_TUTORIAL/03,"Không phải sơn trong thùng, mà là Cú Nhử!"
+RECEIVE_FEINT_TUTORIAL/04,"Từ tư thế Đập Bóng, dùng đầu ngón tay nhẹ nhàng đưa bóng qua#để đánh vào sơ hở đối thủ."
+RECEIVE_FEINT_TUTORIAL/05,"Rất hiệu quả khi thể lực đối phương thấp, nên phải biết dùng đúng lúc nhé!"
+RECEIVE_FEINT_TUTORIAL/06,Hãy thử ngay bây giờ nào!
+,
+JUMP_FLOATER_TUTORIAL/01,Giỏi lắm! Ta sang động tác cuối cùng nhé?
+JUMP_FLOATER_TUTORIAL/02,Phát Bóng Nhảy Lắc!
+JUMP_FLOATER_TUTORIAL/03,Đây là kiểu Phát Bóng khi Nhảy lên rồi đánh bóng không xoáy.
+JUMP_FLOATER_TUTORIAL/04,"Khi bóng không xoáy, quỹ đạo sẽ bị chao đảo khiến đội đối phương rất khó đỡ bóng!"
+JUMP_FLOATER_TUTORIAL/05,"Dù không có khả năng ghi điểm mạnh,#nhưng có thể làm giảm thể lực đối phương nên sẽ rất hữu ích!"
+JUMP_FLOATER_TUTORIAL/06,Thử ngay nhé?
+,
+PRACTICE_GO_TUTORIAL_02/01,Giỏi lắm! Hôm nay học đến đây thôi nha.
+PRACTICE_GO_TUTORIAL_02/02,"Dù vẫn còn những động tác khó như phát bóng tấn công hay trượt cứu bóng, nhưng tớ sẽ hướng dẫn cho cậu vào lần sau nhé!"
+,
+SLIDING_TUTORIAL/01,Giải đấu đã đến rất gần rồi! Chỉ chơi theo cách từ trước đến nay là không đủ đâu.
+SLIDING_TUTORIAL/02,Hôm nay hãy cùng tớ học một kỹ thuật mới nhé!
+SLIDING_TUTORIAL/03,Động tác đầu tiên hôm nay là Trượt Cứu Bóng!#Trước đây cậu cũng hay bị hụt phòng thủ vì thiếu thể lực đúng không?
+SLIDING_TUTORIAL/04,"Trượt Cứu Bóng là động tác quan trọng,#ngay cả khi thiếu thể lực vẫn cứu được bóng!"
+SLIDING_TUTORIAL/05,"Nó đòi hỏi thời điểm chính xác hơn Đỡ Bóng,#nhưng vì không tốn thể lực mà vẫn cứu được bóng nên cực kỳ quan trọng!"
+SLIDING_TUTORIAL/06,"Cùng thử nào! Tớ sẽ đánh bóng nhẹ thôi, cậu canh thời điểm rồi trượt cứu bóng nhé!"
+,
+SPIKE_SERVE_TUTORIAL/01,Được rồi! Giờ chúng ta sẽ học kiểu Phát Bóng khó nhất nhưng mạnh nhất…
+SPIKE_SERVE_TUTORIAL/02,Hãy học cách Phát Bóng Tấn Công nào!
+SPIKE_SERVE_TUTORIAL/03,"Phát Bóng Tấn Công đúng như tên gọi, là thực hiện Phát Bóng bằng cú Đập Bóng."
+SPIKE_SERVE_TUTORIAL/04,"Đầu tiên phải tung bóng ở độ cao đúng,#rồi canh chuẩn thời điểm và điểm chạm."
+SPIKE_SERVE_TUTORIAL/05,"Nó mạnh và có thể làm giảm nhiều thể lực đối phương,#nhưng nhược điểm là nguy cơ mất điểm cũng cao."
+SPIKE_SERVE_TUTORIAL/06,Thử nhé? Lúc tập luyện thì cũng nên thử mấy quả Phát Bóng khó!
+,
+PRACTICE_GO_TUTORIAL_03/01,Tốt lắm! Hôm nay đến đây thôi!
+PRACTICE_GO_TUTORIAL_03/02,Tớ nghĩ đã dạy cậu hết các động tác có thể dạy rồi.
+PRACTICE_GO_TUTORIAL_03/03,Giờ thì hãy áp dụng những gì đã học vào thực chiến và biến nó thành của riêng cậu đi nào!
+,
+CASUAL_RECEIVE_TUTORIAL/03,Hôm nay hãy cùng tớ học những động tác cơ bản của bóng chuyền nhé!
+CASUAL_RECEIVE_TUTORIAL/04,Động tác đầu tiên chúng ta sẽ học là đỡ bóng (receive).
+CASUAL_RECEIVE_TUTORIAL/05,Đỡ bóng (receive) là nền tảng của bóng chuyền! Đây là động tác quan trọng khởi đầu mọi pha bóng.
+CASUAL_RECEIVE_TUTORIAL/06,"Tớ sẽ tung bóng nhẹ thôi, cậu thử đỡ xem nhé!"
+,
+CASUAL_LONG_SPIKE_TUTORIAL/01,Giỏi lắm! Lần này chúng ta hãy học động tác đập bóng nhé.
+CASUAL_LONG_SPIKE_TUTORIAL/02,Đập bóng là cú tấn công đưa bóng xuống sân đối phương.
+CASUAL_LONG_SPIKE_TUTORIAL/03,"Đập bóng là động tác bắt buộc phải biết khi chơi bóng chuyền,#nhưng khá khó đối với người mới!"
+CASUAL_LONG_SPIKE_TUTORIAL/04,"Tớ sẽ chuyền bóng nhẹ thôi, cậu hãy canh thời điểm để đập nhé."
+CASUAL_LONG_SPIKE_TUTORIAL/05,"Nhìn thấy bóng đang bay có thể khiến cậu bối rối, nhưng hãy vung tay bình tĩnh theo đường chuyền của tớ. Chắc chắn cậu sẽ làm được!"
+,
+CASUAL_SHORT_SPIKE_TUTORIAL/01,"Tốt lắm! Đừng dừng lại, tiếp tục nào!"
+CASUAL_SHORT_SPIKE_TUTORIAL/02,"Vừa rồi cậu thực hiện một cú đập dài vì ở khá xa lưới, đúng không?"
+CASUAL_SHORT_SPIKE_TUTORIAL/03,"Lần này tớ sẽ chuyền bóng gần lưới hơn, hãy thử đập thẳng xuống nhé!"
+CASUAL_SHORT_SPIKE_TUTORIAL/04,"Cú đập bóng xuống dễ bị chắn, nên cần chọn hướng tấn công thông minh."
+CASUAL_SHORT_SPIKE_TUTORIAL/05,"Nào, thử ngay thôi!"
+,
+CASUAL_FEINT_TUTORIAL/01,Động tác lần này chúng ta học là Cú Nhử!
+CASUAL_FEINT_TUTORIAL/02,"Không phải sơn trong thùng, mà là Cú Nhử!"
+CASUAL_FEINT_TUTORIAL/03,"Từ tư thế Đập Bóng, dùng đầu ngón tay nhẹ nhàng đưa bóng qua#để đánh vào sơ hở đối thủ."
+CASUAL_FEINT_TUTORIAL/04,"Rất hiệu quả khi thể lực đối phương thấp, nên phải biết dùng đúng lúc nhé!"
+CASUAL_FEINT_TUTORIAL/05,Hãy thử ngay bây giờ nào!
+,
+CASUAL_BLOCK_TUTORIAL/01,Động tác tiếp theo chúng ta sẽ học là chắn bóng!
+CASUAL_BLOCK_TUTORIAL/02,Chắn bóng là động tác chặn cú đập bóng của đối phương ở ngay trước lưới.
+CASUAL_BLOCK_TUTORIAL/03,"Cậu có thể chắn bóng khi đang ở hàng trước trong vòng xoay!#À, có lẽ giải thích thế này hơi khó hiểu nhỉ?"
+CASUAL_BLOCK_TUTORIAL/04,"Khi đến lượt giao bóng của đối thủ mà đội ta ghi điểm,#đội ta sẽ giành quyền giao bóng và vị trí xuất phát của các cầu thủ sẽ xoay vòng."
+CASUAL_BLOCK_TUTORIAL/05,"Lúc này, cầu thủ đứng ngay trước lưới sẽ chuẩn bị chắn bóng!"
+CASUAL_BLOCK_TUTORIAL/06,"Nó có thể thu hẹp đường tấn công của đối thủ,#chỉ cần chạm nhẹ cũng có thể giảm đáng kể sức mạnh, vì vậy nhất định phải học."
+CASUAL_BLOCK_TUTORIAL/07,"Tớ sẽ đánh nhẹ cho cậu, cậu có muốn thử trực tiếp không?"
+,
+CASUAL_SLIDING_TUTORIAL/01,"Lần này, hãy học kỹ năng phòng thủ ở hàng sau: trượt đỡ bóng!"
+CASUAL_SLIDING_TUTORIAL/02,"Trượt Cứu Bóng là động tác quan trọng,#ngay cả khi thiếu thể lực vẫn cứu được bóng!"
+CASUAL_SLIDING_TUTORIAL/03,"Nó đòi hỏi thời điểm chính xác hơn Đỡ Bóng,#nhưng vì không tốn thể lực mà vẫn cứu được bóng nên cực kỳ quan trọng!"
+CASUAL_SLIDING_TUTORIAL/04,"Cùng thử nào! Tớ sẽ đánh bóng nhẹ thôi, cậu canh thời điểm rồi trượt cứu bóng nhé!"
+,
+CASUAL_SPIKE_SERVE_TUTORIAL/01,Được rồi! Giờ chúng ta sẽ học kiểu Phát Bóng khó nhất nhưng mạnh nhất…
+CASUAL_SPIKE_SERVE_TUTORIAL/02,Hãy học cách Phát Bóng Tấn Công nào!
+CASUAL_SPIKE_SERVE_TUTORIAL/03,"Phát Bóng Tấn Công đúng như tên gọi, là thực hiện Phát Bóng bằng cú Đập Bóng."
+CASUAL_SPIKE_SERVE_TUTORIAL/04,"Đầu tiên phải tung bóng ở độ cao đúng,#rồi canh chuẩn thời điểm và điểm chạm."
+CASUAL_SPIKE_SERVE_TUTORIAL/05,"Nó mạnh và có thể làm giảm nhiều thể lực đối phương,#nhưng nhược điểm là nguy cơ mất điểm cũng cao."
+CASUAL_SPIKE_SERVE_TUTORIAL/06,Thử nhé? Lúc tập luyện thì cũng nên thử mấy quả Phát Bóng khó!
+,
+CASUAL_END_TUTORIAL/01,Giải đấu đã đến rất gần rồi! Chỉ chơi theo cách từ trước đến nay là không đủ đâu.
+CASUAL_END_TUTORIAL/02,Khoan đã! Hóa ra đến giờ cậu vẫn chơi ở Chế độ điều khiển tự động à?
+CASUAL_END_TUTORIAL/03,"Chế độ điều khiển tự động hỗ trợ nhiều thao tác, giúp cậu chơi dễ dàng và thoải mái!"
+CASUAL_END_TUTORIAL/04,"Tuy nhiên, vì không có sự tự do 100%, giới hạn phát triển rất rõ ràng."
+CASUAL_END_TUTORIAL/05,"Khi đã quen dần, tớ khuyên cậu nên chuyển sang chế độ điều khiển tay!"
+CASUAL_END_TUTORIAL/06,"Vì nội dung hướng dẫn thay đổi theo chế độ, nếu chuyển sang điều khiển tay thì phải xem lại hướng dẫn nhé!"
+CASUAL_END_TUTORIAL/07,"Nhưng tớ sẽ luôn ở bên hỗ trợ cậu, nên hãy cùng nhau cố gắng nhé!"
+,
+TUTORIAL/CONDITION_DES/01,"Tùy theo tình huống trong trận,#cầu thủ có thể rơi vào một Trạng Thái nhất định."
+TUTORIAL/CONDITION_DES/02,"Khi ở trạng thái Phấn Khích, Lực Tấn Công và Tốc Độ tăng, trong khi Sức Bật và Lực Phòng Thủ giảm.#Thường xảy ra khi tấn công thất bại hoặc bị chắn bóng."
+TUTORIAL/CONDITION_DES/03,"Khi ở trạng thái Tập Trung Cao Độ, mọi chỉ số tăng.#Thường xảy ra khi thực hiện thành công liên tiếp tấn công, chắn bóng hoặc phát bóng."
+TUTORIAL/CONDITION_DES/04,"Khi ở trạng thái Nản Chí, mọi chỉ số giảm.#Thường xảy ra khi phòng thủ hoặc tấn công thất bại."
+TUTORIAL/CONDITION_DES/05,"Khi ở trạng thái Mất Tập Trung, Lực Phòng Thủ và Tốc Độ giảm mạnh.#Thường xảy ra khi không chạm bóng trong thời gian dài."
+FEVER_TUTORIAL/TITLE,Luật Đặc Biệt
+TUTORIAL/WS_DECRIPTION,"WS là chủ công của đội, đảm nhận các pha tấn công chính."
+TUTORIAL/SE_DECRIPTION,Se chuyền bóng đã được đỡ lên để tạo cơ hội tấn công cho tay đập.
+TUTORIAL/MB_DECRIPTION,MB dùng tấn công nhanh để đánh lạc hướng hàng chắn đối phương và hỗ trợ các pha tấn công của WS.
+TUTORIAL/POSITION_DECRIPTION,Trong đội có tổng cộng 3 vị trí.
+TUTORIAL/LISIA_DESCRIPTION,Cú phát bóng bầu trời của Lisia rơi nhanh từ trên cao.#Bạn phải trượt đúng thời điểm.
+,
+BEACH_FEVER_TUTORIAL/01,Trận Đột Kích Bóng chuyền bãi biển có những quy tắc đặc biệt.
+HEAT_TUTORIAL/01,"Càng thi đấu lâu trên bãi biển nóng bức, nhiệt độ cơ thể của các tuyển thủ càng tăng."
+HEAT_TUTORIAL/02,"Nhiệt độ cơ thể của tuyển thủ càng cao, sức tấn công và tốc độ càng tăng."
+HEAT_TUTORIAL/03,"Tuy nhiên, khả năng bật nhảy và phòng thủ giảm đáng kể."
+HEAT_TUTORIAL/04,"Do đó, khi nhiệt độ cơ thể tăng cao, cần thay đổi cầu thủ theo từng thời điểm."
+HEAT_TUTORIAL/05,Nhiệt độ cơ thể của tuyển thủ được hiển thị ở góc trên bên trái.
+ITEM_TUTORIAL/01,"Mỗi khi đạt được 3 điểm, bạn có thể sử dụng vật phẩm để tham gia trận đấu một cách chiến lược."
+ITEM_TUTORIAL/02,"Nếu quá phụ thuộc vào Fever, nhiệt độ cơ thể sẽ tăng nhanh, vì vậy cần chú ý."
+BEACH_RAID/HEAT,Cái nóng
+TUTORIAL/UI/DES_01,Bạn có thể tiếp tục Cốt Truyện tại đây.
+TUTORIAL/UI/DES_02,Đạt Hạng cao hơn để mở khóa các Trận Đấu mới.
+TUTORIAL/UI/DES_03,Bạn có thể rèn luyện kỹ năng tại đây.
+TUTORIAL/UI/DES_04,Bạn có thể chiêu mộ cầu thủ mới tại đây.
+TUTORIAL/UI/DES_05,Bạn có thể trực tiếp chiêu mộ cầu thủ mình muốn tại đây.
+TUTORIAL/UI/DES_06,Bạn có thể tùy chỉnh ngoại hình cầu thủ hoặc mua bóng chuyền tại đây.
+TUTORIAL/UI/DES_07,Bạn có thể nhận phần thưởng tại đây khi đạt Hạng mới.
+TUTORIAL/UI/DES_08,Xem các Nhiệm Vụ Thử Thách của từng Hạng.
+TUTORIAL/UI/DES_09,Hoàn thành Nhiệm Vụ Thử Thách để nhận phần thưởng.#Hoàn thành tất cả Nhiệm Vụ Thử Thách để thăng Hạng.
+TUTORIAL/UI/DES_10,Chọn một cầu thủ.
+TUTORIAL/UI/DES_11,Bạn có thể xem Chỉ Số của cầu thủ.
+TUTORIAL/UI/DES_12,"Khi Trạng Thái được kích hoạt, cầu thủ sẽ tạm thời mạnh lên hoặc yếu đi.#Chỉ số Trạng Thái càng cao thì khả năng kích hoạt càng lớn."
+TUTORIAL/UI/DES_13,Bạn có thể tùy chỉnh ngoại hình của cầu thủ.
+TUTORIAL/UI/DES_14,Thêm cầu thủ vào Mục Yêu Thích để ưu tiên hiển thị.
+TUTORIAL/UI/DES_15,Bạn có thể chơi ngay nội dung được đề xuất trên màn hình này.
+TUTORIAL/UI/DES_16,"Tốt lắm!#Giờ hãy tự do tham gia các Trận Đấu, phát triển cầu thủ bạn muốn và nâng cao kỹ năng!"
+TUTORIAL/NEW_PLAYER/DES_01,Bạn đã có thể sử dụng cầu thủ mới!
+TUTORIAL/NEW_PLAYER/DES_02,Di chuyển đến màn hình Quản lý Cầu thủ.
+TUTORIAL/NEW_PLAYER/DES_03,Bạn có thể đăng ký cầu thủ mới làm Cầu Thủ Chủ Lực tại đây.
+TUTORIAL/NEW_PLAYER/DES_04,Đã đăng ký Chuyền Hai mới!
+TUTORIAL/NEW_PLAYER/DES_05,Giờ thì chúng ta sẽ trực tiếp phát triển cho cầu thủ.
+TUTORIAL/NEW_PLAYER/DES_06,Cấp độ cầu thủ sẽ tăng khi bạn nâng cấp các Chỉ Số Năng Lực.
+TUTORIAL/NEW_PLAYER/DES_07,Bạn cần thêm <item=EXPPOINT> để tăng cấp độ cầu thủ.
+TUTORIAL/NEW_PLAYER/DES_08,"Thứ hạng cầu thủ càng cao, bạn càng cần nhiều#<item=EXPPOINT> và <item=CREDIT> để tăng cấp."
+TUTORIAL/NEW_PLAYER/DES_09,Ôi! Có vẻ như hiện tại bạn chưa thể nâng cấp cầu thủ...
+TUTORIAL/NEW_PLAYER/DES_10,Bạn cũng có thể đăng ký ngay cầu thủ làm Cầu Thủ Chủ Lực tại đây.
+TUTORIAL/NEW_PLAYER/DES_11,Giờ hãy tận hưởng những Trận Đấu đa dạng hơn cùng các cầu thủ mới!
+,
+TUTORIAL_MB_MOVEMENT,Huấn luyện Phụ công
+TUTORIAL_MISSION/QUICK,Thực hiện Tấn công nhanh
+TUTORIAL_MISSION/FAKE_QUICK,Thu hút pha chắn bóng của Roberto
+TUTORIAL/QUICK,Tấn công nhanh
+TUTORIAL/QUICK_DES,"Hãy bật nhảy trước khi chuyền hai thực hiện đường chuyền,#chuyền hai sẽ chuyền bóng nhanh cho phụ công."
+QUICK_TUTORIAL/01,"Tấn công nhanh là kỹ năng cơ bản nhất của một phụ công.#Nếu không làm được... thì khó mà gọi là phụ công, đúng không?"
+QUICK_TUTORIAL/02,"Điều quan trọng là phải bật nhảy trước khi chuyền hai đội mình thực hiện đường chuyền.#Khi bóng được chuyền tới, cậu phải đạt đủ độ cao để tấn công rồi."
+QUICK_TUTORIAL/03,"Chỉ cần căn đúng thời điểm, chuyền hai sẽ đưa bóng đến ngay tầm tay cậu."
+QUICK_TUTORIAL/04,Cứ thử trước đi. Hãy bật nhảy gần tôi ngay trước lúc chuyền bóng... rồi đập đi!
+RECEIVE_QUICK_TUTORIAL/01,Ồ~ Tốt đấy! Lần này trông ra dáng lắm rồi.
+RECEIVE_QUICK_TUTORIAL/02,Lần này thử như trong thi đấu thực tế nhé?
+RECEIVE_QUICK_TUTORIAL/03,"Roberto sẽ giúp cậu.#Anh ấy sẽ phối hợp vừa sức để cậu làm quen với thời điểm tấn công nhanh, nên đừng lo."
+RECEIVE_QUICK_TUTORIAL/04,"Sau khi đỡ bước một, hãy chạy ngay lên lưới.#Thực hiện thành công một pha tấn công nhanh như đã học."
+FAKE_QUICK_TUTORIAL/01,"Tốt, tốt. Giờ trông bắt đầu ra dáng rồi đấy."
+FAKE_QUICK_TUTORIAL/02,"Có vẻ cậu đã phần nào nắm được thời điểm tấn công nhanh rồi...#Vậy Roberto, giờ hãy chắn nghiêm túc đi."
+FAKE_QUICK_TUTORIAL/03,"Lần này anh ấy sẽ thực sự chắn bóng theo đúng thời điểm tấn công nhanh của cậu.#Sẽ không dễ đập như lúc nãy đâu, đúng không?"
+FAKE_QUICK_TUTORIAL/04,Nhưng này.#Phụ công không nhất thiết lúc nào cũng phải đập bóng.#Đánh lạc hướng tay chắn đối phương cũng là một phần nhiệm vụ.
+FAKE_QUICK_TUTORIAL/05,"Chỉ cần bật nhảy đúng lúc như thể sẽ tấn công nhanh, đối thủ cũng khó có thể phớt lờ cậu."
+FAKE_QUICK_TUTORIAL/06,"Lần này đừng chạm bóng, chỉ cần bật nhảy.#Đánh lừa Roberto để chủ công đội ta ghi điểm bằng pha tấn công lệch nhịp."
+PRACTICE_GO_TUTORIAL_04/01,"Ồ~ Tuyệt lắm, tuyệt lắm."
+PRACTICE_GO_TUTORIAL_04/02,"Khác với khi chơi chủ công, đúng không? Thế nào, làm được chứ?"
+PRACTICE_GO_TUTORIAL_04/03,"Giờ cậu đã hiểu tấn công nhanh là gì rồi, phần còn lại hãy tiếp tục luyện tập để thành thạo nhé."
+WRONG_ATTACK_POSITION_TIP,Hãy bật nhảy trong vùng phát sáng.
+MIDAIR_AT_TOSS_TIP,Cậu phải bật nhảy trước khi chuyền hai thực hiện đường chuyền.
+MIDAIR_AT_TOSS_TIP_THATS_OPEN,"Đó là tấn công bóng cao, không phải tấn công nhanh."
+MIDAIR_AT_TOSS_TIP_TOO_FAST,Hãy thử bật nhảy chậm hơn một chút.
+MIDAIR_AT_TOSS_TIP_TOO_FAR,"Càng xa lưới, việc tấn công nhanh càng khó."
+ATTACK_BEFORE_TOSS_TIP,Hãy tấn công theo đúng thời điểm chuyền hai thực hiện đường chuyền.
+ATTACK_IN_COURT_TIP,Cậu phải đánh bóng ở phía trước người hơn nữa.
+FAKE_JUMP_TIP,Hãy bật nhảy theo đúng thời điểm tấn công nhanh.
+FAKE_QUICK_TIP,Hãy tiếp đất mà không đánh bóng.
+TOO_FAST_QUICK_TIP,Hãy vung tay đúng thời điểm.
+QUICK_TOSS_FAIL_TIP,Phải nhảy lên trước thì tôi mới chuyền cho cậu tấn công nhanh được chứ.
+BLOCKING_BREAK_TIP,Nhắm vào điểm yếu để xuyên phá chắn bóng!
+,
+TUTORIAL/ELITE_RULE_UI_APPEAR_DES,"Mỗi cầu thủ có Thể lực và Tinh thần riêng.#Thể lực được hiển thị bằng màu vàng, còn Tinh thần được hiển thị bằng màu xanh lam."
+TUTORIAL/ELITE_RULE_UI_DAMAGE_DES,"Cầu thủ đỡ bóng sẽ bị giảm cả Thể lực và Tinh thần.#Nếu hết Thể lực, cầu thủ sẽ phòng thủ thất bại."
+TUTORIAL/ELITE_RULE_DEFENSE_TIMING_DES,"Nhấn nút Trượt người hoặc Đỡ bóng đúng thời điểm để giảm sát thương.#Nếu không nhấn nút, cầu thủ sẽ phòng thủ theo kết quả ngẫu nhiên."
+TUTORIAL/ELITE_RULE_RECEIVE_DES,Đỡ bóng đúng thời điểm để bóng nảy lên ổn định.#Đỡ bóng Hoàn hảo sẽ tạo ra Bóng Cơ hội.
+TUTORIAL/ELITE_RULE_SLIDING_DES,"Trượt người có thể phòng thủ trong phạm vi rộng, nhưng bóng sẽ nảy lên thiếu ổn định hơn.#Phòng thủ bằng Trượt người không tạo ra Bóng Cơ Hội."
+TUTORIAL/ELITE_RULE_FLOATER_SERVE_DES,"Phát bóng lắc và Phát bóng hỗn hợp gây sát thương bỏ qua Phòng thủ.#Nếu không phòng thủ đúng thời điểm, cầu thủ sẽ chịu sát thương lớn."
+TUTORIAL/ELITE_RULE_MENTALITY_DES,"Tinh thần không dễ hồi phục giữa các pha bóng.#Tinh thần càng thấp, cầu thủ càng mất nhiều Thể lực khi phòng thủ."
+TUTORIAL/ELITE_RULE_EXHAUST_DES,"Khi Tinh thần cạn hoàn toàn, cầu thủ sẽ rơi vào trạng thái Kiệt sức trong một thời gian ngắn.#Tinh thần không hồi phục khi cầu thủ đang Kiệt sức."
+TUTORIAL/ELITE_RULE_FORMATION_DES,Vị trí phòng thủ của các cầu thủ không thay đổi khi quyền phát bóng đổi bên.#Có thể thay đổi vị trí phòng thủ của các cầu thủ trong thời gian hội ý.
+TUTORIAL/RAID_TIP_06,Gần đúng rồi!

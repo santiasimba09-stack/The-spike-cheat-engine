@@ -1,0 +1,2801 @@
+﻿KEY,태국어(th)
+GUIDE/TIP_77,ลักกี้! TIP ในตอนนี้คือ TIP ที่มีโอกาสปรากฏเพียง 1 ในหมื่นเชียวนะ วันนี้จะต้องเป็นวันที่ดีแน่นอนเลย!!
+GUIDE/TIP_01,สามารถรับสมัครนักกีฬาได้ ผ่านทาง V พอยต์
+GUIDE/TIP_02,WS คือคำย่อของตัวตบหัวเสา
+GUIDE/TIP_03,MB คือคำย่อของตัวบล็อกกลาง
+GUIDE/TIP_04,Se คือคำย่อของเซตเตอร์
+GUIDE/TIP_05,สามารถลดค่าสถานะได้ โดยใช้ 20% ของเครดิตที่ใช้เมื่อเพิ่มค่าสถานะนักกีฬา
+GUIDE/TIP_06,สามารถรีเซ็ตสถานะทั้งหมดได้ ผ่านทางการขอเวลานอก
+GUIDE/TIP_08,เซตเตอร์ของทีมคู่แข่งจะรับลูกกระโดดเสิร์ฟโฟลตเป็นลำดับสุดท้าย
+GUIDE/TIP_09,หากปิดโหมดมือใหม่ จะสามารถเล่นเกมได้อย่างละเอียดขึ้น
+GUIDE/TIP_10,หากทำแต้มเสียอย่างต่อเนื่องในบางสถานการณ์ ขอแนะนำให้เปลี่ยนโรเทชัน ผ่านทางการขอเวลานอก
+GUIDE/TIP_11,The Spike Cross ไม่มีแบ่งแดนหน้า / แดนหลัง สามารถบุกได้จากทุกตำแหน่ง
+GUIDE/TIP_12,เมื่อค่าเฉลี่ยของความเร็วและพลังตั้งรับอยู่ที่ 120 ขึ้นไป AI จะจับจังหวะบล็อกได้แม่นยำขึ้น
+GUIDE/TIP_13,ยิ่งมีพลังตั้งรับต่ำ ลูกบอลที่เด้งหลังจากสไลด์ก็จะลอยไปไกลขึ้น
+GUIDE/TIP_14,กรณีที่ตีลูกหลอกกับทีมคู่แข่งที่ไม่มีสตามินา จะทำแต้มได้อย่างง่ายดาย
+GUIDE/TIP_15,ยิ่งทีมใช้การสไลด์ได้ดี ก็ยิ่งแพ้ทางลูกตบที่พุ่งไปไกล
+GUIDE/TIP_16,หากกำหนดเป็นรายการโปรด จะสามารถดูแยกกับนักกีฬาคนอื่นได้
+GUIDE/TIP_17,หากเคลียร์แต่ละด่านของโหมดเนื้อเรื่องได้ 3 ดาวเป็นครั้งแรก จะสามารถรับ V พอยต์ได้
+TIP/BLOCKING/ALERT_01,ตอนที่อยู่ในแดนหน้า#ลองบล็อกลูกโดยกด {n1} ที่หน้าเน็ตดูสิ
+TIP/BLOCKING/ALERT_02,ตอนที่นักกีฬาคู่แข่งพยายามจะบุก#ลองบล็อกลูกโดยกด {n1} ค้างแล้วปล่อย ที่หน้าเน็ตดูสิ
+TIP/BLOCKING/ALERT_03,การบล็อกที่ไม่ได้กระโดดในจังหวะที่แม่นยำนั้น#ยิ่งมีพลังบุกแตกต่างกับตัวตบมากเท่าไหร่#ลูกก็จะลอยไปไกลมากเท่านั้น
+TIP/DEUCE/ALERT_01,ในวอลเลย์บอลนั้น แม้จะบรรลุแต้มเป้าหมายแล้ว#ก็ต้องทำแต้มให้มากกว่าทีมคู่แข่ง 2 แต้ม จึงจะสามารถชนะในเกมได้
+TIP/FAINT/ALERT_01,ตอนที่คู่แข่งกำลังเตรียมการบล็อกอย่างแม่นยำ#ลองใช้การตีลูกหลอก ผ่านทาง {n1} ในท่าตบดูสิ
+TIP/HPCHECK/ALERT_01,หากแถบสตามินาด้านบนลดต่ำลง#จะทำให้การรับของสมาชิกทีมล้มเหลว
+TIP/HPCHECK/ALERT_02,กรณีที่แถบสตามินาด้านบนต่ำ#ลองตั้งรับผ่านทางการบล็อกหรือการสไลด์ดูสิ
+TIP/HPCHECK/ALERT_03,ยิ่งนักกีฬาที่มีพลังตั้งรับต่ำทำการรับ#ก็จะสูญเสียสตามินามากขึ้นเท่านั้น
+TIP/FARSPIKE/ALERT_01,ยิ่งวางลูกไว้หน้าผู้เล่นมากเท่าไหร่ ก็จะสามารถตบลูกด้วยมุมลึกได้มากขึ้น#แต่โหมดมือใหม่จะมีการปรับโดยอัตโนมัติ
+TIP/WIN/ALERT_01,ยินดีด้วย!#The Spike Cross ขอแนะนำให้คุณเล่นโหมดควบคุมเอง#ลองสัมผัสกับความสนุกใหม่ๆ ดูดีไหม?
+TIP/WIN/ALERT_02,ยินดีด้วย!#หากคุณคุ้นเคยกับจังหวะการตบแล้ว#เราขอแนะนำให้คุณปิดโหมดมือใหม่ที่การตั้งค่า
+TIP/CONDITION/FOCUS,[ จดจ่อ ]#นักกีฬาที่อยู่ในสถานะจดจ่อ#จะมีค่าสถานะทั้งหมดเพิ่มขึ้นกว่าปกติ
+TIP/CONDITION/ANGRY,[ คึกคัก ]#นักกีฬาที่อยู่ในสถานะคึกคัก#จะมีพลังบุกและความเร็วเพิ่มขึ้น แต่พลังตั้งรับและพลังกระโดดจะลดลง
+TIP/CONDITION/SAD,[ ถอดใจ ]#นักกีฬาที่อยู่ในสถานะถอดใจ#จะมีค่าสถานะทั้งหมดลดลงกว่าปกติ
+TIP/CONDITION/CARELESS,[ ประมาท ]#นักกีฬาที่อยู่ในสถานะประมาท#จะมีพลังตั้งรับและความเร็วลดลงอย่างมาก
+TIP/BOSS/ALERT_01,เพียงแค่มีมายุนซอกอยู่#สมาชิกทีมคู่แข่งทั้งหมดจะมีโอกาสประมาทเพิ่มขึ้น 150%
+TIP/BOSS/ALERT_02,'เจตนารมณ์' ของนัมแจฮยอนคือความสามารถที่#เพิ่มค่าสถานะของตนเองเมื่อสตามินาของทีมลดต่ำลง
+TIP/BOSS/ALERT_03,'ตะวันฉายแสง' ของโอเอซิสคือความสามารถที่#เพิ่มค่าสถานะของตนเองทุกครั้งที่ทีมเสียคะแนนครบ 3 แต้ม
+TIP/BOSS/ALERT_04,แม้ฮันซอลฮวาจะเป็นเซตเตอร์ แต่ก็มีพลังบุกที่สูง#โปรดระวังการตบที่จะเข้ามาแบบฉับพลันให้ดี
+TIP/BOSS/ALERT_05,มัธยมศิลปะของซังฮยอน ให้ความสำคัญกับการตั้งรับและการเชื่อมโยง#การตบที่มุ่งไปตรงกลางสนามนั้น ง่ายต่อการถูกมองเกมออก
+TIP/BOSS/ALERT_06,'ตั้งรับสุดชีวิต' ของคิมฮีซอง#บล็อกลูกตบทุกลูกที่สัมผัสมือได้อย่างสมบูรณ์
+TIP/BOSS/ALERT_07,การตบของโจมินจุนมีการหมุนที่ทรงพลัง#วิถีของลูกจึงเปลี่ยนกลางคันได้
+NAME/TEAM_01,มัธยมแดจี
+NAME/TEAM_02,มัธยมดูอิล
+NAME/TEAM_03,มัธยมมโนจิต
+NAME/TEAM_04,มัธยมจีซัน
+NAME/TEAM_05,มัธยมกวังทัน
+NAME/TEAM_06,มัธยมมินแจ
+NAME/TEAM_07,มัธยมมโนจิต
+NAME/TEAM_08,มัธยมเพาะกาย
+NAME/TEAM_09,แซนด์เซิร์ฟเฟอร์
+NAME/TEAM_10,มัธยมนภากาศ
+NAME/TEAM_11,ซันรีซีฟเวอร์
+NAME/TEAM_12,กลุ่มวอลเลย์บอลดวงตะวัน (ตัวสำรอง)
+NAME/TEAM_13,ปาล์มสไปคส์
+NAME/TEAM_14,กลุ่มวอลเลย์บอลดวงตะวัน
+NAME/TEAM_15,มัธยมยักษา
+NAME/TEAM_16,มัธยมชองนี
+NAME/TEAM_17,มัธยมชางโฮวอน
+NAME/TEAM_18,มัธยมฮังอุน
+NAME/TEAM_19,มัธยมดงแพ
+NAME/TEAM_20,มัธยมเคมีวิทยา
+NAME/TEAM_21,มัธยมบุนดัง
+NAME/TEAM_22,มัธยมโชจี
+NAME/TEAM_23,มัธยมไต้ฝุ่น
+NAME/TEAM_24,มัธยมดวงดารา
+NAME/TEAM_25,ศิษย์เก่ามัธยมศิลปะ
+NAME/TEAM_26,มัธยมแฟร์รี่
+NAME/TEAM_27,มัธยมตัวต่อ
+NAME/TEAM_28,มัธยมฮันบิต
+NAME/TEAM_29,มัธยมโบยบิน
+NAME/TEAM_30,มัธยมลมกรด
+NAME/TEAM_31,เยลโลว์แพนเตอร์
+NAME/TEAM_32,วาเลนเทียสไปคส์
+NAME/TEAM_33,โหมดฝึกสอน
+NAME/TEAM_34,มัธยมกำแพงเหล็ก
+NAME/TEAM_35,ไวโอเล็ตฟิโอเร
+NAME/TEAM_36,เยลโลว์สเปียร์
+NAME/TEAM_37,เรดสคูโด้
+NAME/TEAM_38,กรีนเลออน
+NAME/TEAM_39,บลูแลนเซีย
+NAME/TEAM_40,ออลสตาร์
+NAME/TEAM_41,มัธยมลมกรดไดมอนด์
+NAME/TEAM_42,มัธยมดวงดาราไดมอนด์
+NAME/TEAM_43,มัธยมตัวต่อไดมอนด์
+NAME/TEAM_44,มัธยมชองนีไดมอนด์
+NAME/TEAM_45,มัธยมไต้ฝุ่นไดมอนด์
+NAME/TEAM_46,มัธยมโบยบินไดมอนด์
+NAME/TEAM_47,วาเลนเทียสไปคส์
+NAME/TEAM_48,บลูฟรัสต้า
+NAME/TEAM_49,เรดบาสโตน
+NAME/TEAM_50,บลูเบล
+NAME/TEAM_51,โนเนม
+NAME/TEAM_52,อาร์มาทูร่า
+NAME/TEAM_53,เยลโลว์พิสโทรล
+NAME/TEAM_54,เรดสปาร์ดา
+NAME/TEAM_55,กลุ่มวอลเลย์บอลเวหาสีคราม
+NAME/TEAM_56,เยลโลว์แคนนอน
+NAME/TEAM_57,กลุ่มวอลเลย์บอลดวงตะวันมาสเตอร์
+NAME/TEAM_58,โคลอสเซียมมาสเตอร์
+INGAME/CHANGE_PLAYER,เปลี่ยน
+INGAME/CHANGE,สับเปลี่ยน
+INGAME/GAME_START,เริ่มเกม
+INGAME/CHANGE_CONTROL_PLAYER,เปลี่ยนนักกีฬาที่ควบคุม
+INGAME/ROTATION,โรเทชัน
+COMMON/SHOP,ร้านค้า
+COMMON/TUTORIAL,โหมดฝึกสอน
+COMMON/TRAINING,ฝึก
+COMMON/NEXT,ถัดไป
+COMMON/STORY,เนื้อเรื่อง
+COMMON/GUIDE,ไกด์
+COMMON/ATTENDANCE,เช็กชื่อ
+COMMON/TOURNAMENT,ทัวร์นาเมนต์
+COMMON/COLOSSEUM,วอลเลย์บอลโคลอสเซียม
+COMMON/STRENGTH,พลังบุก
+COMMON/DEFENSE,พลังตั้งรับ
+COMMON/SPEED,ความเร็ว
+COMMON/JUMP,พลังกระโดด
+COMMON/BRONZE,บรอนซ์
+COMMON/SILVER,ซิลเวอร์
+COMMON/GOLD,โกลด์
+COMMON/DIAMOND,ไดมอนด์
+COMMON/MASTER,มาสเตอร์
+COMMON/WORLD,เวิลด์
+COMMON/PLAYER,ผู้เล่น
+COMMON/CLOSE,ปิด
+COMMON/CANCEL,ยกเลิก
+COMMON/PROGRESS,ดำเนิน
+COMMON/NAME,ชื่อ
+COMMON/HEIGHT,ส่วนสูง
+COMMON/RANK,แรงก์
+INGAME/PRESET_ADD,เพิ่มพรีเซ็ต
+INGAME/PRESET_MANAGEMENT,การจัดการพรีเซ็ต
+INGAME/SET_CURRENT_PRESET,ตั้งเป็นพรีเซ็ตปัจจุบัน
+INGAME/CURRENT_PRESET,พรีเซ็ตปัจจุบัน
+INGAME/PRESET_RECENT_USE,คอนเทนต์ที่ใช้ล่าสุด
+INGAME/PRESET,พรีเซ็ต
+HELP/FORMATION/DES,คุณสามารถกำหนดการจัดตัวผู้เล่นตัวจริงที่จะลงสนามให้กับทีมวอลเลย์บอลของคุณได้ผ่านพรีเซ็ต#เมื่อใช้งานพรีเซ็ตหนึ่ง อีกพรีเซ็ตหนึ่งจะกลายเป็นผู้เล่นตัวสำรอง ทำให้สามารถเปลี่ยนตัวได้ทันทีในระหว่างการแข่งขัน
+INGAME/CONDITION,สถานะ
+HELP/CONDITION/DES,สถานะคือการเปลี่ยนสถานะของนักกีฬา ซึ่งเกิดขึ้นได้ระหว่างการแข่งขัน#นักกีฬาแต่ละคนมีโอกาสเปลี่ยนสถานะที่แตกต่างกัน ตามนิสัยเฉพาะ#สถานะจะกลับมาเป็นเช่นเดิม เมื่อเวลาผ่านไปตามที่กำหนด!#กรณีที่ขอเวลานอก สถานะทั้งหมดจะถูกปลด
+INGAME/ANGRY,คึกคัก
+HELP/CONDITION/ANGRY/DES,"แม้พลังบุกและความเร็วจะสูงขึ้น แต่พลังตั้งรับและพลังกระโดดจะลดลง#สภาพแวดล้อมที่ทำให้เกิด : เสิร์ฟเอซ, บุกล้มเหลว"
+INGAME/CARELESS,ประมาท
+HELP/CONDITION/CARELESS/DES,ความเร็วและพลังตั้งรับลดลงอย่างมาก#สภาพแวดล้อมที่ทำให้เกิด : เมื่อไม่ได้สัมผัสลูก 5 ครั้งขึ้นไป โดยโอกาสจะเพิ่มขึ้นตามการไม่ได้สัมผัสลูก
+INGAME/FOCUS,จดจ่อ
+HELP/CONDITION/FOCUS/DES,"ค่าสถานะโดยรวมเพิ่มขึ้นอย่างมาก#สภาพแวดล้อมที่ทำให้เกิด : เสิร์ฟเอซ, ทำแต้มได้, บล็อกอย่างแม่นยำสำเร็จ"
+INGAME/SAD,ถอดใจ
+HELP/CONDITION/SAD/DES,ค่าสถานะโดยรวมลดลง#สภาพแวดล้อมที่ทำให้เกิด : บุกล้มเหลว
+HELP/TOURNAMENT/DES,ทัวร์นาเมนต์คือสถานที่ที่สามารถแข่งขันกับทีมสุดแกร่ง ซึ่งตรงกับระดับของตนเองได้
+COMMON/POSITION,ตำแหน่ง
+HELP/POSITION/WS/TITLE,ตัวตบหัวเสา
+HELP/POSITION/WS/DES,ตำแหน่งที่เป็นแกนหลักของการบุกในทีม#จำเป็นต้องมีพลังบุกและพลังกระโดดที่สูง เนื่องจากต้องปะทะกับการบล็อก เพื่อทำแต้มได้
+HELP/POSITION/MB/TITLE,ตัวบล็อกกลาง
+HELP/POSITION/MB/DES,"ผู้เล่นสารพัดประโยชน์ในทีม มีหน้าที่หลากหลาย เช่น ตั้งรับ, บล็อก, บุก เป็นต้น"
+HELP/POSITION/SE/TITLE,เซตเตอร์
+HELP/POSITION/SE/DES,ตำแหน่งที่ช่วยเซ็ตลูกให้ ในตอนที่สัมผัสลูกครั้งที่สอง#การตีบอลขึ้นไปจะแตกต่างกันตามนิสัยของเซตเตอร์ จึงต้องเลือกเซตเตอร์ที่เหมาะกับทีมของตนเอง และควบคุมได้ถนัดมือ
+HELP/STATUS/TITLE,ค่าสถานะ
+HELP/STATUS/STRENGTH/DES,ส่งผลต่อพลังของลูกตบของนักกีฬา#ยิ่งพลังบุกสูง บอลที่กระเด็นหลังจากตนเองบล็อกก็ยิ่งช้าลง
+HELP/STATUS/DEFENSE/DES,เกี่ยวข้องกับดาเมจที่สร้างแก่พลังชีวิต ในตอนที่นักกีฬารับลูก#ยิ่งมีพลังตั้งรับที่สูง หลังจากตนเองสไลด์ ความเร็วที่ลูกลอยไปก็จะลดลง
+HELP/STATUS/SPEED/DES,ส่งผลต่อความเร็วในการเคลื่อนที่ของนักกีฬา#สำหรับ AI เมื่อค่าเฉลี่ยของความเร็วและพลังตั้งรับถึงระดับที่กำหนด จะจับจังหวะบล็อกได้แม่นยำขึ้น
+HELP/STATUS/JUMP/DES,เกี่ยวข้องกับการกระโดดของนักกีฬา##กระโดดบล็อก/กระโดดตบ
+INGAME/SERVE,เสิร์ฟ
+HELP/SERVE/DES,แม้ประเภทของการเสิร์ฟแบบปลีกย่อยจะมีมากมาย แต่การเสิร์ฟที่ใช้เป็นหลักที่สุดมี 3 ชนิด ซึ่งมีเอกลักษณ์ดังต่อไปนี้
+INGAME/SERVE/NORMAL,เสิร์ฟพื้นฐาน
+HELP/SERVE/NORMAL/DES,ลูกเสิร์ฟที่มีระดับความยากง่ายมาก แต่ก็เป็นลูกเสิร์ฟที่ฝ่ายตรงข้ามป้องกันได้ง่ายเช่นกัน #ทีมคู่ต่อสู้จะรับรู้ว่าเป็นลูกโอกาส (Chance Ball) และเซตเตอร์ของทีมคู่ต่อสู้จะหลีกเลี่ยงการรับลูกหากเป็นไปได้
+INGAME/SERVE/JUMP_FLOATER,เสิร์ฟโฟลต
+HELP/SERVE/JUMP_FLOATER/DES,ลูกเสิร์ฟที่มีระดับความยากค่อนข้างง่าย และเป็นลูกเสิร์ฟที่ดีในการเล็งโจมตีช่องว่างของทีมคู่ต่อสู้ #ทีมคู่ต่อสู้จะไม่รับรู้ว่าเป็นลูกโอกาส แต่เซตเตอร์ของทีมคู่ต่อสู้จะหลีกเลี่ยงการรับลูกหากเป็นไปได้
+INGAME/SERVE/SPIKE,เสิร์ฟสไปก์
+HELP/SERVE/SPIKE/DES,ลูกเสิร์ฟที่มีระดับความยากสูง แต่หากสำเร็จ จะสามารถลดสตามินาของทีมคู่ต่อสู้ลงได้อย่างมากตั้งแต่เริ่ม #ขึ้นอยู่กับความรุนแรงของลูก เซตเตอร์ของทีมคู่ต่อสู้อาจจะรับลูกด้วยเช่นกัน
+COMMON/TIER,เทียร์
+HELP/TIERORACHIEVEMENT/DES,หากบรรลุภารกิจท้าทายที่ตรงกับเทียร์เกินจำนวนที่กำหนด จะสามารถรับรางวัลเลื่อนระดับได้!#สามารถรับคะแนนสำหรับการเลื่อนระดับเทียร์ได้จากการลงแข่งขัน
+COMMON/ACHIEVEMENT,ภารกิจ
+COMMON/ALERT,คำเตือน
+COMMON/YES,ใช่
+COMMON/NO,ไม่
+INGAME/COLOSSEUM/ALERT,การแข่งขันโคลอสเซียมที่กำลังดำเนินอยู่ในปัจจุบันจะถูกรีเซ็ตทั้งหมด#ต้องการดำเนินการต่อหรือไม่?
+COMMON/ENTER,เข้า
+COMMON/DEDICATED_SHOP,ร้านค้าเฉพาะ
+COMMON/CARD_COLLECTION,สมุดภาพการ์ด
+INGAME/COLOSSEUM/ALERT_02,ไม่มีโคลอสเซียมที่เข้าได้
+COMMON/CHECK,ยืนยัน
+COMMON/NOTICE,แจ้งเตือน
+INGAME/TEAM/ALERT,ไม่สามารถเปลี่ยนโรเทชันในการแข่งขันแบบ 2 คนได้
+INGAME/SKIP,ข้าม
+INGAME/TRAINING_SPIKE,ฝึกตบ
+INGAME/TRAINING_DEFENSE,ฝึกตั้งรับ
+INGAME/TRAINING_SERVE,ฝึกเสิร์ฟ
+INGAME/GAME_PLAY,ดำเนินการแข่งขัน
+INGAME/REPLAY,เริ่มอีกครั้ง
+INGAME/GO_BACK,ไปยังหน้าหลัก
+INGAME/MY_TIER,เทียร์ของฉัน
+COMMON/COMPLETE,เสร็จสิ้น
+INGAME/RECEIVE_REWARD,รับรางวัล
+INGAME/TOP_RATED,อันดับท็อป {n1}%
+COMMON/POINT,คะแนน
+INGAME/UNLOCK_LEFT,ปลดล็อกในอีก
+ACHIEVEMENT/RATE,ความคืบหน้าภารกิจท้าทาย
+ACHIEVEMENT/CONDITION,เงื่อนไข
+ACHIEVEMENT/SATISFY,คะแนนเทียร์ครบตามเกณฑ์
+ACHIEVEMENT/UPGRADE,เลื่อนระดับ
+INGAME/REWARD,รางวัล
+INGAME/REWARD/ALERT,กรุณารับรางวัลเทียร์ก่อนหน้าก่อน
+INGAME/PROGRESSING,ดำเนินอยู่
+INGAME/CHALLENGE,ภารกิจท้าทาย
+INGAME/BLOCKING,บล็อก
+INGAME/GAME_START_02,เริ่มการแข่งขัน
+NAME/STAGE/HEAL,ด่านฟื้นฟู
+INGAME/LEFT_LIFE,ชีวิตที่เหลือ
+INGAME/FINAL_REWARD,รางวัลสุดท้าย
+INGAME/MAYOONSEOK/LINE_01,จงทำพลาดซะ!!!!
+INGAME/MAYOONSEOK/LINE_02,ได้โปรดทำพลาดเถอะ!!!
+INGAME/MAYOONSEOK/LINE_03,จอดไปซะ จอดไปซะ จอดไปซะ
+INGAME/MAYOONSEOK/LINE_04,ไปให้พ้นนะ มายุนซอก!!!!
+INGAME/ACHIEVEMENT/ALERT,เสร็จสิ้นภารกิจท้าทาย แล้วเลื่อนระดับเลย!
+CARD/ATTACK,บุก
+CARD/DEFENSE,ตั้งรับ
+CARD/TOTAL,รวม
+CARD/ATTACK/ATTACK_TRY,จำนวนครั้งที่บุก
+CARD/ATTACK/ATTACK_SCORE,ทำแต้มได้จากการบุก
+CARD/ATTACK/SERVE_TRY,จำนวนครั้งที่เสิร์ฟ
+CARD/ATTACK/SERVE_SCORE,ทำแต้มได้จากการเสิร์ฟ
+CARD/ATTACK/HIT,เข้าเป้าวงกลมสีขาว
+CARD/ATTACK/CAREFUAL_ATTACK,การบุกที่รอบคอบ
+CARD/ATTACK/ATTACK_ACE,เอซที่ทำแต้มได้จากการบุก
+CARD/ATTACK/SERVE_ACE,เอซที่ทำแต้มได้จากการเสิร์ฟ
+CARD/ATTACK/HIT_ACE,เอซที่ทำเข้าเป้าวงกลมสีขาว
+CARD/DEFENSE/BLOCKING_TRY,จำนวนครั้งที่บล็อก
+CARD/DEFENSE/BLOCKING_SUCCESS,บล็อกสำเร็จ
+CARD/DEFENSE/BLOCKING_SCORE,ทำแต้มได้จากการบล็อก
+CARD/DEFENSE/SLIDING_TRY,จำนวนครั้งที่สไลด์
+CARD/DEFENSE/SLIDING_SUCCESS,สไลด์สำเร็จ
+CARD/DEFENSE/CAREFUL_BLOCKING,การบล็อกที่รอบคอบ
+CARD/DEFENSE/CAREFUL_SLIDING,การสไลด์ที่รอบคอบ
+CARD/DEFENSE/BLOCKING_ACE,เอซที่ทำแต้มได้จากการบล็อก
+CARD/TOTAL/PLAY_TIME,เวลาการแข่งขัน
+CARD/TOTAL/MANUAL_MODE,โหมดควบคุมเอง
+CARD/TOTAL/PERFECT_VICTORY,ชัยชนะที่เพอร์เฟกต์
+CARD/TOTAL/AUDIANCE,จำนวนผู้ชม
+CARD/TOTAL/TOTAL_SCORE,แต้มได้ทั้งหมด
+CARD/TOTAL/SCORE_GAP,ผลต่างคะแนน
+INGAME/PRACTICE_GAME,แมตช์ฝึกซ้อม
+INGAME/SCORE,สกอร์
+INGAME/DEUCE,ดิวซ์
+INGAME/EVENT_STORE,ร้านค้ากิจกรรม
+INGAME/RECRUIT/TOUCHSCREEN,รับสมัคร
+INGAME/EXPLANATION,คำอธิบาย
+INGAME/RECRUIT/WS,รับสมัคร WS
+INGAME/RECRUIT/MB,รับสมัคร MB
+INGAME/RECRUIT/SE,รับสมัคร Se
+INGAME/RECRUIT/RANDOM,รับสมัครนักกีฬาจากตำแหน่งทั้งหมดแบบสุ่ม
+INGAME/RECRUIT/1,รับสมัคร 1 คน
+INGAME/RECRUIT/10,รับสมัคร 10 คน
+INGAME/PLAYER/ALERT_01,กรุณาเลือกนักกีฬาที่จะสับเปลี่ยน
+INGAME/PROBLEM_OCCUR,เกิดปัญหาขึ้น
+INGAME/PROBLEM_OCCUR/REASON,การจัดการไม่เป็นไปตามปกติ เนื่องจากสาเหตุดังต่อไปนี้
+INGAME/PROBLEM_OCCUR/NO_REASON,การจัดการไม่เป็นไปตามปกติ เนื่องจากข้อผิดพลาดที่ไม่คาดคิด
+INGAME/PROBLEM_OCCUR/INQUIRY,กรณีที่ปัญหาดังกล่าวยังคงเกิดขึ้นซ้ำ กรุณาติดต่อศูนย์บริการลูกค้า
+INGAME/TIER_NOT_ENOUGH/ALERT,เทียร์ไม่ถึงเกณฑ์
+INGAME/ACCESS_RESTRICTION_CONTENT,เป็นคอนเทนต์ที่ [{n1}] ขึ้นไปเท่านั้นที่สามารถเข้าถึงได้
+INGAME/GAIN,รับ
+INGAME/DAY,วันที่ {n1}
+INGAME/ATTENDANCE/CHECK,เช็กชื่อ
+INGAME/UPDATE_TIME_LEFT,รีเฟรชในอีก {n1} ชั่วโมง {n2} นาที {n3} วินาที
+INGAME/RECRUIT_PLAYER,รับสมัครนักกีฬา
+INGAME/SCOUT_PLAYER,สเกาต์นักกีฬา
+SHOP/BUY,ซื้อ
+SHOP/APPLY_01,ปรับใช้
+SHOP/APPLY_02,ไปเพื่อปรับใช้
+SHOP/MOVE/ALERT,ต้องการไปยังหน้าต่างจัดการนักกีฬาหรือไม่?
+SHOP/MOVE,ไป
+INGAME/COSTUME,คอสตูม
+SHOP/BUY/ALERT,ต้องการซื้อไอเทมดังกล่าวหรือไม่?#[ {n1} ]
+SHOP/ONLY_BUY,เฉพาะอันที่ซื้อ
+SHOP/BUY_COMPLETE,ซื้อเสร็จสิ้น
+ACHIEVEMENT/TITLE_01,เข้าสู่ร้านค้า
+ACHIEVEMENT/DES_01,เข้าไปยังร้านค้าเงินตรา
+ACHIEVEMENT/TITLE_02,อัปเกรดนักกีฬา
+ACHIEVEMENT/DES_02,อัปเกรดนักกีฬา
+ACHIEVEMENT/TITLE_03,รับสมัครนักกีฬา
+ACHIEVEMENT/DES_03,รับสมัครนักกีฬา
+ACHIEVEMENT/TITLE_04,ชนะการแข่งขัน
+ACHIEVEMENT/DES_04,ชนะในการแข่งขัน
+ACHIEVEMENT/TITLE_05,ลูกตบปิดเกม
+ACHIEVEMENT/DES_05,ทำแต้มได้สุดท้ายด้วยการตบของตนเองในบท 1 / ด่าน 10
+ACHIEVEMENT/TITLE_06,เสริมพลังนักกีฬา II
+ACHIEVEMENT/DES_06,อัปเกรดค่าสถานะรวมของนักกีฬาให้ถึง 500 ขึ้นไป
+ACHIEVEMENT/TITLE_07,ผู้ชนะทัวร์นาเมนต์
+ACHIEVEMENT/DES_07,ชนะเลิศในทัวร์นาเมนต์
+ACHIEVEMENT/TITLE_08,ชัยชนะที่เพอร์เฟกต์
+ACHIEVEMENT/DES_08,ชนะโดยมีแต้มนำ 5 แต้มในบท 2 / ด่าน 7
+ACHIEVEMENT/TITLE_09,ชนะด้วยโหมดควบคุมเอง
+ACHIEVEMENT/DES_09,ชนะด้วยโหมดควบคุมเองในบท 3 / ด่าน 8
+ACHIEVEMENT/TITLE_10,สุดยอดโชว์
+ACHIEVEMENT/DES_10,ชนะหลังจากไปถึง 15 แต้มในซูเปอร์สตาร์ชาเลนจ์ / ด่าน 7
+ACHIEVEMENT/TITLE_11,เสิร์ฟเอซแห่งปาฏิหาริย์
+ACHIEVEMENT/DES_11,ทำแต้มได้ต่อเนื่อง 2 ครั้งด้วยการเสิร์ฟเอซ ในสถานการณ์ดิวซ์ของทัวร์นาเมนต์
+ACHIEVEMENT/TITLE_12,ตาต่อตา ฟันต่อฟัน
+ACHIEVEMENT/DES_12,ชนะมัธยมกำแพงเหล็ก โดยไม่ใช้การตีลูกหลอก ในทัวร์นาเมนต์
+ACHIEVEMENT/TITLE_13,ตะวันลับฟ้า
+ACHIEVEMENT/DES_13,ทำให้โอเอซิสตกอยู่ในสถานะตะวันลับฟ้าในทัวร์นาเมนต์
+ACHIEVEMENT/TITLE_14,จดจ่อ
+ACHIEVEMENT/DES_14,ทำให้แบคชีอูตกอยู่ในสถานะจดจ่ออย่างแท้จริง
+ACHIEVEMENT/TITLE_15,เร็วขึ้นอีก
+ACHIEVEMENT/DES_15,อัปเกรดความเร็วของนักกีฬาให้ถึง 155
+ACHIEVEMENT/TITLE_16,ตั้งรับสุดชีวิต สะท้อนสายรุ้ง
+ACHIEVEMENT/DES_16,ทำแต้มได้จากการบล็อกต่อเนื่อง 5 ครั้งในบท 5 / ด่าน 4
+ACHIEVEMENT/TITLE_17,สไนเปอร์
+ACHIEVEMENT/DES_17,เล็งการตบต่อเนื่อง 3 ครั้งกับนักกีฬาที่อยู่ในสถานะถอดใจในบท 2 / ด่าน 8
+ACHIEVEMENT/TITLE_18,พรสวรรค์เหนือขั้น
+ACHIEVEMENT/DES_18,ชนะโดยมีแต้มนำ 10 แต้มในบท 5 / ด่าน 8
+ACHIEVEMENT/TITLE_19,พยัคฆ์
+ACHIEVEMENT/DES_19,ชนะโดยทำให้สมาชิกทีมคู่แข่งทั้งหมด ตกอยู่ในสถานะถอดใจคนละครั้งในบท 2 / ด่าน 8
+ACHIEVEMENT/TITLE_20,ผลลัพธ์ความพยายาม
+ACHIEVEMENT/DES_20,เอาชนะบทที่ 6 / ด่านที่ 8 ด้วยผู้เล่นระดับ C+ หรือต่ำกว่า โดยไม่มีการขอเวลานอกหรือสับเปลี่ยนนักกีฬา.
+ACHIEVEMENT/TITLE_21,สารยับยั้ง
+ACHIEVEMENT/DES_21,ชนะโดยไม่ให้เกิดปฏิกิริยาเคมีของอายอนในซูเปอร์สตาร์ชาเลนจ์ / ด่าน 4
+ACHIEVEMENT/TITLE_22,เจ้าแห่งทัวร์นาเมนต์
+ACHIEVEMENT/DES_22,ชนะ 100 ครั้งในทัวร์นาเมนต์เลเวลไดมอนด์ขึ้นไป
+ACHIEVEMENT/TITLE_23,ทำลายเจตนารมณ์
+ACHIEVEMENT/DES_23,ชนะโดยที่นัมแจฮยอนไม่ตกอยู่ในสถานะเจตนารมณ์ในบท 5 / ด่าน 8
+ACHIEVEMENT/TITLE_24,ทำลายหน้ากาก
+ACHIEVEMENT/DES_24,ในบท 4 / ด่าน 7 ทำให้ฮันซอลฮวาสวมหน้ากากไม่ได้เซตบอลเลยแม้แต่ครั้งเดียวตลอดการแข่งขัน
+ACHIEVEMENT/TITLE_25,สวนกลับลูกตบ
+ACHIEVEMENT/DES_25,สวนกลับลูกตบของนิชิกาวะด้วยการตบในบท 6 / ด่าน 8
+ACHIEVEMENT/TITLE_26,เจ้าแห่งการเช็กชื่อ!
+ACHIEVEMENT/DES_26,รับรางวัลเช็กชื่อทั้งหมด 25 วัน
+ACHIEVEMENT/TITLE_27,ทะลวงนภากาศ
+ACHIEVEMENT/DES_27,ชนะมัธยมนภากาศในการแข่งขันทัวร์นาเมนต์โดยไม่เสียแต้ม
+COMMON/ACCOUNT,บัญชี
+SETTING/UID_COPY/ALERT,คัดลอก UID ลงในคลิปบอร์ดแล้ว
+SETTING/LINK_SUCCESS,เชื่อมโยงแล้ว
+SETTING/LINK_TRY,เชื่อมโยง
+SETTING/ACCOUNT_LINKING,กำลังเชื่อมโยงบัญชี...
+SETTING/LINK_COMPLETE,เชื่อมโยงเสร็จสิ้น
+SETTING/LINK_UNABLE,เป็นบัญชีที่เชื่อมโยงกับบัญชีอื่นไปแล้ว
+SETTING/UNACTIVE,ปิดใช้งาน
+COMMON/WITHDRAW,ลบบัญชี
+COMMON/LOGOUT,ล็อกเอาต์
+SETTING/SOUND,เสียง
+SETTING/SOUND/BGM,BGM
+SETTING/SOUND/BGM/DES,ตั้งค่าระดับเสียงเพลงประกอบ
+SETTING/PLAY,เล่น
+SETTING/PLAY/BEGINNER_MOD,โหมดมือใหม่
+SETTING/PLAY/AUTO_MOD,โหมดควบคุมอัตโนมัติ
+SETTING/PLAY/RUNNING_START,วิ่งเทคตัว
+SETTING/PLAY/BEGINNER_MOD/DES,เมื่อกระโดดตบ ระบบจะเคลื่อนย้ายไปยังจุดปะทะโดยอัตโนมัติ และปรับทิศทางการตบให้ด้วย
+SETTING/PLAY/AUTO_MOD/DES,เคลื่อนที่และกระโดดโดยอัตโนมัติ เพื่อการเล่นแบบคล่องตัว
+SETTING/PLAY/RUNNING_START/DES,กดปุ่มตบ 2 ครั้ง เพื่อวิ่งเทคตัวแล้วกระโดดขึ้น
+SETTING/PREFERENCE,สภาพแวดล้อมเกม
+SETTING/PREFERENCE/SCREEN_SHAKING,การสั่นหน้าจอ
+SETTING/PREFERENCE/SCREEN_SHAKING/DES,ตั้งค่าเอฟเฟกต์การสั่นหน้าจอขณะเล่นเกม
+SETTING/PREFERENCE/SLOW_MOTION,สโลว์โมชัน
+SETTING/PREFERENCE/SLOW_MOTION/DES,เปิดใช้งานสโลว์โมชัน
+SETTING/PREFERENCE/SPECIAL_EFFECT,เอฟเฟกต์พิเศษ
+SETTING/PREFERENCE/SPECIAL_EFFECT/DES,แสดงแอนิเมชันพิเศษของนักกีฬาขณะแข่งขัน
+SETTING/PREFERENCE/BUTTON_LAYOUT,เลย์เอาต์ปุ่ม
+SETTING/PREFERENCE/BUTTON_LAYOUT/DES,ผู้ใช้งานกำหนดเลย์เอาต์ปุ่ม
+SETTING/PREFERENCE/BUTTON_LAYOUT/USER,ผู้ใช้งานกำหนด
+SETTING/LANGUAGE,ภาษา
+SETTING/CHANGE_LANGUAGE,เปลี่ยนภาษา
+ACHIEVEMENT/FAIL,ล้มเหลว
+SHOP/PROCESSING_REQUEST,กำลังจัดการคำขอ
+SHOP/CURRENCY_NOT_ENOUGH/ALERT,ไม่สามารถทำได้ เนื่องจากเงินตราไม่เพียงพอ
+INGAME/CURRENT/TIER,เทียร์ปัจจุบัน
+INGAME/GAME_READY,เตรียมการแข่งขัน
+SHOP/CURRENCY_NOT_ENOUGH,เงินตราไม่เพียงพอ
+SHOP/GROWTH,เติบโต
+SHOP/CHANGE_STAT/ALERT,เงินตราดังต่อไปนี้จะถูกใช้ในการเปลี่ยนค่าสถานะ#ต้องการดำเนินการต่อหรือไม่?
+INGAME/RELEASE,ปล่อยตัว
+INGAME/FOR_MAIN,ตั้งเป็นตัวหลัก
+INGAME/MAIN,ตัวหลัก
+INGAME/CLEAR,ปลด
+INGAME/DECORATE,ตกแต่ง
+INGAME/NUMBER_OF_SELECTED,เลือกนักกีฬา {n1} คน
+COMMON/DELETE,ลบ
+INGAME/OUT/DES,กรุณาเลือกนักกีฬาที่จะปล่อยตัว
+INGAME/DELETE_FIXED/ALERT,ไม่สามารถลบนักกีฬาที่ถูกกำหนดในรายการโปรดได้
+INGAME/DELETE_MAIN/ALERT,ไม่สามารถลบนักกีฬาที่ถูกลงทะเบียนเป็นตัวหลักได้
+SHOP/BASIC,พื้นฐาน
+SHOP/WEEKLY_ONLY,จำกัดรายสัปดาห์
+SHOP/MONTHLY_ONLY,จำกัดรายเดือน
+SHOP/WEEKLY_MONTHLY,รายสัปดาห์ & รายเดือน
+INGAME/HACK/ALERT_02,การแข่งขันสิ้นสุดลงอย่างผิดปกติ เนื่องจากตรวจพบการดัดแปลงข้อมูลภายในเกม
+INGAME/HACK/ALERT_01,กลับไปยังหน้าหลัก เนื่องจากตรวจพบการดัดแปลงข้อมูลอย่างผิดปกติภายในเกม
+SHOP/CURRENCY_NOT_ENOUGH/ALERT_02,ไม่สามารถซื้อไอเทมดังต่อไปนี้ได้ เนื่องจากเงินตราไม่เพียงพอ#{n1}
+INGAME/INFO_FAIL/ALERT,เกิดปัญหาที่ไม่คาดคิดขึ้นในการโหลดข้อมูล#หากปัญหายังคงเกิดขึ้นต่อเนื่อง กรุณาติดต่อศูนย์บริการลูกค้า
+INGAME/HACK/STAGE/ALERT,ตรวจพบการดัดแปลงข้อมูลด่าน
+INGAME/SELECT_CHANGE/ALERT,กรุณาเลือกนักกีฬาที่จะสับเปลี่ยน
+INGAME/NO_INFO_PLAYER/ALERT,ไม่มีข้อมูลของนักกีฬา
+INGAME//DISABLE_CHANGE/ALERT,ไม่สามารถสับเปลี่ยนกับนักกีฬาดังกล่าวได้
+INGAME/LOGIN,ล็อกอิน
+INGAME/LOGIN_FAIL,ล็อกอินล้มเหลว
+INGAME/ERROR,ข้อผิดพลาด
+INGAME/LOGIN/APPLE,ดำเนินต่อด้วย Apple
+INGAME/LOGIN/GOOGLE,ดำเนินต่อด้วย Google
+INGAME/RETRY,ลองใหม่อีกครั้ง
+INGAME/DUPLICATE_ACCOUNT,เป็นบัญชีที่มีอยู่แล้ว
+INGAME/BANNED_ACCOUNT,บัญชีที่ถูกแบน
+INGAME/MAIL,อีเมล
+INGAME/MAIL/NEW,ใหม่
+INGAME/MAIL/CHECK,ตรวจสอบเสร็จสิ้น
+INGAME/WIN,ชนะในการแข่งขัน
+INGAME/EXIT,ออก
+COMMON/SETTING,ตั้งค่า
+COMMON/CONTROL_SETTING,ตั้งค่าการควบคุม
+COMMON/CHAPTER,CHAPTER
+COMMON/MONEY/CREDIT,เครดิต
+COMMON/MONEY/BLUEFLAME,บลูเฟลม
+COMMON/MONEY/VPOINT,V พอยต์
+COMMON/MONEY/EXP,EXP
+COMMON/MONEY,เงินตรา
+COMMON/WORD/RECEIVE,รับ
+COMMON/WORD/SPIKE,ตบ
+COMMON/WORD/JUMP,กระโดด
+COMMON/WORD/SLIDING,สไลด์
+COMMON/WORD/FOURHIT,โฟร์ฮิต
+COMMON/WORD/CHANCE_BALL,ฟรีบอล
+INGAME/TOUCHOUT,ทัชเอาต์
+COMMON/BUTTON/SHIELD,ปุ่มโล่
+COMMON/TIER_POINT,คะแนนเทียร์
+COMMON/TOTAL_STATUS,ค่าสถานะรวม
+INGAME/PROBABILITY_TABLE,ตารางอัตรา
+COMMON/COLOSSEUM_02,โคลอสเซียม
+COMMON/STORY_MOD,โหมดเนื้อเรื่อง
+COMMON/SCORE,แต้ม
+INGAME/FAVORITE,รายการโปรด
+INGAME/TOUCHSCREEN,กรุณาแตะหน้าจอ
+INGAME/LOG,ประวัติ
+INGAME/COLOSSEUM/CANTPLAY,ท้าทายไม่ได้
+INGAME/COLOSSEUM/PLAYING,กำลังท้าทาย
+INGAME/COLOSSEUM/CANPLAY,ท้าทายได้
+INGAME/CONFIRMED,ยืนยัน
+INGAME/AWAKE,ปลุกพลัง
+INGAME/FINAL_REWARD/DES,เมื่อเคลียร์ด่านสุดท้าย จะได้รับรางวัลดังกล่าว #สามารถเพิ่มรางวัลได้ โดยการต่อสู้กับบอสรอง หรือเลือกการ์ดความสามารถเฉพาะ
+COMMON/PLAYER_DES,คำอธิบายนักกีฬา
+INGAME/SOME_INFO_FAIL/ALERT,โหลดข้อมูลบางส่วนล้มเหลว
+COMMON/GAME,การแข่งขัน
+PAY/WAITING,กำลังรอชำระเงิน...
+PAY/FAIL/ALERT,ชำระเงินล้มเหลว
+COMMON/SUCCESS,สำเร็จ
+COMMON/FAIL,ล้มเหลว
+INGAME/LEFT_LIFE/DES,จำนวนชีวิตจะถูกแชร์กันในการแข่งขันทั้งหมด ซึ่งจะพ่ายแพ้หากชีวิตเหลือ 0 #ชีวิตที่เหลือในปัจจุบันคือ {n1}
+INGAME/MY_SKILL_CARD,การ์ดความสามารถที่เลือก
+INGAME/TOURNAMENT_WIN,ผู้ชนะทัวร์นาเมนต์!
+INGAME/RE_CHALLENGE,ท้าทายอีกครั้ง
+INGAME/TABLE_RESET,รีเซ็ตตารางการแข่งขัน
+INGAME/STAGE_FETCH_ERROR/ALERT,ไม่สามารถโหลดข้อมูลด่านได้ตามปกติ
+COLOSSEUM/CARD/NAME_01,เปิดเผยพลังแฝง 1
+COLOSSEUM/CARD/NAME_02,เปิดเผยพลังแฝง 2
+COLOSSEUM/CARD/NAME_03,ลองทำแบบนี้ดีไหม?
+COLOSSEUM/CARD/NAME_04,พยายามไม่มากพอ
+COLOSSEUM/CARD/NAME_05,ลองทำแบบใจเย็นกันเถอะ
+COLOSSEUM/CARD/NAME_06,เติบโต 1
+COLOSSEUM/CARD/NAME_07,เติบโต 2
+COLOSSEUM/CARD/NAME_08,เติบโต 3
+COLOSSEUM/CARD/NAME_09,โอเอซิสสไปค์
+COLOSSEUM/CARD/DES_09,เมื่อตบ จะสามารถตบลูกด้วยมุมลึกได้มากขึ้น
+COLOSSEUM/CARD/NAME_10,ตะวันฉายแสง
+COLOSSEUM/CARD/DES_10,"หลังจากชนะการแข่งขัน จะได้รับ {STR}+{n1}, {JMP}+{n2}"
+COLOSSEUM/CARD/NAME_11,ทิวากาล
+COLOSSEUM/CARD/DES_11,หลังจากชนะการแข่งขันถัดไป จะถอดถอนการ์ดความสามารถทั้งหมด รวมถึงการ์ดใบนี้ด้วย
+COLOSSEUM/CARD/NAME_11A,ตะวันลับฟ้า
+COLOSSEUM/CARD/DES_11A,ราวกับว่าทุ่มเทพลังทั้งหมดอย่างเต็มเหนี่ยว
+COLOSSEUM/CARD/NAME_12,ทรหด
+COLOSSEUM/CARD/DES_12,"หากทีมคู่แข่งมีชีวิตมากกว่า จะได้รับ {STR}+{n1}, {DEF}+{n2} ต่อหนึ่งความแตกต่างของชีวิต"
+COLOSSEUM/CARD/NAME_13,ตีลูกหลอกท็อปสปิน
+COLOSSEUM/CARD/DES_13,เมื่อตีลูกหลอก จะเพิ่มความเร็วการตกลงมาของลูก
+COLOSSEUM/CARD/NAME_14,ลูกตบฟ้าคะนอง
+COLOSSEUM/CARD/DES_14,จำกัดการกระโดดตบหนึ่งครั้งต่อ {n1} วินาที #เสริมพลังการตบสำหรับจุดตบ {n2}m ขึ้นไป
+COLOSSEUM/CARD/NAME_15,พาวเวอร์
+COLOSSEUM/CARD/DES_15,เมื่อนักกีฬาคนใดก็ตามบล็อกสำเร็จ บอลจะกระเด็นออกไปเร็วขึ้น {n1}%
+COLOSSEUM/CARD/NAME_16,แสงในที่ลับ
+COLOSSEUM/CARD/DES_16,ถอดถอนการ์ดความสามารถบัฟทั้งหมด และได้รับ {STR}+{n1} เท่ากับจำนวนการ์ดที่ถูกถอดถอน
+COLOSSEUM/CARD/DES_16A,เสียสละการ์ดความสามารถ เพื่อรับพลังบุก
+COLOSSEUM/CARD/NAME_17,ทดสอบ
+COLOSSEUM/CARD/DES_17,หากตบลูกฟรีบอล มีโอกาส {n1}% ที่จะกลายเป็นการตบระเบิด โดยมีโอกาส {n2}% ที่จะเกิดการตีลูกหลอก
+COLOSSEUM/CARD/NAME_18,ก้าวกระโดดแห่งศรัทธา
+COLOSSEUM/CARD/DES_18,เมื่อกระโดดตบลูกก่อนการเซ็ตของสมาชิกทีม จะเสริมพลังการตบจนถึงก่อนลงสู่พื้น
+COLOSSEUM/CARD/NAME_19,ไฮไลต์
+COLOSSEUM/CARD/DES_19,"ทุกคนรวมถึงคู่แข่งจะได้รับ {STR}+{n1}, {DEF}+{n2}, {SPD}+{n3}, {JMP}+{n4}"
+COLOSSEUM/CARD/NAME_20,สตาร์ต้องไม่ล้มลง
+COLOSSEUM/CARD/DES_20,หลังจากรับลูกจะไม่มีการกลิ้งตัว โดยถึงแม้ว่าการสไลด์จะใช้สตามินา {n1}% แต่จะลุกเร็วขึ้น {n2}%
+COLOSSEUM/CARD/NAME_21,ซูเปอร์สตาร์ชาเลนจ์
+COLOSSEUM/CARD/DES_21,"นักกีฬาคู่แข่งทั้งหมดจะได้รับ {DEF}+{n1}, {SPD}+{n2}"
+COLOSSEUM/CARD/NAME_22,ตั้งรับสุดชีวิต
+COLOSSEUM/CARD/DES_22,เมื่อบล็อกลูก มีโอกาส {n1}% ที่จะเกิดตั้งรับสุดชีวิต
+COLOSSEUM/CARD/NAME_23,ทอดสมอ
+COLOSSEUM/CARD/DES_23,เมื่อสไลด์ จะลุกช้าลง {n1}%
+COLOSSEUM/CARD/NAME_24,กระแสน้ำหวนกลับ
+COLOSSEUM/CARD/DES_24,ขณะอยู่กลางอากาศจะสูญเสีย {SPD} {n1}% ซึ่ง {n2}% จากในนั้นจะถูกเปลี่ยนเป็น {STR}
+COLOSSEUM/CARD/NAME_25,อุกกาบาตทรงพลัง
+COLOSSEUM/CARD/DES_25,เสริมพลังการตบผ่านทางการกระโดดบล็อก
+COLOSSEUM/CARD/NAME_26,เหนือขั้น
+COLOSSEUM/CARD/DES_26,เมื่อเสิร์ฟแบบตบ มีโอกาส {n1}% ที่จะมอบดีบัฟล็อกให้แก่เซตเตอร์คู่แข่ง
+COLOSSEUM/CARD/NAME_49,เจตนารมณ์
+COLOSSEUM/CARD/DES_49,"หากสตามินาของทีมต่ำกว่า {n1}% จะได้รับ {STR}+{n2}, {JMP}+{n3}"
+COLOSSEUM/CARD/NAME_50,สายลมวูบที่สอง
+COLOSSEUM/CARD/DES_50,เมื่อเริ่มการแข่งขัน หากชีวิตเหลือต่ำกว่า {n1} จะฟื้นฟู {n2}
+COLOSSEUM/CARD/NAME_56,มัลติเปิลสวิง
+COLOSSEUM/CARD/DES_56,สามารถสวิง 2 ครั้งกลางอากาศได้ โดยเมื่อสวิงครั้งที่สองจะเสริมพลังการตบ
+COLOSSEUM/CARD/NAME_57,เดธแมตช์
+COLOSSEUM/CARD/DES_57,ไม่สามารถฟื้นฟูชีวิตได้อีก โดยเมื่อเริ่มการแข่งขัน ชีวิตจะถูกกำหนดให้เป็น {n1}
+COLOSSEUM/CARD/NAME_58,กระแสลม
+COLOSSEUM/CARD/DES_58,เมื่อตบบอลใกล้เน็ต พลังตบจะลดลง ยิ่งอยู่ห่างจากเน็ต พลังตบก็ยิ่งเพิ่มขึ้น
+COLOSSEUM/CARD/NAME_FATIGUE,อ่อนเพลีย
+COLOSSEUM/CARD/NAME_HESITATION,สองจิตสองใจ
+COLOSSEUM/CARD/DES_HESITATION,เมื่อเริ่มการแข่งขัน จะฟื้นฟูชีวิต {n1}
+COLOSSEUM/CARD/NAME_SHORTBREAK,พักผ่อนชั่วครู่
+COLOSSEUM/CARD/NAME_LONGBREAK,พักผ่อนเต็มอิ่ม
+COLOSSEUM/CARD/NAME_BREAK,พักผ่อน
+COLOSSEUM/CARD/DES_BREAK,ฟื้นฟูชีวิต {n1}
+COLOSSEUM/CARD/NAME_ENEMYBUFF,บรรดาศัตรูที่แข็งแกร่งขึ้น
+COLOSSEUM/CARD/DES_ENEMYBUFF,ศัตรูทั้งหมดแข็งแกร่งขึ้น
+INGAME/DATEN,จุดตบ
+INGAME/CHANCE,แชนส์
+INGAME/OUT,เอาต์
+INGAME/MISS,พลาด
+INGAME/QUICKNESS,ความว่องไว
+INGAME/SCORE_LOST,ชีวิตที่เหลือ
+INGAME/RULE_VIOLATION,ผิดกฎ
+INGAME/ACHIEVEMENT/COMPLETE,ภารกิจท้าทายเสร็จสิ้น
+LEE_YOUNGSEOB/NICKNAME,สุดยอดตัวตบ
+,
+ISABEL/NICKNAME,ราชินีแห่งโคลอสเซียม
+HAEUN/LINE,อะฮ่าฮ่า! อย่าบอกนะว่าพวกเธอคิดจะชนะพวกเราจริงๆ น่ะ?
+JIHOON/LINE,เอาล่ะ เริ่มกันเลย!! เชื่อใจฉันแล้วตามมาให้ดีก็พอ!
+CONDITION/RELAX,ชิลๆ
+CONDITION/CHOLERIC,ใจร้อน
+CONDITION/CALM,ใจเย็น
+CONDITION/PASSIONATE,ไฟแรง
+CONDITION/EMOTIONLESS,ไร้ความรู้สึก
+CONDITION/COWARD,ขี้กลัว
+CONDITION/VERY_CHOLERIC,ใจร้อนมาก
+CONDITION/VERY_COWARD,ขี้กลัวมาก
+CONDITION/IMMERSIVE,จดจ่อ
+CONDITION/OPTIMISTIC,มองโลกในแง่ดี
+CONDITION/SENSITIVE,อ่อนไหว
+CONDITION/INDIFFERENT,เฉยเมย
+CONDITION/COMPOSED,สุขุม
+CONDITION/LITTLE_SENSITIVE,อ่อนไหวเล็กน้อย
+PLAYSTYLE/BOLD,ใจกล้า
+PLAYSTYLE/SAFE,ปลอดภัย
+PLAYSTYLE/CAUTIOUS,รอบคอบ
+PLAYSTYLE/QUICK_ATTACK_LOVER,รักการบุกเร็วแบบไร้แผน
+PLAYSTYLE/THOUGHTFUL_QUICK_ATTACK,รักการบุกเร็วแบบมีแผน
+PLAYSTYLE/HIGH_AND_HIGHER,สูงๆ
+PLAYSTYLE/AGGRESSIVE,เชิงรุก
+PLAYSTYLE/ARROGANT,อวดดี
+PLAYSTYLE/BALANCED,ความสมดุล
+PLAYSTYLE/EXPERIMENTAL,ทดลองสิ่งใหม่ๆ
+PLAYSTYLE/RECKLESS,วู่วาม
+INGAME/CONTINUE/ALERT,ต้องการดำเนินการต่อหรือไม่?
+SETTING/BUTTON/SLIDE,สไลด์
+COMMON/OLD_DATA,ประวัติในอดีต
+COMMON/LOGOUT/ALERT,แน่ใจหรือไม่ว่าต้องการล็อกเอาต์?
+SETTING/GRAPHIC,กราฟิก
+SHOP/WEARING,สวมใส่อยู่
+SHOP/COLOSSEUM_RECRUIT,ร้านค้ารับสมัครนักกีฬาโคลอสเซียม
+COMMON/LATEST,ใหม่ล่าสุด
+TIP/LOSE/ALERT_01,ในตอนที่คิมฮีซองทำการบล็อก ลองตีลูกหลอก #เพื่อก่อกวนการบล็อกดูสิ
+TIP/LOSE/ALERT_02,ในตอนที่คิมฮีซองทำการบล็อก ลองตีลูกหลอก #หรือเปลี่ยนจังหวะกระโดดตบ #เพื่อก่อกวนการบล็อกดูสิ
+SETTING/BUTTON/VIEW,ความกว้างมุมมอง
+SETTING/BUTTON/ALPHA,ความโปร่งใสปุ่ม
+SETTING/BUTTON/SCALE,ขนาดปุ่ม
+SETTING/BUTTON/RESET,รีเซ็ต
+SETTING/BUTTON/SAVE,บันทึก
+TUTORIAL/TRAINING/DES_01,ตบลูกที่ลอยขึ้นมาทั้งหมด! ถ้าชีวิต 5 อันหมดลงจะถือว่าเกมสิ้นสุด!
+TUTORIAL/TRAINING/DES_02,บล็อกลูกที่คู่ฝึกตีมาทั้งหมด! ถ้าชีวิต 3 อันหมดลงจะถือว่าเกมสิ้นสุด!
+TUTORIAL/TRAINING/DES_03,รับลูกตบ (ป้องกัน) ที่คู่ฝึกตบมาทุกลูก! เมื่อเสียชีวิตครบทั้ง 5 จะจบการฝึก!
+TUTORIAL/TRAINING/DES_04,เสิร์ฟลูกอย่างอิสระ! ถ้าชีวิต 5 อันหมดลงจะถือว่าเกมสิ้นสุด!
+TUTORIAL/TRAINING/NO_BEGINNER,โหมดมือใหม่ถูกเปิดอยู่ หากต้องการปรับองศาการตบ กรุณาปิดโหมดมือใหม่ที่ออปชัน
+INGAME/TIMEOUT,ขอเวลานอก
+COMMON/SKILL/DURATION,เวลาต่อเนื่อง
+COMMON/SKILL/COOLDOWN,คูลดาวน์
+INGAME/REROLL,สุ่มใหม่
+INGAME/WAITING,กำลังรอ
+INGAME/PLAYER_COLLECTION,สมุดภาพนักกีฬา
+INGAME/HELP,ช่วยเหลือ
+INGAME/COLOSSEUM_SHOP,ร้านค้าโคลอสเซียม
+INGAME/PAUSE,หยุดชั่วคราว
+INGAME/TOTAL_TIER_POINT,คะแนนเทียร์ทั้งหมด +{n1}
+INGAME/AWAKEN/RANK,ชิ้นส่วนความพยายาม {n2} ระดับ {n1}
+INGAME/AWAKEN/NORMAL,ชิ้นส่วนความพยายามของ {n1}
+INGAME/AWAKEN_ITEM,ชิ้นส่วนความพยายาม
+COLOSSEUM_VOUCHER,ตั๋วเข้าโคลอสเซียมเพิ่มเติม
+COMMON/CLICK,คลิก!
+INGAME/SCOUT_POINT,คะแนนสเกาต์
+SHOP/COLOSSEUM_TICKET,ตั๋วโคลอสเซียม
+ALERT/USE_ITEM,ต้องการใช้ [{n1}] หรือไม่?
+ALERT/NO_MORE_REWARD,รับรางวัลที่สามารถรับได้ในวันนี้ทั้งหมดแล้ว
+ALERT/CHECKING,เรากำลังดำเนินการปิดปรับปรุงเซิร์ฟเวอร์ เพื่อการให้บริการที่ดียิ่งขึ้น กรุณารอสักครู่จนกว่าการปิดปรับปรุงจะเสร็จสิ้น
+ALERT/NETWORK,เครือข่ายไม่เสถียร
+ALERT/NETWORK_CHECK,กรุณาตรวจสอบสถานะเครือข่าย
+ALERT/ALREADY_LINK_ACCOUNT,เป็นบัญชีที่เชื่อมโยงอยู่แล้ว
+ALERT/GAMECENTER_RETRY,กรุณาเริ่มเกมใหม่อีกครั้ง หลังจากเปิดใช้งานฟังก์ชัน GameCenter
+ALERT/DONT_KNOW_LINK_FAIL,เชื่อมโยงล้มเหลว เนื่องจากสาเหตุที่ไม่รู้จัก
+ALERT/DISABLED_GOOGLE_LOGIN,การล็อกอิน Google ไม่ได้ถูกเปิดใช้งาน
+ALERT/TOO_MUCH_LOGIN_TRY,พยายามล็อกอินหลายครั้งเกินไป
+ALERT/LOADING,กำลังโหลด
+ALERT/PLEASE_WAIT,กรุณารอสักครู่
+INGAME/COLOSSEUM/ALERT_03,ตัวเลือกที่สี่ของโหมดดังกล่าวเป็นสิทธิประโยชน์เฉพาะผู้ซื้อ [{n1}]#ต้องการไปยังหน้าซื้อหรือไม่?
+INGAME/COLOSSEUM/ALERT_04,วันนี้ไม่ใช่วันที่สามารถเข้าโคลอสเซียมดังกล่าวได้
+COMMON/HOME,หน้าหลัก
+COMMON/PLAYER_MANAGEMENT,จัดการนักกีฬา
+SKILLDOLPA_JAEHYUN,ค่าสถานะที่เพิ่มจะสูงขึ้นตามสัดส่วนประสิทธิภาพสกิล
+SKILLDOLPA_ISABEL,ความจุการชาร์จพลังจะขยายใหญ่ขึ้นตามประสิทธิภาพสกิล
+SKILLDOLPA_LISIA,โอกาสเสิร์ฟสำเร็จจะเพิ่มขึ้นตามประสิทธิภาพสกิล
+SKILLDOLPA_ROBERTO,เกจที่เพิ่มจะสูงขึ้นอย่างรวดเร็วตามประสิทธิภาพสกิล
+SKILLDOLPA_AYEON,พลังบุกเพิ่มเติมของปฏิกิริยาเคมีจะแข็งแกร่งขึ้นตามประสิทธิภาพสกิล
+SKILLDOLPA_NISIKAWA,แข็งแกร่งขึ้นตามสัดส่วนประสิทธิภาพสกิล
+SKILLDOLPA_OASIS,ค่าสถานะที่เพิ่มจะสูงขึ้นตามสัดส่วนประสิทธิภาพสกิล
+SKILLDOLPA_MINJUN,การสปินของลูกจะเป็นไปอย่างรุนแรงตามสัดส่วนประสิทธิภาพสกิล
+SKILLDOLPA_YOONSEOK,การตีลูกหลอกจะตกลงมาอย่างรวดเร็วตามสัดส่วนประสิทธิภาพสกิล
+SKILLDOLPA_QUESTION,ประสิทธิภาพสกิลคือ #ข้อมูลที่แสดงให้เห็นอย่างชัดเจนว่าเอฟเฟกต์สกิลของเหล่านักกีฬานั้น จะเพิ่มสูงขึ้นประมาณไหน ตามการปลุกพลัง
+COMMON/CANT_ENTER,เข้าไม่ได้
+IAP_RECOMMENDED,แนะนำ
+COMMON/SHOP/PURCHASED,มีอยู่
+COMMON/PLAYER_SCOUT_DES_00,สเกาต์นักกีฬาทันที
+COMMON/PLAYER_SCOUT_DES_01,สำหรับนักกีฬาที่มีอยู่แล้ว จะมอบชิ้นส่วนความพยายามให้
+COMMON/PLAYER_SCOUT_DES_02,สามารถปลุกพลังนักกีฬาได้สูงสุด 5 ครั้ง
+INGAME/EXPIRE_TIME_LEFT,เวลาที่เหลือจนกว่าจะหมดอายุ
+MAIL_MESSAGE_SUPPORT_0,สวัสดี ขอบคุณสำหรับการใช้งาน The Spike Cross มาตลอด #คำถามที่คุณส่งเข้ามาได้รับการจัดการเรียบร้อยแล้ว
+MAIL_MESSAGE_SUPPORT_1,สวัสดี ขอบคุณสำหรับการใช้งาน The Spike Cross มาตลอด #เราได้ตรวจสอบคำถามที่คุณส่งเข้ามาอย่างละเอียดแล้ว แต่เนื้อหาดังกล่าวนั้นยากที่จะจัดการ ขออภัยเป็นอย่างสูงสำหรับความไม่สะดวก
+PLAYSTYLE/ONEPOINT,นักกีฬาผู้ชำนาญวันพอยต์
+chat_serveace,ลูกเสิร์ฟเอสที่น่าตื่นเต้น!!
+chat_in,ลงในสนามแบบเฉียดฉิว!!
+chat_mess,พลาดไปอย่างน่าเสียดาย~
+chat_serveace2,ลูกเสิร์ฟเอสไร้สัมผัสแบบยอดเยี่ยม!
+chat_block1,ซูเปอร์มอนสเตอร์บล็อก!
+chat_direct1,ซูเปอร์คลีนไดเร็ค!
+chat_spike1,การตบซูเปอร์บูมสไปค์!
+chat_serveace3,ลูกเสิร์ฟเอสไร้สัมผัส~
+chat_serveace4,เสิร์ฟได้เยี่ยมมาก~
+chat_block2,บล็อกปีศาจ!
+chat_direct2,คลีนไดเร็ค!
+chat_spike2,การตบบูมสไปค์!
+chat_block3,คูลบล็อก!
+chat_direct3,คูลไดเร็ค
+chat_spike3,การตบสไปค์ที่เจ๋งมาก!
+chat_direct4,ลูกไดเร็คไม่ดี
+chat_spike4,การตบสไปค์ที่ยอดเยี่ยม
+chat_mess2,จังหวะไม่ดี
+chat_faint,ลูกหลอกที่ยอดเยี่ยม!
+chat_dump,หยอดสองจังหวะจนคู่แข่งตั้งตัวไม่ทัน!
+chat_mess3,พลาดจนเกมสะดุด
+chat_serveace5,การเสิร์ฟเอสที่ยอดเยี่ยม
+chat_spike5,การตบสไปค์ที่ดี
+chat_save,เซฟได้เยี่ยมมาก
+chat_threeball,ต่อบอลสามจังหวะจนเกมเนือย
+chat_supersave,ซูเปอร์เซฟ!
+chat_slide,สไลด์ได้อย่างยอดเยี่ยม
+INGAME/COLOSSEUM/HELP,สำหรับบอสแห่งโคลอสเซียม จะสามารถเข้าได้เฉพาะวันนั้นๆ ซึ่งหากผ่านวันไป จำนวนครั้งการรับรางวัลที่เหลือและข้อมูลการเล่นจะถูกรีเซ็ตทั้งหมด
+INGAME/COLOSSEUM/REWARD_LEFT,จำนวนครั้งการรับรางวัลที่เหลือ
+INGAME/RESET_TIME_LEFT,เวลาที่เหลือจนกว่าจะรีเซ็ต
+GUIDE/COLOSSEUM/SHOP,การรับสมัครนักกีฬาโคลอสเซียม คือการรับสมัครที่มีเหล่านักกีฬาจากคอนเทนต์โคลอสเซียมเป็นเมมเบอร์หลัก #นักกีฬาโคลอสเซียมและนักกีฬาทั่วไปต่างกันแค่ประเภทเท่านั้น ไม่ได้แข็งแกร่งกว่าแต่อย่างใด จึงขอแนะนำให้ดำเนินการรับสมัครนักกีฬาที่คุณต้องการ
+TOURNAMENT/LEFT_BRACKET_RESET,รีเซ็ตตารางการแข่งขันที่เหลือ
+INGAME/DELETE_FIXED/ALERT,ไม่สามารถลบนักกีฬาที่ถูกกำหนดในรายการโปรดได้
+INGAME/OLD_DATA/TOUR,ประวัติการเล่นในโหมดทัวร์นาเมนต์ก่อนการอัปเดตครอส
+INGAME/OLD_DATA/STORY,จำนวนรวมของดาวที่ได้รับจากแต่ละบทก่อนการอัปเดตครอส
+INGAME/OLD_DATA/ACHIEVEMENT,จำนวนภารกิจท้าทายที่เคลียร์ก่อนการอัปเดตครอส
+INGAME/WIN_TIME,จำนวนครั้งที่ชนะ
+INGAME/TROPHY_TIME,จำนวนครั้งที่ชนะเลิศ
+INGAME/PLAY_TIME,จำนวนครั้งที่แข่งขัน
+INGAME/OLD_DATA_REWARD,รางวัลที่ได้รับจากการเปลี่ยนแปลงข้อมูล
+OLD_DATA/WS_STORY,เรื่องราวของตัวตบหัวเสา
+OLD_DATA/SUMMER_STORY,เรื่องราวในฤดูร้อน
+OLD_DATA/SUPERSTAR_CHALLENGE,ซูเปอร์สตาร์ชาเลนจ์
+OLD_DATA/ROAD_TO_PRO,เส้นทางสู่มือโปร
+COMMON/OK,ยืนยัน
+INGAME/ONEPOINT/TIP,นักกีฬาผู้ชำนาญวันพอยต์จะอยู่ในสถานะถอดใจอย่างต่อเนื่องหลังจากทำแต้มเสีย จึงขอแนะนำให้ทำการสับเปลี่ยนตัว
+INGAME/AUTOPLAY_DES,โหมดที่เคลื่อนไหวและกระโดดตบโดยอัตโนมัติ ซึ่งมีระดับความยากและระดับความอิสระต่ำ
+INGAME/MANUALPLAY_DES,โหมดที่ต้องควบคุมเองเป็นส่วนใหญ่ มีทั้งความยากและอิสระในการเล่นสูง
+INGAME/PLAYMODE_DES,สามารถเปลี่ยนโหมดการเล่นได้ทุกเมื่อที่ออปชัน
+INGAME/PLAYMODE_TITLE,กรุณาเลือกโหมดการเล่นที่ต้องการ
+ACHIEVEMENT/ALERT,บรรลุภารกิจท้าทาย{n1} {n2} อันขึ้นไป
+COMMON/WEEKLY_1,จ./พฤ./อา.
+COMMON/WEEKLY_2,อ./ศ./อา.
+COMMON/WEEKLY_3,พ./ส./อา.
+enter_preset_name,โปรดกรอกชื่อพรีเซ็ตที่ต้องการเปลี่ยน
+enter_school_name,ใส่ชื่อโรงเรียนที่คุณต้องการ
+enter_player_name,ใส่ชื่อผู้เล่นที่คุณต้องการ
+alert:cannnotusename,ไม่สามารถใช้ชื่อนี้ได้
+needUpdate,มีอัปเดตใหม่แล้ว
+nowVersion,รุ่นปัจจุบัน
+newVersion,เวอร์ชั่นใหม่
+COMMON/HOW_TO_GET,วิธีรับ
+alert_message5,คุณไม่สามารถเล่นโหมดฝึกซ้อมได้ในขณะที่โหมดออโต้กำลังทำงาน
+INGAME/PLAY_VIDEO,ดูวิดีโอ
+INGAME/VIDEO_AD,โฆษณาวิดีโอ
+CARD/TOTAL/OASIS,การแข่งขันดุเดือด
+INGAME/DETAIL,รายละเอียด
+TIP/BOSS/ALERT_08,ลิเซียเชี่ยวชาญในด้านการเสิร์ฟที่ทรงพลัง ซึ่งยากจะรับได้ #ลองต้านทานด้วยการสไลด์ในจังหวะที่แม่นยำดูสิ
+TIP/BOSS/ALERT_09,ลูกที่อายอนรับจะกลายเป็นการตบระเบิด เนื่องจากทำปฏิกิริยากับการเซ็ตของสมาชิกทีม #ลองพยายามไม่ให้อายอนรับได้ดูสิ
+TIP/BOSS/ALERT_10,เมื่อยามาเดระรับลูก ค่าสถานะของคู่ต่อสู้ที่สัมผัสบอลคนสุดท้ายจะลดลงอย่างมาก
+COMMON/SUNSOO,นักกีฬา
+ACCOUNT_DELETE_MESSAGE_4,การลบบัญชีจะใช้เวลา 30 วัน โดยหลังจากดำเนินการลบเสร็จสิ้นแล้ว จะไม่สามารถย้อนคืนได้
+ACCOUNT_DELETE_MESSAGE_5,เป็นบัญชีที่กำลังรอการลบ ต้องการยกเลิกการลบหรือไม่?
+ACCOUNT_DELETE_MESSAGE_6,จำนวนวันที่เหลือจนกว่าจะถูกลบถาวร : {n1} วัน
+alert_message_quit,ต้องการออกจาก The Spike Cross หรือไม่?
+INGAME/COMMON/NO_END,การแข่งขันสิ้นสุดลงอย่างไม่ถูกต้อง #กรุณาตรวจสอบเครือข่ายและลองใหม่อีกครั้ง
+INGAME/COMMON/REALLY,ข้อมูลการแข่งขันไม่ได้ถูกบันทึก ต้องการดำเนินการหรือไม่?
+INGAME/COMMON/SEEMORE,ดูเพิ่มเติม
+account_delete_message_1,กรุณากรอก (v) หากต้องการลบบัญชี
+alert:input_invalid_char,มีอักขระที่ไม่ถูกต้อง
+HEAD,ทรงผม
+NOTI_SERVICE_MAINTEIN_LEFT_MIN,การบำรุงรักษาบริการจะเริ่มใน {n1} นาที.
+NOTI_SERVICE_MAINTEIN_LEFT_SEC,การบำรุงรักษาบริการจะเริ่มใน {n1} วินาที.
+UI/NO_ADSTOSEE,ไม่มีโฆษณาที่สามารถดูได้ กรุณาลองอีกครั้งในอีกสักครู่
+COMMON/ACHIEVEMENT_DES_1,ภารกิจท้าทายดังกล่าวสามารถทำได้โดยไม่ต้องมีนักกีฬาแบคชีอู
+ACHIEVEMENT/TITLE_32,เอซที่แท้จริง
+ACHIEVEMENT/DES_32,ชนะซูเปอร์สตาร์ชาเลนจ์ / ด่าน 8 โดยให้ทีมคู่แข่งได้คะแนนน้อยกว่า 3 แต้ม และทำคะแนนอย่างน้อย 10 แต้มด้วยการตบและลูกหลอกของตนเองเท่านั้น
+GUIDE/TIP_18,สามารถรับคะแนนสเกาต์ได้ ผ่านทางการรับสมัครนักกีฬาและการขายชิ้นส่วนความพยายาม
+GUIDE/TIP_19,สามารถรับชิ้นส่วนความพยายามได้เมื่อรับสมัครนักกีฬาคนเดิมซ้ำ#หากตำแหน่งและแรงก์ตรงกัน จะใช้ชิ้นส่วนความพยายามร่วมกันได้#นักกีฬาระดับ S- ขึ้นไปจะมีชิ้นส่วนความพยายามเฉพาะตัว
+COMMON/TIER_REWARD,รางวัลเลื่อนระดับเทียร์
+INGAME/RECRUIT/RANDOM_WS,รับสมัครนักกีฬาจากตำแหน่ง WS แบบสุ่ม
+INGAME/RECRUIT/RANDOM_MB,รับสมัครนักกีฬาจากตำแหน่ง MB แบบสุ่ม
+INGAME/RECRUIT/RANDOM_SE,รับสมัครนักกีฬาจากตำแหน่ง Se แบบสุ่ม
+INGAME/RECRUIT/RANDOM_COLO,รับสมัครนักกีฬาโคลอสเซียมหรือทรัพยากรแบบสุ่ม
+COLOSSEUM_VOUCHER_DESC,ตั๋วที่สามารถเข้าโคลอสเซียมได้อีกครั้งหนึ่ง
+COMMON/ORIGIN_LOGIN,วิธีเข้าสู่ระบบเดิม
+COMMON/VICTORY,ชนะ
+PLAYSTYLE/ANOMALOUS,แหกกฎ
+PLAYSTYLE/CHALLENGING,ท้าทาย
+COMMON/DONTSHOWTODAY,ไม่แสดงอีกในวันนี้
+INGAME/ENTER_RESET,ใช้คูปองรางวัล
+COMMON/EVENT_SHOP_DESC,ร้านค้าดังกล่าวจะเปิดบริการในระยะเวลากิจกรรมเท่านั้น
+COLOSSEUM/CARD/DES_64,เมื่อเซตเตอร์ฝ่ายพันธมิตรเซ็ตฟรีบอล มีโอกาส {n1}% ที่จะสร้างสัญลักษณ์ชั่วคราวแก่ศัตรูแบบสุ่ม หากทำการตบโดนศัตรูที่มีสัญลักษณ์ จะตั้งรับล้มเหลวอย่างแน่นอน
+COLOSSEUM/CARD/NAME_65,สู่วิมาน
+COLOSSEUM/CARD/DES_65,"หากรับลูกได้โดยไม่ล้ม จะได้รับ {STR}+{n1}, {JMP}+{n2} ชั่วคราว"
+COLOSSEUM/CARD/NAME_66,พิทักษ์
+COLOSSEUM/CARD/DES_66,เมื่อทีมฝ่ายตรงข้ามทำการเสิร์ฟ จะสร้างหยดน้ำในตำแหน่งสุ่ม ซึ่งนักกีฬาที่ถูกปกคลุมด้วยหยดน้ำจะมีศักยภาพการตั้งรับที่แข็งแกร่งขึ้นอย่างมาก
+COLOSSEUM/CARD/DES_67,ยิ่งจุดตบต่ำเท่าไหร่ พลังการตบก็จะแข็งแกร่งขึ้นเท่านั้น (แข็งแกร่งสูงสุดที่ {n1}m)
+COMMON/HARD_LEVEL,ระดับความยาก
+TIP/BOSS/ALERT_12,เมื่อโซดัมทำแต้มเสีย มีโอกาสที่จะทำให้สมาชิกทีมทั้งหมดอยู่ในสถานะจดจ่อ
+TIP/BOSS/ALERT_13,เมื่อรับการตบของฮงชีต่อเนื่องสองครั้ง#จะตั้งรับล้มเหลวอย่างแน่นอน
+TIP/BOSS/MOOYOUNG,การพิทักษ์ของ มูยอง จะปกป้องผู้เล่นที่มีพลังป้องกันต่ำที่สุด #และช่วยเพิ่มพลังป้องกันรวมถึงระยะป้องกันของผู้เล่นคนนั้น
+TIP/BOSS/ALERT_15,รยูฮยอนสามารถรวบรวมพลัง เพื่อตบกลางอากาศได้#ต้องอ่านจังหวะการบุกให้ดี#ผ่านทางความสูงของการเซ็ตและจังหวะการกระโดดของรยูฮยอน
+TIP/BOSS/ALERT_17,ฮันรามีศักยภาพการตั้งรับที่ล้ำเลิศกว่านักกีฬาคนอื่น#ลองพิชิตโดยเล็งหาช่องโหว่ให้ดี
+TIP/ALERT_CUSTOM,เมื่อเปลี่ยนค่าระบบหลักในการแข่งขันแบบปรับแต่ง การเล่นบางอย่างอาจมีโอกาสผิดพลาดสูงขึ้น หรือการแข่งขันอาจดำเนินไปอย่างผิดปกติ
+INGAME/CTM/LEFT_TIME,เวลาที่เหลือ
+BUY_LIMIT,ซื้อได้ {0} ครั้ง
+HONGSI_TALK,ฮู้ว หลงกลแล้วรึเปล่านะ...
+COMMON/NOEVENT,ไม่ใช่ระยะเวลากิจกรรม
+COMMON/GETALLREWARD,รับทั้งหมด
+COMMON/FREE,ฟรี
+CTM_ATTENDANCE,พาสเช็กชื่อกิจกรรม
+COMMON/EVENT_DURATION,พาสเช็กชื่อกิจกรรมจะมีผลเฉพาะในช่วงระยะเวลากิจกรรมเท่านั้น
+COMMON/PREMIUM,พรีเมียม
+INGAME/SCOUT_PLAYER_DESC,สามารถสเกาต์ โดยระบุนักกีฬาที่ต้องการได้
+INGAME/RECRUIT_PLAYER_DESC,สามารถตรวจสอบศักยภาพของเหล่านักกีฬาและทำการรับสมัครได้
+COMMON/SHOP_DESC,"สามารถซื้อทรงผม, ชุด, รองเท้า, ลูกบอลของเหล่านักกีฬาและทำการสวมใส่ได้"
+COMMON/COLOSSEOSHOP_DESC,สามารถรับสมัครนักกีฬาโคลอสเซียมและซื้อไอเทมได้
+INGAME/EVENT_SCOUT_POINT,คะแนนสเกาต์กิจกรรม
+COMMON/MATCH_PREVIEW,พรีวิวการแข่งขัน
+COMMON/SEONRIM_NAME,มัธยมซอนริม
+COMMON/ATTENDACE_JUMP,เช็กชื่อล่วงหน้า
+COMMON/ATTENDACE_DES,ผลรวม
+INGAME/SETTING_PROMOTION1,ต้องอัปเกรดอียองซอบ#ยังไงเหรอ?
+INGAME/SETTING_PROMOTION2,อิซาเบล VS นัมแจฮยอน#คุณจะเลือกใคร?!
+INGAME/SETTING_PROMOTION3,เคล็ดลับการเคลียร์ภารกิจท้าทาย!
+INGAME/SETTING_PROMOTION4,มาแชร์ความเห็นของทุกคน#ในคอมมูนิตี้ผู้เล่นกัน!
+INGAME/SETTING_PROMOTION5,อ่านต่อใน SNS ทางการของผู้พัฒนา!
+COMMON/BASIC,ทั่วไป
+COMMON/EVENT,กิจกรรม
+COMMON/TIMEOUT/MAX_SCORE,คะแนนสูงสุด
+COMMON/TIMEOUT/BALL_SIZE,ขนาดของลูกบอล
+COMMON/TIMEOUT/BALL_GRAVITY,แรงโน้มถ่วงของลูกบอล
+COMMON/TIMEOUT/BALL_OPACITY,ความทึบแสงของลูกบอล
+COMMON/TIMEOUT/NET_HEIGHT,ความสูงของตาข่าย
+COMMON/TIMEOUT/BGM,เพลงพื้นหลัง
+COMMON/TIMEOUT/MULTI_SWING,สวิงหลายครั้ง
+ACHIEVEMENT/TITLE_33,ตัวบล็อกกลางก็สนุกเหมือนกัน
+ACHIEVEMENT/DES_33,ชนะการแข่งขันทัวร์นาเมนต์ 10 ครั้ง โดยเล่นเป็นตัวบล็อกกลาง
+ACHIEVEMENT/TITLE_34,การฝึกบล็อกต่ำ
+ACHIEVEMENT/DES_34,ชนะบทที่ 7 ด่านที่ 7 โดยบล็อกฮันราอย่างน้อย 5 ครั้ง
+ACHIEVEMENT/TITLE_35,ผู้เล่นที่เก่งที่สุดอย่างไม่ต้องสงสัย
+ACHIEVEMENT/DES_35,เอาชนะบทที่ 7 / ด่านที่ 7 ด้วยผู้เล่นระดับ C+ หรือต่ำกว่า โดยไม่มีการขอเวลานอกหรือสับเปลี่ยนนักกีฬา.
+SETTING/PREFERENCE/BALL_EFFECT,เอฟเฟกต์เงาของลูก
+SETTING/PREFERENCE/BALL_EFFECT/DES,ตั้งค่าวิธีแสดงเอฟเฟกต์เงาของลูกวอลเลย์บอล
+SETTING/PREFERENCE/SPECIAL_EFFECT/DES2,แสดงแอนิเมชันพิเศษของตัวละครขณะแข่งขันทั้งหมดโดยไม่ย่อ
+COMMON/SOFT_TRAIL,เงานุ่มนวล
+COMMON/NORMAL_TRAIL,เงาปกติ
+COMMON/NO_TRAIL,ไม่แสดง
+GUIDE/TERM,คำอธิบายคำศัพท์
+GUIDE/CURRENCY_ITEM,ร้านค้า
+GUIDE/TEAM_SETUP,จัดทีมนักกีฬา
+GUIDE/CREDIT_DES,เงินตราที่ใช้ในการเปลี่ยนค่าสถานะของนักกีฬา สามารถรับได้จากการชนะในการแข่งขันและการฝึก (*ยกเว้นการฝึกแมตช์ฝึกซ้อม)
+GUIDE/VPOINT_DES,"เงินตราสำคัญที่ใช้ในการรับสมัครนักกีฬา สามารถรับได้จากรางวัลเลื่อนระดับเทียร์, ภารกิจท้าทาย, ทัวร์นาเมนต์ เป็นต้น"
+GUIDE/EXP_DES,เงินตราที่ใช้ในการอัปเกรดนักกีฬา สามารถรับได้จากการชนะในการแข่งขันเกือบทั้งหมด
+GUIDE/BLUEFLAME_DES,เงินตราที่ใช้รับสมัครนักกีฬาโคลอสเซียมหรือซื้อไอเทมปรับแต่ง#รับได้จากการเล่นโคลอสเซียม
+GUIDE/SCOUTPOINT_DES,เงินตราที่ใช้ในการสเกาต์นักกีฬา สามารถรับได้จากการรับสมัครนักกีฬาที่มีอยู่แล้ว หรือขายชิ้นส่วนความพยายามของนักกีฬาแรงก์ A ขึ้นไป
+GUIDE/AWAKEN_DES,เงินตราที่สามารถปลุกพลังนักกีฬาในตำแหน่งและแรงก์ที่ต้องการได้ โดยนักกีฬาระดับ S จะมีชิ้นส่วนความพยายามเฉพาะ ซึ่งสามารถรับได้เมื่อรับสมัครนักกีฬาที่มีอยู่แล้ว
+GUIDE/COLOSSEUM_TICKET_DES,สามารถดำเนินวอลเลย์บอลโคลอสเซียมที่ดำเนินไปครบแล้วในวันนั้นๆ ได้อีก 1 ครั้ง ผ่านทางตั๋วโคลอสเซียม
+COMMON/WISHLIST,วิชลิสต์
+COMMON/EXIT,ออก
+WISHLIST/ALERT1,วิชลิสต์ไม่ได้ถูกบันทึก#ต้องการออกใช่หรือไม่?
+WISHLIST/ALERT2,ต้องการลบวิชลิสต์ใช่หรือไม่?
+WISHLIST/NOTICE1,วิชลิสต์ปิดใช้งานอยู่#บรรดานักกีฬาที่ถูกลงทะเบียนมีโอกาสรวม 1.75% ที่จะปรากฏ
+WISHLIST/NOTICE2,บรรดานักกีฬาดังกล่าวมีโอกาสรวม 1.75% ที่จะปรากฏ
+COMMON/EDIT,แก้ไข
+WISHLIST/NOTICE3,กรุณาเลือกนักกีฬาวิชลิสต์ 6 คน
+COMMON/CONFIRM,ยืนยัน
+WISHLIST/ALERT3,ตำแหน่งดังกล่าวถูกลงทะเบียนทั้งหมดแล้ว
+WISHLIST/ALERT4,ลงทะเบียนนักกีฬานี้ไปแล้ว
+WISHLIST/ALERT5,ตอนนี้ไม่ใช่โหมดแก้ไข
+COMMON/ALLPLAYER,นักกีฬาทั้งหมด
+EVENT/SNOWRAID,สโนว์เรด
+EVENT/SNOWFIGHT,สโนว์ไฟต์
+EVENT/CAN_ENTER_LEFT_TIME,เข้าได้ในอีก {n1} ชั่วโมง {n2} นาที
+EVENT/TIME/DAY_HOUR,{0} วัน {1} ชั่วโมง
+EVENT/TIME/HOUR_MINUTE,{1} ชั่วโมง {2} นาที
+EVENT/TIME/MINUTE_SECOND,{2} นาที {3} วินาที
+GUIDE/EVENT_SCOUTPOINT_DES,เงินตราที่ใช้ในการสเกาต์นักกีฬากิจกรรม#เมื่อรับสมัครนักกีฬากิจกรรม จะสามารถรับได้ทีละ 1 อัน#หากสิ้นสุดระยะเวลากิจกรรม จะถูกเปลี่ยนเป็นคะแนนสเกาต์ทั่วไป
+CARD/ATTACK/SNOW_ATTACK,จำนวนครั้งที่โจมตี
+CARD/ATTACK/SNOW_HIT,จำนวนครั้งที่เข้าเป้า
+CARD/ATTACK/SNOW_FEVER,ปริมาณความเสียหายฟีเวอร์
+CARD/ATTACK/SNOW_GOKSA,ปืนใหญ่วิถีโค้งเข้าเป้า
+CARD/ATTACK/SNOW_CRITICAL,จำนวนครั้งคริติคอล
+CARD/DEFENSE/SNOW_HURT,จำนวนครั้งที่โดนปา
+CARD/DEFENSE/SNOW_DAMAGE,ปริมาณความเสียหายที่ได้รับ
+CARD/DEFENSE/SNOW_SLIDING,จำนวนครั้งที่สไลด์
+CARD/DEFENSE/SNOW_COUNTER,จำนวนครั้งเคาน์เตอร์
+CARD/DEFENSE/SNOW_PUNISH,จำนวนครั้งเพอร์นิช
+SKILLNAME_SARAH,คริติคอลทอส
+CHARDES_SARAH2,โค้ชของกลุ่มวอลเลย์บอลเยาวชนร็อกเวล ซึ่งเป็นนักกีฬาอาชีพในอเมริกา ถึงแม้ว่าเดิมทีจะมีตำแหน่งเป็นตัวตบหัวเสา แต่ด้วยความที่เป็นผู้เล่นมากความสามารถ จึงสร้างผลงานในระดับตัวหลักได้ไม่ว่าจะเล่นตำแหน่งใดก็ตาม ปัจจุบันกำลังเล่นเป็นเซตเตอร์ชั่วคราวเพื่อชีอู แต่สักวันหนึ่งก็คงจะกลับมาอีกครั้งในฐานะตัวตบ
+SKILLDES_SARAH,เมื่อเซ็ตลูก จะเกิดวงกลมขึ้นบริเวณลูก ซึ่งจะแสดงจังหวะที่เหมาะสำหรับการตบมากที่สุด หากตบลูกในช่วงเวลาที่วงกลมกับลูกแตะกัน จะสามารถสร้างพลังที่แข็งแกร่งมากกว่าปกติได้#มีโอกาสต่ำที่จะตบลูกด้วยตนเอง
+CHARDES_SARAH,ซอซาร่า ตัวตบท็อป 5 ของโลก ซึ่งมีชื่อเสียงว่าเป็นนักกีฬาที่เคลื่อนไหวในสนามอย่างรวดเร็วมาก ด้วยความที่เป็นผู้เล่นมากความสามารถ จึงสร้างผลงานในระดับตัวหลักได้ไม่ว่าจะเล่นตำแหน่งใดก็ตาม ปัจจุบันกำลังเล่นเป็นเซตเตอร์ชั่วคราวเพื่อชีอู แต่สักวันหนึ่งก็คงจะกลับมาอีกครั้งในฐานะตัวตบ
+CHARDES_BIRTH_SARAH,
+CHARDES_NUMBER_SARAH,
+CHARDES_MOTTO_SARAH,ไม่ว่าคุณจะตบแรงแค่ไหน ก็ยังได้แค่หนึ่งแต้ม
+SKILLNAME_MIKE,ยางรถยนต์
+SKILLDES_MIKE,เมื่อสวมยางรถยนต์ ความเร็วและพลังการกระโดดจะลดลง#หากได้รับแรงกระแทกสะสมจากการรับบอล ยางจะหลุดออกและความเร็วกับพลังการกระโดดจะเพิ่มขึ้นอย่างมาก.
+CHARDES_MIKE,น้องชายฝาแฝดของเดฟ ซึ่งกำลังบริหารบ้านพักตากอากาศบนภูเขาร่วมกับเดฟอยู่ เขาชอบการออกกำลังกายโดยติดถุงทรายไว้กับข้อเท้า จนเมื่อไม่นานมานี้ได้เริ่มติดโซ่ตรวนด้วยตัวเอง
+CHARDES_BIRTH_MIKE,
+CHARDES_NUMBER_MIKE,
+CHARDES_MOTTO_MIKE,
+SKILLNAME_DAVE,วอร์มร่างกาย
+SKILLDES_DAVE,หากไม่เคลื่อนไหว จะทำท่าทางวิดพื้น#ยิ่งทำท่าทางวิดพื้นมากเท่าไหร่ ศักยภาพทางกายภาพก็จะแข็งแกร่งขึ้น และขนาดร่างกายจะค่อยๆ ใหญ่ขึ้น
+CHARDES_DAVE,ในอดีตเคยเป็นนักกีฬาอาชีพอยู่ระยะหนึ่ง แต่ปัจจุบันได้หันมาบริหารบ้านพักตากอากาศเล็กๆ
+CHARDES_BIRTH_DAVE,
+CHARDES_NUMBER_DAVE,
+CHARDES_MOTTO_DAVE,
+SKILLNAME_CLYDE,นาบี
+SKILLDES_CLYDE,ไคลด์จะปรากฏตัวพร้อมกับแมวที่เขาหวงแหน#แมวจะเดินไปมาในสนาม และเปลี่ยนนักกีฬาที่มีสถานะถอดใจให้เป็นสถานะจดจ่อ
+CHARDES_CLYDE,ตัวบล็อกกลางหลักของกลุ่มวอลเลย์บอลเยาวชนร็อกเวล ซึ่งได้รับการวิจารณ์ว่าเป็นผู้ที่มีอนาคตไกลพอสมควร ถึงแม้จะไม่เทียบเท่ากับทาเนีย แต่ก็เป็นลูกชายจากบ้านคนรวยไม่น้อย
+CHARDES_BIRTH_CLYDE,
+CHARDES_NUMBER_CLYDE,
+CHARDES_MOTTO_CLYDE,
+SKILLNAME_TANIA,สปีดทอส
+SKILLDES_TANIA,เซ็ตลูกที่ตกลงมาอย่างรวดเร็ว#ในตอนที่ตบลูกเซ็ตของทาเนีย ยิ่งลูกที่ถูกเซ็ตตกลงมาเร็วเท่าไหร่ พลังของลูกก็จะเพิ่มขึ้นเท่านั้น#(มีระดับความยากที่สูง จึงเป็นนักกีฬาที่ใช้ยากสำหรับมือใหม่)
+CHARDES_TANIA,ลูกสาวคนรองของประธานบริษัทเวลตันที่มีชื่อเสียงระดับโลก เธอมีพรสวรรค์และฝีมือมากมาย แต่ด้วยความที่มีนิสัยดื้อรั้นเป็นอย่างสูง จึงมักจะเซ็ตลูกที่เร็วมากเกินไป จนมีความสัมพันธ์ที่ไม่ดีกับนักกีฬารอบตัว
+CHARDES_BIRTH_TANIA,
+CHARDES_NUMBER_TANIA,
+CHARDES_MOTTO_TANIA,
+SNOWRAID/STARTING,ลงสนามเป็นตัวจริง
+SNOWRAID/SUBSTITUE,ลงสนามเป็นตัวสำรอง
+SNOWRAID/PRESET_GUIDE,ตัวหลักที่กำหนดในที่แห่งนี้จะไม่ส่งผลต่อพรีเซ็ต
+TUTORIAL/SNOWRAID/TIP_01,หากตบลูกที่ลอยมาทันที#จะสามารถสร้างพลังเพิ่มเติมได้
+TUTORIAL/SNOWRAID/TIP_02,ลูกที่สามารถตบได้ทันทีจะมีแสงเปล่งออกมา#ระวังการตบของฝ่ายตรงข้ามให้ดี
+TUTORIAL/SNOWRAID/TIP_03,เมื่อสไลด์ จะป้องกัน 50% ของความเสียหาย#โดยไม่เกี่ยวข้องกับระดับความแม่นยำ
+TUTORIAL/SNOWRAID/TIP_04,เมื่อรับเพอร์เฟกต์ จะไม่สูญเสียสตามินา#และกลายเป็นสถานะจดจ่อ
+TUTORIAL/SNOWRAID/TIP_05,หากกลายเป็นสถานะฟีเวอร์ ค่าสถานะทั้งหมดจะเพิ่มขึ้น#ฟื้นฟูค่าสถานะบางส่วนที่ลดลงจากความหนาว
+TUTORIAL/SNOWRAID/ITEM,สามารถอดทนต่อความหนาวสุดโหดได้ ด้วยไอเทมใหม่ในทุก 3 แต้ม
+TUTORIAL/RAID_TIP_01,เร็วเกินไป!
+TUTORIAL/RAID_TIP_02,ค่อนข้างเร็ว!
+TUTORIAL/RAID_TIP_03,ค่อนข้างช้า!
+TUTORIAL/RAID_TIP_04,ช้าเกินไป!
+TUTORIAL/RAID_TIP_05,พอดีเลย!
+COMMON/SKIP,ข้าม
+COMMON/BACK,ย้อนกลับ
+SNOWRAID/ADDITIONAL_STAT,ค่าสถานะเพิ่มเติม
+SNOWRAID/ADDITIONAL_STAT_DESC,ค่าการเพิ่มขึ้นของค่าสถานะโดยถาวร ซึ่งคงอยู่ตลอดการแข่งขันเรด
+SNOWRAID/COLD_PROTECTION,คุ้มกันความหนาว
+SNOWRAID/COLD_PROTECTION_DESC,[คุ้มกันความหนาว] คือค่าป้องกันที่ช่วยกันค่าสถานะที่ลดลงจากความหนาว#ยิ่งอัตราคุ้มกันสูง ความเสียหายจากความหนาวก็จะถูกปรับใช้น้อยลง
+SNOWRAID/FEVER_EFFICIENCY,ประสิทธิภาพฟีเวอร์
+SNOWRAID/FEVER_EFFICIENCY_DESC,[ประสิทธิภาพฟีเวอร์] คือค่าที่กำหนดปริมาณของค่าสถานะเพิ่มเติมที่ได้รับในสถานะฟีเวอร์#ยิ่งประสิทธิภาพสูง ก็จะสามารถรับค่าสถานะที่มากยิ่งขึ้นในสถานะฟีเวอร์ได้
+SNOWRAID/FEVER_POINT,คะแนนฟีเวอร์ที่จำเป็น
+SNOWRAID/FEVER_POINT_DESC,หมายถึงคะแนนที่จำเป็นในการกลายเป็นสถานะฟีเวอร์
+SNOWRAID/FEVER_TIME,เวลาต่อเนื่องของฟีเวอร์
+SNOWRAID/FEVER_TIME_DESC,หมายถึงเวลาต่อเนื่องเมื่อกลายเป็นสถานะฟีเวอร์
+SNOWRAID/CARD/PLAYER_CHANGE_NAME,สับเปลี่ยนนักกีฬา
+SNOWRAID/CARD/PLAYER_CHANGE_DESC,สับเปลี่ยนนักกีฬาที่กำลังแข่งขันในปัจจุบันทั้งหมด
+SNOWRAID/CARD/BLANKET_NAME,ผ้าห่มเก็บความร้อน
+SNOWRAID/CARD/GLOVES_NAME,ถุงมือขน
+SNOWRAID/CARD/SOCKS_NAME,ถุงเท้าหนา
+SNOWRAID/CARD/COCOA_NAME,โกโก้อุ่นๆ
+SNOWRAID/CARD/HOT_POTATO_NAME,มันฝรั่งร้อนๆ
+SNOWRAID/CARD/SWEET_CAKE_NAME,เค้กหอมหวาน
+SNOWRAID/CARD/DAVES_COOKIE_NAME,คุกกี้น่าสงสัยของเดฟ
+SNOWRAID/CARD/MIKES_GIFT_NAME,ของขวัญน่าสงสัยของไมค์
+SNOWRAID/CARD/WINTER_UNIFORM_NAME,ยูนิฟอร์มกันหนาว
+COMMON/LEFT_REWARD,รางวัลที่เหลือ
+SKILLDES_AYEON2,บอลที่เซตขึ้นหลังจากอายอนเป็นผู้รับบอลแรก จะทำให้ตบได้อย่างทรงพลัง#ลูกตบที่เกิดปฏิกิริยาเคมีจะเร็วขึ้น และเมื่อระเบิด จะลดสตามินาของคู่แข่งลงอย่างมาก
+COLOSSEUM/CARD/NAME_68,ตบตรง
+COLOSSEUM/CARD/DES_68,เพิ่มโอกาสที่บอลจะกระเด็นมาฝั่งเรา#เมื่อตบสวนบอลที่คู่แข่งสัมผัสเป็นคนสุดท้ายทันที พลังตบจะเพิ่มขึ้น
+COLOSSEUM/CARD/NAME_69,การฝึกฝน
+COLOSSEUM/CARD/DES_69,"การตบและการบล็อกครั้งแรกของแต่ละแรลลี่จะเพิ่ม {STR}+{n1}, {DEF}+{n2}, และส่วนสูง+{n3}ซม.#(เอฟเฟกต์คงอยู่จนจบการแข่งขัน)"
+COLOSSEUM/CARD/NAME_70,นาบีรุ่นที่ 2
+COLOSSEUM/CARD/DES_70,เรียกแมวออกมาเป็นระยะ เพื่อเปลี่ยนเพื่อนร่วมทีมที่อยู่ในสถานะถอดใจให้เข้าสู่สถานะจดจ่อ
+COLOSSEUM/CARD/NAME_71,พายุหิมะ
+COLOSSEUM/CARD/DES_71,ทิ้งพายุหิมะไว้ในตำแหน่งที่รับลูกบอล เมื่อยืนอยู่ในพายุหิมะ การป้องกันและการกระโดดจะคงที่ที่ 170
+COMMON/WORD/SPIN_SHOT,สปินช็อต
+COMMON/WORD/STRAIGHT_SHOT,สเตรทช็อต
+SNOWRAID/TEMP/MESSAGE_01,บรรดานักกีฬาค่อยๆ เริ่มหนาวขึ้นทีละน้อย
+SNOWRAID/TEMP/MESSAGE_02,ความหนาวกำลังส่งผลกระทบต่อความสามารถในการแข่งขันของบรรดานักกีฬา
+SNOWRAID/TEMP/MESSAGE_03,ความหนาวกำลังทำให้ค่าสถานะของบรรดานักกีฬาลดลง
+SNOWRAID/TEMP/MESSAGE_04,ค่าสถานะของบรรดานักกีฬาลดลงอย่างมาก#ไม่สามารถทำท่าทางตามปกติได้
+SNOWRAID/TEMP/MESSAGE_05,บรรดานักกีฬาทุกข์ทรมานอย่างมาก#จำเป็นต้องสับเปลี่ยนตัว
+SNOWRAID/TEMP/MESSAGE_06,บรรดานักกีฬากำลังประสบกับขีดจำกัดของตัวเอง
+SNOWRAID/TEMP/MESSAGE_07,ร่างกายของบรรดานักกีฬาเหมือนกับไอศกรีมแล้ว..!
+CARD_PACK_COLOSSEO,แพ็กการ์ดโคลอสเซียม
+CARD_PACK_DESC,บรรดาการ์ดความสามารถต่อไปนี้จะปรากฏเพิ่มเติมในโหมดโคลอสเซียม
+CARD_PACK_COLOSSEO_DESC,ตัวเลือกการ์ดความสามารถอันที่ 4 จะถูกปลดล็อกในโหมดโคลอสเซียม
+CARD_PACK_SNOWVB,แพ็กการ์ดสโนว์วอลเลย์บอล
+INGAME/SETUP/NAME_01,การโจมตีกลับของระดับ D
+INGAME/SETUP/NAME_02,เฉยเมย
+INGAME/SETUP/NAME_03,ถึงจะตัวเล็กแต่แข็งแกร่ง
+INGAME/SETUP/NAME_04,พี่ก่อนเลย น้องก่อนเลย
+INGAME/SETUP/NAME_05,ออลสตาร์
+INGAME/SETUP/NAME_07,พาร์ทเนอร์ของซอนริม
+INGAME/SETUP/NAME_08,ใต้แสงแดดอันร้อนระอุ
+INGAME/SETUP/NAME_09,เกียรติยศแห่งอดีต
+INGAME/SETUP/NAME_10,ดับเบิลควีน
+TIP/BOSS/ALERT_18,หากตบลูกโดนไมค์#ยางรถยนต์ของไมค์จะคลายออก#เมื่อยางรถยนต์ของไมค์คลายออก#จะแข็งแกร่งขึ้นอย่างมาก จึงต้องระวังให้ดี
+TIP/BOSS/ALERT_19,ในตอนที่เดฟไม่เคลื่อนไหว#จะวิดพื้นโดยไม่พัก#ยิ่งวิดพื้นก็ยิ่งแข็งแกร่งขึ้น จึงต้องระวังให้ดี
+TIP/BOSS/ALERT_20,แมวของไคลด์จะช่วยเปลี่ยนสถานะถอดใจให้เป็นสถานะจดจ่อ
+TIP/BOSS/ALERT_21,การเซ็ตของทาเนียมีความรวดเร็วกว่าการเซ็ตทั่วไป
+INGAME/SETUP/DESC_04,ความเร็ววิดพื้นของเดฟเพิ่มขึ้น {0}%
+INGAME/SETUP/DESC_07,ความเร็วชาร์จของรยูฮยอนเพิ่มขึ้น {0}%
+INGAME/SETUP/DESC_08,คะแนนการเปิดใช้งานโอเอซิสทิวากาลเปลี่ยนเป็น 9
+INGAME/SETUP/DESC_09,เพิ่มความเร็วในการลุกขึ้นหลังสไลด์ของเอทีซ
+INGAME/SETUP/DESC_10,เพิ่มพลังชีวิตสูงสุดของฝ่ายเรา {0}
+NAME/TEAM_60,ไมค์กับเดฟ
+NAME/TEAM_61,ร็อกเวล
+NAME/TEAM_62,เดฟและพรรคพวก
+NAME/TEAM_63,ทีมเด็กมหาลัย
+SKILLDOLPA_DAVE,ความเร็ววิดพื้นจะเพิ่มขึ้นตามประสิทธิภาพสกิล
+SKILLDOLPA_TANIA,ความเร็วการตกลงมาของลูกจะเพิ่มขึ้นตามประสิทธิภาพสกิล
+CHARDES_BIRTH,วันเกิด
+CHARDES_NUMBER,เบอร์เสื้อ
+CHARDES_MOTTO,คติพจน์
+MIKE_DAVE/LINE_01,โอ้..! พอคิดว่านานๆ ทีจะเล่นให้เต็มที่แล้ว ก็รู้สึกใจเต้นขึ้นมาเลยแฮะ!
+MIKE_DAVE/LINE_02,เห็นด้วยนะ!!! ถึงอายุจะมากขึ้น แต่วอลเลย์บอลก็ยังสนุกอยู่ดีนั่นแหละ!
+MIKE_DAVE/LINE_03,ลุยกันเลยไหม เดฟ?
+MIKE_DAVE/LINE_04,โอเคเลย ไมค์!
+MIKE_DAVE/LINE_05,ไม่เอาา!!!!
+CLYDE/LINE,นาบี เรามาฆ่าเวลากันสักหน่อยดีไหม?
+GUIDE/ALL_TEAM_SETUP,การจัดทีมผู้เล่นทั้งหมด
+RATE_DES_01,คุณกำลังสนุกกับ The Spike Cross อยู่หรือเปล่า? เราต้องการความคิดเห็นจากทุกคน!
+RATE_DES_02,ขอบคุณอย่างมากสำหรับการให้คะแนน ต้องการเขียนรีวิวในสโตร์ด้วยหรือไม่?
+RATE_DES_03,ไปยังสโตร์
+RATE_DES_04,ไว้คราวหน้า
+RATE_DES_05,ขอบคุณอย่างมากสำหรับการให้คะแนน หากคุณเสนอความคิดเห็น เราจะนำไปปรับปรุงและพยายามทำให้เป็นเกมที่ดียิ่งขึ้นต่อไป
+RATE_DES_06,ส่งความคิดเห็น
+COMMON/MONTH_DAY,{n2} {n1}
+COMMON/MONTH_1,มกราคม
+COMMON/MONTH_2,กุมภาพันธ์
+COMMON/MONTH_3,มีนาคม
+COMMON/MONTH_4,เมษายน
+COMMON/MONTH_5,พฤษภาคม
+COMMON/MONTH_6,มิถุนายน
+COMMON/MONTH_7,กรกฎาคม
+COMMON/MONTH_8,สิงหาคม
+COMMON/MONTH_9,กันยายน
+COMMON/MONTH_10,ตุลาคม
+COMMON/MONTH_11,พฤศจิกายน
+COMMON/MONTH_12,ธันวาคม
+REVIEW/TOO_DIFFICULT,ยากเกินไป
+REVIEW/DONTLIKE_GRAPHICS,ไม่ชอบกราฟิก
+REVIEW/TOO_MANY_BUGS,มีบัคหรือข้อผิดพลาดเยอะ
+REVIEW/GAME_IS_SLOW,เกมช้าเกินไป
+REVIEW/NO_CONTENTS,คอนเทนต์น้อย
+COMMON/EVENT_ATTENDANCE,เช็กชื่อกิจกรรม
+SHOP/DAILY_LIMITED,รายวัน {0} ครั้ง
+SHOP/WEEKLY_LIMITED,รายสัปดาห์ {0} ครั้ง
+SHOP/MONTHLY_LIMITED,รายเดือน {0} ครั้ง
+BOSS/TITLE_NAME,ตัวตบท็อป 5 ของโลก
+SARAH_SCENE/TEXT1,<วาเลนเทียสไปคส์ vs แอชวิลล์ วีเซิลส์> #การฝึกโจมตีก่อนการแข่งขัน
+SARAH_SCENE/TEXT2,ยังแข็งแกร่งเหมือนเดิมเลยนะคะ ถ้าตบแบบนั้นแล้วจะได้ทีละ 2 แต้มรึไงคะ?
+SARAH_SCENE/TEXT3,จริงรึเปล่าที่เธอร้องไห้ เพราะแข่งแพ้ครั้งก่อนน่ะ?
+SNOWRAID/DUPLICATE_PLAYERS,ต้องจัดทีมด้วยนักกีฬาที่ไม่ซ้ำกันเพื่อเริ่มการแข่งขัน
+TIP/RECEIVE_RECOMMEND,ขอแนะนำให้กดปุ่มรับช้าลงอีกเล็กน้อย#เพื่อการรับที่มีความแม่นยำสูงขึ้น
+HELP/ABILITY_CARD,สามารถเสริมศักยภาพพิเศษและค่าสถานะเพิ่มเติมให้แก่นักกีฬาได้ ผ่านทางการ์ดความสามารถ#เอฟเฟกต์ของการ์ดความสามารถจะปรับใช้เฉพาะนักกีฬาที่ควบคุมเองเท่านั้น
+COMMON/PAY,ชำระเงิน
+MOTHER,แม่
+FATHER,พ่อ
+25/01/07 추가,
+DAILY_MISSION,มิชชันรายวัน
+DAILY_MISSION/TITLE_01,เช็กชื่อ
+DAILY_MISSION/TITLE_02,ชนะ 1 ครั้งใน [{n}]
+DAILY_MISSION/TITLE_03,ชนะ 2 ครั้งใน [{n1}] หรือ [{n2}]
+DAILY_MISSION/TITLE_04,ได้ {n2} แต้มขึ้นไปใน [{n1}]
+DAILY_MISSION/TITLE_05,ทำ {n1} สำเร็จสะสม {n2} ครั้งในการแข่งขัน
+DAILY_MISSION/TITLE_06,ชนะ 1 ครั้งด้วยสถานะที่ปิด [{n}] ในการตั้งค่า
+DAILY_MISSION/TITLE_07,เล่นตัวบล็อกกลางแล้วชนะ 1 ครั้งในการแข่งขัน
+DAILY_MISSION/TITLE_08,ชนะด่านบอส 1 ครั้งใน [{n}]
+INGAME/LEFT_REWARD_NUMBER,รางวัลที่เหลือ#{0} ครั้ง
+TOURNAMENT/ALERT/DAILY_REWARD,รางวัลทัวร์นาเมนต์รายวัน
+GUIDE/BONUS_NEW,ทัวร์นาเมนต์จะมอบรางวัลให้เมื่อชนะเลิศครั้งแรกของทุกวัน
+INGAME/TOTAL_ADD_REWARD,รางวัลเพิ่มเติมสะสม
+INGAME/WIN_LEFT_TO_REWARD,อีก {0} ครั้งจะถึงรางวัลถัดไป
+INGAME/TOURNAMENT_WIN_NUMBER_REWARD,รางวัลบรรลุจำนวนครั้งที่ชนะเลิศในทัวร์นาเมนต์
+COMMON/COUNT,{0} ครั้ง
+INGAME/RECEIVE_REWARD_COMPLETE,รับเสร็จสิ้น
+INGAME/RECEIVE_REWARD_AVAIL,รับได้
+COMMON/NEXT_REWARD,รางวัลถัดไป
+COMMON/NOT_ACHIEVED,ยังไม่บรรลุ
+TOURNAMENT/GUIDE/TOTAL_REWARD,หากชนะเลิศในทัวร์นาเมนต์ถึงจำนวนครั้งที่กำหนดจะได้รับรางวัล โดยจำนวนครั้งที่ชนะเลิศจะถูกสะสม
+DAILY_MISSION/REWARD,ทำมิชชันรายวัน 4 อันให้เสร็จสิ้นแล้วรับรางวัลด้วยคะแนน
+COMMON/MISSION,มิชชัน
+DAILY_MISSION/RECEIVE_REWARD_COMPLETE,รับเสร็จสิ้น
+DAILY_MISSION/RECEIVE,รับ
+DAILY_MISSION/MOVE,ไปทันที
+COMMON/CONGRATULATIONS,ยินดีด้วย!
+COMMON/RECEIVED_ALL_REWARD,รับรางวัลทั้งหมดแล้ว
+COMMON/INTRODUCE,แนะนำ
+COMMON/SKILL,คุณสมบัติเฉพาะ
+COMMON/COMBINATION,การจัดทีม
+COMMON/NO_FAVORITE_PLAYERS,ไม่มีนักกีฬาที่ลงทะเบียนในรายการโปรด
+PLAYER/DEFAULT/SKIN/DEFAULT,พื้นฐาน
+PLAYER/NISHIKAWA/SKIN/HIGHSCHOOL,ชุดนักเรียน
+PLAYER/ISABEL/SKIN/WEDDING,ชุดแต่งงาน
+PLAYER/JAEHYUN/SKIN/TRAINING,ชุดวอร์ม
+PLAYER/NISHIKAWA/SKIN/BLACKHAIR,ฟ้าร้องสีดำ
+COMMON/WEEKLY_MISSION,มิชชันสัปดาห์ที่ {n}
+INGAME/SKIN,สกิน
+INGAME/SKIN_DES,"รูปลักษณ์ของนักกีฬา, โมชัน และเอฟเฟกต์พิเศษจะมีการเปลี่ยนแปลง"
+NAME/TEAM_64,โรงเรียนมัธยมซอมยอง
+NAME/TEAM_65,ทีมจากโลกคู่ขนาน
+PLAYER/NISHIKAWA/HIGHSCHOOL,รูปลักษณ์ของนิชิกาวะสมัยเป็นนักเรียนมัธยมปลาย#ซึ่งเป็นตอนที่เขาเพิ่งเริ่มเล่นวอลเลย์บอลได้ไม่นาน โดยก่อนจะมาเริ่มเล่นวอลเลย์บอลนั้น เขาเป็นคนที่มีนิสัยค่อนข้างบึ้งตึง#เขาไม่ยอมไปโรงเรียนด้วยเหตุผลทางบ้าน จึงเดินเตร็ดเตร่อยู่ในซอยหน้าโรงเรียนและช่วยเหลือนักเรียนที่ถูกรังแก#แต่ถึงอย่างนั้น เขาก็มักจะถูกผู้คนรอบข้างเข้าใจผิดอยู่เสมอ เนื่องจากดวงตาที่น่ากลัวและสีหน้าที่เย็นชา
+PLAYER/ISABEL/WEDDING,รูปลักษณ์ในชุดแต่งงานของอิซาเบล#ซึ่งเป็นเพียงรูปลักษณ์ในฝันของอิซาเบล เนื่องจากยังไม่มีตัวตบที่ทำให้อิซาเบลพึงพอใจได้เลย
+PLAYER/JAEHYUN/TRAINING,รูปลักษณ์ขณะนัมแจฮยอนฝึกซ้อมกับ NN#เขาถูก NN บังคับให้ดื่มนมช็อกโกแลตทุกวัน
+PLAYER/NISHIKAWA/HIGHSCHOOL/DES,...ฉันไม่คิดจะเล่นลูกบอลอะไรแบบนั้นหรอก
+PLAYER/ISABEL/WEDDING/DES,ฉันถูกใจการตบของเธอจัง!
+PLAYER/JAEHYUN/TRAINING/DES,เส้นทางสู่ดวงดาวนั้นล้วนเต็มไปด้วยความยากลำบาก
+PLAYER/ELLIO/DES,ฉันจะแสดงการแข่งขันที่สวยงามที่สุดให้ดู
+COMMON/INFO,ข้อมูล
+COMMON/AWAKEN_ACHIEVE,ปลุกพลังถึงขั้น {0} แล้ว!
+SHOP/EXISTING_SKIN,คุณมีสกินนี้อยู่แล้ว
+SHOP/RECEIVE_PLAYER_SKIN,รับสกินของผู้เล่นทันที
+SHOP/LIMITEDSKINPOINT,คะแนนสกินลิมิเต็ด
+COMMON/SHOP/NOEXISTPLAYER,ไม่มี
+SHOP/UNIFORM,ยูนิฟอร์ม
+SHOP/UNIFORM/DES,เป็นสินค้ายูนิฟอร์มที่สามารถใช้ในชุดคอสตูมได้.
+SHOP/BALL,ลูกบอล
+SHOP/BALL/DES,เป็นสินค้าลูกบอลที่สามารถใช้ในชุดคอสตูมได้.
+SHOP/SHOES,รองเท้า
+SHOP/SHOES/DES,เป็นสินค้ารองเท้าที่สามารถใช้ในชุดคอสตูมได้.
+ALERT_HIGHRANK_DELETE,ผู้เล่นอันดับสูงถูกเลือกแล้ว #คุณแน่ใจหรือไม่ว่าต้องการปล่อยตัว?
+BANNED_ACCOUNT_NOTICE,บัญชีที่คุณกำลังใช้งานอยู่ในขณะนี้ถูกระงับเนื่องจากตรวจพบการกระทำผิด เช่น การใช้โปรแกรมหรือกลโกงที่ผิดกฎหมาย#หากมีข้อสงสัย โปรดติดต่อ support@suncyan.com.
+API/PROBLEM_OCCUR/DATA,ไม่สามารถโหลดข้อมูลบางส่วนจากเซิร์ฟเวอร์ได้
+INGAME/AWAKEN_ITEM_LIST,รายการชิ้นส่วนความพยายาม
+COMMON/SELECT_FILTER,เลือก
+COMMON/GRIT_FRAG_STORE/TITLE,ร้านแลกชิ้นส่วนความพยายาม
+COMMON/ITEM_CHANGE_BEFORE,ไอเทมที่จะแลก
+COMMON/ITEM_CHANGE_AFTER,ไอเทมที่ได้รับ
+COMMON/ITEM_CHANGE,แลกที่เลือก
+COMMON/FILTER/ALL_RANK,ทุกแรงก์
+COMMON/FILTER/ALL_POSITION,ทุกตำแหน่ง
+COMMON/FILTER/SELECT_UNIT,เลือกจำนวน
+COMMON/FILTER/SELECT_UNIT/ONE,ครั้งละ {n}
+COMMON/FILTER/SELECT_UNIT/ALL,สูงสุด
+COMMON/FILTER/ALERT/POSITION,กรุณาเลือกตำแหน่งอย่างน้อยหนึ่งตำแหน่ง
+COMMON/FILTER/ALERT/RANK,กรุณาเลือกแรงก์อย่างน้อยหนึ่งแรงก์
+COMMON/FILTER/ALERT/CHANGE,แลกชิ้นส่วนความพยายามที่เลือกเป็นสกุลเงิน#ต้องการดำเนินการต่อหรือไม่?
+COMMON/FILTER/ALERT/CHANGE_SRANK,มีชิ้นส่วนความพยายามระดับสูงถูกเลือกอยู่#ต้องการดำเนินการต่อหรือไม่?
+COMMON/ALL,ทั้งหมด
+DIFFICULTY_RAID_HARD,ยาก
+DIFFICULTY_RAID_TOOHARD,ยากมาก
+COMMON/RAID/DIAMOND/TITLE,ทีมวอลเลย์บอลเยาวชนร็อคเวลล์
+COMMON/RAID/DIAMOND/DES,แข่งขันกับทีมของทาเนียและไคลด์ สองดาวรุ่งแห่งทีมวอลเลย์บอลเยาวชนร็อกเวล!#ระวังนาบี แมวที่ช่วยแก้สถานะถอดใจ และลูกเซตเร็วของทาเนีย!
+COMMON/RAID/MASTER/TITLE,เดฟ & ไมค์ พี่น้อง
+COMMON/RAID/MASTER/DES,สองพี่น้องสุดแกร่ง เดฟกับไมค์ เจ้าของกระท่อมบนภูเขา! แม้จะเลิกเล่นมา 10 ปี#แต่กล้ามยังแน่นกว่าสมัยแข่ง! ระวังพวกเขาจะแข็งแกร่งขึ้นเรื่อยๆ!
+HELP/SNOWRAID_2/DES,การแข่งขันวอลเลย์บอลพิเศษท่ามกลางภูเขาหิมะ!#เกมถึง 15 แต้ม และทุก ๆ 3 แต้ม ซาร่าจะนำไอเทมมาช่วยให้ทนความหนาว
+ALERT_SHOP_EXPIRED,ร้านค้าหมดอายุแล้ว
+VESSENCE_SHOP,ร้านแลกเปลี่ยน V Essence
+VESSENCE_SHOP/LIMITED,แลกเปลี่ยนแบบจำกัดเวลา
+VESSENCE_SHOP/24,แลกเปลี่ยนทั่วไป
+VESSENCE_SHOP/ALERT1,สามารถใช้ V Essence แลกเป็นสกุลเงินและตั๋วรับสมัครชนิดต่าง ๆ ได้
+VESSENCE_SHOP/ALERT2,ร้านแลกเปลี่ยนจำกัดเวลาจะรีเฟรชเป็นระยะ
+VESSENCE,V Essence
+VESSENCE/DES,สกุลเงินที่ได้รับจากคอนเทนต์พิเศษอย่างสโนว์เรด สามารถแลกเปลี่ยนกับสิ่งของต่างๆ ที่แมวของไคลด์นำมาได้
+NORMAL_PLAYER_RECRUIT_TICKET,ตั๋วรับสมัครผู้เล่นทั่วไป
+POSITION_PLAYER_RECRUIT_TICKET,ตั๋วรับสมัครตามตำแหน่ง
+SNOWRAID/TEMP,อุณหภูมิร่างกาย
+SNOWRAID/TEMP/DES,อุณหภูมิร่างกายของนักกีฬาท่ามกลางความหนาว ยิ่งอุณหภูมิลดลง ค่าสถานะโดยรวมก็ยิ่งลดลง#จึงจำเป็นต้องเปลี่ยนตัวให้เหมาะสมระหว่างการแข่งขัน อุณหภูมิร่างกายจะแสดงที่มุมซ้ายบนของหน้าจอ
+SNOWRAID/FEVER,ฟีเวอร์
+SNOWRAID/FEVER/DES,ท่ามกลางความหนาว เมื่อแรลลียืดเยื้อ คะแนนฟีเวอร์จะสะสมที่กลางหน้าจอ หากชนะในแรลลีนั้น จะดูดซับคะแนนที่สะสมไว้ และเมื่อสะสมครบตามกำหนด จะเข้าสู่สถานะฟีเวอร์ ซึ่งเพิ่มค่าสถานะและฟื้นฟูอุณหภูมิร่างกายชั่วคราว
+SNOWRAID/COUNTER_RECEIVE,รับลูกสวนกลับ
+SNOWRAID/COUNTER_RECEIVE/DES,"สโนว์เรดมีสภาพแวดล้อมที่โหดร้าย จึงต้องรับบอลให้แม่นยำยิ่งขึ้น ยิ่งกดปุ่มรับบอลได้ตรงจังหวะที่นักกีฬาสัมผัสบอล ความแม่นยำก็ยิ่งสูงขึ้น และจะได้รับผลตัดสิน PERFECT, GOOD หรือ BAD ตามความแม่นยำ"
+SNOWRAID/PERFECT_RECEIVE,รับ PERFECT
+SNOWRAID/GOOD_RECEIVE,รับ GOOD
+SNOWRAID/BAD_RECEIVE,รับ BAD
+SNOWRAID/SLIDING,สไลด์
+SNOWRAID/INSTRUCT_RECEIVE,คำสั่งรับลูก
+SNOWRAID/GIFT_BOX,กล่องของขวัญ
+SNOWRAID/PERFECT_RECEIVE/DES,เมื่อรับลูกสมบูรณ์แบบ (Perfect Receive) ซึ่งมีความแม่นยำภายใน 3 เฟรมทำงาน ผู้เล่นจะเข้าสู่สภาวะจดจ่อชั่วขณะ ลบล้างการโจมตีของฝ่ายตรงข้ามได้ 100% และทำให้ความสามารถพิเศษเป็นกลาง นี่คือการป้องกันระดับพลิกเกมที่ช่วยให้คุณครองเกมรับ-รุกได้แม้ไม่มีสตามินา
+SNOWRAID/GOOD_RECEIVE/DES,การรับลูก GOOD จะลบล้างการโจมตีของฝ่ายตรงข้าม 70% หากสตามินาไม่เพียงพอ แม้ว่าจะได้รับการประเมินเป็นรับลูก GOOD แต่ลูกอาจลอยไปไกลและล้มเหลวได้
+SNOWRAID/BAD_RECEIVE/DES,การรับลูก BAD จะลบล้างการโจมตีของฝ่ายตรงข้าม 30% เนื่องจากสตามินาจะลดลงอย่างมาก จึงควรหลีกเลี่ยงการประเมินเป็นรับลูก BAD
+SNOWRAID/SLIDING/DES,เมื่อสไลด์ จะป้องกัน 50% ของความเสียหาย#โดยไม่เกี่ยวข้องกับระดับความแม่นยำ
+SNOWRAID/INSTRUCT_RECEIVE/DES,ใน Snow Raid คุณสามารถควบคุมจังหวะรับลูกของเพื่อนได้ หากไม่กด เขาจะรับเองช่วงสุดท้าย ซึ่งดีกว่า BAD แต่แย่กว่า GOOD หากมีแถบเวลาแสดง หมายถึงคุณเป็นผู้ควบคุม
+SNOWRAID/GIFT_BOX/DES,เดฟและไมค์ซ่อนของขวัญไว้ทั่วภูเขาหิมะให้เด็กๆ เมื่อชนะการแข่งขัน มีโอกาส 20% ได้กล่องของขวัญแบบสุ่ม
+COMMON/ENTER_COUNT,จำนวนครั้งที่เข้าเล่น
+COMMON/OWN_AMOUNT,จำนวนที่มี
+COMMON/PROBABILITY,ความน่าจะเป็น
+SNOWRAID/GIFT_BOX_ABBR,กล่องของขวัญ
+SHOP/HAIR/DES,ไอเทมทรงผมที่สามารถใช้ร่วมกับคอสตูมได้
+ILLUST_VIEW_MODE,สกิน
+NISHIKAWA_CARD_PACK,แพ็กการ์ดนิชิกาวะ
+NORMAL_PLAYER_RECRUIT_TICKET_DESC,คุณสามารถรับสมัครผู้เล่นได้จากหมวด 'ปกติ' ในร้านรับสมัคร
+POSITION_PLAYER_RECRUIT_TICKET_DESC,คุณสามารถรับสมัครผู้เล่นได้จากหมวด 'ตำแหน่ง' ในร้านรับสมัคร
+BLACKTHUNDER_CARD_PACK,แพ็กการ์ดฟ้าร้องสีดำ
+0422 ~ PTL Update,
+NAME/TEAM_66,อามาเร็ตติ สไปค์
+NAME/TEAM_67,แคนโนลี ไทเกอร์
+NAME/TEAM_68,แบล็กทีรามิสุ
+NAME/TEAM_69,บิสคอตติ บล็อกเกอร์
+NAME/TEAM_70,ทอร์โรเน่ ไททัน
+NAME/TEAM_71,พิซเซลเล สวิฟต์
+NAME/TEAM_72,อินเฟอร์โน เนโร
+NAME/TEAM_73,เทมเปสตา โรซา
+NAME/TEAM_74,ทีมอิซาเบลเฉพาะกิจ
+NAME/TEAM_75,บิวตี้ฟูล กลาส
+NAME/TEAM_76,เห็ดผสมกาแฟ
+NAME/TEAM_77,กอร์เจียส ไวน์
+NAME/TEAM_78,เฟรชเฮิร์บ
+NAME/TEAM_79,ทีมอายอนเฉพาะกิจ
+PIGGYBANK_BALL,ลูกหมูออมทรัพย์
+PIGGYBANK_BALL/DES,ลูกบอลรูปหมูออมสินสีเหลือง ของขวัญจากหนึ่งในสมาชิก <สภา 15 คน> ของลีกแฟนธอมให้กับลูกของเขา แม้จะดูเป็นของเล่น แต่จริง ๆ แล้วทำจากวัสดุหรูระดับสูง #「ตั้งแต่เปลจนหลุมศพ ทุกสิ่งของเราต้องไม่ธรรมดา」
+LEAGUE,ลีก
+LEAGUE_DES,มีทั้งหมด 10 ลีก แต่ละลีกมี 5 ด่าน สะสมแต้มลีกเพื่อเข้าสู่ลีกถัดไป ศัตรูจะแข็งแกร่งขึ้น หากแพ้หรือแต้มไม่พอ จะต้องเริ่มลีกนั้นใหม่
+LEAGUE_NUM,ลีก {0}
+LEAGUE_CLEAR_CONDITION_SENTENCE,ได้แต้มลีก {0} เพื่อผ่านลีก
+LEAGUE_PREVLEVEL_ENTER_SENTENCE,ต้องผ่านลีกก่อนหน้าเพื่อเข้าเล่น
+POINTS,แต้มลีก
+LEAGUE_RESTART,เริ่มลีกใหม่
+LEAGUE_PREVLEVEL_REWARD_ALERT,ด่านที่เคยเล่นจะไม่ได้รับรางวัลลีก
+LEAGUE_PREVLEVEL_SELECT_ALERT,โปรดเลือกด่านที่ต้องการเล่นอีกครั้ง
+CLEAR_LEVEL_NUM,เคลียร์ {0} ด่าน
+LEAGUE_RESET,รีเซ็ตลีก
+LEAGUE_NUM_CLEAR_REWARD,รางวัลเคลียร์ลีก {0}
+LEAGUE_CLEAR_UNAVAIL,ไม่สามารถเคลียร์ลีกได้
+LEAGUE_TOTAL_POINT_INSUFF_SENTENCE,คะแนนลีกสะสมไม่เพียงพอ แม้ชนะการแข่งขันที่เหลือทั้งหมดด้วยคะแนนลีกสูงสุด ก็ยังเข้าสู่ลีกถัดไปไม่ได้#ต้องการท้าทายต่อหรือไม่?
+LEAGUE_TOTAL_POINT_INSUFF_SENTENCE2,แต้มลีกไม่พอเข้าสู่ลีกถัดไป#สามารถรีเซ็ตและลองใหม่ได้
+TIP/SLIDING_ALERT_01,ใช้สไลด์ป้องกันสไปค์แรง#ให้ถูกจังหวะ
+TIP/RAUL_ALERT_01,ลูกตบของราอุลไม่สามารถป้องกันด้วยการบล็อกได้#คาดการณ์จุดตกแล้วสไลด์รับ
+TIP/HYBRID_SERVE_ALERT_02,รับลูกเสิร์ฟไฮบริดด้วยสไลด์#ลูกจะลอยไกล ใช้ปุ่มรับแทน
+TIP/JENNY_ALERT_01,เจนนี่จะแข็งแกร่งขึ้นทุกครั้งที่ทำลายสถิติความสูงจุดตบของตัวเอง
+PHANTOM_LEAGUE_TIP_0,บล็อกของฝ่ายตรงข้ามแน่นหนา
+PHANTOM_LEAGUE_TIP_1,ฝ่ายตรงข้ามตบลูกลึก
+PHANTOM_LEAGUE_TIP_2,มีการใช้กฎการรับลูกโต้กลับของ Snow Raid
+PHANTOM_LEAGUE_TIP_3,ต้องรับลูกให้ตรงจังหวะ
+PHANTOM_LEAGUE_TIP_4,การสไลด์ก็ได้รับความเสียหาย
+PHANTOM_LEAGUE_TIP_5,ฝ่ายตรงข้ามตบลูกสั้น
+PHANTOM_LEAGUE_TIP_6,ฝ่ายตรงข้ามใช้ลูกหลอกได้ดี
+PHANTOM_LEAGUE_TIP_7,ฝ่ายตรงข้ามใช้ลูกหลอกแบบท็อปสปิน
+PHANTOM_LEAGUE_TIP_8,บล็อกของฝ่ายตรงข้ามแน่นมาก
+PHANTOM_LEAGUE_TIP_9,การรับลูกสุดท้ายของฝ่ายตรงข้ามลอยสูง
+PHANTOM_LEAGUE_TIP_10,ยิ่งแรลลี่ยาว ความแม่นยำการรับลดลง
+PHANTOM_LEAGUE_TIP_11,ฝ่ายตรงข้ามใช้เสิร์ฟไฮบริด
+PHANTOM_LEAGUE_TIP_12,รับเสิร์ฟไฮบริดด้วยการสไลด์จะล้มเหลว
+PHANTOM_LEAGUE_TIP_13,ฝ่ายตรงข้ามใช้การสไลด์ได้ดี
+PHANTOM_LEAGUE_TIP_14,การกระโดดบล็อกของผู้เล่นทุกคนลดลง
+PHANTOM_LEAGUE_TIP_15,คูลดาวน์การสไลด์ของนักกีฬาทุกคนลดลง
+PHANTOM_LEAGUE_TIP_16,ความแม่นยำในการสไลด์ของนักกีฬาทุกคนลดลง
+PHANTOM_LEAGUE_TIP_17,นักกีฬาทุกคนเตรียมบล็อกได้เร็วขึ้น
+PHANTOM_LEAGUE_TIP_18,การกระโดดบล็อกของผู้เล่นทุกคนเพิ่มขึ้น
+PHANTOM_LEAGUE_TIP_19,สตามินาของนักกีฬาทุกคนเพิ่มขึ้น
+PHANTOM_LEAGUE_TIP_20,ทีมที่เสียแต้มต่อเนื่องจะเปลี่ยนตำแหน่ง
+BASIC,เบสิก
+PHANTOM_TIP_NO_NEXT_LEAGUE,หากเสียคะแนนเพิ่มอีก {n} แต้มขึ้นไป จะไม่สามารถเข้าสู่ลีกถัดไปได้
+PHANTOM_TIP_NO_NEXT_LEAGUE2,แต้มลีกไม่พอสำหรับเข้าลีกถัดไป
+PHANTOM_TIP_WIN_POINT,แต้มลีก = [คะแนนทีมเรา - ทีมตรงข้าม] เมื่อชนะ
+PLAYER/JENNY_FIRST_SHOW,แบคชีอู ฉันจะไม่มีวันแพ้เธอ
+COLOSSEUM/CARD/NAME_72,กายกรรม
+COLOSSEUM/CARD/DES_72,ยิ่งมุมสไปก์ตั้งฉากมากเท่าไร พลังยิ่งเพิ่มขึ้น
+COLOSSEUM/CARD/NAME_73,อิคารอส
+COLOSSEUM/CARD/DES_73,ยิ่งอยู่ใกล้เน็ต มุมตบจะยิ่งโค้งลง ยิ่งอยู่ห่างจากเน็ต มุมตบจะยิ่งโค้งขึ้น
+COLOSSEUM/CARD/NAME_74,ซูเปอร์ยุนซอก
+COLOSSEUM/CARD/DES_74,การโจมตีทุกครั้งของฉันทะลุบล็อก
+COLOSSEUM/CARD/NAME_75,โต้กลับ
+COLOSSEUM/CARD/DES_75,เมื่อรับลูกตบของคู่แข่งสำเร็จ จะเข้าสู่สถานะ {n1} ยิ่งทีมเหลือสตามินามาก สถานะนี้ก็ยิ่งคงอยู่นาน
+MINIMUM_NEED_TIER,เทียร์ขั้นต่ำที่ต้องการ
+LEAGUE_LEFT_POSSIBLE_POINT,แต้มลีกสูงสุดที่เหลือ: {0}
+MAXSCORE_MATCH,การแข่งขัน {0} แต้ม
+LEAGUE_MISSION_REWARD_CONDTION,เคลียร์ภารกิจก่อนจึงรับรางวัลได้
+LEAGUE_CLEAR_UNAVAIL_QUESTION,ยังสามารถเคลียร์ลีกได้!#ต้องการเริ่มใหม่ไหม?
+RESULT,ผลลัพธ์
+NEEDED_POINT,แต้มลีกที่ต้องการ
+ACHIEVED_POINT,แต้มลีกที่ได้รับ
+LEAGUE_NUM_CLEAR,เคลียร์ลีก {0} แล้ว
+LEAGUE_NUM_CLEAR_FAILED,เคลียร์ลีก {0} ล้มเหลว
+LEAGUE_POINT_ACHIEVED,แต้มลีกที่ต้องการสำเร็จแล้ว
+LEAGUE_POINT_NOT_ACHIEVED,แต้มลีกยังไม่เพียงพอ
+IN_PROGRESS_LEAGUE,ลีกปัจจุบัน
+CARD_PACK_PTL,แพ็กการ์ด Phantom League
+CORONA_SPLENDENTE_UNIFORM,โคโรน่า สเปลเลนเต้
+CORONA_SPLENDENTE_UNIFORM/DES,ยูนิฟอร์มของนักกีฬาระดับ Lv.4 อีกคนที่เคยเป็นดาวเด่นของลีกแฟนธอมก่อนราอุลจะปรากฏตัว ถึงแม้เขาจะเลิกเล่นไปนานแล้ว แต่แฟน ๆ ยังคงใส่ชุดนี้ไปเชียร์ในสนาม
+BDF(05.29~),
+CTM_CARD_PACK,แพ็กการ์ดท้าทายสู่การเป็นมาสเตอร์
+SVB_CARD_PACK,แพ็กการ์ดสโนว์วอลเลย์บอล
+PLAYER/RYUHYUN/SKIN/CHIEF_DISCIPLE,ศิษย์เอก
+PLAYER/HANRA/SKIN/YUMMI,พาทิซิเย่หญิง
+PLAYER/AYEON/SKIN/AYEONSTEIN,อายอนชไตน์
+BLUE_DRAGON_FESTIVAL,เทศกาลมังกรฟ้า
+BLUE_DRAGON_FESTIVAL_DESC,ในช่วงเทศกาลมังกรฟ้า เคลียร์การแข่งขันเทศกาลมังกรฟ้าทุกวันเพื่อรับเหรียญเทศกาลมังกรฟ้า! ใช้เหรียญเทศกาลมังกรฟ้าเพื่อรับนักกีฬาใหม่และไอเทมหลากหลาย
+BLUE_DRAGON_FESTIVAL_COIN,เหรียญเทศกาลมังกรฟ้า
+BLUE_DRAGON_FESTIVAL_COIN_DESC,สกุลเงินกิจกรรมที่ใช้ได้ในช่วงเทศกาลมังกรฟ้า#ใช้รับสมัครนักกีฬากิจกรรมได้#จะหายไปเมื่อกิจกรรมสิ้นสุด
+BDF_EXCHANGE_SHOP,ร้านค้าเหรียญเทศกาลมังกรฟ้า
+BDFCOIN_SHOP/ALERT1,แลกเหรียญเทศกาลเพื่อรับของกิจกรรมแบบจำกัดเวลา!
+ENTER_IMMEDIATELY,เข้าเลย
+SKIN_SCOUT_POINT,คะแนนสเกาต์สกิน
+MUSIC,เพลง
+BACKGROUND,พื้นหลัง
+MAINSCREEN_EDIT,ตั้งค่าหน้าจอหลัก
+NOT_DISPLAYED,ไม่แสดง
+BACKGROUND_DESC,"คุณสามารถเปลี่ยนพื้นหลังเริ่มต้นได้ที่เมนู ""ตกแต่ง"" ของหน้าจอหลัก"
+BGM_DESC,"คุณสามารถเปลี่ยนเพลงพื้นหลังเริ่มต้นได้ที่เมนู ""ตกแต่ง"" ของหน้าจอหลัก"
+BDF_STORY,เรื่องราวเทศกาลมังกรฟ้า
+RESET_PROGRESS,รีเซ็ตความคืบหน้า
+COMPLETE_REWARD_CLAIM,รับรางวัลแล้ว
+PROGRESS_STATUS,ความคืบหน้า
+PLAYER/HANRA/BREAD/DES,น่าอายอยู่บ้าง แต่ข้าก็ชอบของหวานไม่น้อย
+PLAYER/AYEON/AYEONSTEINS/DES,คุณจะเป็นเพื่อนกับฉันได้ไหมคะ?
+GPGS_ERROR_0,ไม่สามารถค้นหาบัญชีที่ใช้งานได้ กรุณาเข้าสู่ระบบ Google อย่างน้อยหนึ่งครั้งบนอุปกรณ์นี้ แล้วรีสตาร์ทเกม
+REWARD_INFO_TEXT,แตะที่ไอเทมเพื่อดูรายละเอียด
+COMMON/DECORATE,ตกแต่ง
+6/30~ KMK,
+HELP/ABILITY_CARD_INFO,แตะที่การ์ดความสามารถเพื่อดูรายละเอียด!
+COMMON/ABILITY_CARD,การ์ดความสามารถ
+HELP/LEFT_LIFE/DES,จำนวนชีวิตใช้ร่วมกันทุกแมตช์ เหลือ 0 จะถือว่าแพ้
+PHANTOM_LEAGUE_RULE_TITLE,กฎเพิ่มเติม
+PHANTOM_LEAGUE_RULE_DES,แต่ละแมตช์ในลีกมีกฎเพิ่มเติมต่างกัน ซึ่งส่งผลต่อเกมอย่างมาก #จะแสดงก่อนเริ่มแมตช์
+LEAGUE_DES_2,โหมดความยากสูงที่ต้องแข่งต่อเนื่อง 5 นัดและสะสมแต้มเพื่อผ่าน #เคลียร์แต่ละลีกเพื่อไต่ระดับขึ้นไป
+KINGMAKER,ผู้สร้างราชา
+PURCHASE_ALL_PASS,ซื้อพาสทั้งหมด
+DIFFICULTY_EASY,ง่าย
+DIFFICULTY_NORMAL,ปกติ
+DIFFICULTY_HARD,ยาก
+ADD_ENTRY,เข้าเพิ่ม
+SELECT_NEXT_CARD,เลือกการ์ดถัดไป
+SELECTED_CARD,การ์ดที่เลือก
+RESET,รีเซ็ต
+ADD_PURCHASE,การซื้อเพิ่มเติม
+DIFFICULTY_ENTER_GAME,เลือกความยากก่อนเข้าสู่เกม
+CHANGE,เปลี่ยน
+CHOOSE_DIFFICULTY,กรุณาเลือกความยาก
+DAILY_REWARD_CLAIMED,รับรางวัลประจำวันแล้ว!
+CHOSEN_DIFFICULTY,ความยากที่เลือก
+CAN_ENTER_COUNT,จำนวนครั้งที่เข้าได้
+EVENT/TIME/DAY,{0} วัน
+EVENT/TIME/HOUR,{1} ชั่วโมง
+EVENT/TIME/MINUTE,{2} นาที
+EVENT/TIME/SECOND,{3} วินาที
+ENTER_SILVER,เข้าได้ตั้งแต่เทียร์ซิลเวอร์ขึ้นไป
+RESET_EVENT,กำลังกลับไปที่หน้าหลักเนื่องจากการเชื่อมต่อเครือข่ายไม่เสถียรหรือกิจกรรมถูกรีเซ็ต
+TIMEOUT/ALLOC_CONTROLLER,เลือกผู้เล่นที่ต้องการควบคุมแล้วกดยืนยัน
+ALERT/NO_PLAYER_ALLOCATED,ยังไม่ได้เลือกผู้เล่น
+BUY_AFTER_SOLAR_PASS,ซื้อได้หลังจากซื้อพาสโซลาร์
+NAME/TEAM_80,ทีมอายอนเฉพาะกิจ
+NAME/TEAM_81,ดาวสีเงิน
+NAME/TEAM_82,ประกายแสงอาทิตย์
+NAME/TEAM_83,ทีมฝึกซ้อม
+TIMEOUT/SECOND_PLAYERS,ผู้เล่นสำรอง
+TIMEOUT/CUSTOM,ปรับเอง
+TIMEOUT/FIRST_TEAM,ทีมตัวจริง
+TIMEOUT/SECOND_TEAM,ทีมสำรอง
+LUCAS/NICKNAME,ซันสไปเกอร์
+LUCAS/LINE,ไม่ต้องห่วง ที่ผ่านมาฉันไม่เคยลงสนามโดยคิดว่าจะยอมแพ้เลยสักครั้ง
+HARI/LINE,จงโรยราที่นี่เพื่อฉัน
+TIMEOUT/STRONGER_DIRECT_SPIKE,เสริมพลังการตบตรง
+TIMEOUT/SUPER_SLIDE,อมตะขณะสไลด์
+NAME/TEAM_84,กรีนไพรด์
+NAME/TEAM_85,บลูชาริออต
+NAME/TEAM_86,เรดแรมพาร์ต
+NAME/TEAM_87,เยลโล่บาราจ
+NAME/TEAM_88,อาร์โคบาเลโน
+NAME/TEAM_89,ซิลเวอร์เบลล์
+TIP/HARI_ALERT_01,เมื่อฮาริรับลูก เมล็ดจะถูกปลูกไว้บนผู้เล่นคนสุดท้ายที่สัมผัสลูกบอล#เมื่อฮาริใช้ทักษะ เมล็ดนั้นจะระเบิด ทำให้ผู้เล่นคนนั้นหยุดเคลื่อนไหวชั่วคราว
+TIP/LUCAS_ALERT_01,ลูคัสพุ่งไปข้างหน้าในอากาศและพยายามตบลูกบอล#เมื่ออยู่ในสภาวะแสงวาบ การโจมตีของเขาจะแรงกว่าปกติหลายเท่า ควรระวัง
+TIP/RAUL_ALERT_02,สามารถบล็อกลูกตบของราอุลได้ หากเขาวิ่งเทคตัวเป็นระยะสั้น
+SHOP/BUY/ALERT2,ต้องการซื้อไอเทมดังกล่าวหรือไม่?
+INGAME/TABLE_RESET/ALERT2,การแข่งขันทัวร์นาเมนต์ที่กำลังดำเนินอยู่ในปัจจุบันจะถูกรีเซ็ตทั้งหมด
+INGAME/TABLE_RESET/REMAINS,จำนวนครั้งการรีเซ็ตที่เหลือ x {n1}
+UI/EXIT_WITHOUT_SAVE,คุณต้องการออกโดยไม่บันทึกการเปลี่ยนแปลงหรือไม่?
+COMMON/NONE,ไม่มี
+COMMON/TOHOME,กลับหน้าแรก
+COMMON/GOBACK,ย้อนกลับ
+COMMON/PREVIOUS_SCREEN,หน้าจอก่อนหน้า
+COMMON/SELECT,เลือก
+INGAME/MOVE,การเคลื่อนที่
+LAYOUT_KEY/LEFT_HAND,ถนัดซ้าย
+LAYOUT_KEY/BASIC,พื้นฐาน
+LAYOUT_KEY/CUSTOM,กำหนดเอง
+LAYOUT_DES/TOUCH_BUTTON_PLEASE,กรุณาแตะปุ่มที่คุณต้องการปรับ
+LAYOUT_DES/CUSTOM_MODE_CHANGE,เมื่อปรับปุ่มแล้ว ระบบจะเปลี่ยนเป็นโหมดกำหนดเอง
+TIMEOUT/LOSER_ROTATION,การหมุนเวียนเมื่อเสียแต้ม
+INGAME/SPIKE/SHORT,ตบสั้น
+INGAME/SPIKE/FEINT,ตีลูกหลอก
+CLEAR,เคลียร์
+INGAME/TEAM_HP,สตามินาของทีม
+INGAME/BALANCE_MODE,โหมดบาลานซ์
+130M_ATTENDANCE,โบนัสล็อกอินฉลอง 130 ล้านดาวน์โหลด
+130M_ATTENDANCE_REWARD,รางวัลโบนัสล็อกอินฉลอง 130 ล้านดาวน์โหลด
+EVENT_THANKYOU,เราจะตอบแทนคุณด้วยเกมที่ดียิ่งขึ้นต่อไป
+KEYBOARD,คีย์บอร์ด
+GAMEPAD,จอยเกม
+KEYBOARD_CUSTOMIZE_DES,กำหนดการควบคุมคีย์บอร์ดเอง
+GAMEPAD_CUSTOMIZE_DES,กำหนดการควบคุมจอยเกมเอง
+FIELD_OF_VIEW_DES,ปรับมุมมองที่แสดงบนหน้าจอเกม
+ADVANCED_GRAPHIC,กราฟิกขั้นสูง
+MOVE_LEFT,เคลื่อนที่ไปทางซ้าย
+MOVE_RIGHT,เคลื่อนที่ไปทางขวา
+TOGGLE_SKILL_MODE,สลับ/ยกเลิกโหมดสกิล
+TOGGLE_CHANGEPLAYER_MODE,สลับ/ยกเลิกโหมดเปลี่ยนผู้เล่น
+GAME_CONTROL,การควบคุมเกม
+PRESS_KEY_TO_ASSIGN,กดปุ่มเพื่อกำหนด
+UNASSIGNED_CONTROLS_WARNING,ยังมีการควบคุมที่ไม่ได้ตั้งค่า!
+GAMEPAD_NOT_CONNECTED,ไม่มีการเชื่อมต่อจอยเกม หรือการเชื่อมต่อถูกตัด
+CELEBRATE_130M_DOWNLOAD,ฉลองครบ 130 ล้าน+ ดาวน์โหลด!
+COMMON/SCREEN_TRANSITION,การเปลี่ยนหน้าจอ
+COMMON/TOUCH_TO_START,แตะเพื่อเริ่ม
+COMMON/PRESS_ANY_KEY,กดปุ่มใดก็ได้เพื่อเริ่ม
+START,เริ่ม
+COMMON/CONTROLLER_SETTING,การตั้งค่าคอนโทรลเลอร์
+MOVE_UP,เคลื่อนขึ้น
+MOVE_DOWN,เคลื่อนลง
+09/01 ~ SMM,
+SMM_COIN_DESC,คุณสามารถใช้เหรียญฤดูร้อนที่ได้จากโหมด Water Fight และบีชวอลเลย์บอลเรด เพื่อรับสมัครผู้เล่นพิเศษ#สกุลเงินนี้จะหายไปหลังสิ้นสุดช่วงกิจกรรม
+SUMMER_MEMORIES_DESC,Summer Memories! อีเวนต์ที่มีการแข่งขันสุดสดชื่นกับหน้าเก่าคุ้นเคย ช่วยดับความร้อน!#จำนวนรางวัลที่รับได้จะรีเซ็ตทุกวัน และสามารถเข้าเล่นแมตช์อีเวนต์ได้โดยไม่ขึ้นกับสถานะรางวัล
+WATER_FIGHT_DESC,การแข่งขันพิเศษบนชายหาดกับคู่ต่อสู้หลากหลายคน ทำให้พลังชีวิตของฝ่ายตรงข้ามหมดลงเพื่อคว้าชัย และรับเหรียญฤดูร้อน
+BEACH_VOLLEYBALL_RAID_DESC,การแข่งขันวอลเลย์บอลชายหาดพิเศษท่ามกลางแสงแดดแผดเผา#แข่งถึง 15 แต้ม และทุก ๆ 3 แต้ม ซาราจะนำไอเทมมาให้เพื่อช่วยให้ทนความร้อนได้
+SMM_COIN,เหรียญฤดูร้อน
+SUMMER_MEMORIES,ความทรงจำฤดูร้อน
+WATER_FIGHT,ศึกปืนฉีดน้ำ
+BEACH_VOLLEYBALL_RAID,เรดวอลเลย์บอลชายหาด
+COMMON/DISPLAY,การแสดงผล
+COMMON/SCREEN_MODE,โหมดหน้าจอ
+COMMON/WINDOW_MODE,โหมดหน้าต่าง
+COMMON/FULLSCREEN,เต็มหน้าจอ
+COMMON/BORDERLESS,หน้าต่างไร้ขอบ
+COMMON/RESOLUTION,ความละเอียด
+ETC/FULLSCREEN_MAX_RESOLUTION,ในโหมดเต็มหน้าจอ จะใช้ความละเอียดสูงสุดของอุปกรณ์
+GRAPHICS/EXPERIMENTAL_EFFECT,เอฟเฟกต์กราฟิกเชิงทดลอง
+GRAPHICS/EXPERIMENTAL_EFFECT_DESC,ใช้ฟิลเตอร์และเอฟเฟกต์ภาพกับหน้าจอเกมเพื่อให้กราฟิกมีชีวิตชีวามากขึ้น แนะนำให้ปิดหากส่งผลกระทบต่อประสิทธิภาพอย่างมาก
+GRAPHICS/POST_PROCESS_SCALE,สเกลการเรนเดอร์หลังการประมวลผล
+GRAPHICS/POST_PROCESS_SCALE_DESC,ปรับสเกลความละเอียดสำหรับการประมวลผลภายหลัง
+GRAPHICS/SLOW_MOTION,เอฟเฟกต์สโลว์โมชั่น
+GRAPHICS/SLOW_MOTION_DESC,เปิดใช้งานเอฟเฟกต์พิเศษเมื่อเปิดใช้งานสโลว์โมชั่น
+GRAPHICS/MOTION_BLUR,มอชันเบลอ
+GRAPHICS/MOTION_BLUR_DESC,ใช้เอฟเฟกต์เบลอเมื่อกล้องเคลื่อนที่เร็ว
+GRAPHICS/SPIKE_EFFECT,เอฟเฟกต์สไปค์
+GRAPHICS/SPIKE_EFFECT_DESC,เปิดใช้งานเอฟเฟกต์พิเศษเมื่อผู้เล่นตีสไปค์อย่างรุนแรง
+GRAPHICS/ENVIRONMENT_DETAIL,รายละเอียดสิ่งแวดล้อม
+GRAPHICS/ENVIRONMENT_DETAIL_DESC,เปิดใช้งานรายละเอียดเอฟเฟกต์สิ่งแวดล้อม เช่น แสง เงา และการสะท้อน อาจส่งผลต่อประสิทธิภาพ
+GRAPHICS/REFRACTION_EFFECT,เอฟเฟกต์การหักเห
+GRAPHICS/REFRACTION_EFFECT_DESC,เปิดใช้งานเอฟเฟกต์การหักเหและคลื่นบนหน้าจอ
+COMMON/CONNECT,เชื่อมต่อ
+COMMON/CONNECT_OTHER_PAD,เชื่อมต่อจอยอื่น
+COMMON/NO_PAD_CONNECTED,ไม่มีการเชื่อมต่อจอย
+COMMON/PAD_CONNECTED,เชื่อมต่อแล้ว
+COMMON/PRESS_ANY_BUTTON_TO_CONNECT,กดปุ่มใดก็ได้บนจอยเพื่อเชื่อมต่อ
+COMMON/SELECT_INPUT_DEVICE,โปรดเลือกอุปกรณ์ป้อนข้อมูลที่จะใช้
+COMMON/KEYBOARD_ALREADY_CONNECTED,คีย์บอร์ดถูกเชื่อมต่อกับผู้เล่นอื่นแล้ว
+COMMON/PAD_ALREADY_REGISTERED,จอยที่ลงทะเบียนแล้วไม่สามารถลงทะเบียนซ้ำได้
+COMMON/NORMAL,ปกติ
+COMMON/SPLIT_1,แบ่ง 1
+COMMON/SPLIT_2,แบ่ง 2
+SYSTEM/INDIVIDUAL_CONTROL_NOT_SAVE,การตั้งค่าการควบคุมของผู้เล่นแต่ละคนจะไม่ถูกบันทึก
+COMMON/CHAGE_TO_SINGLEPLAY,เปลี่ยนเป็นโหมดผู้เล่นเดี่ยว
+COMMON/CHAGE_TO_MULTIPLAY,เปลี่ยนเป็นโหมดผู้เล่นหลายคน
+SYSTEM/NO_INPUT_DEVICE,ไม่มีอุปกรณ์ป้อนข้อมูล
+SYSTEM/KEYBOARD_SPLIT,แยกคีย์บอร์ด
+SYSTEM/KEYBOARD_MODE_LOCKED,คีย์บอร์ดเชื่อมต่อกับผู้เล่นแล้ว จึงไม่สามารถเปลี่ยนโหมดได้
+SYSTEM/DELETE_INPUT_DEVICE,ลบอุปกรณ์ป้อนข้อมูลที่มีอยู่
+INGAME/POSITION/NAME_SE,เซตเตอร์
+INGAME/POSITION/NAME_MB,ตัวบล็อกกลาง
+INGAME/POSITION/NAME_WS,ตัวตบหัวเสา
+COMMON/CLICK_TO_CONTINUE,คลิกเพื่อดำเนินการต่อ
+TIMEOUT/ALERT/SAME_TEAM,ผู้เล่นของทั้งสองทีมเหมือนกัน ดังนั้นไม่สามารถสลับทีมได้
+TIMEOUT/ALERT/NO_COMBI,ไม่มีโบนัสการจัดทีม
+TIMEOUT/ALERT/NO_COMBI_DES,ทีมนี้ไม่ได้รับผลโบนัสจากการจัดตัวผู้เล่น
+SUMMER_MEMORIES_VOUCHER,ตั๋วรับรางวัลเพิ่มเติม
+SUMMER_MEMORIES_VOUCHER_DESC,ใช้เพื่อรับได้ตามเพดานรายวันของวันนี้อีก 1 รอบ รางวัลมาจากการผ่านด่าน ซื้อได้วันละ 1 ครั้ง
+STEAM_ERROR_CONNECT,ไม่สามารถเชื่อมต่อกับ Steam ได้
+STEAM_ERROR_CLIENT,กรุณาออกจากเกม ตรวจสอบสถานะไคลเอนต์ Steam แล้วเริ่มเกมใหม่
+STEAM_ERROR_UNAUTHORIZED,ไคลเอนต์ไม่ได้รับอนุญาต กรุณาตรวจสอบกับ Steam แล้วเริ่มเกมใหม่
+STEAM_RECOMMEND_OVERLAY_TITLE,ตรวจสอบการตั้งค่า Steam Overlay
+STEAM_RECOMMEND_OVERLAY_MESSAGE,"โปรดเปิดใช้งานตัวเลือก Overlay ใน ""การตั้งค่า"" ของ Steam จากนั้นรีสตาร์ทไคลเอนต์เกม"
+EXTRA_REWARD_TICKET_INFO,คุณรับรางวัลวันนี้ครบแล้ว##หากใช้ตั๋วรางวัลพิเศษ จะรีเซ็ตขีดจำกัดรายวัน##คุณยังสามารถเล่นแมตช์ต่อไปได้
+SMM_EXCHANGE_SHOP,ร้านค้าเหรียญความทรงจำฤดูร้อน
+LOGIN_BONUS,พาสเช็กชื่อ
+COMMON/HARD,ยาก
+SMM_EXCHANGE_SHOP,ร้านเหรียญ
+TUTORIAL/FIGHT/TALK_01_A,เฮ้ ไอ้หนู! จำกติกาพิเศษการต่อสู้ปาหิมะของแคมป์เราได้ไหม?
+TUTORIAL/FIGHT/TALK_01_B,เฮ้ ไอ้หนู! จำกติกาปาหิมะสุดพิเศษ... ไม่สิ ศึกปืนฉีดน้ำของแคมป์เราได้ใช่ไหม?
+TUTORIAL/FIGHT/TALK_02,...โอ้โฮ! หน้าตาแบบนี้บ่งชี้ว่าไม่รู้เรื่องเลยสินะ ดูท่าฉันต้องช่วยแล้ว
+TUTORIAL/FIGHT/TALK_03,ก่อนอื่น ลองขยับรอบคอร์ตเหมือนปกติดูสิ
+TUTORIAL/FIGHT/TALK_04,ถ้าเก็บแต้มโจมตีแบบนี้ จะสามารถโจมตีฝ่ายตรงข้ามตามจำนวนที่เก็บได้!
+TUTORIAL/FIGHT/TALK_05,เอาละ กระโดดให้สูงเหมือนสไปค์แล้วโจมตีฝ่ายตรงข้ามสิ
+TUTORIAL/FIGHT/TALK_06,ดีมาก โยนได้ดีเลยนะ! ข้อสังเกต: เส้นทางการโจมตีจะเปลี่ยนตามปุ่มที่กดในอากาศ
+TUTORIAL/FIGHT/TALK_07,งั้นคราวนี้จะบอกวิธีการโจมตีที่ทรงพลังขึ้นอีกหน่อย
+TUTORIAL/FIGHT/TALK_08,หากโจมตีต่อเนื่องในอากาศ… บางครั้งเอฟเฟกต์ CRITICAL จะทำงาน ทำให้การโจมตีรุนแรงขึ้น!
+TUTORIAL/FIGHT/TALK_09,ถ้าการโจมตีแบบ CRITICAL สำเร็จ จะสร้างแรงกระแทกมากกว่าปกติและฟื้นฟูแต้มโจมตีเล็กน้อย!
+TUTORIAL/FIGHT/TALK_10,หรือจะกดปุ่มรับค้างไว้บนพื้นแล้วปล่อยเพื่อทำการโจมตีแบบปืนใหญ่โค้งก็ได้#การโจมตีแบบปืนใหญ่โค้งจะมีเอฟเฟกต์ CRITICAL เสมอ
+TUTORIAL/FIGHT/TALK_11,อยากลองไหม? ทางไหนก็ได้ทั้งนั้น
+TUTORIAL/FIGHT/TALK_12,สุดยอด! ดีมากเลย!
+TUTORIAL/FIGHT/TALK_13,นอกจากนี้ การโจมตีแบบปืนใหญ่โค้งจะทิ้งพื้นที่กีดขวางไว้ตรงจุดตก
+TUTORIAL/FIGHT/TALK_14,ในพื้นที่กีดขวาง ความเร็วจะลดลงและไม่สามารถกระโดดได้ ถือว่าอันตราย!
+TUTORIAL/FIGHT/TALK_15,แต่ถ้าสไลด์ จะลบพื้นที่กีดขวางได้ง่ายๆ ลองทำดูสิ
+TUTORIAL/FIGHT/TALK_16,ดี ดี เก่งขึ้นเรื่อยๆ แต่ฝ่ายตรงข้ามก็ไม่ง่ายดายหรอก
+TUTORIAL/FIGHT/TALK_17,บางครั้งฝ่ายตรงข้ามจะเปล่งแสงสีทอง ระวังให้ดี#นั่นเป็นสัญญาณว่าจะใช้ท่าโจมตีพิเศษที่รุนแรง
+TUTORIAL/FIGHT/TALK_18,เมื่อฝ่ายตรงข้ามใช้ท่าโจมตีพิเศษ พวกเขาจะทนทานขึ้นและหยุดไม่ได้ด้วยวิธีใด ๆ
+TUTORIAL/FIGHT/TALK_19,แต่เมื่อท่าโจมตีพิเศษจบ จะเกิดช่องโหว่เผยจุดอ่อน จงจู่โจมตอนนั้น!
+TUTORIAL/FIGHT/TALK_20,ฮ่าๆๆ! ถ้าจู่โจมจุดอ่อน แต้มโจมตีจะถูกชาร์จและเก็บแต้มฟีเวอร์ได้ด้วย!
+TUTORIAL/FIGHT/TALK_21,...โอ้โฮ! ยังไม่รู้ว่าแต้มฟีเวอร์คืออะไรเหรอ?
+TUTORIAL/FIGHT/TALK_22,เป็นแต้มที่ต้องใช้เพื่อเข้าสู่โหมดฟีเวอร์#สามารถได้รับโดยการโจมตีจุดอ่อนของศัตรูหรือสัมผัสฟองฟีเวอร์ที่ปรากฏบนคอร์ต
+TUTORIAL/FIGHT/TALK_23,อย่าแค่พูด ลองทำจริงดู
+TUTORIAL/FIGHT/TALK_24,ฮ่าฮ่าฮ่า!! ดูเหมือนเต็มไปด้วยพลังเลยนะ!
+TUTORIAL/FIGHT/TALK_25,งั้น ลองลงสนามจริงกันไหม?
+TUTORIAL/FIGHT/DES_01,เดินไปรอบคอร์ตเพื่อเก็บแต้มโจมตี
+TUTORIAL/FIGHT/DES_02,กระโดดแล้วโจมตีในอากาศเพื่อให้ถูกฝ่ายตรงข้าม
+TUTORIAL/FIGHT/DES_03,โจมตีให้โดนศัตรูด้วยการโจมตีทางอากาศที่เสริมพลังหรือด้วยการโจมตีแบบปืนใหญ่โค้ง
+TUTORIAL/FIGHT/DES_04,ลบพื้นที่กีดขวางด้วยการสไลด์
+TUTORIAL/FIGHT/DES_05,จู่โจมช่องโหว่เพื่อโจมตีจุดอ่อน
+TUTORIAL/FIGHT/DES_06,เก็บฟองฟีเวอร์เพื่อเข้าสู่โหมดฟีเวอร์
+TUTORIAL/FIGHT/DES_07,ตอนนี้ก็โจมตีฝ่ายตรงข้ามแบบจัดหนักเลย!!
+TUTORIAL/FIGHT/TIP_01,ขณะเคลื่อนที่บนพื้น แต้มโจมตีจะถูกชาร์จ.#ยิ่งเคลื่อนที่เร็ว ยิ่งชาร์จได้เร็วขึ้น
+TUTORIAL/FIGHT/TIP_02,หลังจากกระโดด สามารถเคลื่อนซ้าย-ขวาในอากาศเพื่อเปลี่ยนจุดเป้าหมายการโจมตีได้
+TUTORIAL/FIGHT/TIP_03,การโจมตีที่มีเอฟเฟกต์ CRITICAL จะสร้างแรงกระแทกมากกว่าปกติเมื่อโดน และชาร์จแต้มโจมตีให้ด้วย
+TUTORIAL/FIGHT/TIP_04,ขณะสไลด์จะเป็นสถานะอมตะ#นอกจากนี้ ขณะสไลด์จะลบพื้นที่กีดขวางที่แตะต้องทั้งหมด
+TUTORIAL/FIGHT/TIP_05,หลังจากศัตรูใช้ท่าโจมตีพิเศษแล้ว จงมุ่งโจมตีช่องโหว่เพื่อโจมตีจุดอ่อน จะทำให้เกิดแรงกระแทกสูงและฟื้นฟูแต้มโจมตีได้
+TUTORIAL/FIGHT/TIP_06,ในโหมดฟีเวอร์ ค่าสถานะจะเพิ่มขึ้นอย่างมาก และจะไม่ถูกผลกระทบจากพื้นที่กีดขวาง
+COMMON/WORD/GOKSA,ปืนใหญ่โค้ง
+INVALID_SESSION_MESSAGE_TITLE,เข้าสู่ระบบจากอุปกรณ์อื่น
+INVALID_SESSION_MESSAGE_MESSAGE,บัญชีของคุณถูกเข้าสู่ระบบจากอุปกรณ์ใหม่ หากไม่ใช่คุณ โปรดเปลี่ยนรหัสผ่านในแพลตฟอร์มที่เชื่อมโยงทันที.
+PLAYER/SARA/SKIN/WATERSPLASH,สาดน้ำ
+PLAYER/JENNY/SKIN/STRAWHAT,หมวกฟาง
+PLAYER/DAVE/SKIN/DIVER,นักดำน้ำ
+PLAYER/NN/SKIN/SURFER,นักโต้คลื่น
+OPTION/GRAPHIC_WARNING,การตั้งค่ากราฟิกแบบทดลองอาจทำให้ประสิทธิภาพลดลงหรือเกิดข้อผิดพลาดทางกราฟิกในบางอุปกรณ์ หากพบปัญหา กรุณาปิดตัวเลือกนี้
+BEACHRAID/TEMP/MESSAGE_01,ผู้เล่นเริ่มรู้สึกร้อนขึ้นทีละน้อย
+BEACHRAID/TEMP/MESSAGE_02,ความร้อนกำลังส่งผลต่อฟอร์มของผู้เล่น
+BEACHRAID/TEMP/MESSAGE_03,ความร้อนลดความสามารถในการกระโดดและป้องกันของผู้เล่นอย่างมาก
+BEACHRAID/TEMP/MESSAGE_04,จำเป็นต้องมีการเปลี่ยนตัวสำหรับผู้เล่นที่ร้อนเกินไป
+BEACHRAID/TEMP/MESSAGE_05,เพราะความร้อน ผู้เล่นทุกคนเริ่มเต้น..!
+BEACHRAID/CARD/TUNA,ทูน่าของเดฟ
+BEACHRAID/CARD/SUNCREAM,ครีมกันแดด
+BEACHRAID/CARD/WATERGUN,ปืนฉีดน้ำ
+BEACHRAID/CARD/JUICE,ครีมโซดา
+BEACHRAID/CARD/ICE_DESSERT,บิงซู
+BEACHRAID/CARD/ICECREAM,ไอศกรีม
+BEACHRAID/CARD/SUNGLASS,แว่นกันแดด
+BEACHRAID/CARD/COCONUT,เครื่องดื่มมะพร้าว
+BEACHRAID/CARD/FAN,พัด
+TOTAL_CURRENCY,ทรัพยากรรวม
+TODAY_CAN_GET,รับได้วันนี้
+SMM_TREASURE_CHEST,หีบสมบัติ
+SMM_TREASURE_CHEST_DESC,เดฟของเราจะแบ่งสมบัติที่ดึงขึ้นมาจากใต้ทะเลลึก#ในแมตช์สุดท้ายที่ครบจำนวนรางวัลรายวัน มีโอกาสได้รับหีบสมบัติ
+PLAYER/JENNY_SUMMER_SHOW,พักมาพอแล้ว ถึงเวลาเริ่มแล้ว!
+PLAYER/DAVE_SUMMER_SHOW,ความงดงามของกล้ามเนื้อศิลป์และวอลเลย์บอลชายหาด... ยอดเยี่ยม!!
+PLAYER/DAVE_SUMMER_NICKNAME,สัตว์ร้ายผู้สง่างาม
+NAME/TEAM_90,ทีม NN
+NAME/TEAM_91,ทีมเจนนี่
+INGAME/SETUP/NAME_11,นมสตรอว์เบอร์รีช็อกโกแลต
+INGAME/SETUP/NAME_12,โฉมงามกับเจ้าชายอสูร
+ALERT_RAID_SETTING_RESET,การเปลี่ยนแปลงจะถูกรีเซ็ต
+ALERT/GO_BACK_EVENT_MAIN_SCREEN,ต้องการกลับไปที่หน้าหลักของกิจกรรมหรือไม่
+NAME/TEAM_92,นมสตรอว์เบอร์รีช็อกโกแลต
+NAME/TEAM_93,โฉมงามกับเจ้าชายอสูร
+OPEN_DES,ดูคำอธิบาย
+WATER_FIGHT_EASY,ศึกปืนฉีดน้ำสุดสดชื่นบนชายหาดฤดูร้อนกำลังเริ่มขึ้น!#ระวังให้ดี เผลอเมื่อไรอาจโดนลูกโป่งน้ำ!
+WATER_FIGHT_HARD,ศึกปืนฉีดน้ำสุดสดชื่นบนชายหาดฤดูร้อนกำลังเริ่มขึ้น!#ระวังให้ดี เผลอเมื่อไรอาจโดนลูกโป่งน้ำ!
+BEACH_VOLLEYBALL_RAID_HARD,การแข่งขันวอลเลย์บอลชายหาดได้เริ่มขึ้นแล้ว#หากโชคดี คุณอาจได้รับของขวัญสุดเซอร์ไพรส์จากเดฟก็ได้?!
+BEACH_VOLLEYBALL_RAID_TOOHARD,การแข่งขันวอลเลย์บอลชายหาดได้เริ่มขึ้นแล้ว#หากโชคดี คุณอาจได้รับของขวัญสุดเซอร์ไพรส์จากเดฟก็ได้?!
+MATCH_INFO,ข้อมูลการแข่งขัน
+UPDATE_ANNOUNCE_STEAM,"กรุณาอัปเดต ""The Spike: Cross"" เป็นเวอร์ชันล่าสุดจากคลัง Steam ของคุณ."
+PC_DENIED_BUTTON_LAYOUT_DESC,หากต้องการตั้งค่าเลย์เอาต์ปุ่ม ให้คลิกปุ่มด้วยเมาส์
+MOBILE_DENIED_BUTTON_LAYOUT_DESC,หากต้องการตั้งค่าเลย์เอาต์ปุ่ม ให้แตะปุ่ม
+GAME,เกม
+UI/KEY_DELETE,ลบการป้อนข้อมูล
+UI/EDIT_INPUT,แก้ไข
+UI/CLEAR,ล้าง
+UI/REGISTER_NEW_KEY,เพิ่มปุ่มใหม่
+SETTINGS/SWAP_CONFIRM_CANCEL,สลับ ยืนยัน/ยกเลิก
+NAME/TEAM_94,ดอกฝ้าย
+NAME/TEAM_95,ทีมรองบ่อน
+NAME/TEAM_96,โคลอสเซียมไวลด์
+NAME/TEAM_97,สาวงามและอสูร
+NAME/TEAM_98,ความฝันของยุนซอก
+NAME/TEAM_99,ไมนัสทรีโอ
+NAME/TEAM_100,ดับเบิลควีน
+NAME/TEAM_101,ดับเบิลควิก
+NAME/TEAM_102,โดพามีน
+COMMON/NO_TIP,ขณะนี้ไม่มีการใช้กฎพิเศษใด ๆ
+PHANTOM_LEAGUE_TIP_21,สตามินาของทั้งสองทีมลดลงมาก
+PHANTOM_LEAGUE_TIP_22,ความเร็วของผู้เล่นทุกคนลดลงมาก
+PHANTOM_LEAGUE_TIP_23,พลังป้องกันและระยะป้องกันของทีมคู่แข่งเพิ่มขึ้น
+PHANTOM_LEAGUE_TIP_24,อัตราเกิดและผลของคอนดิชั่นของผู้เล่นทุกคนเพิ่มขึ้น
+PHANTOM_LEAGUE_TIP_25,สตามินาของทีมคู่แข่งเพิ่มขึ้น
+PHANTOM_LEAGUE_TIP_26,มายุนซอก แข็งแกร่งขึ้น
+COMMON/COMBINATION_APPLY,ใช้คอมโบ
+COMMON/WORD/DOUBLECONTACT,สัมผัสบอลสองครั้ง
+COMMON/WORD/OUTOFBOUND,ออกนอกเส้น
+COMMON/ARCHIVE,แฟ้มเก็บข้อมูล
+COMMON/STORY_ARCHIVE,แฟ้มเก็บเนื้อเรื่อง
+COMMON/STORY_ARCHIVE_DES,คุณสามารถกลับมาชมเรื่องราวที่เคยเล่นได้อย่างอิสระ.
+LOGINSCREEN_PROGRESS_STEAM_USER_TICKET_RETRY,กำลังออกตั๋วผู้ใช้ Steam
+LOGINSCREEN_PROGRESS_STEAM_USER_TICKET_FAILED,ไม่สามารถออกตั๋วผู้ใช้ Steam ได้
+LOGINSCREEN_PROGRESS_STEAM_CONNECTED,เชื่อมต่อกับ Steam เสร็จสิ้น
+LOGINSCREEN_PROGRESS_LANG_LOAD_COMPLETE,โหลดไฟล์ภาษาเสร็จสมบูรณ์
+LOGINSCREEN_PROGRESS_LOADING_AUTH,กำลังดึงข้อมูลการยืนยันตัวตน
+LOGINSCREEN_PROGRESS_ACCESS_SUNCYAN,กำลังเชื่อมต่อกับ SUNCYAN
+LOGINSCREEN_PROGRESS_SUCCEED,เข้าสู่ระบบสำเร็จ!
+LOGINSCREEN_PROGRESS_LOADING_DATA,กำลังโหลดข้อมูลที่จำเป็น
+LOGINSCREEN_PROGRESS_BUNDLE_LOADING,กำลังโหลดข้อมูลบันเดิลที่จำเป็น
+LOGINSCREEN_PROGRESS_BUNDLE_COMPLETE,โหลดข้อมูลบันเดิลเสร็จสมบูรณ์
+LOGINSCREEN_PROGRESS_ERROR_HASH,การตรวจสอบความสมบูรณ์ล้มเหลว กรุณาติดตั้งเกมใหม่
+COMMON/CONTROL_DES,คำอธิบายการเล่นเกม
+COMMON/FIRST_CLEAR,เคลียร์ครั้งแรก
+COMMON/FIRST_PERFECT,3 ดาวครั้งแรก
+LEAGUE_NOT_OPEN_YET,ลีกนี้ยังไม่ได้จัดขึ้น
+LEAGUE_LEFT_TIME,ถึงเริ่มแข่งขันในอีก {n1}
+ALERT/STORY_NO_MORE,ไม่มีเนื้อเรื่องให้เล่นเพิ่มเติมแล้ว.
+ALERT/STORY_LAST,นี่คือเนื้อเรื่องสุดท้าย.
+ALERT/STORY_NOT_PLAYED,เนื้อเรื่องนี้ยังไม่ได้เล่น.
+COMMON/LOCKED,ถูกล็อก
+ALERT/DIAL_NOT_SELECT,โปรดเลือกเนื้อเรื่อง
+ALERT/DIAL_END,นี่คือบทพูดประโยคสุดท้าย
+STORYMODE_TIP_0,ให้ข้อมูลที่เป็นประโยชน์ต่อการแข่งขัน.
+STORYMODE_TIP_1,"จะใช้กฎของ ""รับลูกสวนกลับ"""
+STORYMODE_TIP_2,การสไลด์ก็ได้รับความเสียหาย
+STORYMODE_TIP_3,พลังกระโดดและความเร็วจะลดลงเล็กน้อย
+STORYMODE_TIP_4,ผลการแข่งขันจะถูกกำหนดตามจำนวนผู้ชม
+STORYMODE_TIP_5,ต้องเล่นด้วยนักกีฬาที่กำหนด
+STORYMODE_TIP_6,ตัดสินแพ้ชนะกันด้วยการต่อสู้ปาหิมะ
+STORYMODE_TIP_7,"จะใช้กฎของโหมด ""Snow Raid"""
+COMMON/NO_ENEMY_DATA,ไม่มีข้อมูลคู่แข่ง
+,
+COMMON/STORY_REPLAY,ดูเนื้อเรื่องอีกครั้ง
+ALERT/PREV_CONTENT_NOT_CLEAR,สามารถดำเนินต่อได้หลังจากเคลียร์คอนเทนต์ด้านล่างแล้ว.
+11/06~ 할로윈,
+PLAYER/SOHEE/SKIN/VAMPIRE,แวมไพร์
+HALLOWEEN,ฮาโลวีน
+COMMON/DONTSHOWAGAIN,ไม่ต้องแสดงอีก
+HALLOWEEN_EVENT,ปาร์ตี้ฮาโลวีน!
+EVENT_UNTIL_MESSAGE,จะสิ้นสุดใน {n1}
+JACK_O_LANTERN_BALL,ลูกบอลแจ็ค-โอ-แลนเทิร์น
+JACK_O_LANTERN_BALL/DES,ยามาเดระลองทำลูกบอลให้แฟนคลับรุ่นเยาว์ โดยใส่รสนิยมของตัวเองลงไปเต็มที่ เด็กทุกคนที่เห็นบอลต่างร้องไห้จ้า
+BLACK_SPIDER_BALL,ลูกบอลแมงมุมดำ
+BLACK_SPIDER_BALL/DES,ใช้ในยิมเก่าจนโดนใยแมงมุมเกาะซะแล้ว
+DULLAHAN_HAIR,ทรงผมดูราฮาน
+DULLAHAN_HAIR/DES,มีข่าวลือว่าหากฝึกซ้อมที่มัธยมซอมยองจนดึก จะรู้สึกเหมือนมีใครอยู่บนอัฒจันทร์ คงเป็นแค่ข่าวลือใช่ไหม?
+HALLOWEEN_EVENT_REWARD_POPUP_DES,อย่าพลาดไอเทมและรางวัลสุดพิเศษในช่วงกิจกรรม!
+MOVE_TO_REWARD,ไปรับรางวัล!
+HALOWEEN_SOHEE_SAYS_1,ทริก ออร์ ทรีต!
+HALOWEEN_SOHEE_SAYS_2,แฮปปี้ฮาโลวีน!
+HALOWEEN_SOHEE_SAYS_3,…มาช้าไปหน่อยรึเปล่านะ…?
+HALOWEEN_SOHEE_SAYS_4,ดูแปลกๆ มั้ยนะ…?
+HALOWEEN_SOHEE_SAYS_5,ท่านี้ฮงชีเป็นคนสอนนะ
+HALOWEEN_SOHEE_SAYS_6,ย๊าาา!
+HALOWEEN_SOHEE_SAYS_7,…ทำไมไม่ปิดหน้าจอล่ะ…?
+HALOWEEN_SOHEE_SAYS_8,…รู้สึกเขินขึ้นมาซะงั้น…
+HALOWEEN_SOHEE_SAYS_9,แบบนี้เรียกว่า… easter egg รึเปล่านะ?
+NAME/TEAM_106,
+HELP_DEUCE,ดิวซ์
+HELP_DEUCE_DESCRIPTION,ดิวซ์เกิดขึ้นเมื่อทั้งสองทีมมีคะแนนเท่ากันก่อนถึงคะแนนชัยชนะที่กำหนดไว้ และทีมหนึ่งต้องนำอีกทีม 2 คะแนนจึงจะชนะได้ ภายในเกมสามารถมีคะแนนได้สูงสุด 50 คะแนน
+HELP_SLIDING_BASIC,สไลด์
+HELP_SLIDING_BASIC_DESCRIPTION,สไลด์สามารถรับลูกได้โดยไม่ใช้สตามินา#แม้จะเป็นการป้องกันที่มั่นคง แต่ต้องอาศัยจังหวะและการคาดการณ์จุดตกของลูกอย่างแม่นยำ#อย่างไรก็ตาม หากพลังเจาะสไลด์ของฝ่ายตรงข้ามมีค่า 30 ขึ้นไป ลูกจะกระเด็นแรงแม้ขณะใช้สไลด์#สามารถลดผลกระทบนี้ได้ด้วยพลังตั้งรับและความต้านทานสไลด์
+HELP_SLIDING_RESISTANCE,ความต้านทานสไลด์
+HELP_SLIDING_RESISTANCE_DESCRIPTION,ความต้านทานสไลด์หักล้างพลังเจาะสไลด์ของคู่แข่ง#ยิ่งแรลลียาวนาน ความต้านทานสไลด์ก็ยิ่งลดลง โดยมีผลเสมือนพลังเจาะสไลด์ของลูกตบคู่แข่งเพิ่มขึ้นเท่ากับค่าที่ลดลง
+HELP_SLIDING_ENDURANCE,ความคงทนของสไลด์
+HELP_SLIDING_ENDURANCE_DESCRIPTION,ยิ่งค่าความคงทนของสไลด์สูง ความต้านทานสไลด์จะลดลงช้าลงระหว่างการโต้บอล
+HELP_SLIDING_PENETRATION,พลังเจาะสไลด์
+HELP_SLIDING_PENETRATION_DESCRIPTION,ยิ่งพลังเจาะสไลด์สูง ลูกจะกระเด็นไกลขึ้นเมื่อฝ่ายตรงข้ามใช้สไลด์ ทำให้ป้องกันได้ยากขึ้น
+HELP_BLOCKING_RESISTANCE,พลังป้องกันขณะบล็อก
+HELP_BLOCKING_RESISTANCE_DESCRIPTION,พลังป้องกันขณะบล็อกหักล้างพลังทะลุบล็อกของฝ่ายตรงข้าม ยิ่งพลังป้องกันสูง พลังของลูกหลังการบล็อกวันทัชจะยิ่งลดลงมากขึ้น#ยิ่งแรลลียาวนาน พลังป้องกันขณะบล็อกจะยิ่งลดลง โดยมีผลเสมือนพลังทะลุบล็อกของลูกตบฝ่ายตรงข้ามเพิ่มขึ้นเท่ากับค่าที่ลดลง
+HELP_BLOCKING_ENDURANCE,ความทนทานในการบล็อก
+HELP_BLOCKING_ENDURANCE_DESCRIPTION,ยิ่งความทนทานในการบล็อกสูง พลังป้องกันขณะบล็อกจะยิ่งลดลงช้าลงแม้แรลลีจะยาวนาน
+HELP_BLOCKING_PENETRATION,พลังทะลุบล็อก
+HELP_BLOCKING_PENETRATION_DESCRIPTION,ยิ่งพลังทะลุบล็อกสูง ลูกจะยิ่งกระเด้งเร็วขึ้นเมื่อถูกบล็อกวันทัช ทำให้ป้องกันได้ยากขึ้น
+11/1~ 비스트스파이커,
+BEAST_SPIKER,ตัวตบสัตว์ร้าย
+BEAST_SPIKER_DESC,ในช่วงกิจกรรม Beast Spiker คุณสามารถเข้าร่วมการต่อสู้ระหว่างฝ่ายและได้รับเหรียญสัตว์ร้าย ใช้เหรียญสัตว์ร้ายเพื่อแลกไอเทมในร้านค้ากิจกรรมและรับสมัครผู้เล่น Beast Spiker
+END,สิ้นสุด
+RESET_IN,รีเซ็ตใน {n1}
+ABILITY/CARD/NAME_76,สไปค์กลางอากาศสูง
+ABILITY/CARD/DES_76,เมื่อจุดตบสูงตั้งแต่ {n1} เมตรขึ้นไป พลังบอลจะเพิ่มขึ้น {n2}
+ABILITY/CARD/NAME_77,บล็อกกิ้งเบิสเตอร์
+ABILITY/CARD/DES_77,เมื่อจะตบ จะใช้ท่าชาร์จพลังของรยูฮยอน#ไม่มีผลกับนักกีฬาที่ใช้วิธีตบแบบพิเศษ
+ABILITY/CARD/DES_77_1,เมื่อชาร์จเต็ม จะทะลุบล็อกได้
+ABILITY/CARD/NAME_78,วันอาทิตย์
+ABILITY/CARD/NAME_79,นักสู้คลุ้มคลั่ง
+ABILITY/CARD/DES_79,ทุกครั้งที่สไปค์จะได้รับ {STR} +{n1}# (สูงสุด {STR} +{n2})
+ABILITY/CARD/NAME_80,สภาวะไวต่อสิ่งกระตุ้น
+ABILITY/CARD/DES_80,เพิ่มประสิทธิภาพค่าสถานะในสภาวะ {n1} เป็น {n2} เท่า
+ABILITY/CARD/NAME_81,สไปค์คริติคอล
+ABILITY/CARD/DES_81,เมื่อตบได้แม่นยำ มีโอกาส {n1}% ที่จะได้รับ {STR} +{n2} ชั่วคราว
+ABILITY/CARD/NAME_82,โจ๊กเกอร์
+ABILITY/CARD/DES_82,"เมื่อเริ่มแรลลี่แต่ละครั้ง {STR} และ {JMP} จะเพิ่มขึ้นชั่วคราวด้วยค่าที่สุ่มกำหนด#{STR} {n1}~{n2}, {JMP} {n3}~{n4}"
+ABILITY/CARD/NAME_83,หัวใจของเลออน
+ABILITY/CARD/DES_83,เมื่อตบบอลจากนอกคอร์ต พลังลูกบอลจะเพิ่มขึ้น {n1}%
+ABILITY/CARD/NAME_84,เจตจำนงอันไม่ย่อท้อ
+ABILITY/CARD/DES_84,เมื่อทำ Counter Receive ความเสียหายจากการตัดสิน MISSED และ BAD จะลดลง {n1}%
+ABILITY/CARD/NAME_85,ซูเปอร์สไลเดอร์
+ABILITY/CARD/DES_85,ลดความเสียหายจากการสไลด์ {n1}%#เพิ่มความเร็วในการลุกขึ้นหลังการสไลด์ {n2}%
+ABILITY/CARD/DES_86,เพิ่มความเร็วในการเตรียมบล็อก {n1}%#เมื่อบล็อก มีโอกาส {n2}% ที่จะใช้ตั้งรับสุดชีวิต
+ABILITY/CARD/NAME_87,ร่างกายที่แข็งแรง
+ABILITY/CARD/DES_87,เพิ่มพลังชีวิตสูงสุดของทีมอย่างถาวร {n1}
+ABILITY/CARD/NAME_88,พี่น้องคิง
+ABILITY/CARD/DES_88,ส่วนสูงเพิ่มขึ้น {n1} ซม.
+ABILITY/CARD/NAME_89,รับบอลนำโชค
+ABILITY/CARD/DES_89,เมื่อรับลูก จะมีโอกาส {n1}% ในการใช้งาน Perfect Receive
+ABILITY/CARD/NAME_90,รับบอลฟื้นฟู
+ABILITY/CARD/DES_90,เมื่อ Perfect Receive เกิดขึ้น จะฟื้นฟูพลังชีวิตทีม {n1} หน่วย
+ABILITY/CARD/DES_91,เพิ่มความเร็วการเคลื่อนที่กลางอากาศ {n1}%
+ABILITY/CARD/DES_92,ระยะสไลด์เพิ่มขึ้น {n1}%
+NAME/TEAM_103,บลูสเปียร์ส
+NAME/TEAM_104,อีเทอร์นัลสตาร์ส
+NAME/TEAM_105,แฟนทัมเวฟส์
+MASTERY,ความชำนาญ
+MAX_MASTERY_ACHIEVED,บรรลุความชำนาญสูงสุด!
+CURRENTLY_MAX_MASTERY,คุณได้ถึงระดับความชำนาญสูงสุดในขณะนี้แล้ว
+MASTERY_ACHIEVEMENT_ANNOUNCE,เคลียร์ทุกความท้าทายเพื่อรับรางวัลความชำนาญ
+CAN_CLAIM_MASTERY,สามารถรับรางวัลความชำนาญได้!
+MASTERY_REWARD,รางวัลความสำเร็จ [{0}]
+MASTERY_REWARD_LOAD_ERROR,ข้อผิดพลาด! ไม่สามารถโหลดข้อมูลความชำนาญของผู้เล่นได้!
+MASTERY/UNKNOWN,ระดับความชำนาญที่ไม่มีอยู่
+MASTERY/ROOKIE,มือใหม่
+MASTERY/VETERAN,ผู้มีประสบการณ์
+MASTERY/ELITE,ระดับยอดฝีมือ
+MASTERY/LEGEND,ตำนาน
+MASTERY/CHAMPION,แชมเปียน
+MASTERY_ACH/SnowRaidScore,ทำแต้มใน Snow Raid
+MASTERY_ACH/ColosseumScore,ทำแต้มในโคลอสเซียม
+MASTERY_ACH/TournamentScore,ทำแต้มในทัวร์นาเมนต์
+CAMP,ฝ่าย
+SELECT_CAMP_TITLE,เลือกฝ่าย
+CAMP_BATTLE,การต่อสู้ระหว่างฝ่าย
+CAMP_BATTLE_HISTORY,ประวัติ
+ROUND,รอบ
+CAMP_MY,ฝ่ายของฉัน
+CAMP_WIN,ฝ่ายที่ชนะ
+CAMP_LOSE,ฝ่ายที่แพ้
+CAMP_CONTRIBUTION_POINT,สถานะคะแนนฝ่าย
+CONTRIBUTION_POINT,ค่าการมีส่วนร่วม
+REWARD_WIN,รางวัลชัยชนะ
+REWARD_LOSE,รางวัลความพ่ายแพ้
+CAMP_EXPIRED,สิ้นสุด
+ROUND_NOT_WORKING_YET,รอบก่อนเริ่ม
+ROUND_WORKING,รอบที่ {0} กำลังดำเนินอยู่
+CAMP_WEEK,ศึกระหว่างฝ่าย รอบที่ {0}
+BSP_VOUCHER,ตั๋วค่าการมีส่วนร่วมเพิ่มเติม
+BSP_VOUCHER_DESC,การใช้จะเพิ่มขีดจำกัดค่าการมีส่วนร่วมรายวันขึ้น 10 คะแนน ขีดจำกัดที่เพิ่มจะถูกรีเซ็ตในวันถัดไป สามารถซื้อได้วันละครั้งเท่านั้น
+DAILY_CONTRIBUTION_POINT,ค่าการมีส่วนร่วมรายวัน
+DAILY_CONTRIBUTION_POINT_REWARD,รางวัลค่าการมีส่วนร่วมรายวัน
+DAILY_CONTRIBUTION_POINT_REWARD_DES,รางวัลค่าการมีส่วนร่วมรายวันจะมอบให้ทุก ๆ 10 คะแนนค่าการมีส่วนร่วม #การใช้ ‘ตั๋วค่าการมีส่วนร่วมเพิ่มเติม’ จะเพิ่มขีดจำกัดรายวันขึ้นอีก 10 คะแนน
+PLAY_REWARD,รางวัลการแข่งขัน
+PLAY_REWARD_DES,นี่คือรางวัลที่มอบทันทีเมื่อคุณชนะการแข่งขัน
+SHOW_CARD_DETAIL_INFO,ดูรายละเอียด
+BSP_CARD_DRAW_DES,เมื่อเข้าร่วมฝ่าย คุณสามารถเลือกสกิลได้วันละ 2 สกิลระหว่างรอบ สูงสุด 10 ครั้งต่อรอบ#การเลือกสกิลซ้ำจะเพิ่มเลเวลของสกิลนั้น และผลจะคงอยู่ตลอดรอบ
+LEVEL,ระดับ
+SELECT_CAMP,คุณต้องการเลือกฝ่าย {0} หรือไม่?
+CAMP_SIWOO,White Storms
+CAMP_RAUL,อินเฟอร์โน เนโร
+CAMP_NOT_JOIN,ไม่เข้าร่วม
+NOT_ENOUGH_CONTRIBUTION_POINT,ไม่สามารถรับรางวัลได้เนื่องจากคุณไม่ถึงค่าการมีส่วนร่วมขั้นต่ำส่วนบุคคล
+PLEASE_SELECT_CAMP,โปรดเลือกฝ่าย
+PLEASE_SELECT_CARD,กรุณาเลือกสกิลรอบ
+EXTRA_POINT_TICKET_INFO,การใช้ตั๋วเพิ่มค่าการมีส่วนร่วมจะเพิ่มขีดจำกัดค่าการมีส่วนร่วมรายวันขึ้น 10 คะแนน##แม้ไม่ใช้ก็ยังสามารถเล่นต่อได้
+USE,ใช้
+CAMP_CARD_COLLECTION,คลังสกิลรอบ
+INGAME_DIAL_RAUL_SITUATION_01,.... ....
+INGAME_DIAL_RAUL_SITUATION_02,…ก็พอสนุกดี ศักยภาพของแกฉันยอมรับ
+INGAME_DIAL_RAUL_SITUATION_03,แต่เกมสนุก ๆ ของแกจบแค่นี้แหละ
+CAMP_BATTLE_NOW_STAT,สถานะศึกชิงฝ่าย
+CAMP_BATTLE_INFO,ข้อมูลศึกชิงฝ่าย
+INGAME/SETUP/NAME_13,การรุกและรับเป็นหนึ่งเดียว
+INGAME/SETUP/DESC_05,ความเร็วการชาร์จของ ราอุล เพิ่มขึ้น {0}%
+INGAME/SETUP/NAME_14,ดอกมังกร
+INGAME/SETUP/NAME_15,ความแข็งแกร่งที่มั่นคง
+INGAME/SETUP/NAME_16,โคลอสเซียมไวลด์
+INGAME/SETUP/NAME_17,อีคลิปส์
+INGAME/SETUP/NAME_18,วิญญาณสปาร์ตัน
+INGAME/SETUP/NAME_19,การโต้คลื่น
+INGAME/SETUP/NAME_20,เปลวไฟแห่งเหวลึก
+MY_ROUND_SKILL,สกิลรอบที่ฉันมี
+CAMP_SIWOO_DESC,White Storms จะลงแข่งขันกับ อินเฟอร์โน เนโร
+CAMP_RAUL_DESC,อินเฟอร์โน เนโร จะลงแข่งขันกับ White Storms.
+COMMON/BOTTOM,ด้านล่าง
+COMMON/MIDDLE,ตรงกลาง
+COMMON/TOP,ด้านบน
+SCORING_UI,UI ทำคะแนน
+SCORING_UI/DES,ตั้งค่า UI ที่แสดงเมื่อทำคะแนน
+SCORING_MASTERY_UI,UI ทำคะแนนความชำนาญ
+SCORING_MASTERY_UI/DES,แสดงเอฟเฟกต์การทำคะแนนพิเศษของผู้เล่นที่มีความชำนาญ
+SCORED_ALERT,ได้แต้ม
+SCORED_ALERT2,{0} ได้แต้ม
+SCORE_CATEGORY,คะแนน
+SETTING/PREFERENCE/SPIKE_CINEMATIC,เอฟเฟกต์ภาพสไปค์
+SETTING/PREFERENCE/SPIKE_CINEMATIC/DES,เปิดใช้งานการเปลี่ยนมุมกล้องทันทีและสโลว์โมชั่นระหว่างการสไปค์
+NO_ENOUGH_CONTRIBUTION,ค่าการมีส่วนร่วมส่วนบุคคลไม่เพียงพอ
+SIF/LINE,เธอเก่งนะ แต่รุ่นพี่น่ะ เก่งกว่าเป็นหลายเท่า
+SIF/NICKNAME,เซตเตอร์ที่เก่งที่สุดของ Phantom League
+CLAIRE/LINE,ขอโทษนะ แต่ระดับของเรามันต่างกันคนละโลก
+CLAIRE/NICKNAME,อันดับ 2 ของ Phantom League
+NEED_POINT,ต้องมีคะแนนการมีส่วนร่วมของรอบอย่างน้อย {0} คะแนน เพื่อรับรางวัลประจำสัปดาห์
+NOT_YET,ก่อนเริ่มต้น
+INGAME_DIAL_ALLSTAR_SITUATION_01,แฮ่กแฮ่ก... หายใจ...
+INGAME_DIAL_ALLSTAR_SITUATION_02,ชีอู!! ทำไมสีหน้านายถึงเป็นแบบนั้น...!
+INGAME_DIAL_ALLSTAR_SITUATION_03,แบคชีอู!!
+INGAME_DIAL_ALLSTAR_SITUATION_04,...นี่มันอาการหายใจเร็วเกินหรือเปล่า! ฝืนตัวเองมากเกินไปงั้นเหรอ?
+INGAME_DIAL_ALLSTAR_SITUATION_05,ตั้งแต่แรกฉันก็รู้สึกว่ามันไม่ปกติ.. #ซีโร่! ต้องรีบเปลี่ยนตัว แบคชีอู เดี๋ยวนี้!
+INGAME_DIAL_ALLSTAR_SITUATION_06,กำลังสนุกอยู่พอดี นั่นมันอะไรกันนะ แบคชีอู?
+INGAME_DIAL_ALLSTAR_SITUATION_07,…ช่างมันเถอะ ตั้งแต่แรกฉันไม่เคยหวังอะไรจากพวกไร้ฝีมือแบบแกอยู่แล้ว
+INGAME_DIAL_ALLSTAR_SITUATION_08,ขยะที่ไม่มีประโยชน์ต่อทีมอย่างแก รีบออกไปจากคอร์ตซะ
+INGAME_DIAL_ALLSTAR_SITUATION_09,แล้วก็ดูทีมของแกโดนยำเละไปซะ
+INGAME_DIAL_ALLSTAR_SITUATION_10,ขารู้สึกหนักเหลือเกิน…
+INGAME_DIAL_ALLSTAR_SITUATION_11,นี่คือขีดจำกัดของฉันจริง ๆ เหรอ?
+INGAME_DIAL_ALLSTAR_SITUATION_12,แต่ฉันยังล้มตรงนี้ไม่ได้…
+UNDERDOG_BONUS,โบนัสทีมรองบ่อน
+UNDERDOG_BONUS_DES_4,โบนัสทีมรองบ่อนจะเริ่มทำงานตั้งแต่วันที่ {0} ของรอบ
+UNDERDOG_BONUS_DES,ทีมที่มีคะแนนฝ่ายต่ำกว่าอาจได้รับผลโบนัสทีมรองบ่อน โดยขึ้นอยู่กับผลต่างคะแนนฝ่าย
+UNDERDOG_BONUS_DES_1,เมื่อได้รับค่าการมีส่วนร่วม คะแนนฝ่ายที่มอบให้ฝ่ายของคุณจะเพิ่มขึ้น
+UNDERDOG_BONUS_DES_2,สถานะโบนัสทีมรองบ่อนจะอัปเดตตามผลลัพธ์ที่เผยแพร่ทุกชั่วโมง
+UNDERDOG_BONUS_DES_3,ความแตกต่างของคะแนนฝ่ายน้อยกว่า {0}%p: ใช้ค่าการมีส่วนร่วม x{1}
+UNDERDOG_BONUS_DES_5,ความแตกต่างของคะแนนฝ่าย {0}%p ขึ้นไป: ใช้ค่าการมีส่วนร่วม x{1}
+BUY_AFTER_PREMIUM_PASS,สามารถซื้อได้หลังจากซื้อ Premium Pass
+BSPCOIN_SHOP/ALERT1,แลกไอเทมกิจกรรมจำกัดเวลาด้วยเหรียญสัตว์ร้าย!
+BSP_EXCHANGE_SHOP,ร้านค้าเหรียญสัตว์ร้าย
+BSP_COIN,เหรียญสัตว์ร้าย
+BSP_COIN_DESC,เงินตรากิจกรรมที่สามารถใช้ได้ในระยะเวลากิจกรรม Beast Spiker#สามารถรับสมัครนักกีฬากิจกรรมได้#หากสิ้นสุดระยะเวลากิจกรรม จะสูญสลายไป
+BEAST_PLAYER_RECRUIT_TICKET,ตั๋วรับสมัครผู้เล่น Beast Spiker
+BEAST_PLAYER_RECRUIT_TICKET_DESC,ตั๋วรับสมัครที่สามารถใช้ได้ในช่วงเวลากิจกรรม#สามารถรับสมัครนักกีฬากิจกรรมได้#เมื่อสิ้นสุดกิจกรรม ตั๋วจะถูกแปลงเป็นตั๋วรับสมัครผู้เล่นทั่วไป
+CAMP_INTRO_DES_1,การแข่งขันออลสตาร์แห่งแฟนทอมลีกได้เปิดฉากขึ้นแล้ว#White Storms กำลังพุ่งทะยานบนเส้นทางล่าชัยชนะ โค่นล้มทีมแข็งแกร่งดั้งเดิมทีละทีม#และอีกฟากหนึ่งคือมหาอำนาจ อินเฟอร์โน เนโร ที่นำทัพโดยราอุล หนึ่งในห้านักตบที่แข็งแกร่งที่สุดในโลก#ณ วินาทีนี้ การแข่งขันที่จะชี้ชะตาของทั้งสองทีมได้เริ่มต้นขึ้น#ตอนนี้เหลือเพียงการตัดสินใจของคุณ##คุณจะเข้าร่วมทีมใดและลงสู่สนาม?
+WEEK,สัปดาห์ที่ {0}
+MASTERY_ACH_ALERT,จะบันทึกเฉพาะการแข่งขันที่คุณชนะเท่านั้นลงในความท้าทาย
+CHECK_CAMP_INFO,ต้องการดูข้อมูลศึกชิงฝ่ายหรือไม่?
+ALERT/WEEK_RESET,รอบปัจจุบันสิ้นสุดลงแล้ว
+NOW_APPLIED,กำลังใช้เอฟเฟกต์
+CAMP_BATTLE/PERCENTAGE_HIDED,รอการเผยแพร่
+CAMP_BATTLE/PERCENTAGE_NOTLOADED,กำลังรอการอัปเดตข้อมูล…
+CAMP_BATTLE/PERCENTAGE_LEFTTIME,สถานะคะแนนฝ่ายจะเปิดเผยใน: {0}
+CAMP_BATTLE/ROUND_LEFTTIME,จนกว่าจะสิ้นสุดรอบ: {0}
+CAMP_BATTLE/CHOOSE_CAMP,กรุณาเลือกฝ่าย
+CAMP_BATTLE/SEE_RECORD,ดูบันทึก
+,
+CAMP_BATTLE_DES,อีเวนต์สงครามฝ่ายเป็นโหมดแข่งขันประจำสัปดาห์ที่มีการเริ่มรอบใหม่ทุกสัปดาห์#เมื่อเริ่มรอบ คุณสามารถเลือกฝ่ายและเข้าร่วมการต่อสู้ของสัปดาห์นั้น##ระหว่างรอบ คุณสามารถเล่นได้ทุกวัน#และเลือกสกิลรอบวันละ 2 ครั้งเพื่อเสริมความแข็งแกร่งให้ผู้เล่นที่ควบคุม#ในหนึ่งรอบสามารถได้รับสกิลรอบสูงสุด 10 ครั้ง##คุณสามารถมีส่วนร่วมได้สูงสุด 10 แต้มต่อวัน#หากใช้ตั๋วเพิ่มส่วนร่วม จะสามารถมีส่วนร่วมได้สูงสุด 20 แต้มต่อวัน#ทุกครั้งที่ถึง 10 แต้ม จะได้รับรางวัลตามที่กำหนด##เมื่อจบรอบ#จะเปรียบเทียบคะแนนฝ่ายของทั้งสองฝ่าย และฝ่ายที่มีคะแนนสูงกว่าจะเป็นผู้ชนะ#ฝ่ายที่ชนะจะได้รับรางวัลเพิ่มเติม
+CAMP_BATTLE/CHOOSE_CAMP,เลือก '{0}'
+CAMP_POINT_UPDATE,สถานะคะแนนฝ่ายจะอัปเดตทุก ๆ 1 ชั่วโมง
+MASTERY/ACHIEVED,สำเร็จ “{0}”!
+BSP_LOGIN_BONUS,พาสเช็กชื่อตัวตบสัตว์ร้าย
+PARTICIPATING,กำลังเข้าร่วม
+UNDERDOG,ทีมรองบ่อน
+ALERT/PLZ_LOAD_AGAIN,ไม่สามารถโหลดข้อมูลจากเซิร์ฟเวอร์ได้#โปรดลองอีกครั้ง
+ALERT/GO_BACK_SCREEN,ต้องการกลับไปยังหน้าก่อนหน้าหรือไม่？
+INGAME/MY_ROUND_SKILLS,สกิลรอบที่ฉันมี
+CAMP_WAIT_3MIN,กรุณารอสักครู่ กำลังอัปเดตข้อมูลรางวัล
+WHATS_ROUND_SKILL,สกิลรอบคืออะไร?
+ROUND_SKILL_INFO,แตะที่สกิลรอบเพื่อดูรายละเอียด!
+TIME_DAY,{0}วัน
+TIME_HOUR,{0}ชม.
+TIME_MINUTE,{0}นาที
+TIME_SECOND,{0}วิ
+TIME_MONTH,{0} เดือน
+SYSTEM/ERROR_VERSION,เวอร์ชันปัจจุบัน ({0}) ไม่สามารถใช้งานได้ โปรดอัปเดตเกม
+COMMON/ROUND_SKILL_FACTION_ONLY,จะปรากฏขึ้นเมื่ออยู่ในฝ่าย {0} เท่านั้น
+UI/HIDE_REMOTE,ซ่อนแผง
+UI/VIEW_MODE,โหมดชม
+UI/CHAT_LOG,ประวัติบทสนทนา
+UI/NO_CHAT_LOG,ไม่มีประวัติบทสนทนา
+12/10~ 윈터 홀리데이,
+XMAS,วันหยุดฤดูหนาว
+UI/SKIN_INFO,สามารถเปลี่ยนสกินได้ในแท็บจัดการนักกีฬา องค์ประกอบบางอย่างและคุณสมบัติเฉพาะอาจเปลี่ยนแปลง
+PLAYER/LISIA/SKIN/RUDOLPH,รูดอล์ฟ
+PLAYER/LISIA/SKIN/RUDOLPH/DES,ลิเซียที่กำลังวิ่งถือกล่องของขวัญอยู่ เหลือบเห็นที่คาดผมรูดอล์ฟซึ่งจัดแสดงอยู่หลังตู้กระจกของร้านพร็อพ จึงซื้อมาใส่ทันทีโดยไม่ลังเล และในชั่วขณะนั้น ความน่ารักก็เพิ่มขึ้นเป็นสองเท่า ซึ่งถือเป็นทฤษฎีที่ได้รับการยอมรับในวงวิชาการ.
+SKIN_NEED_PLAYER,หากต้องการใช้สกินผู้เล่น ต้องเป็นเจ้าของผู้เล่นคนนั้นก่อน
+NAME/TEAM_106,แฟนทอม จูเนียร์
+NAME/TEAM_107,ทีมเอลเลแกนซ์
+NAME/TEAM_108,ทีมโปรเตซิโอเน
+NAME/TEAM_109,เทศกาลมังกรสีน้ำเงิน
+NAME/TEAM_110,ไทนี่ แคคตัส
+PHANTOM_LEAGUE_TIP_27,พลังบุกและพลังกระโดดของผู้เล่นทั้งหมดเพิ่มขึ้น
+LISIA_SKIN_SKYSERVE_DESC,*จริง ๆ แล้วห้ามเสิร์ฟด้วยสองมือนะ... แต่ก็ไม่มีใครกล้าทักลิเซียที่ยิ้มซะขนาดนั้น~
+PRODUCT/EXCLUDE_HAIR_SHOES,ไม่รวมทรงผมและรองเท้า
+12/25~ 타이거아이즈,
+TIGER_EYES_VOUCHER_DESC_3,คุณไม่มีตั๋วเข้าเพิ่ม ต้องการซื้อหรือไม่?
+TIGER_EYES_VOUCHER_DESC_4,ไม่มีตั๋วเข้าเพิ่มที่สามารถใช้ได้
+KMK_CHANGE_DIFFICULTY_DES,ระดับความยากที่เลือก: {0}#ต้องการเลือกความยากนี้หรือไม่?
+KMK_CHANGE_DIFFICULTY_RESET_STAGE,ระดับความยากที่เลือก: {0}#การเปลี่ยนจะคงการ์ด 2 ใบแรกที่คุณเลือกไว้ แต่จะรีเซ็ตความคืบหน้าด่าน#ต้องการดำเนินการต่อหรือไม่?
+KMK_ENTER_GAME_TICKET_DES,ซื้อบัตรเข้าเพิ่มและรับรางวัลหลังจากชนะการแข่งขัน!
+KMK_SELECT_DIFFICULTY_DES,ระดับความยากที่เลือก
+KMK_SELECT_CARD_COMPLETE_DES,เลือกการ์ดสำหรับด่าน {0} เสร็จสิ้นแล้ว
+KMK_PLAYING_DES_2,ด่านกำลังดำเนิน
+KMK_PLAYING_DES,ด่านกำลังดำเนิน – การ์ดถูกล็อกแล้ว
+KMK_STAGE_1_TITLE,แชลเลนจ์ง่าย
+KMK_STAGE_2_TITLE,แชลเลนจ์ปกติ
+KMK_STAGE_3_TITLE,แชลเลนจ์ยาก
+KMK_SELECT_CARD_TITLE,กรุณาเลือกการ์ด 2 ใบ
+KMK_SELECT_CARD_DES,เมื่อยืนยันการ์ดแล้ว การแข่งขันจะเริ่มด้วยการ์ดที่เลือก
+CARD_CONFIRM,ยืนยันการ์ด
+CARD_STOP,หยุด
+KMK_NO_SELECT_DIFFICULTY_DES,สามารถเข้าได้หลังจากเลือกความยากแล้ว
+KMK_NO_SELECT_CARD_DES,ยังไม่ได้เลือกการ์ด#เลือกการ์ดแล้วเอาชนะการแข่งขันให้ได้!
+SELECTING_CARD,กำลังเลือกการ์ดสำหรับด่าน {0}
+SELECT_CARD_COMPLETE,เลือกการ์ดสำหรับด่าน {0} เสร็จสิ้นแล้ว
+ENTER_STAGE,เข้าสู่การแข่งขันด่าน {0}
+WIN_STAGE,ชนะการแข่งขันด่าน {0}
+,
+COLOSSEUM/CARD/NAME_93,ทะลุขีดจำกัด
+COLOSSEUM/CARD/DES_93,หลังจากกระโดด จะสูญเสีย {n1}% ของสตามินาของทีมที่เหลืออยู่ และเปลี่ยนค่านั้นเป็น {STR} ตลอดแรลลี่นี้
+COLOSSEUM/CARD/NAME_94,รับลูกโอกาส
+COLOSSEUM/CARD/DES_94,หลังจากรับบอล หากเพื่อนร่วมทีมคนอื่นสัมผัสเป็นครั้งที่สอง จะฟื้นฟูสตามินาของทีม {n1} และสร้าง ฟรีบอล
+COLOSSEUM/CARD/NAME_95,เรดสไปรต์
+COLOSSEUM/CARD/DES_95,{JMP} ถูกกำหนดเป็น {n1}
+COLOSSEUM/CARD/NAME_96,เวลาน้ำชา
+COLOSSEUM/CARD/DES_96,เอฟเฟกต์ฟื้นฟูสตามินาของทีมทั้งหมดเพิ่มขึ้น {n1}%
+COMMON/SHOP_OR_CHANGE_SOMETIMES,บางครั้งสามารถรับได้จากร้านแลกเปลี่ยนหรือร้านค้า
+COMMON/NO_MATCH_REWARD,ไม่มีรางวัลการแข่งขัน.
+COIN_SHOP,ร้านค้าเหรียญ
+TIGER_EYES,ไทเกอร์อายส์
+TIGER_EYES_DESC,ทุกวันสามารถเลือกเล่นแมตช์กิจกรรมในระดับ ง่าย / ปกติ / ยาก ได้ตามต้องการ#ทุกแมตช์ใช้ระบบ 12 คะแนน และแต่ละระดับประกอบด้วย 2 สเตจ#ก่อนเริ่มการแข่งขัน จะเลือกการ์ดความสามารถผ่านหน้าจอรูเล็ต#แต่ละสเตจจะได้รับการ์ดโคลอสเซียม 2 ใบ รวมทั้งหมด 4 ใบ#แม้เปลี่ยนระดับความยาก การ์ดที่เลือกไว้จะยังคงอยู่ และจะใช้การ์ดทั้ง 4 ใบในสเตจที่ 2
+TIGER_COIN,ไทเกอร์คอยน์
+TIGER_COIN_DESC,สกุลเงินกิจกรรมที่ใช้ได้ในช่วงกิจกรรม Tiger Eyes#ใช้สำหรับการรับสมัครผู้เล่นกิจกรรม#จะหายไปหลังจบกิจกรรม
+PICKUP_PLAYER_RECRUIT_TICKET,ตั๋วรับสมัครผู้เล่น พิกอัป
+PICKUP_PLAYER_RECRUIT_TICKET_DESC,คุณสามารถรับสมัครผู้เล่นได้จากหมวด 'พิกอัป' ในร้านรับสมัคร
+EV2601_NORMAL_PASS,พาสธรรมดา Tiger Eyes
+EV2601_NORMAL_PASS_DESC,รับไอเทมและทรัพยากรหลากหลายผ่านพาส
+EV2601_PREMIUM_PASS,พาสพรีเมียม Tiger Eyes
+EV2601_PREMIUM_PASS_DESC,พาสล็อกอินกิจกรรมขยายเพิ่ม 3 วัน และปลดล็อก Premium Pass ที่รับชุดยูนิฟอร์มลิมิเต็ดและทรัพยากรจำนวนมาก
+EV2601_ROYAL_PASS,พาสรอยัล Tiger Eyes
+EV2601_ROYAL_PASS_DESC,ปลดล็อกพาสรอยัล ซึ่งเพิ่มระยะเวลาพาสเช็กชื่อกิจกรรมอีก 1 วัน พร้อมรับสกุลเงินจำนวนมาก สามารถซื้อได้หลังจากซื้อพาสพรีเมียม
+EV2601_PREMIUM_ROYAL_PASS,พาสพรีเมียม + รอยัล Tiger Eyes
+EV2601_PREMIUM_ROYAL_PASS_DESC,แพ็กเกจที่ปลดล็อกพาสพรีเมียมและพาสรอยัลพร้อมกัน
+TIGER_EYES_VOUCHER,บัตรเข้าเพิ่ม Tiger Eyes
+TIGER_EYES_VOUCHER_DESC,เข้าสู่การแข่งขันเพื่อรับรางวัลเคลียร์อีกหนึ่งครั้ง
+NAME/TEAM_110,ทีมปริศนา
+RECRUIT_TIGER_EYES_NISHIKAWA_TITLE,รับสมัครผู้เล่น แบล็คธันเดอร์ นิชิกาวะ
+RECRUIT_TIGER_EYES_NISHIKAWA_FIRST,การรับสมัครที่สามารถรับผู้เล่นหลากหลาย รวมถึงสกินแบล็คธันเดอร์ นิชิกาวะ และผู้เล่นนิชิกาวะ
+RECRUIT_TIGER_EYES_HONGSI_TITLE,รับสมัครผู้เล่น เมด ฮงชี
+RECRUIT_TIGER_EYES_HONGSI_FIRST,การรับสมัครที่สามารถรับผู้เล่นหลากหลาย รวมถึงสกินเมด ฮงชี และผู้เล่นฮงชี
+RECRUIT_TIGER_EYES_ISABEL_TITLE,รับสมัครผู้เล่น เวดดิ้งเดรส อิซาเบล
+RECRUIT_TIGER_EYES_ISABEL_FIRST,การรับสมัครที่สามารถรับผู้เล่นหลากหลาย รวมถึงสกินชุดเจ้าสาวอิซาเบล และผู้เล่นอิซาเบล
+RECRUIT_TIGER_EYES_JAEHYUN_TITLE,รับสมัครผู้เล่น เทรนนิ่ง นัมแจฮยอน
+RECRUIT_TIGER_EYES_JAEHYUN_FIRST,การรับสมัครที่สามารถรับผู้เล่นหลากหลาย รวมถึงนัมแจฮยอนและสกินเทรนนิ่งของเขา
+TIGEREYESCOIN_SHOP/ALERT1,แลกเปลี่ยนไอเทมลิมิเต็ดในช่วงกิจกรรม Tiger Eyes!
+TIGER_EYES_EXCHANGE_SHOP,ร้านค้า Tiger Eyes
+PLAYER/HONGSI/SKIN/MAID,เมด
+TIGER_EYES_LOGIN_BONUS,พาสล็อกอิน Tiger Eyes
+TIP/BOSS/ALERT_22,เมื่ออิซาเบลรับสไปค์ จะฟื้นฟูสตามินาของทีม และเพิ่มค่าสถานะตามความแรงของสไปค์
+ZOOM_IN,ขยาย
+ZOOM_OUT,ย่อ
+PLAYER/HONGSI/MAID/PICKUP,เชิญเข้ามาเลย หนุ่มน้อย!
+EVENT_STORY,เนื้อเรื่องกิจกรรม
+EVENT_DETAIL_INFO,รายละเอียดกิจกรรม
+NO_DAILY_TICEKT_TO_BUY,ไม่สามารถซื้อได้ เนื่องจากเกินจำนวนครั้งการซื้อรายวัน
+TIGER_EYES_SIMPLE_INFO,ในช่วงกิจกรรม เคลียร์แมตช์กิจกรรมทุกวันเพื่อรับเหรียญ Tiger!#ใช้เหรียญ Tiger เพื่อรับผู้เล่นใหม่และไอเทมต่าง ๆ#แมตช์กิจกรรมประกอบด้วย 2 สเตจ#เลือกการ์ดความสามารถก่อนเริ่มสเตจเพื่อนำไปใช้ในการแข่งขัน
+NAME/TEAM_111,กรีน ฮันเตอร์
+NAME/TEAM_112,บลูเวล
+NAME/TEAM_113,แบล็กแบร์
+PLAYER/NISHIKAWA/BLACK_THUNDER/DES,เก่งงั้นเหรอ? งั้นพิสูจน์ให้ดูหน่อยสิ
+NORMAL_SCOUT_DES,คะแนนสเกาต์สามารถรับได้จากการสุ่มนักกีฬาทั่วไป#คุณสามารถรับคะแนนสเกาต์ {0} แต้มจากการสุ่มนี้
+PICKUP_PLAYER_SCOUT_POINT,คะแนนสเกาต์นักกีฬาพิกอัป
+PICKUP_PLAYER_SCOUT_POINT_DES_LEGACY,คุณสามารถรับนักกีฬาพิกอัปที่ต้องการได้แบบการันตีด้วยคะแนนสเกาต์นักกีฬาพิกอัป#สามารถรับได้จากการสุ่มนักกีฬาพิกอัป
+EVENT_SKIN_SCOUT_POINT,คะแนนสเกาต์สกินกิจกรรม
+EVENT_SKIN_SCOUT_POINT_DES,คุณสามารถรับสกินของนักกีฬาอีเวนต์ที่ต้องการได้แบบการันตีด้วยคะแนนสเกาต์สกินอีเวนต์#แต้มนี้จะหมดอายุเมื่ออีเวนต์สิ้นสุดลง
+DAILY_ENTER_DONE,ได้รับรางวัลประจำวันแล้ว ต้องใช้บัตรเข้าเพิ่มเติม
+USE_2,ใช้งาน
+CAN_NOT_BUY,ไม่สามารถซื้อได้
+SETTING/PREFERENCE/CAMERA_MOVEMENT,การเคลื่อนไหวของกล้อง
+SETTING/PREFERENCE/CAMERA_MOVEMENT/DES,ตั้งค่าสไตล์การเคลื่อนไหวของกล้อง
+CAMERA_STYLE/OPPONENT_TEAM,โฟกัสทีมคู่แข่ง
+SETTING/CAMERA_STYLE,กล้อง
+SETTING/EFFECT,การนำเสนอ
+01/23~ 한라의 신년맞이 출석 업데이트(02.13),
+INVENTORY,คลัง
+SORT_ORDER,จัดเรียง
+GROUP_BY_TYPE,กลุ่ม
+DATE_DESC,วันที่
+NAME_ASC,ชื่อ
+AMOUNT_DESC,จำนวน
+RANK_DESC,แรงก์
+PLAYER_CUSTOMIZING,ปรับแต่งผู้เล่น
+MAINSCREEN_CUSTOMIZING,ตั้งค่าหน้าจอหลัก
+PLAYER_SKIN,สกินผู้เล่น
+CARD_PACK,แพ็กการ์ด
+ITEM,ไอเทม
+CONSUMABLE,ไอเท็มใช้แล้วหมด
+ALERT/CONTENTS_RESET,ข้อมูลคอนเทนต์ที่กำลังเล่นถูกอัปเดตแล้ว กำลังกลับไปยังหน้าหลัก
+SIGNATURE_ILLUST,ภาพประกอบซิกเนเจอร์
+ALERT/DONT_KNOW_ERROR,ไม่สามารถโหลดข้อมูลได้เนื่องจากข้อผิดพลาดที่ไม่ทราบสาเหตุ
+EMPTY_INVENTORY,คุณยังไม่มีไอเทมนี้
+INVENTORY_BALL,สกินลูกวอลเลย์บอล
+SETTING/PREFERENCE/FRAME_RATE,อัตราเฟรมการแข่งขัน
+COMMON/FRAME_RATE,อัตราเฟรม
+GAMEPAD_INPUT_DISABLED,ไม่สามารถป้อนข้อความด้วยเกมแพดได้
+SETTING/PLAY/HAPTIC_INTENSITY,ความแรงของการสั่น
+SETTING/PLAY/HAPTIC_INTENSITY/DES,ปรับความแรงของการสั่นของอุปกรณ์
+LUNAR_NEW_YEAR,เช็กชื่อปีใหม่จันทรคติของฮันรา
+LUNAR_NEW_YEAR_LOGIN_PASS,อีเวนต์เช็กชื่อปีใหม่จันทรคติของฮันรา
+PRODUCT/EXCLUDE_UNIFORM_SHOES,ไม่รวมยูนิฟอร์มและรองเท้า
+CHECK_IN_DAY_COMPLETE,เช็กชื่อครบ {0} วันแล้ว
+USAGE_PERIOD_EXPIRED,หมดระยะเวลาการใช้งานแล้ว
+SETTING/PREFERENCE/FRAME_RATE/DES,ตั้งค่าอัตราเฟรมในระหว่างการแข่งขัน แนะนำ 60 fps หรือต่ำกว่าสำหรับอุปกรณ์สเปกต่ำ
+SETTING/PREFERENCE/VARIABLE_FRAME_RATE,อนุญาตอัตราเฟรมผันแปร
+SETTING/PREFERENCE/VARIABLE_FRAME_RATE/DES,หากไม่สามารถรักษาอัตราเฟรมเป้าหมายได้อย่างเสถียร หรือเกิด fps ตก แนะนำให้เปิดตัวเลือกนี้
+WARNING/VARIABLE_FRAME_RATE_DES_01,อัตราเฟรมถูกจำกัดโดยการตั้งค่าอุปกรณ์ (เช่น โหมดประหยัดพลังงาน) และถูกล็อกไว้ที่ {0} fps
+WARNING/VARIABLE_FRAME_RATE_DES_02,โปรดตรวจสอบโหมดประหยัดพลังงาน/การเพิ่มประสิทธิภาพแบตเตอรี่/การตั้งค่าอัตรารีเฟรช
+WARNING/VARIABLE_FRAME_RATE_DES_03,อัตราเฟรมไม่เสถียร แนะนำให้ลดอัตราเฟรมเป้าหมายหรือเปิดใช้งานอัตราเฟรมผันแปร
+WARNING/VARIABLE_FRAME_RATE_DES_04,อัตราเฟรมไม่เสถียร และจะเปลี่ยนเป็นอัตราเฟรมคงที่ โปรดตรวจสอบการตั้งค่า VSync
+COMMON/POPUP/GUIDE,คุณสามารถปรับค่าด้านบนและตรวจสอบค่าคาดการณ์ตามแต่ละขั้นตอนที่ด้านล่าง
+COMMON/HIGHEST,สูงสุด
+02/19~ 제로투원 업데이트(02.23),
+PLAYER/ZERO/SKIN/STREET_ARTIST,สตรีทอาร์ทิสต์
+PLAYER/ZERO/SKIN/STREET_ARTIST/DES,เดี๋ยวก่อน~ กำลังถ่ายอยู่นะ~!#วันหนึ่งขณะที่เขากำลังปวดหัวกับการพัฒนา Phantom League น้องสาวก็พุ่งเข้ามาโดยไม่ทันตั้งตัว ยังไม่ทันได้ถามอะไร ก็ถูกลากออกไป—เพื่อถ่ายวิดีโอสั้นด้วยกันงั้นเหรอ?!
+GRAFFITI_BALL,ราชาแห่งกราฟฟิตี้
+GRAFFITI_BALL/DES,ลูกบอลที่เซเรน่านำมาสำหรับถ่ายวิดีโอสั้น เต็มไปด้วยสไตล์ฉูดฉาดตามรสนิยมของเธอ.
+ZERO_TO_ONE_PASS_LOGIN_BONUS,กิจกรรมล็อกอิน Zero to One
+EV2603_PREMIUM_PASS,พรีเมียมพาส Zero to One
+EV2603_PREMIUM_PASS_DESC,พาสกิจกรรมล็อกอินขยายเพิ่มอีก 3 วัน และปลดล็อกพรีเมียมพาสเพื่อรับสกิน Street Artist Zero และรางวัลจำนวนมาก.
+EV2603_NORMAL_PASS,นอร์มัลพาส Zero to One
+EV2603_NORMAL_PASS_DESC,นี่คือพาสปกติที่เมื่อเช็กชื่อครบภายในระยะเวลาที่กำหนด คุณจะได้รับไอเทมและสกุลเงินหลากหลายชนิด
+EV2603_PREMIUM_PASS_2,Zero to One#พรีเมียมพาส
+EV2603_NORMAL_PASS_2,Zero to One#นอร์มัลพาส
+ZERO_TO_ONE_PASS,พาส Zero to One
+STREET_ARTIST_UNIFORM,สตรีทแวร์ Graffiti Idol
+STREET_ARTIST_UNIFORM/DES,ชุดของซีโร่ที่เซเรน่าตกแต่งในสไตล์ศิลปินกราฟฟิตี้อย่างสมบูรณ์แบบ แม้จะเต็มไปด้วยรสนิยมของน้องสาว แต่สำหรับ “ไอดอลบนสนาม” ในอนาคตแล้ว ไม่มีชุดไหนที่เขาใส่ไม่ได้ #เอาล่ะ การถ่ายทำพร้อมแล้ว ที่เหลือก็แค่ปล่อยเสน่ห์ออกมาให้เต็มที่!
+STREET_ARTIST_SHOES,บู๊ต Kickflip
+STREET_ARTIST_SHOES/DES,
+BGM_SANGHYEON_ON_AIR2_DESC,CHAPTER 4. #「ถ้าวอลเลย์บอลไม่ใช่ธุรกิจ แล้วจะเป็นอะไรได้อีกเล่า?」
+BGM_BAD_SANGHYEON2_DESC,CHAPTER 4. #「เพื่อหยาดเหงื่อที่เปล่งประกาย เพื่อช่วงเวลาอันเจิดจรัส!」
+PLAYER/LUCAS/PICKUP,ดูไว้เลย เดี๋ยวจะเอาเซ็ตนี้มาครอง
+PLAYER/ZERO/PICKUP,ฉันจะทำให้นายกลายเป็นซูเปอร์สตาร์
+02/23~ 윈드스파이커(03.26),
+APPLY_COSTUME_SHOP,ใช้ได้ในร้านค้าตกแต่ง
+APPLY_PLAYER_DETAIL,ใช้ได้ในหน้ารายละเอียดนักกีฬา
+CATEGORY,หมวดหมู่
+CUSTOMIZE_UNIFROM,ชุดยูนิฟอร์มปรับแต่งเองของผู้เล่น
+CUSTOMIZE_HAIR,ทรงผมปรับแต่งเองของผู้เล่น
+CUSTOMIZE_SHOES,รองเท้าปรับแต่งเองของผู้เล่น
+CUSTOMIZE_BALL,ลูกวอลเลย์บอลปรับแต่งเองของผู้เล่น
+CUSTOMIZE_PLAYER_SKIN,สกินผู้เล่น
+USAGE_PERIOD,ระยะเวลาที่ใช้ได้
+UNLIMITED,ไม่จำกัด
+NOW_APPLYING,ใช้งานอยู่
+CLEAR_APPLYING,ถอดออก
+CONTROL_PLAYER,ผู้เล่นที่ควบคุม
+FEVER_POINT,แต้มฟีเวอร์
+NAME/TEAM_114,ทีมสำรองแบล็คไลออนส์
+NAME/TEAM_115,แอชวิลล์ วีเซิลส์
+CLAIM_ACHIEVE_REWARD,รับรางวัลความสำเร็จ
+ACHIEVE_REWARD,รางวัลความสำเร็จ
+EV2604,กิจกรรม Wind Spiker
+EV2604_DESC,ภารกิจ 5 สัปดาห์ที่จัดโดยซาร่าและแอชวิลล์ วีเซิลส์! ทำภารกิจ 7 อย่างทุกสัปดาห์เพื่อรับวินด์คอยน์ # ทำภารกิจรายสัปดาห์ครบ 5 อย่างเพื่อรับโบนัสวินด์คอยน์!
+WEEKLY_MISSION,ภารกิจรายสัปดาห์
+INGAME/SETUP/NAME_21,ราชาแห่งความเร็ว
+INGAME/SETUP/NAME_22,อัลตรามารีน
+INGAME/SETUP/NAME_23,ดอกลิลลี่แห่งหุบเขา
+INGAME/SETUP/NAME_24,เซนเตอร์เอซ
+SARA_WS/LINE_PICKUP,แนวหลังปล่อยให้ฉันดูแลเอง
+SARA_WS/CHAPTER12_7,คุณราอุลในตอนนี้ ต่อให้ทำอย่างไรก็เอาชนะฉันไม่ได้หรอกค่ะ
+IRIS/NICKNAME,ทรราชผู้ใจดี
+IRIS/LINE_SHOW,ฟู่ โชคดีนะที่ทำเล็บมาเมื่อวาน...
+YURI/NICKNAME,ตัวป่วน
+YURI/LINE_SHOW,เฮ้~ อย่าปอดแหกสิ แบบนั้นถึงฉันชนะก็ไม่สนุกหรอก
+RAUL/LINE_SHOW,หุบปากไปซะ เจ้ามือใหม่ ฉันจะขยี้นายให้แหลกเลย
+WIND_SPIKER_LOGIN_BONUS,พาสล็อกอิน Wind Spiker
+EV2604_MISSION_1,คว้าแชมป์ {0} {1} สมัย
+EV2604_MISSION_2,เฉพาะในแมตช์ที่ชนะ ทำความเร็วสไปก์สะสมให้ถึง {0} กม./ชม.
+EV2604_MISSION_3,ทำคะแนนโดยคู่แข่งไม่ได้สัมผัสบอลสะสม {0} ครั้ง โดยนับเฉพาะแมตช์ที่ชนะ
+INGAME/DELETE_MAIN/CONTENTS_ALERT,ไม่สามารถปล่อยผู้เล่นที่เข้าร่วมคอนเทนต์อื่นได้
+NIGHTMARE_ARENA,ไนต์แมร์อารีน่า
+ARENA,อารีน่า
+TIME_LIMIT_REACHED,หมดเวลา
+RECRUIT_WIND_SPIKER_SARA_TITLE,สรรหาซาร่า
+RECRUIT_WIND_SPIKER_SARA_FIRST,สรรหาผู้เล่นหลากหลาย รวมถึงซาร่า
+RECRUIT_WIND_SPIKER_IRIS_TITLE,สรรหาไอริส
+RECRUIT_WIND_SPIKER_IRIS_FIRST,สรรหาผู้เล่นหลากหลาย รวมถึงไอริส
+RECRUIT_WIND_SPIKER_YURI_TITLE,สรรหายูริ
+RECRUIT_WIND_SPIKER_YURI_FIRST,สรรหาผู้เล่นหลากหลาย รวมถึงยูริ
+CLEAR_EVERY_MATCH,เคลียร์ทุกแมตช์ภายในเวลาที่กำหนดแล้วเอาชนะใน <color={0}>รอบ</color> นี้ให้ได้!
+CLEARED_ALL_STAGES,คุณเคลียร์ทุกสเตจแล้ว!
+TOTAL_POINTS,คะแนนรวม
+ARENA/NEXT_MATCH_SEN,สามารถกลับไปเล่นด่านที่ผ่านมาได้จนกว่าจะเข้าสู่รอบถัดไปหรือหมดเวลาที่กำหนด
+ARENA_CARD_DRAW_ADDITIONAL,จำนวนครั้งที่เลือกเศษเสี้ยวความฝัน +1
+ARENA_CARD_DRAW_ADDITIONAL_DESC,รับสิทธิ์เลือกเศษเสี้ยวความฝันเพิ่มเมื่อเริ่มรอบแรกในไนต์แมร์อารีน่า
+ARENA_CARD_PROBABILITY_UPGRADE,โอกาสเปิดใช้งานเศษเสี้ยวความฝัน+10%
+ARENA_CARD_PROBABILITY_UPGRADE_DESC,อัตราการทำงานของเศษเสี้ยวความฝันเพิ่มขึ้น 10% ในไนต์แมร์อารีน่า
+ROUND_RESET_TICKET,ตั๋วรีเซ็ตรอบ
+ROUND_RESET_TICKET_DESC,คุณสามารถท้าทายรอบใหม่อีกครั้งในไนต์แมร์อารีน่าได้
+ROUND_TIME_EXTENSION_TICKET,ตั๋วขยายเวลารอบ
+ROUND_TIME_EXTENSION_TICKET_DESC,คุณสามารถขยายเวลาจำกัดของรอบในไนต์แมร์อารีน่าได้
+ARENA_POINT,คะแนนอารีนา
+ARENA_POINT_DESC,แต้มที่ได้รับเมื่อเคลียร์อารีน่า จำนวนที่ได้รับจะเพิ่มขึ้นตามอันดับและความยาก และสามารถรับรางวัลได้ตามแต้มสะสม
+WEEKLY_BLUEFLAME_GET,รับบลูเฟลมรายสัปดาห์
+EXCHANGE_SHOP,ร้านแลกเปลี่ยน
+ARENA_POINT_SHOP,ร้านแลกคะแนนอารีนา
+BLUEFLAME_SHOP,ร้านแลกบลูเฟลม
+EV2604_ACHIEVEMENT_CLAIM_AFTER_WEEKLY,โปรดลองอีกครั้งหลังจากรับรางวัลภารกิจรายสัปดาห์แล้ว
+EV2604_ACHIEVEMENT_CLAIM_CONFIRM,รับรางวัลความสำเร็จหรือไม่?
+EV2604_EXCHANGE_SHOP,ร้านแลกเปลี่ยนวินด์คอยน์
+EV2604COIN_SHOP/ALERT1,แลกรับสินค้าจำกัดในช่วงระยะเวลากิจกรรมวินด์สไปเกอร์!
+BLUEFLAME_SHOP/ALERT1,แลกรับสินค้าที่หลากหลายด้วยบลูเฟลมที่ได้รับจากโคลอสเซียมและไนต์แมร์อารีน่า!
+ARENA_SHOP/ALERT1,แลกรับสินค้าที่หลากหลายด้วยแต้มอารีน่า!
+NAME/TEAM_116,ศิษย์เก่ามัธยมบุนดัง
+EV2604_COIN,วินด์คอยน์
+EV2604_COIN_DESC,สกุลเงินกิจกรรมที่ใช้ได้ในช่วงกิจกรรม Wind Spiker#ใช้สำหรับการรับสมัครผู้เล่นกิจกรรม#จะหายไปหลังจบกิจกรรม
+NAME/TEAM_117,ทีมโคลอสเซียม
+DREAM_SHARD,เศษเสี้ยวความฝัน
+ARENA_RULE,กฎอารีนา
+ARENA_RULE_DES_1,เล่นทั้งหมด 3 รอบ โดยแต่ละรอบประกอบด้วยการแข่งขันปกติ 3 แมตช์และบอส 1 แมตช์#เมื่อเริ่มรอบ ต้องชนะทุกแมตช์ภายใน 15 นาที และแรงก์สุดท้ายจะถูกกำหนดจากคะแนนสะสม#ระหว่างรอบ การหมุนเวียนของแมตช์ก่อนหน้าจะยังคงดำเนินต่อไป#เมื่อชนะบอสแล้ว สามารถเลือกแมตช์ใดก็ได้เพื่อท้าทายใหม่จนกว่าจะหมดเวลา
+CANNOT_CHANGE_DIFFICULTY,เมื่อเริ่มแล้ว จะไม่สามารถเปลี่ยนใหม่ได้จนกว่าการท้าทายจะสิ้นสุดลง
+ARENA_REWARD,รางวัลอารีน่า
+ROUND_REWARD,รางวัลรอบ
+ARENA_PLAYER_LIST,รายการรายชื่อผู้เล่นที่เข้าร่วม
+CHOOSE_ARENA_PLAYER,เลือกผู้เล่นที่จะลงทะเบียน
+LOAD_FROM_PRESET,โหลดพรีเซ็ต
+MY_DREAM_SHARD,เศษเสี้ยวความฝันที่ได้รับ
+ROUND_RANK,แรงค์รอบ
+NOW_TEAM,ทีมปัจจุบัน
+DIFFICULTY_MULTIPLIER,ตัวคูณความยาก
+RANK_MULTIPLIER,ตัวคูณแรงค์
+ROUND_END,จบรอบ
+CHALLENGE_WITH_THIS_DREAM_SHARD,เศษเสี้ยวความฝัน: {0}##ต้องการเลือกเศษเสี้ยวความฝันนี้หรือไม่?
+CHALLENGE_WITH_THIS_DIFFICULTY,ความยากที่เลือก: {0}##ต้องการท้าทายด้วยความยากนี้หรือไม่?
+ALERT/ARENA_EXTEND_TIME,ต้องการใช้ตั๋วเพื่อขยายเวลาของรอบหรือไม่?
+GIVE_UP,ยอมแพ้
+EXTEND_TIME,ขยายเวลา
+ALERT/ARENA_RESET_ROUND,ต้องการเริ่มใหม่ต่อจากจุดที่เคลียร์รอบล่าสุดหรือไม่?
+CONTINUE,เล่นต่อ
+NEW_GAME,เริ่มใหม่
+ARENA_COMPLETE,เคลียร์อารีน่า
+ARENA_PAGE_STATUS_ROUND_COMPLETED,รอบเสร็จสิ้น
+ARENA_REGISTER_PLAYER_POOL_CONFIRM,ต้องการลงทะเบียนเป็นผู้เล่นสำรองสำหรับอารีน่าหรือไม่?#จะไม่สามารถเปลี่ยนได้จนกว่าอารีน่าจะสิ้นสุดลง
+COMING_SOON,เร็วๆ นี้
+GO_TO_NEXT_ROUND,ท้าทายรอบถัดไป
+EV2604_FILTER_EXPIRED_REENTER,ภารกิจสัปดาห์ที่ {0} เริ่มแล้ว#โปรดเข้าใหม่จากหน้าหลัก
+EVENT_ENDED,กิจกรรมสิ้นสุดลงแล้ว
+PICKUP_EXPIRE_AT,รับสมัครได้ถึง {0}
+PICKUP_SALE_START,รับสมัครได้ตั้งแต่ {0}
+DREAM_SHARD_DES,แต่ละชิ้นส่วนมีเอฟเฟกต์เฉพาะที่ช่วยเสริมความแข็งแกร่งให้ทีม เมื่อเริ่มแต่ละสเตจ สามารถเลือกได้ 1 จาก 3 ตัวเลือก เมื่อได้รับเศษเสี้ยวความฝันซ้ำ ระดับจะเพิ่มขึ้นและเอฟเฟกต์จะแข็งแกร่งขึ้น
+ALERT/ARENA_TIME_OVER,หมดเวลาที่กำหนด ไม่สามารถลองด่านนี้อีกได้
+UNIT_AFFIX/MAX_USE_COUNT,{0} ครั้ง
+UNIT_AFFIX/CONDITION_TIME,{0} วินาที
+MAP_PRACTICE,โรงยิมโรงเรียน
+MAP_PROVINCIAL,สนามแข่งขันทัวร์นาเมนต์ระดับภูมิภาค
+MAP_BEACH,ซัมเมอร์ สแปลช
+MAP_TOURNAMENT,สนามแข่งขันทัวร์นาเมนต์ระดับประเทศ
+MAP_SUPERSTAR,ซูเปอร์สตาร์ชาเลนจ์
+MAP_COLOSSEO,วอลเลย์บอลโคลอสเซียม
+MAP_NISHIKAWA,คอร์ต วาเลนเทีย สไปค์ส
+MAP_MURIM,มัธยมซอนริม
+MAP_ROCKWELL,โรงยิมแคมป์ฤดูหนาวร็อกเวล
+MAP_SNOW,สถานที่ที่มีหิมะมาก
+MAP_BLIZZARD,แคมป์ฤดูหนาวร็อกเวล
+MAP_CITY,เมืองมืด
+MAP_PHANTOM,Phantom League
+MAP_BLUE_DRAGON_FESTIVAL,เทศกาลมังกรฟ้า
+MAP_KING_MAKER,Phantom League (เก่า)
+MAP_ARENA,ไนต์แมร์อารีน่า
+MAP_PHANTOM_STAGE,สถานที่แสดง ลีกแฟนธอม
+MAP_CHROMAKEY,โครมาคีย์
+WEEKLY_ARENA_POINT,รางวัลอารีน่ารายสัปดาห์
+WEEKLY_ARENA_POINT_DES,ทำอารีน่าเสร็จ รับรางวัลทันที
+ARENA_FAIL_TIME,คุณล้มเหลวในการท้าทาย เนื่องจากไม่สามารถผ่านทุกด่านของ <color={0}>รอบ</color> ภายในเวลาที่กำหนดได้
+ARENA_NEED_ROUND_COMPLETE,หมดเวลาที่กำหนดแล้ว โปรดจบ <color={0}>รอบ</color> และรับรางวัล
+ARENA_ASK_ROUND_COMPLETE,จบรอบและรับรางวัลหรือไม่?
+ARENA_ASK_ROUND_START,เริ่มรอบถัดไปหรือไม่?
+ARENA_PLAYER_RANDOM_SELECT,สุ่ม
+APPLIED_TARGETS,ใช้กับ {0} ของทีมเรา
+TERMS,ยอมรับเงื่อนไขการให้บริการของ SUNCYAN
+PRIVACY,ยินยอมให้เก็บรวบรวมและใช้ข้อมูลส่วนบุคคล
+AGREE_ALL,ยอมรับทั้งหมด
+NEED_AGREEMENT,กรุณายอมรับเงื่อนไข
+CHECK_DETAIL_REWARD,ดูรายละเอียดรางวัล
+EV2605_BANNER_TITLE,กิจกรรมครบรอบ 8 ปี!
+EV2605_BANNER_DESC,แข่งขันกับวง แฟนทอมส์ ที่ปรากฏตัวแบบเซอร์ไพรส์ในทัวร์นาเมนต์ และรับรางวัลชนะเลิศแบบจำกัดหลังจบการแข่งขัน
+NAME/TEAM_118,แฟนทอมส์
+PHANTOM_STAMP,ตราประทับ Phantoms
+PHANTOM_STAMP_DESC,ไอเทมที่สามารถได้รับจากการชนะการแข่งขันทัวร์นาเมนต์ที่ทีม แฟนทอมส์ บุกเข้ามาในช่วงกิจกรรมครบรอบ 8 ปี สามารถรับรางวัลต่าง ๆ ได้ตามจำนวนตราประทับที่สะสม
+PHANTOM_BAND_ENTER_CONFIRM_DES,"ทีม แฟนทอมส์ ได้บุกเข้ามา! คุณต้องการแข่งกับทีม แฟนทอมส์ หรือไม่? #ในการแข่งขันนี้ ทุกครั้งที่ทำได้ 2 คะแนน จะได้รับการ์ดความสามารถโคลอสเซียม 1 ใบ (สูงสุด 5 ใบ) #เมื่อชนะ คุณสามารถรับรางวัลแบบสุ่มพร้อมตราประทับได้ ##หากเลือก ""ทัวร์นาเมนต์ปกติ"" การแข่งขันจะดำเนินในรูปแบบทัวร์นาเมนต์"
+TOURNAMENT_NORMAL,ทัวร์นาเมนต์ปกติ
+EV2605,คอนเสิร์ต แฟนทอมส์ ครบรอบ 8 ปี
+EV2605_DESC,ในระหว่างการแข่งขันทัวร์นาเมนต์ มีโอกาสที่ แฟนทอมส์ จะบุกเข้ามา!#ชนะการแข่งกับ แฟนทอมส์ เพื่อรับ ตราประทับ แฟนทอมส์ และรางวัลแบบสุ่ม
+EV2605_DESC_2,· จะได้รับ ตราประทับ แฟนทอมส์ และรางวัลเมื่อชนะเท่านั้น#· รับได้สูงสุดวันละ 3 ตราประทับ แฟนทอมส์ ครบ 3 แล้ว วันนี้ แฟนทอมส์ จะไม่บุกเข้ามาอีก
+NOW_STAMP,ตราประทับสะสม
+PHANTOMS_ENCOUNTER,แฟนทอมส์ บุกเข้ามา!
+PLAYER/ELLIO/SKIN/8TH,ดาวเด่นแห่ง Encore
+PLAYER/ELLIO/SKIN/8TH/DES,ถ้าเขาเลือกดนตรีแทนวอลเลย์บอล เขาอาจยืนอยู่บนเวทีแล้วก็ได้#นักดนตรีอัจฉริยะที่เฉิดฉายใต้สปอตไลต์และครองเวทีได้อย่างอิสระ ...แบบนี้ดูเหมาะกับเขามากกว่านะ?
+PLAYER/ELLIO/SKIN/8TH/PICKUP_LINE,คุณตั้งตารอการแสดงของฉันได้เลย
+COMMON/PRESS_HOLD_OPEN,กดค้างเพื่อเปิด
+COMMON/SWIPE_OPEN,ปัดเพื่อเปิด
+COMMON/CHEERING,เสียงเชียร์
+SETTING/SOUND/CHEER_SERVE,เสียงเชียร์ตอนเสิร์ฟ
+SETTING/SOUND/CHEER_SERVE/DES,ตั้งค่าเสียงเชียร์ตอนเสิร์ฟ
+SETTING/SOUND/CHEER_RALLY,เสียงเชียร์ระหว่างแรลลี่
+SETTING/SOUND/CHEER_RALLY/DES,ตั้งค่าเสียงเชียร์ระหว่างแรลลี่
+SETTING/SOUND/CHEER_RALLY_END,เสียงเชียร์ตอนจบแรลลี่
+SETTING/SOUND/CHEER_RALLY_END/DES,ตั้งค่าเสียงเชียร์ตอนจบแรลลี่
+RECRUIT_MIDNIGHT_HARI_TITLE,รับสมัครนักกีฬาฮาริแห่งรัตติกาล
+RECRUIT_MIDNIGHT_HARI_FIRST,รับสมัครนักกีฬาหลากหลายคน รวมถึงฮาริและสกินฮาริแห่งรัตติกาล
+RECRUIT_MIDNIGHT_HARI_FIRST_VPOINT,ใช้ V พอยต์และตั๋วรับสมัครผู้เล่นพิกอัป เพื่อรับสมัครนักกีฬาหลากหลายคน รวมถึงฮาริและสกินฮาริแห่งรัตติกาล
+RECRUIT_MIDNIGHT_HARI_FIRST_PHANTOMS_RECRUIT_TICKET,ใช้ตั๋วรับสมัครผู้เล่นพิกอัปแฟนทอมส์ เพื่อรับสมัครนักกีฬาหลากหลายคน รวมถึงฮาริและสกินฮาริแห่งรัตติกาล
+RECRUIT_SHOOTING_STAR_JENNY_TITLE,รับสมัครนักกีฬา Shooting Star เจนนี่
+RECRUIT_SHOOTING_STAR_JENNY_FIRST,รับสมัครนักกีฬาหลากหลายคน รวมถึงเจนนี่และสกิน Shooting Star ของเจนนี่
+RECRUIT_SHOOTING_STAR_JENNY_FIRST_VPOINT,ใช้ V พอยต์และตั๋วรับสมัครผู้เล่นพิกอัป เพื่อรับสมัครนักกีฬาหลากหลายคน รวมถึงเจนนี่และสกิน Shooting Star ของเจนนี่
+RECRUIT_SHOOTING_STAR_JENNY_FIRST_PHANTOMS_RECRUIT_TICKET,ใช้ตั๋วรับสมัครผู้เล่นพิกอัปแฟนทอมส์ เพื่อรับสมัครนักกีฬาหลากหลายคน รวมถึงเจนนี่และสกิน Shooting Star ของเจนนี่
+8TH_ANNIVERSARY_LOGIN_BONUS,ล็อกอินฉลองครบรอบ 8 ปี
+EV2605_NORMAL_PASS,แพสล็อกอินฉลองครบรอบ 8 ปี
+EV2605_NORMAL_PASS_DESC,คุณสามารถรับตั๋วรับสมัครผู้เล่น พิกอัป แฟนทอมส์ และชุดยูนิฟอร์มลิมิเต็ดได้
+PLAYER/JENNY/SKIN/SHOOTING_STAR,Shooting Star
+PLAYER/JENNY/SKIN/SHOOTING_STAR/DES,จะเกิดอะไรขึ้นถ้าลูกศรแห่งโชคชะตาเฉียดออกไปเพียงเล็กน้อย? ในโลกคู่ขนาน เจนนี่อาจไม่ได้ถือวอลเลย์บอล แต่ถือไมโครโฟนแทน พร้อมรอยยิ้มสดใสแทนสีหน้าเย็นชาตามปกติของเธอ#เจนนี่ขับร้องเพลงที่เธอแต่งเองตลอดทั้งคืนต่อหน้าผู้ชมมากมาย ...สมกับเป็นดาวเด่นที่ไม่ว่าจะอยู่ที่ไหนก็เปล่งประกาย!
+PLAYER/HARI/SKIN/MIDNIGHT,Midnight
+PLAYER/HARI/SKIN/MIDNIGHT/DES,ฮาริจากโลกคู่ขนาน เธอยังคงดูเย็นชาและไร้อารมณ์เหมือนเดิม แต่ในช่วงเวลาที่กำลังแสดงดนตรี เธอกลับเต็มไปด้วยความหลงใหลยิ่งกว่าใคร#เมื่อเธอเล่นดนตรีร่วมกับสมาชิกวงอย่างเข้าขาและดื่มด่ำไปกับการแสดง รอยยิ้มบางเบาก็มักจะเผยออกมาบนริมฝีปากของเธอโดยไม่รู้ตัว... และรอยยิ้มชั่วขณะนั้นเองที่ทำให้แฟน ๆ ตกหลุมรักเธอ
+PHANTOM_BAND_PLAYER_RECRUIT_TICKET,ตั๋วรับสมัครผู้เล่น พิกอัป แฟนทอมส์
+PHANTOM_BAND_PLAYER_RECRUIT_TICKET_DESC,ตั๋วรับสมัครที่สามารถใช้ได้ในช่วงกิจกรรมแฟนทอมส์#สามารถใช้สำหรับการรับสมัครผู้เล่น พิกอัป แฟนทอมส์ และไอเทมนี้จะหายไปหลังจบกิจกรรม
+PHANTOM_BAND_SKIN_SCOUT_POINT,คะแนนสเกาต์สกิน แฟนทอมส์
+PHANTOM_BAND_SKIN_SCOUT_POINT_DESC,คุณสามารถรับสกินของผู้เล่นแฟนทอมส์ที่ต้องการได้อย่างแน่นอนผ่านคะแนนสเกาต์สกิน แฟนทอมส์#ไอเทมนี้จะหายไปหลังจบกิจกรรม
+GET_PHANTOMS_SKIN_SCOUT_POINT_DESC,คะแนนสเกาต์สกิน แฟนทอมส์ สามารถรับได้ผ่านการรับสมัครผู้เล่น พิกอัป#คุณสามารถรับคะแนนสเกาต์สกิน แฟนทอมส์ จำนวน {0} คะแนนได้ผ่านการรับสมัครนี้
+8HT_ANNIV_EVENT_POPUP_DESC,พบกับของขวัญฉลองครบรอบ 8 ปีที่อัดแน่นไปด้วยความขอบคุณ และแพ็กเกจลิมิเต็ด!
+8HT_ANNIV_EVENT_POPUP_PHANTOMS_DESC,วงดนตรีแฟนทอมส์บุกมาเซอร์ไพรส์ในทัวร์นาเมนต์!
+8HT_ANNIV_EVENT_POPUP_ATTENDANCE_DESC,ตั๋ว พิกอัป สำหรับรับผู้เล่นลิมิเต็ด#ของรางวัลมากมาย!
+PHANTOMS_PICKUP,แฟนทอมส์ พิกอัป
+PHANTOMS,แฟนทอมส์
+8HT_ANNIV_EVENT_POPUP_IAP_TITLE,แฟนทอมส์ พิกอัป เปิดแล้ว!
+8HT_ANNIV_EVENT_POPUP_IAP_DESC,พิกอัปสกินผู้เล่นลิมิเต็ด แฟนทอมส์#ขายแพ็กเกจ
+PLAYER/HARI/MIDNIGHT/GACHA,…ยินดีต้อนรับ นี่คือเวทีที่เตรียมไว้เพื่อเธอเท่านั้น
+PLAYER/JENNY/SHOOTINGSTAR/GACHA,เพลงไหนที่เธออยากฟังที่สุด? บอกมาได้เลย!
+PHANTOMS_LIMITED_SKIN,สกินจำกัดเฉพาะ แฟนทอมส์
+웨스턴 26.05.22,
+PLAYER/RYUHYUN/SKIN/RED_HOOD,ฮู้ดแดง
+PLAYER/RYUHYUN/SKIN/RED_HOOD/DES,นายอำเภอผู้โดดเดี่ยวที่ใช้ชีวิตอยู่ในเมืองเล็กๆ ชายขอบ โดยซ่อนอดีตอันเป็นปริศนาเอาไว้ เขาผู้ไม่มีใครรู้ตัวตนที่แท้จริง จะเปิดเผยฝีมืออันเหนือชั้นเฉพาะตอนที่กวาดล้างเหล่าคนชั่วช้าที่โหดเหี้ยมเท่านั้น
+PLAYER/SIF/SKIN/BOUNTY_HUNTER,นักล่าค่าหัว
+PLAYER/SIF/SKIN/BOUNTY_HUNTER/DES,หากมีคนนอกกฎหมายที่คุกคามความสงบสุขของเมือง ขอแนะนำให้จ้างเธอโดยไม่ต้องลังเล ก่อนที่ดวงอาทิตย์จะตกดิน คุณจะได้เห็นแผ่นหลังอันน่าเวทนาของคนนอกกฎหมายที่ถูกมัดด้วยเชือกอย่างแน่นหนาและถูกลากตัวไป
+PLAYER/CLAIRE/SKIN/GOD_FATHER,เดอะก็อดฟาเธอร์
+PLAYER/CLAIRE/SKIN/GOD_FATHER/DES,ผู้นำแห่งเงามืดผู้สยบอาชญากรและผู้ทรยศมานับไม่ถ้วน แม้แต่คนนอกกฎหมายที่ป่าเถื่อนราวกับม้าป่าก็ยังไม่กล้าเอ่ยชื่อของเขาตามใจชอบ คำพูดของเขาคือกฎหมายของตรอกซอกซอย และไม่มีใครสามารถโต้แย้งคำตัดสินของเขาได้
+EV2606,เวสเทิร์น
+EV2606_VOUCHER_DESC_3,คุณไม่มีตั๋วเข้าเพิ่ม ต้องการซื้อหรือไม่?
+EV2606_VOUCHER_DESC_4,ไม่มีตั๋วเข้าเพิ่มที่สามารถใช้ได้
+EV2606_DESC,ทุกวันสามารถเลือกเล่นแมตช์กิจกรรมในระดับ ง่าย / ยาก ได้ตามต้องการ#ทุกแมตช์ใช้ระบบ 12 คะแนน และแต่ละระดับประกอบด้วย 2 สเตจ#ก่อนเริ่มการแข่งขัน จะเลือกการ์ดความสามารถผ่านหน้าจอรูเล็ต#แต่ละสเตจจะได้รับการ์ดโคลอสเซียม 2 ใบ รวมทั้งหมด 4 ใบ#แม้เปลี่ยนระดับความยาก การ์ดที่เลือกไว้จะยังคงอยู่ และจะใช้การ์ดทั้ง 4 ใบในสเตจที่ 2
+EV2606_VOUCHER,ตั๋วเข้าเวสเทิร์นเพิ่ม
+EV2606_VOUCHER_DESC,เข้าสู่การแข่งขันเพื่อรับรางวัลเคลียร์อีกหนึ่งครั้ง
+EV2606_SIMPLE_INFO,เคลียร์การแข่งขันอีเวนต์ทุกวันในช่วงเวลาอีเวนต์เพื่อรับเหรียญเวสเทิร์น! สามารถรับผู้เล่นใหม่และไอเทมหลากหลายผ่านเหรียญเวสเทิร์น #การแข่งขันอีเวนต์ประกอบด้วย 2 สเตจ เลือกการ์ดความสามารถก่อนเริ่มสเตจเพื่อนำไปใช้ในการแข่งขัน
+EV2606_EXCHANGE_SHOP,ร้านค้าเหรียญเวสเทิร์น
+RECRUIT_RED_HOOD_RYUHYUN_TITLE,รับสมัครผู้เล่น รยูฮยอน ฮู้ดแดง
+RECRUIT_RED_HOOD_RYUHYUN_FIRST,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นหลากหลาย รวมถึงสกิน รยูฮยอน ฮู้ดแดง และผู้เล่นรยูฮยอน
+RECRUIT_RED_HOOD_RYUHYUN_FIRST_VPOINT,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นหลากหลาย รวมถึงสกิน รยูฮยอน ฮู้ดแดง และผู้เล่นรยูฮยอน โดยใช้V พอยต์ และตั๋วรับสมัครผู้เล่นพิกอัป
+RECRUIT_RED_HOOD_RYUHYUN_FIRST_COIN,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นหลากหลาย รวมถึงสกิน รยูฮยอน ฮู้ดแดง และผู้เล่นรยูฮยอน โดยใช้เหรียญเวสเทิร์น
+RECRUIT_BOUNTY_HUNTER_SIF_TITLE,รับสมัครผู้เล่น ซีฟ นักล่าค่าหัว
+RECRUIT_BOUNTY_HUNTER_SIF_FIRST,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นหลากหลาย รวมถึงสกิน ซีฟ นักล่าค่าหัว และผู้เล่นซีฟ
+RECRUIT_BOUNTY_HUNTER_SIF_FIRST_VPOINT,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นหลากหลาย รวมถึงสกิน ซีฟ นักล่าค่าหัว และผู้เล่นซีฟ โดยใช้V พอยต์ และตั๋วรับสมัครผู้เล่นพิกอัป
+RECRUIT_BOUNTY_HUNTER_SIF_FIRST_COIN,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นหลากหลาย รวมถึงสกิน ซีฟ นักล่าค่าหัว และผู้เล่นซีฟ โดยใช้เหรียญเวสเทิร์น
+RECRUIT_GODFATHER_CLAIRE_TITLE,รับสมัครผู้เล่น แคลร์ เดอะก็อดฟาเธอร์
+RECRUIT_GODFATHER_CLAIRE_FIRST,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นหลากหลาย รวมถึงสกิน แคลร์ เดอะก็อดฟาเธอร์ และผู้เล่นแคลร์
+RECRUIT_GODFATHER_CLAIRE_FIRST_VPOINT,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นหลากหลาย รวมถึงสกิน แคลร์ เดอะก็อดฟาเธอร์ และผู้เล่นแคลร์ โดยใช้V พอยต์ และตั๋วรับสมัครผู้เล่นพิกอัป
+RECRUIT_GODFATHER_CLAIRE_FIRST_COIN,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นหลากหลาย รวมถึงสกิน แคลร์ เดอะก็อดฟาเธอร์ และผู้เล่นแคลร์ โดยใช้เหรียญเวสเทิร์น
+WESTERN_PICKUP,พิกอัปเวสเทิร์น
+WESTERN_LIMITED_SKIN,สกินจำกัดเฉพาะเวสเทิร์น
+ERROR_STAGE_ENTRY_FAILED,เข้าสู่การแข่งขันล้มเหลว กรุณาลองใหม่อีกครั้ง
+EV2606_COIN,เหรียญเวสเทิร์น
+EV2606_COIN_DESC,สินทรัพย์อีเวนต์ที่สามารถใช้ได้ในช่วงเวลาอีเวนต์เวสเทิร์น #สามารถใช้รับสมัครผู้เล่นพิกอัปอีเวนต์ได้ #จะหายไปเมื่อสิ้นสุดระยะเวลาอีเวนต์
+EV2606_LOGIN_BONUS,พาสเช็คอินเวสเทิร์น
+WESTERN_SKIN_SCOUT_POINT,คะแนนสเกาต์สกินเวสเทิร์น
+WESTERN_SKIN_SCOUT_POINT_DESC,สามารถรับสกินของผู้เล่นเวสเทิร์นที่ต้องการได้อย่างแน่นอนผ่านคะแนนสเกาต์สกินเวสเทิร์น #สินทรัพย์ดังกล่าวจะหายไปเมื่อสิ้นสุดระยะเวลาอีเวนต์
+GET_WESTERN_SKIN_SCOUT_POINT_DESC,คะแนนสเกาต์สกินเวสเทิร์นสามารถรับได้ผ่านการรับสมัครผู้เล่นพิกอัป #สามารถรับคะแนนสเกาต์สกินเวสเทิร์นได้ {0} แต้มผ่านการรับสมัครผู้เล่นดังกล่าว
+MAP_WESTERN,ถิ่นทุรกันดารของคนนอกกฎหมาย
+SIGNATURE_MOTION,ท่าทางซิกเนเจอร์
+NAME/TEAM_119,แก๊งแฟนทอมส์
+NAME/TEAM_120,นักล่าค่าหัว
+NAME/TEAM_121,คนนอกกฎหมาย
+SIGNATURE_MOTION/SKIN_UNIFORM_ONLY,กรุณาลองอีกครั้งหลังจากสวมใส่ชุดยูนิฟอร์มพื้นฐาน
+DISABLED,ปิดใช้งาน
+MY_DREAM_SHARD_STATUS,นี่คือสถานะการได้รับเศษเสี้ยวความฝันที่ปรากฏในความท้าทายครั้งนี้
+DREAM_SHARD_NOT_OWNED,คุณไม่มีเศษเสี้ยวความฝันนี้
+DECK,เด็ค
+PLAYER/RYUHYUN/REDHOOD/GACHA,เข้ามาในเขตของฉันแล้ว ก็เตรียมใจไว้ได้เลย
+PLAYER/CLAIRE/GODFATHER/GACHA,ฉันจะยื่นข้อเสนอที่แกปฏิเสธไม่ได้ให้เอง
+PLAYER/SIF/BOUNTYHUNTER/GACHA,ดูเหมือนว่าค่าตอบแทนคืนนี้จะหนาพอดูเลยนะ?
+EV2606_POPUP_DESC,"พบกับ รยูฮยอน, ซีฟ และ แคลร์ บนเวทีแห่งถิ่นทุรกันดารตะวันตก!"
+INGAME/MOVE_2,ไป
+EV2606_POPUP_PLAY_TITLE,การแข่งขันอีเวนต์เวสเทิร์น!
+EV2606_POPUP_PLAY_DESC,ชนะการแข่งขันและรับเหรียญเวสเทิร์นไปเลย!
+EV2606_POPUP_PICLKUP_TITLE,เปิดรับสมัครผู้เล่นพิกอัปเวสเทิร์น!
+EV2606_POPUP_PICLKUP_DESC,พิกอัปสกินผู้เล่นจำกัดเฉพาะเวสเทิร์นและ #ขายแพ็กเกจ
+EV2606_POPUP_ATTENDANCE_TITLE,พาสเช็คอินเวสเทิร์น!
+EV2606_POPUP_ATTENDANCE_DESC,มอบไอเทมจำกัดและเหรียญเวสเทิร์นให้! #เปิดพาสพรีเมียมและพาสรอยัล!
+NOW_CARD,สถานะการ์ด
+SETTING/SOUND/SPATIAL_AUDIO,ระบบเสียงเชิงพื้นที่
+SETTING/SOUND/SPATIAL_AUDIO/DES,เปิดใช้งานทิศทางและมิติเชิงพื้นที่ของเสียง
+SETTING/SOUND/SPATIAL_AUDIO/OFF,ปิด
+SETTING/SOUND/SPATIAL_AUDIO/NORMAL,ปกติ
+SETTING/SOUND/SPATIAL_AUDIO/STRONG,สูง
+SETTING/SOUND/Voice/DES,ตั้งค่าระดับเสียงบทพูด
+SETTING/SOUND/UI/DES,ตั้งค่าระดับเสียง UI เช่น ปุ่มและเมนู
+SETTING/SOUND/InGame/DES,ตั้งค่าระดับเสียงเอฟเฟกต์ที่เล่นระหว่างการแข่งขัน
+SETTING/SOUND/Skill/DES,ตั้งค่าระดับเสียงสกิลของผู้เล่นและเอฟเฟกต์พิเศษ
+SETTING/SOUND/Voice,เสียงพากย์
+SETTING/SOUND/UI,เสียง UI
+SETTING/SOUND/InGame,เอฟเฟกต์เสียงการแข่งขัน
+SETTING/SOUND/Skill,เอฟเฟกต์เสียงสกิล
+COMMON/TRIAL,ทดลอง
+SETTING/SOUND/ENVIRONMENTAL_SOUND,เสียงบรรยากาศ
+SETTING/SOUND/ENVIRONMENTAL_SOUND/DES,เปิดใช้งานเอฟเฟกต์เสียงตามสภาพแวดล้อม
+DREAM_SHARD_MIN_USE,ต้องจัดเด็คด้วย{1}อย่างน้อย {0} ชิ้น
+CHOOSE_DREAM_SHARD,โปรดเลือกเศษเสี้ยวความฝันที่จะใช้งาน
+PLAYER_SUBSTITUTION_BONUS,โบนัสเปลี่ยนตัว
+GET_ONE_DREAM_SHARD,รับเศษเสี้ยวความฝันเพียง 1 ชิ้นเท่านั้น
+GET_TWO_DREAM_SHARD,เปลี่ยนตัวผู้เล่นและรับเศษเสี้ยวความฝันเพิ่มเติม
+CURRENT_REPLACE_COUNT,สะสม: {0}
+UPGRADE_BONUS,โบนัสเสริมพลัง
+DECK_CHANGED_CONFIRM,มีการเปลี่ยนแปลงการจัดเด็ค ต้องการบันทึกหรือไม่?
+DECK_IN_USE_ARENA,ไม่สามารถแก้ไขเด็คที่กำลังใช้งานในอารีน่าได้
+ALERT/ARENA_ROSTER_1,ต้องลงทะเบียนผู้เล่น 5 คนในแต่ละตำแหน่ง
+ALERT/ARENA_ROSTER_2,ต้องลงทะเบียนผู้เล่นที่มีอยู่ อย่างน้อย 1 คนในแต่ละตำแหน่ง
+PROFILE/PURCHASE_ITEM/ALERT,ไอเทมโปรไฟล์นี้ไม่สามารถซื้อได้
+PROFILE/BACKGROUND/DES,ไอเทมพื้นหลังสำหรับตกแต่งโปรไฟล์ของคุณ
+PROFILE/FRAME/DES,ไอเทมกรอบสำหรับตกแต่งโปรไฟล์ของคุณ
+PROFILE/TITLE/DES,ไอเทมฉายาสำหรับตกแต่งโปรไฟล์ของคุณ
+PROFILE/STICKER/DES,ไอเทมสติกเกอร์สำหรับตกแต่งโปรไฟล์ของคุณ
+PROFILE/INFO/S_PLAYER/HEADER,สถานะการสะสมผู้เล่น
+PROFILE/INFO/S_PLAYER/BODY,จำนวนผู้เล่นระดับ S- ขึ้นไป
+PROFILE/INFO/PLAY_HISTORY/HEADER,บันทึกการเล่น
+PROFILE/INFO/PLAY_HISTORY/STORY,ความคืบหน้าเนื้อเรื่อง
+PROFILE/INFO/PLAY_HISTORY/LEAGUE,สถิติเคลียร์ลีกสูงสุด
+PROFILE/INFO/PLAY_HISTORY/TOURNAMENT,จำนวนชนะทัวร์นาเมนต์สะสม
+PROFILE/INFO/PLAY_HISTORY/ARENA,ความยากการเคลียร์อารีน่าสูงสุด
+PROFILE/INFO/ACHIEVEMENT/HEADER,สถานะความสำเร็จ
+PROFILE/INFO/ACHIEVEMENT/BODY,ความคืบหน้าความสำเร็จ
+PROFILE/INFO/REPRESENTATIVE,ผู้เล่นหลัก
+PROFILE/ILLUST_ACTIVE,เปิดใช้งานภาพประกอบ
+PROFILE/TAB/FRAME,กรอบ
+PROFILE/TAB/TITLE,ฉายา
+PROFILE/TAB/STICKER,สติกเกอร์
+PROFILE/SORT_ORDER/OWNED,ครอบครอง
+PROFILE/SAVE_CHANGES/DESC,มีการเปลี่ยนแปลง ต้องการบันทึกหรือไม่?
+PROFILE/SAVE_CHANGES/SAVE,บันทึก
+ARENA_FREE_REROLL_ADDITIONAL,สุ่มเศษเสี้ยวความฝันใหม่+1
+ARENA_FREE_REROLL_ADDITIONAL_DESC,เมื่อเริ่มแต่ละรอบของไนต์แมร์อารีน่า คุณจะสุ่มเศษเสี้ยวความฝันใหม่ได้ฟรี 1 ครั้ง
+PROFILE/PLAYER_ILLUST,ภาพประกอบผู้เล่น
+PROFILE/CHANGE_PROFILE,แก้ไขโปรไฟล์
+PROFILE/CHANGE_REPRESENTATIVE,เปลี่ยนผู้เล่นหลัก
+PROFILE/INFO_OPTION_TITLE,เลือกรายการที่จะแสดง
+PROFILE/CHANGE_NICKNAME,เปลี่ยนชื่อเล่น
+DREAM_SHARD_DESC,สามารถใช้เศษเสี้ยวความฝันนี้เมื่อจัดเด็คไนต์แมร์อารีน่า
+PROFILE_CUSTOMIZING,การตกแต่งโปรไฟล์
+PROFILE_STICKER_ROTATE,หมุน
+PROFILE_STICKER_RESIZE,ย่อ / ขยาย
+PROFILE/INFO_OPTION_TIER_WARNING,เนื้อหาที่ยังไม่ปลดล็อกเนื่องจากเทียร์ไม่ถึงจะไม่แสดง
+PROFILE/STICKER_MAX_COUNT/ALERT,วางสติกเกอร์ได้สูงสุด 10 ชิ้น
+ADD_TO_DECK,ใส่ในเด็ค
+REMOVE_FROM_DECK,นำออกจากเด็ค
+EDIT_DECK,แก้ไขเด็ค
+DREAM_DECK/TITLE,แก้ไขเด็คเศษเสี้ยวความฝัน
+DREAM_DECK/DES,จัดเด็คโดยกำหนดเศษเสี้ยวความฝันล่วงหน้า เพื่อให้ปรากฏเป็นตัวเลือกในการเสริมแกร่งระหว่างความท้าทาย
+PROFILE_STICKER_DESELECT,ยกเลิกการเลือก
+PRESET/INVALID_NAME,ห้ามใช้คำที่ไม่เหมาะสมหรืออักขระพิเศษ ยกเว้นขีดล่าง#ไม่อนุญาตให้ใช้คำที่มีเพียงพยัญชนะหรือสระอย่างเดียว
+PROFILE/NICKNAME_INVALID/ALERT,ชื่อเล่นนี้มีคำที่ไม่เหมาะสม กรุณาเปลี่ยนชื่อเล่นของคุณ
+ARENA/TIP,โหมดเกมที่คุณจะจัดรายชื่อผู้เล่นตัวเลือกจากผู้เล่นที่มีและผู้เล่นรับเชิญ จากนั้นสุ่มจัดทีมเพื่อแข่งขันต่อเนื่อง#สลับผู้เล่นระหว่างการแข่งขัน รวบรวมเศษเสี้ยวความฝัน และเสริมแกร่งทีมของคุณ#เคลียร์ทั้ง 3 รอบที่มีเวลาจำกัดให้ครบเพื่อพิชิตความท้าทาย
+ARENA_GUEST/TITLE,ผู้เล่นรับเชิญประจำซีซันอารีน่า
+ARENA_GUEST/DES,ในอารีน่า คุณสามารถใช้ผู้เล่นรับเชิญที่กำหนดได้ ไม่ว่าจะมีผู้เล่นคนนั้นอยู่แล้วหรือไม่#รายชื่อผู้เล่นรับเชิญจะเปลี่ยนตามรอบที่กำหนด และความคืบหน้าในอารีน่าจะถูกรีเซ็ตในตอนนั้น
+ALERT/ARENA_CONTINUE,หากเลือกเล่นต่อ คุณจะไม่สามารถแก้ไขรายชื่อผู้เล่นตัวเลือกหรือเด็คเศษเสี้ยวความฝันได้#ต้องการดำเนินการต่อหรือไม่?
+PROFILE/NICKNAME/ADJECTIVE1,ทุ่มเท
+PROFILE/NICKNAME/ADJECTIVE2,รวดเร็ว
+PROFILE/NICKNAME/ADJECTIVE3,แข็งแกร่ง
+PROFILE/NICKNAME/ADJECTIVE4,ใจเย็น
+PROFILE/NICKNAME/ADJECTIVE5,ร้อนแรง
+PROFILE/NICKNAME/ADJECTIVE6,มากประสบการณ์
+PROFILE/NICKNAME/ADJECTIVE7,เฉียบคม
+PROFILE/NICKNAME/ADJECTIVE8,ไร้พ่าย
+PROFILE/NICKNAME/ADJECTIVE9,มั่นใจ
+PROFILE/NICKNAME/ADJECTIVE10,หยุดไม่อยู่
+PROFILE/NICKNAME/ADJECTIVE11,อัจฉริยะ
+PROFILE/NICKNAME/ADJECTIVE12,ไว้ใจได้
+PROFILE/NICKNAME/ADJECTIVE13,โบยบิน
+PROFILE/NICKNAME/ADJECTIVE14,ยืดหยุ่น
+PROFILE/NICKNAME/ADJECTIVE15,แม่นยำ
+PROFILE/NICKNAME/ADJECTIVE16,ทรหด
+PROFILE/NICKNAME/ADJECTIVE17,ยักษ์ใหญ่
+PROFILE/NICKNAME/ADJECTIVE18,เปล่งประกาย
+PROFILE/NICKNAME/ADJECTIVE19,สมบูรณ์แบบ
+PROFILE/NICKNAME/ADJECTIVE20,โชคดี
+PROFILE/NICKNAME/NOUN1,เด็กฝึก
+PROFILE/NICKNAME/NOUN2,รุกกี้
+PROFILE/NICKNAME/NOUN3,เอซ
+PROFILE/NICKNAME/NOUN4,กัปตัน
+PROFILE/NICKNAME/NOUN5,ออลราวด์เดอร์
+PROFILE/NICKNAME/NOUN6,สไปเกอร์
+PROFILE/NICKNAME/NOUN7,ผู้เสิร์ฟ
+PROFILE/NICKNAME/NOUN8,เซตเตอร์
+PROFILE/NICKNAME/NOUN9,ลิเบอโร่
+PROFILE/NICKNAME/NOUN10,บล็อกเกอร์
+PROFILE/NICKNAME/NOUN11,ตัวรุก
+PROFILE/NICKNAME/NOUN12,ตัวรับ
+PROFILE/NICKNAME/NOUN13,ผู้นำ
+PROFILE/NICKNAME/NOUN14,แชมเปี้ยน
+PROFILE/NICKNAME/NOUN15,สตาร์
+PROFILE/NICKNAME/NOUN16,ฮีโร่
+PROFILE/NICKNAME/NOUN17,ดาวรุ่ง
+PROFILE/NICKNAME/NOUN18,จัมเปอร์
+PROFILE/NICKNAME/NOUN19,เพลย์เมกเกอร์
+PROFILE/NICKNAME/NOUN20,ผู้เล่น
+PROFILE/NICKNAME_PLACEHOLDER,กรอกชื่อเล่น
+INGAME/DELETE_MAIN/PROFILE_ALERT,ไม่สามารถปล่อยตัวผู้เล่นที่ลงทะเบียนในโปรไฟล์ได้
+PROFILE/INFO_TITLE,แจ้งเตือน
+LEVEL_AFFIX,เลเวล {0}
+,
+balance_factor_block_jump_weight,ตัวคูณการกระโดดบล็อก
+balance_factor_spike_jump_weight,ตัวคูณการกระโดดตบ
+balance_factor_swing_delay_weight,ตัวคูณดีเลย์การสวิง
+balance_factor_hit_feint_speed_weight,ตัวคูณความเร็ว Feint
+balance_factor_slide_fail_speed_weight,ตัวคูณความเร็วเมื่อสไลด์ล้มเหลว
+balance_factor_sliding_distance_weight,ตัวคูณระยะสไลด์
+balance_factor_hit_feint_lppower_weight,ตัวคูณพลังโจมตีเบาของ Feint
+balance_factor_receive_fail_speed_weight,ตัวคูณความเร็วเมื่อรับบอลล้มเหลว
+balance_factor_block_charging_speed_weight,ตัวคูณความเร็วชาร์จบล็อก
+balance_factor_slide_fail_direction_weight,ตัวคูณทิศทางเมื่อสไลด์ล้มเหลว
+balance_factor_receive_fail_direction_weight,ตัวคูณทิศทางเมื่อรับบอลล้มเหลว
+balance_factor_blitz_spin_direction_weight,ตัวคูณทิศทางบลิตซ์สปิน
+balance_factor_sliding_penetration,
+balance_factor_swing_range,ตัวคูณระยะสวิง
+balance_real_jump_length,ระยะกระโดดจริง
+balance_sliding_resistance,
+balance_blocking_resistance,พลังป้องกันขณะบล็อก
+balance_slow_time,ระยะเวลาสโลว์
+balance_slow_value,ตัวคูณสโลว์
+balance_factor_strength_add_weight,พลังบุกเพิ่มขึ้น
+balance_factor_defense_add_weight,พลังตั้งรับเพิ่มขึ้น
+balance_factor_speed_add_weight,ความเร็วเพิ่มขึ้น
+balance_factor_jump_add_weight,พลังกระโดดเพิ่มขึ้น
+balance_factor_height_add_weight,ส่วนสูงเพิ่มขึ้น
+balance_factor_ball_speed_add_weight,พลังของลูกบอลเพิ่มขึ้น
+balance_factor_stamina_decrease,สตามินาลดลง
+balance_factor_ball_horizontal_speed_add_weight,พลังแนวนอนของลูกบอลเพิ่มขึ้น
+skill_effect,ผลการปลุกพลัง
+max_team_hp,สตามินาสูงสุดของทีมเรา
+max_enemy_hp,สตามินาสูงสุดของทีมคู่แข่ง
+ball_gravity,แรงโน้มถ่วงของลูกบอล
+available_legacy_sliding,ใช้การสไลด์แบบเดิม
+SAME_AS_BEFORE,เหมือนเดิม
+MAINTENANCE,การปิดปรับปรุง
+INFO,ข้อมูล
+ANNOUNCEMENT,ข่าว
+PATCH,แพตช์
+URGENT,ด่วน
+UPDATE,อัปเดต
+PROMOTION,โปรโมชัน
+NEW_ANNOUNCEMENT,ไปดูประกาศล่าสุดกันเถอะ!
+NO_ANNOUNCEMENT,เลือกประกาศ#เพื่อดูรายละเอียด
+NO_ANNOUNCEMENT_02,ไม่มีประกาศที่ลงทะเบียนไว้
+NO_ANNOUNCEMENT_03,รอติดตามข่าวสารใหม่ๆ ได้เลย!
+BALANCE_MODE_DES,โหมดบาลานซ์คือโหมดเกมแบบกำหนดเองที่ให้คุณเล่นโดยมีการปรับบาลานซ์ของผู้เล่นและคุณสมบัติบางส่วน เนื้อหาการปรับบาลานซ์จะแตกต่างกันไปตามแต่ละเวอร์ชัน โปรดตรวจสอบการเปลี่ยนแปลงของแต่ละเวอร์ชัน
+BALANCE_MODE_COMMON,ทั่วไป
+BALANCE_MODE_GAME_SETTING,ตั้งค่าการแข่งขัน
+NO_BALANCE_MODE_DATA,ไม่มีข้อมูลโหมดบาลานซ์
+MODE_COLLECTION,คอลเลกชันโหมด
+GET_EV2607_SKIN_SCOUT_POINT_DESC,รับคะแนนสเกาต์สกินวอร์มร่างกายได้จากการรับสมัครผู้เล่นพิกอัป#การรับสมัครนี้จะให้คะแนนสเกาต์สกินวอร์มร่างกาย {0} คะแนน
+RECRUIT_DIVER_DAVE_TITLE,รับสมัครเดฟ นักดำน้ำ
+RECRUIT_DIVER_DAVE_TITLE_FIRST_VPOINT,รับสมัครนักกีฬาหลากหลายคน รวมถึงเดฟและสกินนักดำน้ำของเดฟ
+WARMINGUP_SKIN_SCOUT_POINT,คะแนนสเกาต์สกินวอร์มร่างกาย
+WARMINGUP_SKIN_SCOUT_POINT_DESC,คุณสามารถรับสกินผู้เล่นวอร์มร่างกายที่ต้องการได้แน่นอนด้วยคะแนนสเกาต์สกินวอร์มร่างกาย#เงินตรานี้จะหายไปเมื่อสิ้นสุดระยะเวลากิจกรรม
+WARMINGUP_PLAYER_RECRUIT_TICKET,ตั๋วรับสมัครผู้เล่นพิกอัปวอร์มร่างกาย
+WARMINGUP_PLAYER_RECRUIT_TICKET_DESC,ตั๋วรับสมัครที่สามารถใช้ได้ในช่วงเวลากิจกรรม#สามารถรับสมัครนักกีฬากิจกรรมได้
+EV2607_PICKUP,พิกอัปวอร์มร่างกาย
+EV2607,วอร์มอัปของเดฟ
+EV2607_DESC,เดฟกลับมาพร้อมซาร่าและอายอนแล้ว! ในช่วงกิจกรรม สามารถรับนักกีฬาและสกินได้จากการรับสมัครนักกีฬาลิมิเต็ด
+WARMINGUP_LIMITED_SKIN,สกินวอร์มร่างกายลิมิเต็ด
+ANNOUNCEMENT_LIST_LOAD_FAILED,โหลดรายการประกาศไม่สำเร็จ
+LIST,รายการ
+ANNOUNCEMENT_RETRY,โปรดลองอีกครั้ง
+INGAME/OLD_DATA/STORY_REMAKE,จำนวนรวมของดาวที่ได้รับจากแต่ละบทก่อนการอัปเดตรีเมกเนื้อเรื่อง
+COMMON/TOUCH,แตะ!
+SUMMER TRAINING,
+BEST_RECORD,สถิติส่วนตัว
+NEW_BEST_RECORD,ทำสถิติส่วนตัวใหม่!
+NAME/TEAM_122,คอรัล รูบี้
+NAME/TEAM_123,ไวโอเล็ต แซฟไฟร์
+CAMP_HANRA,ทีมคอรัล รูบี้
+CAMP_VIOLA,ทีมไวโอเล็ต แซฟไฟร์
+EV2608,ซัมเมอร์เทรนนิ่ง
+EV2608_DESC,ซัมเมอร์เทรนนิ่งเป็นอีเวนต์การแข่งขันฝ่ายที่มีการเปิดรอบทุกสัปดาห์ สะสมคะแนนมะพร้าวผ่านการแข่งขันศึกสงครามฝ่ายและการฝึกมหาโหดของเดฟเพื่อสร้างค่าการมีส่วนร่วมให้ฝ่ายของคุณ
+EV2608_MISSION_MATCH_5000,รับคะแนนมะพร้าวอย่างน้อย {1} คะแนนในแมตช์เดียวของ [{0}]
+EV2608_MISSION_TOTAL_80000,สะสมคะแนนมะพร้าวรวม {0} คะแนนขึ้นไป
+EV2608_MISSION_DSRUN_1M,ทำคะแนนสะสม {1} คะแนนใน [{0}]
+EV2608_MISSION_DSRUN_BEST_100K,ทำคะแนนสูงสุด {1} คะแนนใน [{0}]
+EV2608_MISSION_JOIN_4W_OR_WIN,เข้าร่วมติดต่อกัน 4 สัปดาห์ หรือชนะ 1 ครั้ง
+PROFILE_STICKER_VIOLA,สติกเกอร์วิโอล่า
+PROFILE_STICKER_HANRA,สติกเกอร์ฮันรา
+PROFILE_TITLE_BELOVED_DISCIPLE_OF_DAVE,ศิษย์รักของเดฟ
+PROFILE_FRAME_SAND_CASTLE,ปราสาททราย
+PROFILE_BG_SPARKLED_BEACH,ชายหาดเปล่งประกาย
+EV2608_COCONUT_POINT,คะแนนมะพร้าว
+EV2608_COCONUT_POINT_DESC,"คะแนนที่ได้รับจากการแข่งขันฝ่ายและการฝึกนรกของเดฟ#สะสมคะแนนมะพร้าวให้ครบ 5,000 คะแนนเพื่อรับรางวัลรายวัน โดยคะแนนมะพร้าวที่ได้รับจะถูกนำไปรวมเป็นค่าการมีส่วนร่วมของฝ่าย#คะแนนมะพร้าวจะรีเซ็ตทุกวัน#สามารถมีส่วนร่วมได้สูงสุด 50,000 คะแนนต่อวัน"
+EV2608_COIN,เหรียญปาล์ม
+EV2608_COIN_DESC,สกุลเงินกิจกรรมที่ได้รับจากซัมเมอร์เทรนนิ่ง#ใช้ในร้านค้าได้
+EV2608_MISSION,ภารกิจซัมเมอร์เทรนนิ่ง
+EV2608_MISSION_DES,ภารกิจกิจกรรมที่ดำเนินในช่วงซัมเมอร์เทรนนิ่ง#ทำภารกิจสำเร็จเพื่อรับรางวัล
+EV2608_MODE_SELECT_TITLE,เลือกโหมดซัมเมอร์เทรนนิ่ง
+EV2608_MODE_SELECT_GUIDE,โปรดเลือกโหมดฝึกซ้อม สามารถสะสมคะแนนมะพร้าวได้ไม่ว่าจะเลือกโหมดใด
+EV2608_MODE_CAMP_TITLE,ศึกสงครามฝ่าย
+EV2608_MODE_CAMP_DES,แข่งขันโดยการผสมผสานผู้เล่นที่ได้รับการอัปเกรดด้วยสกิลรอบ
+EV2608_MODE_SPIKERUN_TITLE,การฝึกมหาโหดของเดฟ
+EV2608_MODE_SPIKERUN_DES,อดทนผ่านการฝึกบนชายหาดอันเข้มงวดของเดฟ แล้วรับคะแนนเป็นรางวัล
+EV2608_MODE_SELECT,เลือกโหมด
+EV2608_LOGIN_BONUS,พาสเช็กชื่อซัมเมอร์เทรนนิ่ง
+,
+,
+EV2608_EXTRA_REWARD_TICKET,ตั๋วรับรางวัลเพิ่มเติม
+EV2608_EXTRA_REWARD_TICKET_DESC,"ไอเทมสำหรับปลดล็อกช่วงรางวัลที่ล็อกอยู่ ช่วงที่ปลดล็อกจะรีเซ็ตในวันถัดไป#ขีดจำกัดการมีส่วนร่วมของฝ่าย (50,000) จะไม่เปลี่ยนแปลง และยังแข่งขันต่อได้"
+EV2608_SPIKERUN_NO_REWARD,ไม่มีรางวัลการแข่งขัน
+EV2608_SPIKERUN_START,เริ่มการฝึกซ้อม!
+EV2608_PLAY_DES,การแข่งขันทีม
+EV2608_TEAM_DAILY_CONTRIBUTION,ค่าการมีส่วนร่วมทีมวันนี้
+EV2608_PERSONAL_COCONUT,มะพร้าวส่วนตัว
+EV2608_DAILY_REWARD,รางวัลรายวัน
+EV2608_DAILY_REWARD_CLAIM_CONFIRM,คุณต้องการรับรางวัลหรือไม่?
+EV2608_EXTRA_REWARD_TICKET_USE_INFO,"ใช้ตั๋วรางวัลเพิ่มเติมเพื่อปลดล็อกช่วงรางวัลที่ล็อกอยู่ ช่วงที่ปลดล็อกจะรีเซ็ตในวันถัดไป##ขีดจำกัดการมีส่วนร่วมของฝ่าย (50,000) จะไม่เปลี่ยนแปลง และยังแข่งขันต่อได้"
+EV2608_TEAM_CONTRIB_MAX_INFO,"ค่าการมีส่วนร่วมฝ่ายในวันนี้บรรลุขีดจำกัดสูงสุด (50,000) แล้ว##คุณสามารถแข่งขันต่อไปได้และคะแนนมะพร้าวส่วนตัวจะสะสมต่อไป##รางวัลที่ถูกล็อคสามารถปลดล็อคได้ด้วยตั๋วรางวัลเพิ่มเติม"
+EV2608_CAMP_UNAVAILABLE,ฝ่ายนี้มีผู้เข้าร่วมจำนวนมาก โปรดเลือกฝ่ายอื่น
+EV2608_MODE_SPIKERUN_DES_DETAIL,"การฝึกมหาโหดของเดฟเป็นมินิเกมวิ่งบนชายหาดพร้อมตบบอลและหลบสิ่งกีดขวาง#ไม่มีสกิลรอบและรางวัลการแข่งขัน โดยจะได้รับคะแนนมะพร้าวและเครดิตตามคะแนนสุดท้าย#คะแนนสุดท้ายจะถูกแปลงเป็นคะแนนมะพร้าวและนับเป็นค่าการมีส่วนร่วมของฝ่าย สูงสุดวันละ 50,000 คะแนน"
+EV2608_CAMP_INTRO_DES_1,"การฝึกซ้อมฤดูร้อนของเดฟ, ซัมเมอร์เทรนนิ่งเริ่มต้นขึ้นแล้ว#คอรัล รูบี้ เป็นทีมที่สยบคู่ต่อสู้ด้วยความมุ่งมั่นและพลังในการบุกทะลวง#ไวโอเล็ต แซฟไฟร์ เป็นทีมที่เก็บเกี่ยวชัยชนะด้วยการประสานงานและการป้องกันอันสุขุม##เลือกมาหนึ่งทีมแล้วผ่านการฝึกของเดฟไปให้ได้นะ#คุณจะเป็นส่วนหนึ่งของทีมไหนในการลงสู่สนาม?"
+CAMP_HANRA_DESC,ทีมคอรัล รูบี้ ที่มีความมุ่งมั่นและพลังในการบุกทะลวงเป็นจุดเด่น
+CAMP_VIOLA_DESC,ทีมไวโอเล็ต แซฟไฟร์ ที่มุ่งสู่ชัยชนะด้วยการประสานงานและการป้องกันอันสุขุม
+EV2608_CAMP_BATTLE_DES,"ศึกระหว่างฝ่ายซัมเมอร์เทรนนิ่งเป็นคอนเทนต์การแข่งขันที่เปิดรอบใหม่ทุกสัปดาห์#เมื่อรอบเริ่ม สามารถเลือกเข้าร่วมฝ่ายคอรัล รูบี้หรือไวโอเล็ต แซฟไฟร์ได้ เมื่อเลือกแล้วจะเปลี่ยนฝ่ายไม่ได้ตลอดรอบนั้น##ระหว่างรอบ สามารถสะสมคะแนนมะพร้าวได้ในสองโหมด##1. การแข่งขันศึกระหว่างฝ่าย#สามารถลงแข่งขันได้ทุกวันตลอดรอบ#และเลือกสกิลรอบได้สูงสุดวันละ 2 ใบเพื่อเสริมพลังให้นักกีฬาที่ควบคุม#ในหนึ่งรอบจะได้รับสกิลสูงสุด 10 ใบ##ผลรวมความเร็วลูกตบของนักกีฬาที่ควบคุมในแมตช์ที่ชนะจะมอบให้เป็นคะแนนมะพร้าว#รับได้สูงสุด 5,000 คะแนนต่อแมตช์##2. การฝึกมหาโหดของเดฟ#มินิเกมวิ่งบนชายหาดพร้อมหลบสิ่งกีดขวาง#ไม่มีสกิลรอบและรางวัลการแข่งขัน โดยจะได้รับคะแนนมะพร้าวตามคะแนนการวิ่ง##คะแนนมะพร้าวจะนับเป็นค่าการมีส่วนร่วมของฝ่าย สูงสุดวันละ 50,000 คะแนน#เมื่อจบรอบ คะแนนมะพร้าวของรอบนั้นจะรีเซ็ต#สะสมคะแนนมะพร้าว 5,000 คะแนนทุกวันเพื่อรับรางวัลรายวัน#ใช้ตั๋วรางวัลเพิ่มเติมปลดล็อกช่วงรางวัลที่ล็อกอยู่ได้ ช่วงที่ปลดล็อกจะรีเซ็ตในวันถัดไป#แม้ค่าการมีส่วนร่วมของฝ่ายถึงขีดจำกัดแล้ว ก็ยังเล่นต่อและสะสมคะแนนมะพร้าวเพิ่มได้##เมื่อจบรอบ#จะเปรียบเทียบค่าการมีส่วนร่วมของทั้งสองฝ่าย ฝ่ายที่สูงกว่าจะเป็นผู้ชนะ#ฝ่ายที่ชนะจะได้รับรางวัลเพิ่มเติม และต้องมีค่าการมีส่วนร่วมส่วนบุคคลรายสัปดาห์อย่างน้อย 25,000 คะแนนจึงจะรับรางวัลรอบได้"
+MINIGAME/PAUSE,หยุดชั่วคราว
+MINIGAME/CONTINUE,ฝึกซ้อมต่อ
+MINIGAME/GIVE_UP,ยอมแพ้การฝึกซ้อม
+MINIGAME/SPIKE,ตบ
+MINIGAME/SLIDE,สไลด์
+MINIGAME/JUMP,กระโดด
+MINIGAME/SCORE,คะแนน
+MINIGAME/TAP_INDICATOR,แตะ!
+STORYMODE_TIP_8,ด่านที่ไม่มีการแข่งขัน
+EV2608_EXCHANGE_SHOP,ร้านค้าเหรียญปาล์ม
+SUMMER_SKIN_SCOUT_POINT,คะแนนสเกาต์สกินซัมเมอร์
+SUMMER_SKIN_SCOUT_POINT_DESC,ใช้คะแนนสเกาต์สกินซัมเมอร์เพื่อรับสกินของนักกีฬาซัมเมอร์เทรนนิ่งที่ต้องการได้อย่างแน่นอน#คะแนนนี้จะหายไปเมื่อสิ้นสุดกิจกรรม
+EV2608_PICKUP,พิกอัปซัมเมอร์เทรนนิ่ง
+RECRUIT_SUMMER_TRAINING_LUCAS_TITLE,การรับสมัครผู้เล่น ลูคัส ซัมเมอร์เทรนนิ่ง
+RECRUIT_SUMMER_TRAINING_LUCAS_FIRST,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นได้หลากหลาย รวมถึงสกิน ลูคัส ซัมเมอร์เทรนนิ่ง และผู้เล่น ลูคัส
+RECRUIT_SUMMER_TRAINING_LUCAS_FIRST_VPOINT,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นได้หลากหลาย รวมถึงสกิน ลูคัส ซัมเมอร์เทรนนิ่ง และผู้เล่น ลูคัส โดยใช้ V พอยต์และตั๋วรับสมัครผู้เล่นพิกอัป
+RECRUIT_SUMMER_TRAINING_LUCAS_FIRST_COIN,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นได้หลากหลาย รวมถึงสกิน ลูคัส ซัมเมอร์เทรนนิ่ง และผู้เล่น ลูคัส โดยใช้เหรียญปาล์ม
+RECRUIT_SUMMER_TRAINING_HANRA_TITLE,การรับสมัครผู้เล่น ฮันรา ซัมเมอร์เทรนนิ่ง
+RECRUIT_SUMMER_TRAINING_HANRA_FIRST,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นได้หลากหลาย รวมถึงสกิน ฮันรา ซัมเมอร์เทรนนิ่ง และผู้เล่น ฮันรา
+RECRUIT_SUMMER_TRAINING_HANRA_FIRST_VPOINT,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นได้หลากหลาย รวมถึงสกิน ฮันรา ซัมเมอร์เทรนนิ่ง และผู้เล่น ฮันรา โดยใช้ V พอยต์และตั๋วรับสมัครผู้เล่นพิกอัป
+RECRUIT_SUMMER_TRAINING_HANRA_FIRST_COIN,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นได้หลากหลาย รวมถึงสกิน ฮันรา ซัมเมอร์เทรนนิ่ง และผู้เล่น ฮันรา โดยใช้เหรียญปาล์ม
+RECRUIT_SUMMER_TRAINING_VIOLA_TITLE,การรับสมัครผู้เล่น วิโอล่า ซัมเมอร์เทรนนิ่ง
+RECRUIT_SUMMER_TRAINING_VIOLA_FIRST,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นได้หลากหลาย รวมถึงสกิน วิโอล่า ซัมเมอร์เทรนนิ่ง และผู้เล่น วิโอล่า
+RECRUIT_SUMMER_TRAINING_VIOLA_FIRST_VPOINT,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นได้หลากหลาย รวมถึงสกิน วิโอล่า ซัมเมอร์เทรนนิ่ง และผู้เล่น วิโอล่า โดยใช้ V พอยต์และตั๋วรับสมัครผู้เล่นพิกอัป
+RECRUIT_SUMMER_TRAINING_VIOLA_FIRST_COIN,การรับสมัครผู้เล่นที่สามารถรับสมัครผู้เล่นได้หลากหลาย รวมถึงสกิน วิโอล่า ซัมเมอร์เทรนนิ่ง และผู้เล่น วิโอล่า โดยใช้เหรียญปาล์ม
+GET_EV2608_SKIN_SCOUT_POINT_DESC,คะแนนสเกาต์สกินซัมเมอร์สามารถรับได้ผ่านการรับสมัครผู้เล่นพิกอัป#สามารถรับคะแนนสเกาต์สกินซัมเมอร์ {0} คะแนนได้จากการรับสมัครผู้เล่นนี้
+PLAYER/LUCAS/SKIN/SUMMER_TRAINING,ซัมเมอร์เทรนนิ่ง
+PLAYER/LUCAS/SKIN/SUMMER_TRAINING/DES,ลืมความคิดที่วุ่นวายในหัวไปชั่วคราว แล้วตัดสินใจลองเล่นวอลเลย์บอลชายหาดที่เคยเล่นสนุกกับครอบครัวในวัยเด็ก แม้ว่าจะยังไม่คุ้นเคยจึงมีผิดพลาดบ้างเป็นบางครั้ง... แต่ในวินาทีที่ได้ยินเสียงเชียร์ของแฟนๆ ลูคัสจะไม่แพ้ให้ใครอย่างแน่นอน
+PLAYER/HANRA/SKIN/SUMMER_TRAINING,ซัมเมอร์เทรนนิ่ง
+PLAYER/HANRA/SKIN/SUMMER_TRAINING/DES,ฮันราที่มุ่งหน้าไปยังชายหาดเพื่อต้อนรับปิดเทอมฤดูร้อน ในตอนแรกเธอไม่ได้มีความสนใจในวอลเลย์บอลชายหาดเป็นพิเศษ แต่เมื่อได้ยินว่านี่ก็เป็นการเปิดโลกทัศน์เช่นกัน เธอจึงพยักหน้าและหยิบลูกวอลเลย์บอลขึ้นมา การทุ่มเทสุดความสามารถให้กับสิ่งที่ตัดสินใจทำไปแล้วเสมอคือวิถีในแบบของเธอ
+PLAYER/VIOLA/SKIN/SUMMER_TRAINING,ซัมเมอร์เทรนนิ่ง
+PLAYER/VIOLA/SKIN/SUMMER_TRAINING/DES,พอได้วิ่งเล่นอย่างสนุกสนานใต้แสงแดดอันร้อนแรง รู้ตัวอีกทีก็หลงเสน่ห์ของวอลเลย์บอลชายหาดเข้าให้แล้ว หลังจากโชว์การเล่นอันยอดเยี่ยม ก็มักจะแอบเหลียวมองรอบๆ ว่าอิซาเบลจะเอ่ยชมเธอหรือเปล่า
+ABILITY/CARD/NAME_160,ไวโอเล็ต แซฟไฟร์
+ABILITY/CARD/DES_160,คูลดาวน์สกิลแอคทีฟของผู้เล่นฝ่ายเดียวกันทั้งหมดลดลงเร็วขึ้น {n1}%
+ABILITY/CARD/NAME_161,คอรัล รูบี้
+ABILITY/CARD/DES_161,ระยะเวลาของสกิลแอคทีฟของผู้เล่นฝ่ายเดียวกันทั้งหมดเพิ่มขึ้น {n1}%
+EV2608_POPUP_DESC,ฝึกซ้อมฝ่าหาดร้อนระอุ! พบกับลูคัส ฮันรา และวิโอล่า!
+EV2608_POPUP_PLAY_TITLE,ซัมเมอร์เทรนนิ่ง!
+EV2608_POPUP_PLAY_DESC,ชนะการแข่งขันและสร้างค่าการมีส่วนร่วมให้ฝ่ายของคุณ
+EV2608_POPUP_PICLKUP_TITLE,เปิดจัดรับสมัครผู้เล่นพิกอัปซัมเมอร์เทรนนิ่ง!
+EV2608_POPUP_PICLKUP_DESC,พิกอัปสกินผู้เล่นจำกัดเวลาซัมเมอร์เทรนนิ่งและ#ขายแพ็กเกจ
+EV2608_POPUP_ATTENDANCE_DESC,แจกไอเทมลิมิเต็ดและเหรียญปาล์ม!#เปิดพาสพรีเมียมและพาสรอยัล!
+EV2608_CAMP_UNAVAILABLE_2,ไม่สามารถเลือกฝ่ายนี้ได้ในขณะนี้
+PLAY_MODE,โหมดเทรนนิ่ง
+EV2608_ROUND_ENDING_SOON_WARN,เหลือเวลาอีกไม่มากจนกว่ารอบจะจบลง##การแข่งขันที่เสร็จสิ้นหลังจากรอบจบลงจะไม่ได้รับคะแนนมะพร้าว
+SUMMER_TRAINING_LIMITED_SKIN,สกินซัมเมอร์เทรนนิ่งลิมิเต็ด
+EV2608_SHOP/ALERT1,นำเหรียญปาล์มมาแลกเปลี่ยนเป็นสินค้าจำกัดเฉพาะอีเวนต์กันเลย!
+CAMP_BATTLE/NEED_DATA_REFRESH,ไม่สามารถโหลดข้อมูลฝ่ายได้ จะอัปเดตข้อมูล
+CAMP_NOT_FOUND,ไม่พบฝ่าย
+NOT_IN_RANGE_CAMP_BATTLE,ขณะนี้ไม่ได้อยู่ระหว่างการต่อสู้ระหว่างฝ่าย
+ALREADY_SELECT_CAMP,คุณเลือกฝ่ายแล้ว
+리그&선물상자 26.08.26,
+COMMON/COMBINATIOIN_APPLY/WS_LOCKED,ไม่สามารถเปลี่ยนผู้เล่นในตำแหน่ง WS ได้ ต้องการเปลี่ยนเฉพาะผู้เล่นในตำแหน่งอื่นหรือไม่?
+COMMON/COMBINATIOIN_APPLY/MB_LOCKED,ไม่สามารถเปลี่ยนผู้เล่นในตำแหน่ง MB ได้ ต้องการเปลี่ยนเฉพาะผู้เล่นในตำแหน่งอื่นหรือไม่?
+COMMON/COMBINATIOIN_APPLY/SE_LOCKED,ไม่สามารถเปลี่ยนผู้เล่นในตำแหน่ง SE ได้ ต้องการเปลี่ยนเฉพาะผู้เล่นในตำแหน่งอื่นหรือไม่?
+COMMON/COMBINATION_APPLY/SELECT_TEAM,ต้องการใช้กับทีมไหน?
+COMMON/COMBINATION_APPLY/NO_PLAYER,คุณไม่มีผู้เล่นที่จำเป็นสำหรับการจัดทีม
+COMMON/COMBINATION_APPLY/LEFT,ใช้กับทีมฝั่งซ้าย
+COMMON/COMBINATION_APLLY/RIGHT,ใช้กับทีมฝั่งขวา
+INGAME/COLOSSEUM/SKIP_ALL_DIALOGUE,โหมดโฟกัส
+INGAME/COLOSSEUM/SKIP_ALL_DIALOGUE/DES_ON,ข้ามบทสนทนาและแอนิเมชันการ์ดความสามารถทั้งหมด
+INGAME/COLOSSEUM/SKIP_ALL_DIALOGUE/DES_OFF,แสดงบทสนทนาและแอนิเมชันการ์ดความสามารถทั้งหมด
+COMMON/LOAD,โหลด
+INGAME/FORMATION,การจัดรูปแบบการป้องกัน
+SETTING/BASIC_SOUND,เสียงพื้นฐาน
+SETTING/ALL_SOUND,ระดับเสียงหลัก
+SETTING/ALL_SOUND/DES,ปรับระดับเสียงหลัก
+SETTING/INGAME_SOUND,เสียงเกม
+SETTING/ENVIRONMENT_SOUND,เสียงสภาพแวดล้อม
+SETTING/PLAY/DYNAMIC_JOYSTICK,จอยสติ๊กแบบไดนามิก
+SETTING/PLAY/DYNAMIC_JOYSTICK/DES,เมื่อแตะบริเวณจอยสติ๊กที่ตั้งค่าไว้ จอยสติ๊กจะปรากฏขึ้น ณ ตำแหน่งที่แตะ
+CURRENT,ปัจจุบัน
+ALERT/STAGE_CANNOT_CHANGE_SOMETHING,ไม่สามารถเปลี่ยน {0} ในด่านนี้ได้
+WEEKLY_GIFT_BOX,กล่องของขวัญรายสัปดาห์
+WEEKLY_GIFT_BOX/REWARD_LEFT,รางวัลที่รับได้
+WEEKLY_GIFT_BOX/REWARD_LEFT_UNIT,ครั้งที่เหลือ
+WEEKLY_GIFT_BOX/RULE,{3} มีโอกาสปรากฏเมื่อชนะนัดสุดท้ายของ {0} หรือ {1} หรือเคลียร์รอบ {2}
+LIMIT_DAILY,จำกัดรายวัน
+LIMIT_WEEKLY,จำกัดรายสัปดาห์
+WEEKLY_GIFT_BOX/WARNING,เมื่อถึง {0} หรือ {1} แล้ว จะไม่สามารถรับ {2} ได้จนกว่าขีดจำกัดจะรีเซ็ต
+WEEKLY_GIFT_BOX/LIMIT_RESET,ขีดจำกัดรางวัลจะรีเซ็ตรายวัน/รายสัปดาห์เวลา {0} (UTC)
+APPLIED_TARGETS_EXCEPT,ใช้กับผู้เล่นของทีมเรายกเว้น {0}
+COMMON/OBTAINABLE,รับได้
+COMMON/UNOBTAINABLE,รับไม่ได้
+WEEKLY_BLUEFLAME_GET_DETAIL,คุณสามารถรับ {2} ได้เมื่อชนะนัดสุดท้ายของ {0} หรือเคลียร์แต่ละรอบของ {1}#เมื่อถึง {3} แล้ว จะไม่สามารถรับ {2} ด้วยวิธีนี้ได้อีก
+WEEKLY_ARENA_POINT_DETAIL,ในแต่ละสัปดาห์ คุณสามารถรับโบนัส {1} ได้เมื่อเคลียร์รอบสุดท้ายของ {0} เป็นครั้งแรก
+PHANTOM_LEAGUE_TIP_28,ส่วนสูงของผู้เล่นทั้งหมดจะเพิ่มขึ้น
+PHANTOM_LEAGUE_TIP_29,ความสูงของตาข่ายในสนามจะเพิ่มขึ้น
+엘리트 스테이지 & 시즌3 & 신규 모집,
+엘리트룰,
+ELITE_RULE,กฎอีลิท
+ELITE_RULE/DEFENSE,การป้องกันอีลิท
+ELITE_RULE/DEFENSE/DES,"กฎอีลิทต้องอาศัยการป้องกันที่แม่นยำ#ยิ่งรับบอลหรือสไลด์ได้ตรงจังหวะที่ผู้เล่นสัมผัสบอล ความแม่นยำก็ยิ่งสูงขึ้น และจะได้รับผลตัดสิน PERFECT, GREAT, GOOD หรือ BAD ตามความแม่นยำ#ยิ่งผลตัดสินใกล้ PERFECT ความเสียหายต่อสตามินาส่วนบุคคลและพลังใจก็ยิ่งลดลง"
+ELITE_RULE/DEFENSE_PERFECT,การป้องกัน PERFECT
+ELITE_RULE/DEFENSE_PERFECT/DES,เมื่อป้องกันแบบเพอร์เฟกต์ภายในจำนวนเฟรมที่กำหนด จะหักล้างการโจมตีของคู่แข่ง 100% และลบล้างความสามารถพิเศษ#การรับบอลแบบเพอร์เฟกต์จะส่งบอลแบบ A และฟื้นฟูสตามินาส่วนบุคคลกับพลังใจจำนวนหนึ่ง#รับบอล: ภายใน 1 เฟรม#สไลด์: ภายใน 3 เฟรม
+ELITE_RULE/DEFENSE_GREAT,การป้องกัน GREAT
+ELITE_RULE/DEFENSE_GREAT/DES,การป้องกัน GREAT หักล้างการโจมตีของคู่แข่ง 80%#หากสตามินาส่วนบุคคลไม่เพียงพอ อาจป้องกันไม่สำเร็จแม้ได้รับผลตัดสิน GREAT
+ELITE_RULE/DEFENSE_GOOD,การป้องกัน GOOD
+ELITE_RULE/DEFENSE_BAD,การป้องกัน BAD
+ELITE_RULE/DEFENSE_BAD/DES,หากป้องกันช้ากว่าช่วงเวลาที่กำหนด อาจได้รับผลตัดสิน BAD การป้องกัน BAD ทำให้ผู้เล่นที่ป้องกันได้รับความเสียหายต่อสตามินาส่วนบุคคลและพลังใจมากขึ้น จึงควรหลีกเลี่ยงผลตัดสิน BAD ในการรับบอล#เมื่อสไลด์ จะไม่ได้รับผลตัดสินการป้องกัน BAD
+ELITE_RULE/RECEIVE_COMMAND,คำสั่งรับลูก
+ELITE_RULE/RECEIVE_COMMAND/DES,ในกฎอีลิท คุณสามารถกดปุ่มรับบอลเพื่อสั่งจังหวะรับบอลของเพื่อนร่วมทีมได้#หากไม่มีคำสั่งก่อนหมดช่วงเวลารับบอล เพื่อนร่วมทีมจะตัดสินใจป้องกันเองในจังหวะสุดท้าย#แถบเกจจังหวะป้องกันจะแสดงความแม่นยำจากคำสั่งรับบอลหรือการตัดสินใจอัตโนมัติของเพื่อนร่วมทีม
+ELITE_RULE/EXHAUSTION,เหนื่อยล้า
+ELITE_RULE/EXHAUSTION/DES,ผู้เล่นที่สูญเสียพลังใจทั้งหมดจะเข้าสู่สถานะเหนื่อยล้า#ในสถานะเหนื่อยล้า สตามินาส่วนบุคคลและพลังใจจะไม่ฟื้นฟู#สถานะเหนื่อยล้าสามารถยกเลิกได้ด้วยการเปลี่ยนตัวผู้เล่นหรือขอเวลานอก และเมื่อยกเลิกแล้ว พลังใจและสตามินาส่วนบุคคลจะฟื้นฟูจนเต็ม
+ELITE_RULE/MENTALITY,พลังใจ
+ELITE_RULE/MENTALITY/DES,ผู้เล่นแต่ละคนมีพลังใจเป็นของตัวเอง เมื่อพลังใจหมดจะเข้าสู่สถานะเหนื่อยล้า#พลังใจลดลงตามความรุนแรงของการโจมตีจากคู่แข่ง แต่พลังป้องกันสามารถลดความเสียหายได้
+ELITE_RULE/INDIVIDUAL_STAMINA,สตามินาส่วนบุคคล
+ELITE_RULE/INDIVIDUAL_STAMINA/DES,ผู้เล่นแต่ละคนมีสตามินาเป็นของตัวเอง เมื่อสตามินาต่ำ แม้จะรับบอลหรือสไลด์ป้องกันการโจมตีของคู่แข่ง บอลก็จะกระเด็นออกไปไกล
+RULE/ELITE_RECEIVE,การรับบอลอีลิท
+RULE/MATCH_RULE,กติกาการแข่งขัน
+RULE/INDIVIDUAL_STAMINA,สตามินาส่วนบุคคล
+특화노드,
+SPECIALIZATION/PRESET,พรีเซ็ต
+SPECIALIZATION/REFUND_ALERT,คืนแต้มความเชี่ยวชาญหรือไม่?
+SPECIALIZATION/RESET_PRESET_ALERT,รีเซ็ตพรีเซ็ต {0}?
+SPECIALIZATION/PREREQUISITE_AP,เลเวลความเชี่ยวชาญเฉพาะทางก่อนหน้า {0}
+SPECIALIZATION/NO_EFFECT,ไม่มีผล
+SPECIALIZATION/WEAKNESS,จุดอ่อน
+SPECIALIZATION/UNLOCK,ปลดล็อก
+SPECIALIZATION/DOWNGRADE,ลด
+SPECIALIZATION/UPGRADE,เพิ่ม
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_MIN,ไม่สามารถลดได้อีก
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_EXCEEDS_MAX,ถึงเลเวลสูงสุดแล้ว
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_OVERSPENT,AP ไม่พอ ({0}/{1})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH,เลเวลความเชี่ยวชาญเฉพาะทางก่อนหน้าไม่เพียงพอ ({0})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH/DEPENDENT,จะไม่เป็นไปตามเงื่อนไขเลเวลความเชี่ยวชาญเฉพาะทางก่อนหน้าของ {0} ({1})
+SPECIALIZATION/ERROR/SPECIALIZATION_CORE_LIMIT_EXCEEDED,เกินขีดจำกัดความเชี่ยวชาญแกนหลัก
+SPECIALIZATION/ERROR/SPECIALIZATION_IDENTITY_CORE_LIMIT_EXCEEDED,เปิดใช้ความเชี่ยวชาญแกนเอกลักษณ์ได้เพียง 1 รายการ
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_CHAIN_BLOCKED,ไม่สามารถเลือกจุดอ่อนสถานะเดียวกันติดกันได้
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_BALANCE_BROKEN,ความสมดุลของจุดอ่อนเสียแล้ว
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_NOT_UNLOCKED,ต้องปลดล็อกความเชี่ยวชาญเฉพาะทางที่เป็นเงื่อนไขก่อนหน้าก่อน
+SPECIALIZATION/ERROR/NOT_ENOUGH_ITEM_AMOUNT,แต้มปลดล็อกไม่พอ ({0}/{1})
+SPECIALIZATION/POINT/WS/OFFENSE,แต้มปลดล็อกโจมตี WS
+SPECIALIZATION/POINT/WS/DEFENSE,แต้มปลดล็อกรับ WS
+SPECIALIZATION/POINT/WS/IDENTITY,แต้มปลดล็อกเอกลักษณ์ WS
+SPECIALIZATION/POINT/MB/OFFENSE,แต้มปลดล็อกโจมตี MB
+SPECIALIZATION/POINT/MB/DEFENSE,แต้มปลดล็อกรับ MB
+SPECIALIZATION/POINT/MB/IDENTITY,แต้มปลดล็อกเอกลักษณ์ MB
+SPECIALIZATION/POINT/SE/OFFENSE,แต้มปลดล็อกโจมตี SE
+SPECIALIZATION/POINT/SE/DEFENSE,แต้มปลดล็อกรับ SE
+SPECIALIZATION/POINT/SE/IDENTITY,แต้มปลดล็อกเอกลักษณ์ SE
+SPECIALIZATION/POINT/WS/OFFENSE_DESC,ใช้ปลดล็อกความเชี่ยวชาญโจมตีของ WS
+SPECIALIZATION/POINT/WS/DEFENSE_DESC,ใช้ปลดล็อกความเชี่ยวชาญรับของ WS
+SPECIALIZATION/POINT/WS/IDENTITY_DESC,ใช้ปลดล็อกความเชี่ยวชาญเอกลักษณ์ของ WS
+SPECIALIZATION/POINT/MB/OFFENSE_DESC,ใช้ปลดล็อกความเชี่ยวชาญโจมตีของ MB
+SPECIALIZATION/POINT/MB/DEFENSE_DESC,ใช้ปลดล็อกความเชี่ยวชาญรับของ MB
+SPECIALIZATION/POINT/MB/IDENTITY_DESC,ใช้ปลดล็อกความเชี่ยวชาญเอกลักษณ์ของ MB
+SPECIALIZATION/POINT/SE/OFFENSE_DESC,ใช้ปลดล็อกความเชี่ยวชาญโจมตีของ SE
+SPECIALIZATION/POINT/SE/DEFENSE_DESC,ใช้ปลดล็อกความเชี่ยวชาญรับของ SE
+SPECIALIZATION/POINT/SE/IDENTITY_DESC,ใช้ปลดล็อกความเชี่ยวชาญเอกลักษณ์ของ SE
+SPECIALIZATION/HELP/AP,หลังปลดล็อกความเชี่ยวชาญเฉพาะทางด้วยแต้มปลดล็อก สามารถใช้ AP ของนักกีฬาเพิ่มเลเวลเพื่อเปิดใช้งานได้#สามารถลดเลเวลเพื่อรับ AP ที่ใช้ไปคืนได้อย่างอิสระ แต่ไม่สามารถยกเลิกการปลดล็อกความเชี่ยวชาญเฉพาะทางได้
+SPECIALIZATION/HELP/AP_ALERT,* เอฟเฟกต์และค่าของความเชี่ยวชาญเฉพาะทางอาจมีการปรับเปลี่ยนในการอัปเดตในอนาคต#หากมีการปรับเอฟเฟกต์หรือค่า จะสามารถรับแต้มปลดล็อกทั้งหมดที่ใช้กับความเชี่ยวชาญเฉพาะทางของผู้เล่นคนนั้นคืนได้
+SPECIALIZATION/HELP/PRESET,สามารถบันทึกการจัดสรร AP ของแต่ละความเชี่ยวชาญเฉพาะทางไว้ในพรีเซ็ตได้#การเปลี่ยนพรีเซ็ตจะไม่เปลี่ยนสถานะการปลดล็อกความเชี่ยวชาญเฉพาะทาง
+SPECIALIZATION/STATUS/LOCKED,ล็อกอยู่
+SPECIALIZATION/ACTIVATE,เปิดใช้งาน
+SPECIALIZATION/DEACTIVATE,ปิดใช้งาน
+SPECIALIZATION/TIER/GROWTH,เติบโต
+SPECIALIZATION/TIER/ENHANCEMENT,การเสริมพลัง
+SPECIALIZATION/TIER/TACTICAL,กลยุทธ์
+SPECIALIZATION/TIER/CORE,คอร์
+SPECIALIZATION/TIER/UNIQUE,เฉพาะตัว
+SPECIALIZATION,ความเชี่ยวชาญเฉพาะทาง
+모집 등,
+RECRUIT/GAUGE_SCOUT_READY,รับแน่นอนเมื่อรับสมัครอีก {0} ครั้ง!
+RECRUIT/SCOUT_CONFIRM_GAUGE,ใช้เกจ {0} หน่วยเพื่อสเกาต์หรือไม่?
+RECRUIT/SCOUT_CONFIRM_GAUGE_ONE,ใช้ {0} จำนวน {1} เพื่อสเกาต์หรือไม่?
+RECRUIT/SCOUT_CONFIRM_GAUGE_TWO,ใช้ {0} จำนวน {1} และ {2} จำนวน {3} เพื่อสเกาต์หรือไม่?
+RECRUIT/NO_SKIN_RECRUITING,ขณะนี้ไม่มีสกินที่เปิดให้รับสมัคร!
+ALERT/PICKUP_GAUGE_HELD_CAP,มีอยู่ {0} / สูงสุด {1}
+ALERT/PICKUP_GAUGE_NO_MORE,ไม่สามารถรับเกจรับสมัครพิกอัปเพิ่มได้อีก
+RECRUIT_GAUGE,เกจรับสมัครพิกอัป
+RECRUIT_GAUGE_DESC,ใช้สเกาต์นักกีฬาได้ เมื่อรับสมัครด้วยตั๋วรับสมัครผู้เล่น พิกอัป หรือ V พอยต์ เกจรับสมัครพิกอัปจะเพิ่ม 1 หน่วยต่อการรับสมัครนักกีฬา 1 คน#ไม่สามารถเก็บเกจรับสมัครพิกอัปเกิน 135 หน่วยได้
+BEGINNER_RECRUIT_TICKET,ตั๋วรับสมัครมือใหม่
+BEGINNER_RECRUIT_TICKET_DESC,ตั๋วรับสมัครที่ช่วยให้มือใหม่พัฒนาได้อย่างรวดเร็ว#ลองรับสมัครนักกีฬาระดับ S ดูสิ!
+BEGINNER_RECRUIT_GAUGE,เกจพิกอัปมือใหม่
+BEGINNER_RECRUIT_GAUGE_DESC,ใช้สำหรับสเกาต์ผู้เล่นมือใหม่ได้ เมื่อรับสมัครด้วยตั๋วรับสมัครมือใหม่ เกจรับสมัครมือใหม่จะเพิ่มขึ้น 1 หน่วยต่อผู้เล่นที่รับสมัคร 1 คน
+BEGINNER_RECRUIT/SELECT_SCOUT_TARGET,โปรดเลือกนักกีฬาที่ต้องการสเกาต์
+ALERT/PICKUP_GAUGE_LIMIT,ไม่สามารถเก็บเกจรับสมัครพิกอัปเกิน 135 หน่วยได้#ต้องการรับสมัครต่อหรือไม่?
+CONVERT,แปลง
+SCOUT_POINT_CONVERSION,แปลงคะแนนสเกาต์พิกอัป
+PICKUP_GAUGE_LIMIT_DES,สามารถเก็บเกจรับสมัครพิกอัปได้สูงสุด 135 หน่วย
+CAN_CONVERT_MORE_ONE,ต้องมีอย่างน้อย 1 หน่วยจึงจะแปลงได้
+MOVE_TO_GUIDE_PLAYER_DES,ต้องการดูคำอธิบายของนักกีฬา {0} หรือไม่?
+NO_MORE_SCOUT_POINT,ไม่มีคะแนนสเกาต์พิกอัป
+CHECK_SCOUT_POINT_AMOUNT,ไม่สามารถแปลงจำนวนนี้ได้
+CALENDAR_BEFORE_FIRST_PURCHASE,ยังไม่เริ่ม
+RECRUIT/SCOUT_HELP_LINE_1,การสเกาต์คือฟังก์ชันรับสมัครนักกีฬาแบบได้แน่นอน
+RECRUIT/SCOUT_HELP_LINE_2,ใช้เกจรับสมัครเพื่อสเกาต์ได้
+RECRUIT/SCOUT_HELP_LINE_3,ในการรับสมัครทั่วไป การรับสมัครตามตำแหน่ง และการรับสมัครโคลอสเซียม สามารถใช้คะแนนสเกาต์เพื่อสเกาต์นักกีฬาได้
+RECRUIT/SCOUT_RULE_GAUGE_CAP,สามารถเก็บเกจรับสมัครพิกอัปได้สูงสุด {0} หน่วย
+RECRUIT/SCOUT_RULE_PICKUP_CONVERT,คะแนนสเกาต์พิกอัปสามารถแปลงเป็นเกจรับสมัครพิกอัปได้
+RECRUIT/SCOUT_RULE_BLOCK,หากผู้เล่นปลุกพลังถึงขั้น 5 หรือมีชิ้นส่วนความพยายามของผู้เล่นคนนั้นครบ 5 ชิ้นแล้ว จะไม่สามารถสเกาต์เพิ่มได้
+BEGINNER_RECRUIT_DESC_1,ใช้ตั๋วรับสมัคร 40 ใบ รับนักกีฬาระดับ S แน่นอน 1 คน!
+BEGINNER_RECRUIT_DESC_2,สามารถซื้อสินค้านี้ได้ในร้านค้า
+BEGINNER_RECRUIT/RECENTLY_SELECTED,เลือกล่าสุด
+RECRUIT/TAB_BASIC,รับสมัครนักกีฬาทั่วไป
+RECRUIT/TAB_COLOSSEUM,รับสมัครนักกีฬาโคลอสเซียม
+RECRUIT/PICKUP_REMAIN,สิ้นสุดใน {0}
+RECRUIT/SCOUT_ROUND,ครั้งที่ {0}
+RECRUIT/SCOUT_NEXT_NEED,เกจรับสมัครที่ต้องใช้เพื่อสเกาต์ {0}
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,คำแนะนำเกจรับสมัครสำหรับสเกาต์
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,ครั้งที่
+RECRUIT/SCOUT_GAUGE_TABLE_COL_NEED,เกจรับสมัครที่ต้องใช้
+CAN_RECRUIT_SCOUT,รับ {0} ได้!
+RECRUIT/TAB_POSITION,รับสมัครนักกีฬาตามตำแหน่ง
+RECRUIT/TAB_COLOSSEUM,รับสมัครนักกีฬาโคลอสเซียม
+RECRUIT_NORMAL,รับสมัครนักกีฬาทั่วไป
+RECRUIT_WS,รับสมัครหัวเสา
+RECRUIT_MB,รับสมัครมิดเดิลบล็อกเกอร์
+RECRUIT_SE,รับสมัครเซตเตอร์
+RECRUIT/SCOUT_CONFIRM_TITLE,สเกาต์ {0}
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,ครั้งที่
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,สเกาต์
+RECRUIT/SCOUT_GAUGE_TABLE_DES,การสเกาต์คือการรับสมัครนักกีฬาแบบได้แน่นอน สามารถใช้เกจรับสมัครหรือคะแนนสเกาต์เพื่อสเกาต์นักกีฬาได้
+RECRUIT/SCOUT_LONG_DES,เมื่อสเกาต์ด้วยเกจรับสมัคร เกจที่ต้องใช้ในการสเกาต์ครั้งถัดไปจะลดลง # สามารถเก็บเกจรับสมัครพิกอัปได้สูงสุด 135 หน่วย
+RECRUIT/SCOUT_BLOCKED_AWAKEN,ไม่สามารถรับเพิ่มได้อีก
+RECRUIT/BUY_TICKET_WITH_COIN_AND_RECRUIT,ใช้ {0} จำนวน {1} ซื้อ {2} จำนวน {3} เพื่อรับสมัครหรือไม่?
+CALENDAR_SCHEDULED,กำหนดใช้งาน
+CALENDAR_EXPIRED,สิ้นสุดการใช้งาน
+CALENDAR_GLOBAL_BEFORE,เตรียมเปิดเร็วๆ นี้
+CALENDAR_GLOBAL_AFTER,สิ้นสุดการให้บริการ
+CALENDAR_CONFIG_MISSING,ต้องอัปเดตการตั้งค่า
+DIRECT_RECRUIT,รับสมัครทันที
+CAN_RECRUIT,รับสมัครได้
+EVENT_PICKUP_DES,· {0} จะถูกหักก่อนเมื่อสเกาต์นักกีฬา และจะหายไปเมื่อระยะเวลากิจกรรมสิ้นสุด
+RECRUIT/NOT_ENUGH_GAUGE,เกจรับสมัครไม่เพียงพอ
+BEGINNER_RECRUIT,รับสมัครนักกีฬาสำหรับมือใหม่
+BEGINNER_RECRUIT_TITLE,รับสมัครนักกีฬาสำหรับมือใหม่
+BEGINNER_RECRUIT_DESC,ใช้ตั๋วรับสมัครมือใหม่เพื่อรับนักกีฬาระดับ S ได้อย่างแน่นอน
+BEGINNER_RECRUIT/CONFIRM_SCOUT_TARGET,เลือกนักกีฬา
+BEGINNER_RECRUIT/TIP_MINJUN/KEYWORD,ทำคะแนนสูง
+BEGINNER_RECRUIT/TIP_MINJUN,เล่นง่ายและทำคะแนนได้ดี แนะนำสำหรับทุกคอนเทนต์
+BEGINNER_RECRUIT/TIP_YOUNGSUB/KEYWORD,แบบออลราวด์
+BEGINNER_RECRUIT/TIP_YOUNGSUB,แข็งแกร่งอย่างสม่ำเสมอ จึงเล่นได้ดีในทุกคอนเทนต์
+BEGINNER_RECRUIT/TIP_ISABEL/KEYWORD,แบบเน้นเคาน์เตอร์
+BEGINNER_RECRUIT/TIP_ISABEL,เล่นได้ยากในสถานการณ์ทั่วไป แต่มีศักยภาพสูง เหมาะกับคอนเทนต์ที่ท้าทาย
+BEGINNER_RECRUIT/TIP_ATIS/KEYWORD,แบบกดดันด้วยบอลเร็ว
+BEGINNER_RECRUIT/TIP_ATIS,กดดันคู่แข่งด้วยสมรรถภาพร่างกายที่เหนือกว่าและบอลเร็ว แนะนำสำหรับทุกคอนเทนต์
+BEGINNER_RECRUIT/TIP_HANRA/KEYWORD,แบบรับมือมั่นคง
+BEGINNER_RECRUIT/TIP_HANRA,ช่วยให้ทีมมั่นคงขึ้นด้วยการป้องกันและการช่วยเพื่อนป้องกันที่ยอดเยี่ยม แนะนำสำหรับทุกคอนเทนต์
+BEGINNER_RECRUIT/TIP_SANGHYEON/KEYWORD,แบบเสริมพลังทีม
+BEGINNER_RECRUIT/TIP_SANGHYEON,เพิ่มค่าสถานะให้ทั้งทีม สร้างโอกาสในการป้องกันและโจมตี แนะนำสำหรับทุกคอนเทนต์
+BEGINNER_RECRUIT/TIP_LISIA/KEYWORD,แบบเชี่ยวชาญเสิร์ฟ
+BEGINNER_RECRUIT/TIP_LISIA,ยกระดับขวัญกำลังใจของทีมด้วยลูกเสิร์ฟที่อันตราย แนะนำสำหรับทุกคอนเทนต์
+BEGINNER_RECRUIT/TIP_ZERO/KEYWORD,แบบสนับสนุนด้วยการเซต
+BEGINNER_RECRUIT/TIP_ZERO,ช่วยให้เพื่อนร่วมทีมโดดเด่นด้วยการเซตอันทรงพลัง แนะนำสำหรับทุกคอนเทนต์
+BEGINNER_RECRUIT/TIP_AHYEON/KEYWORD,แบบเชี่ยวชาญคอมโบ
+BEGINNER_RECRUIT/TIP_AHYEON,ประสานงานกับเพื่อนร่วมทีมเพื่อทำให้คู่แข่งรับมือไม่ไหว แนะนำสำหรับคอนเทนต์ที่ท้าทาย
+RECRUIT/SCOUT_MAXED,สเกาต์นักกีฬาคนนี้ครบแล้ว
+STAR_CONDITION/ALWAYS,ชนะในการแข่งขัน
+STAR_CONDITION/ONAIR_VIEWERS,มีจำนวนผู้ชมสูงสุดถึง {0} คน
+STAR_CONDITION/SPIKE_SCORE,ทำคะแนนด้วยการตบ {0} ครั้ง
+STAR_CONDITION/BACK_ATTACK_SCORE,ทำคะแนนด้วยการโจมตีแดนหลัง {0} ครั้ง
+STAR_CONDITION/QUICK_SCORE,ทำคะแนนด้วยบอลเร็ว {0} ครั้ง
+STAR_CONDITION/LOSE_SCORE,เสียคะแนนน้อยกว่า {0} แต้ม
+STAR_CONDITION/LOSE_SCORE_MANUAL,เสียคะแนนน้อยกว่า {0} แต้มในโหมดควบคุมด้วยตนเอง
+STAR_CONDITION/DIFFICULTY_EXTREME,ชนะในระดับยากมาก
+STAR_CONDITION/DIFFICULTY_HARD,ชนะในระดับยาก
+STAR_CONDITION/WIN_SCORE_WITHOUT_AUTO,ชนะด้วยผลต่างอย่างน้อย {0} แต้มในโหมดควบคุมด้วยตนเอง
+STAR_CONDITION/WIN_SCORE_WITHOUT_BEGINNER,ชนะด้วยผลต่างอย่างน้อย {0} แต้มโดยไม่ใช้โหมดมือใหม่
+CONVERTED_GAUGE_AMOUNT,ปริมาณการแปลงสะสม: {0}
+COMMON/TOTAL,สะสม
+SHOP/DOUBLE_BONUS,BONUS! +{0}VP
+SHOP/FIRST_PURCHASE_BONUS,ข้อเสนอพิเศษ!
+COMMON/WEEKDAY_SUN,วันอาทิตย์
+COMMON/WEEKDAY_MON,วันจันทร์
+COMMON/WEEKDAY_TUE,วันอังคาร
+COMMON/WEEKDAY_WED,วันพุธ
+COMMON/WEEKDAY_THU,วันพฤหัสบดี
+COMMON/WEEKDAY_FRI,วันศุกร์
+COMMON/WEEKDAY_SAT,วันเสาร์
+BLOCKING_LIFE,ความแข็งแกร่งของบล็อก
+PLAYER/HAN_GITAE/NICKNAME,มิดเดิลบล็อกเกอร์เหล็กกล้า
+PLAYER/HAN_GITAE/LINE,กำลังเมื่อยอยู่พอดี มาวอร์มร่างกายกันหน่อยไหม!
+PLAYER/HAN_GITAE/LINE_2,ไม่มีออมมือ เข้ามาให้สุดกำลังเลย!
+PLAYER/HAN_GITAE/GACHA/LINE,ไม่มีออมมือ<wait=100> เข้ามาให้สุดกำลังเลย!
+PLAYER/SEO_YUNA/NICKNAME,พรสวรรค์แห่งการปรับตัว
+PLAYER/SEO_YUNA/LINE,จะแสดงให้ดูเอง ฉันแข็งแกร่งกว่าที่เห็นนะ!
+PLAYER/SEO_YUNA/GACHA/LINE,ในเมื่อเราได้พบกันเพราะโชคชะตา<break><wait=85><b>ก็มาเอาชนะทุกคนกันเลยค่ะ!
+PLAYER/SEO_YUNA/GACHA/LINE_2,พรสวรรค์แล้วไงล่ะ ใช้ความพยายามเอาชนะก็พอแล้วค่ะ!
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM,แอนิเมชันเวลานอก
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM/DES,เล่นภาพแอนิเมชันประกอบบนหน้าจอเวลานอกอย่างลื่นไหลด้วยคุณภาพสูง อาจส่งผลต่อประสิทธิภาพการทำงาน
+NAME/ELITE_MATCH_DES,เอาชนะทีมคู่แข่งที่เปลี่ยนไปในแต่ละวันของสัปดาห์ แล้วรับรางวัลกิจกรรม!
+STORYMODE_TIP_9,จะใช้กฎอีลิท
+MAP_NATIONAL,โรงยิมโผบิน
+BEGINNER_RECRUIT/CAN_SCOUT,รับนักกีฬาสำหรับมือใหม่ได้!
+RECRUIT/HELP_TITLE,รับสมัครนักกีฬา
+RECRUIT/HELP_LINE_1,คุณสามารถใช้ตั๋วรับสมัครหรือเงินตราเพื่อรับนักกีฬาได้
+RECRUIT/HELP_LINE_2,สามารถสเกาต์ผู้เล่นในการรับสมัครผู้เล่นกิจกรรมได้โดยใช้เกจรับสมัครกิจกรรมและเกจรับสมัครพิกอัป
+RECRUIT/HELP_LINE_3,สามารถสเกาต์นักกีฬาในการรับสมัครนักกีฬาสำหรับมือใหม่ได้โดยใช้เกจรับสมัครสำหรับมือใหม่
+RECRUIT/HELP_LINE_4,ตั๋วรับสมัครผู้เล่นพิกอัปอีเวนต์จะหมดอายุเมื่ออีเวนต์สิ้นสุดลง
+RECRUIT/SCOUT_NO_MORE,ไม่สามารถสเกาต์ต่อได้อีก
+RECRUIT/NOT_ENOUGH_GAUGE,เกจไม่เพียงพอ
+RECRUIT/SCOUT_CONFIRM_EVENT_FIRST,{0} จะถูกหักก่อน
+RECRUIT/CURRENCY_NOT_ENOUGH_GO_SHOP,เงินตราไม่เพียงพอ ต้องการไปที่ร้านค้าหรือไม่?
+RECRUIT/BUY_THEN_RECRUIT,รับสมัครหลังซื้อ
+COMMON/RECRUIT,รับสมัคร
+CONVERTED_GAUGE_AMOUNT,ปริมาณที่แปลงสะสม: {0}
+COMMON/MAX_BUY_COUNT,จำนวนครั้งที่ซื้อได้สูงสุด : {0}
+COMMON/TOTAL_BUY_DES,คุณจะซื้อทั้งหมด {0} ชิ้น
+COMMON/EASY,ง่าย
+COMMON/TOOHARD,ยากมาก
+RECRUIT/SCOUT_RULE_OVER_ROUND,แม้หลังรอบสุดท้าย ก็ยังสเกาต์ต่อด้วยเกจเดิมได้
+RECRUIT/SCOUT_ROUND_AFTER,ตั้งแต่ครั้งที่ {0} เป็นต้นไป
+FEVER_MODE,โหมดฟีเวอร์
+COMMON/WORD/PERFECT_RECEIVE,Perfect Receive
+COMMON/WORD/SPIKE_JUMP,Spike Jump
+PICKUP_PLAYER_SCOUT_POINT_DES,เปลี่ยนแต้มแมวมองผู้เล่นเด่นเป็นความคืบหน้าของเกจรับสมัครผู้เล่นเด่น เพื่อรับสมัครผู้เล่นเด่นได้อย่างแน่นอน
+SCOUT_POINT_CONVERSION,แปลงคะแนนสเกาต์นักกีฬาพิกอัป
+NO_MORE_SCOUT_POINT,ไม่มีคะแนนสเกาต์นักกีฬาพิกอัป
+RECRUIT/SCOUT_RULE_PICKUP_CONVERT,คะแนนสเกาต์นักกีฬาพิกอัปสามารถแปลงเป็นเกจรับสมัครพิกอัปได้
+TIMEOUT/ALERT/NO_CHANCES,ไม่เหลือสิทธิ์ขอเวลานอกแล้ว
+RECRUIT/SCOUT_GAUGE_TABLE_ROUND_OR_MORE,{0} ครั้งขึ้นไป
+RECRUIT/SCOUT_ROUND_AFTER,ตั้งแต่ครั้งที่ {0} เป็นต้นไป
+SPECIALIZATION/ALERT/LOAD_FAILED,ไม่สามารถโหลดโหนดความเชี่ยวชาญเฉพาะทางได้ โปรดลองอีกครั้ง
+SETTING/PREFERENCE/SPECIALIZATION_FX,เอฟเฟกต์หน้าจอโหนดความเชี่ยวชาญเฉพาะทาง
+SETTING/PREFERENCE/SPECIALIZATION_FX/DES,เปิดเอฟเฟกต์พื้นหลังบนหน้าจอโหนดความเชี่ยวชาญเฉพาะทาง อาจส่งผลต่อประสิทธิภาพการทำงาน
+EV2609 이벤트 이후 삭제해도 되는 언어,
+EV2609,อีลิทสเตจ
+EV2609_DES,ในด่านอีลิทจะใช้กฎอีลิทแบบพิเศษ##แข่งขันกับทีมคู่แข่งที่เปลี่ยนไปในแต่ละวัน ทำเงื่อนไขรับดาวให้สำเร็จและสะสมดาว โดยจำนวนดาวประจำวันจะนับเฉพาะสถิติดาวสูงสุดที่ทำได้ในการแข่งขันของวันนั้น##คุณสามารถรับรางวัลรายวันจากชัยชนะครั้งแรกของแต่ละวัน และท้าทายการแข่งขันเดิมต่อเพื่อเก็บดาวเพิ่มได้ รางวัลรายสัปดาห์จะมอบให้ตามจำนวนดาวทั้งหมดที่สะสมได้ตลอดสัปดาห์
+EV2609_COIN,เหรียญอีลิท
+EV2609_COIN_DESC,สกุลเงินกิจกรรมที่ได้รับจากด่านอีลิท#สามารถใช้ได้ในร้านค้า
+EV2609_EXTRA_REWARD_TICKET,ตั๋วรับรางวัลเพิ่มเติม
+EV2609_EXTRA_REWARD_TICKET_DESC,ใช้เพื่อรับรางวัลรายวันของวันนี้เพิ่มอีก 1 ครั้ง รับรางวัลได้เมื่อเคลียร์ด่าน และสามารถซื้อตั๋วนี้ได้วันละ 1 ครั้ง
+EV2609_RECRUIT_GAUGE,เกจรับสมัครระดับอีลิท
+EV2609_RECRUIT_GAUGE_DESC,เกจรับสมัครที่ใช้ได้ในช่วงกิจกรรมอีลิทสเตจ จะถูกหักก่อนเมื่อสเกาต์นักกีฬาอีลิทและไม่มีขีดจำกัดจำนวนที่เก็บได้ เกจจะหายไปเมื่อกิจกรรมสิ้นสุด
+EV2609_PLAYER_RECRUIT_TICKET,ตั๋วรับสมัครผู้เล่นพิกอัปอีลิท
+EV2609_PLAYER_RECRUIT_TICKET_DESC,ตั๋วรับสมัครที่สามารถใช้ได้ในช่วงกิจกรรมด่านอีลิท#สามารถใช้รับสมัครผู้เล่นกิจกรรมได้
+EV2609_RAID_SHOP_POPUP,สามารถใช้สกุลเงินที่กำหนดแลกเป็นสกุลเงิน ตั๋วรับสมัคร และไอเทมต่าง ๆ ได้
+EV2609_POPUP_DESC,"ท้าทายด่านอีลิท! พบกับ ฮัน กีแท, ซอ ยูนา และ คัง เซจิน!"
+EV2609_POPUP_PLAY_TITLE,อีลิทสเตจ
+EV2609_POPUP_PLAY_DESC,แข่งกับทีมที่เปลี่ยนไปทุกวันและคว้าชัยชนะ
+EV2609_POPUP_PICKUP_TITLE,เปิดรับสมัครพิกอัปนักกีฬาอีลิท!
+EV2609_POPUP_PICKUP_DESC,รับสมัครพิกอัปนักกีฬาเฉพาะอีลิทสเตจและ#จำหน่ายแพ็กเกจ
+EV2609_LOGIN_BONUS,พาสเช็กชื่ออีลิท
+EV2609_POPUP_ATTENDANCE_DESC,รับไอเทมเฉพาะกิจกรรมและเหรียญอีลิท!#เปิดพาสพรีเมียมและพาสรอยัล!
+DIFFICULTY_EXTREME,เอ็กซ์ตรีม
+EV2609_UNLOCK_EXTRA_REWARD,รีเซ็ตรางวัล
+EV2609_CLEAR_RESULT,ผลการเคลียร์
+EV2609_RESET_INFO,รีเซ็ตทุกวันเวลา 00:00 น. (UTC)
+NO_CLEAR_RESULT,ไม่มีประวัติการเคลียร์
+EV2609_CLAIM_WEEKLY_FIRST,ต้องรับรางวัลรายสัปดาห์
+EV2609_NO_STAGE,วันนี้ไม่มีด่านที่สามารถเข้าได้
+EV2609_USE_REWARD_TICKET_DES,ใช้เพื่อรับรางวัลรายวันของวันนี้เพิ่มอีกหนึ่งครั้ง#จะได้รับรางวัลเมื่อเคลียร์ด่าน
+EV2609_ERROR_ALREADY_CLAIMED_WEEKLY_REWARD,ไม่มีรางวัลที่สามารถรับได้
+EV2609_ERROR_INVALID_EVENT,กิจกรรมนี้ไม่ถูกต้อง
+EV2609_ERROR_NOT_STAGE_TODAY,ด่านนี้ไม่สามารถเข้าได้ในวันนี้
+EV2609_ERROR_DAILY_REWARD_AVAILABLE,ยังสามารถรับรางวัลรายวันได้
+EV2609_ERROR_NOT_ENOUGH_PRODUCT,ตั๋วรางวัลเพิ่มเติมไม่เพียงพอ
+EV2609_ERROR_MATCH_IN_PROGRESS,การแข่งขันกำลังดำเนินอยู่
+EV2609_STAR_REQUIRE,ขึ้นไป
+EV2609_MISSION_MB_WIN,ชนะ {0} ครั้งในแมตช์ที่ชนะขณะควบคุมตัวบล็อกกลาง
+EV2609_MISSION_BACK_ATTACK,โจมตีจากแดนหลังสำเร็จ {0} ครั้งในแมตช์ที่ชนะ
+EV2609_MISSION_SERVE_ACE,ทำเซิร์ฟเอซ {0} ครั้งในแมตช์ที่ชนะ
+EV2609_MISSION_PERFECT_RECEIVE,ทำ Perfect Receive ให้สำเร็จ {0} ครั้งในฐานะผู้เล่นที่ควบคุมในแมตช์ที่ชนะ
+EV2609_MISSION_MB_QUICK,เล่นบอลเร็ว {0} ครั้งขณะควบคุมมิดเดิลบล็อกเกอร์ในแมตช์ที่ชนะ
+EV2609_MISSION,ภารกิจเฉพาะด่านอีลิท
+EV2609_MISSION_DES,ภารกิจเฉพาะเหล่านี้จะคงอยู่ตลอดระยะเวลากิจกรรมอีลิท โดยสามารถทำภารกิจทั้งหมดให้สำเร็จได้ผ่านการแข่งขันในด่านอีลิท
+EV2609_MATCH_PERIOD_END,กิจกรรมสิ้นสุดแล้ว ขณะนี้สามารถรับรางวัลได้เท่านั้น ต้องการไปยังหน้าต่างรางวัลหรือไม่?
+EV2609_REWARD_ONLY_ONCE,ครั้งแรกเท่านั้น
+EV2609_WEEKLY_REWARD,รางวัลรายสัปดาห์
+EV2609_WEEKLY_REWARD_LIST,รายการรางวัลรายสัปดาห์
+EV2609_EXCHANGE_SHOP,ร้านค้าเหรียญอีลิท
+RECRUIT_ELITE_SEO_YUNA_TITLE,รับสมัคร ซอ ยูนา ระดับ S
+RECRUIT_ELITE_SEO_YUNA_DESC,สามารถรับสมัครนักกีฬา รวมถึง ซอ ยูนา ตัวตบหัวเสาระดับ S ที่เข้าร่วมผ่านอีลิทสเตจ
+RECRUIT_ELITE_HAN_GITAE_TITLE,รับสมัคร ฮัน กีแท ระดับ S+
+RECRUIT_ELITE_HAN_GITAE_DESC,สามารถรับสมัครนักกีฬา รวมถึง ฮัน กีแท ตัวบล็อกกลางระดับ S+ ที่เข้าร่วมผ่านอีลิทสเตจ
+RECRUIT_ELITE_KANG_SEJIN_TITLE,รับสมัคร คัง เซจิน ระดับ S
+RECRUIT_ELITE_KANG_SEJIN_DESC,สามารถรับสมัครนักกีฬา รวมถึง คัง เซจิน เซตเตอร์ระดับ S ที่เข้าร่วมผ่านอีลิทสเตจ
+EV2609_PICKUP_WS,WS ซอ ยูนา
+EV2609_PICKUP_MB,MB ฮัน กีแท
+EV2609_PICKUP_SE,Se คัง เซจิน
+EV2609_LOGIN_BONUS_DESC,เช็กชื่อภายในระยะเวลาที่กำหนดเพื่อรับไอเทมและสกุลเงินต่างๆ
+EV2609_SPECIALIZATION_BOX,กล่องแต้มปลดล็อกความเชี่ยวชาญเฉพาะทาง
+EV2609_SPECIALIZATION_BOX_DES,สุ่มรับแต้มปลดล็อกความเชี่ยวชาญเฉพาะทางได้สูงสุด 2 ประเภทจากทั้งหมด 9 ประเภท รับรางวัลนี้ได้วันละ 1 ครั้งเมื่อชนะครั้งแรกของวัน
+PRACTICE/ALERT/SELECT_SUBSTITUTE_PLAYERS,กรุณาเลือกผู้เล่นสำรอง
+,
+STAR_CONDITION/ENEMY_MB_BLOCK_STRENGTH_ZERO,ทำให้ความแข็งแกร่งของบล็อกของทีมฝ่ายตรงข้ามหมดลง
+ALERT/NEW_MODE_UNLOCK,ปลดล็อกโหมดใหม่แล้ว
+ALERT/NEW_STORY_UNLOCK,ปลดล็อกเนื้อเรื่องใหม่แล้ว

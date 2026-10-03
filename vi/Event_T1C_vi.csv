@@ -1,0 +1,471 @@
+﻿KEY,베트남어(vi)
+엘리트룰,
+ELITE_RULE,Luật Tinh Anh
+ELITE_RULE/DEFENSE,Phòng thủ Tinh Anh
+ELITE_RULE/DEFENSE/DES,"Luật Tinh Anh yêu cầu phòng thủ chính xác.#Đỡ bóng hoặc Trượt người càng đúng thời điểm cầu thủ chạm bóng thì độ chính xác càng tăng, và tùy theo độ chính xác, bạn có thể nhận đánh giá PERFECT, GREAT, GOOD hoặc BAD.#Đánh giá càng gần PERFECT thì sát thương lên Thể Lực Cá Nhân và Tinh Thần càng giảm."
+ELITE_RULE/DEFENSE_PERFECT,Phòng thủ PERFECT
+ELITE_RULE/DEFENSE_PERFECT/DES,Phòng thủ Hoàn hảo trong giới hạn khung hình quy định sẽ triệt tiêu 100% đòn tấn công của đối thủ và vô hiệu hóa năng lực đặc biệt.#Đỡ bóng Hoàn hảo tạo ra Chuyền A và hồi phục một lượng Thể Lực Cá Nhân cùng Tinh Thần.#Đỡ bóng: trong 1 khung hình#Trượt người: trong 3 khung hình
+ELITE_RULE/DEFENSE_GREAT,Phòng thủ GREAT
+ELITE_RULE/DEFENSE_GREAT/DES,"Phòng thủ GREAT triệt tiêu 80% đòn tấn công của đối thủ.#Nếu Thể Lực Cá Nhân không đủ, cầu thủ vẫn có thể phòng thủ thất bại dù được đánh giá GREAT."
+ELITE_RULE/DEFENSE_GOOD,Phòng thủ GOOD
+ELITE_RULE/DEFENSE_BAD,Phòng thủ BAD
+ELITE_RULE/DEFENSE_BAD/DES,"Nếu phòng thủ quá muộn, bạn có thể nhận đánh giá BAD. Phòng thủ BAD làm tăng sát thương lên Thể Lực Cá Nhân và Tinh Thần của cầu thủ phòng thủ, vì vậy tốt nhất nên tránh đánh giá BAD khi Đỡ bóng.#Khi Trượt người, bạn sẽ không nhận đánh giá Phòng thủ BAD."
+ELITE_RULE/RECEIVE_COMMAND,Chỉ đạo đỡ bóng
+ELITE_RULE/RECEIVE_COMMAND/DES,"Theo Luật Tinh Anh, nhấn nút Đỡ bóng để chỉ đạo thời điểm đỡ bóng của đồng đội.#Nếu không có chỉ đạo trước khi hết thời điểm có thể đỡ bóng, đồng đội sẽ tự quyết định phòng thủ vào khoảnh khắc cuối cùng.#Thanh thời điểm phòng thủ hiển thị độ chính xác của chỉ đạo đỡ bóng hoặc quyết định tự động của đồng đội."
+ELITE_RULE/EXHAUSTION,Kiệt sức
+ELITE_RULE/EXHAUSTION/DES,"Cầu thủ mất toàn bộ Tinh Thần sẽ rơi vào trạng thái Kiệt sức.#Trong trạng thái Kiệt sức, Thể Lực Cá Nhân và Tinh Thần sẽ không hồi phục.#Có thể loại bỏ trạng thái Kiệt sức bằng cách thay cầu thủ hoặc gọi hội ý, và khi đó Tinh Thần cùng Thể Lực Cá Nhân sẽ được hồi phục hoàn toàn."
+ELITE_RULE/MENTALITY,Tinh Thần
+ELITE_RULE/MENTALITY/DES,"Mỗi cầu thủ có Tinh Thần riêng. Khi Tinh Thần cạn, cầu thủ sẽ Kiệt sức.#Tinh Thần giảm theo tỷ lệ với Uy lực đòn tấn công của đối thủ, nhưng Phòng thủ có thể giảm sát thương."
+ELITE_RULE/INDIVIDUAL_STAMINA,Thể Lực Cá Nhân
+ELITE_RULE/INDIVIDUAL_STAMINA/DES,"Mỗi cầu thủ có Thể lực riêng. Khi Thể lực thấp, bóng sẽ bật ra xa dù cầu thủ đỡ bóng hoặc trượt người để phòng thủ đòn tấn công của đối thủ."
+RULE/ELITE_RECEIVE,Đỡ bóng Tinh Anh
+RULE/MATCH_RULE,Luật thi đấu
+RULE/INDIVIDUAL_STAMINA,Thể Lực Cá Nhân
+EV2609 이벤트 이후 삭제해도 되는 언어,
+EV2609,Ải Tinh Anh
+EV2609_DES,"Luật Tinh Anh đặc biệt được áp dụng trong Ải Tinh Anh.##Thi đấu với đội đối thủ thay đổi theo từng ngày trong tuần, hoàn thành điều kiện nhận sao và thu thập sao. Số sao nhận được mỗi ngày được tính theo thành tích cao nhất trong trận đấu của ngày đó.##Nhận phần thưởng hằng ngày khi thắng lần đầu trong ngày, và tiếp tục thử thách cùng trận đấu để kiếm thêm sao. Phần thưởng hằng tuần được trao theo tổng số sao thu thập trong tuần."
+EV2609_COIN,Xu Tinh Anh
+EV2609_COIN_DESC,Tiền tệ sự kiện nhận được từ Ải Tinh Anh.#Có thể sử dụng trong Cửa hàng.
+EV2609_EXTRA_REWARD_TICKET,Vé Thưởng Thêm
+EV2609_EXTRA_REWARD_TICKET_DESC,Sử dụng để nhận thêm 1 lần phần thưởng hằng ngày của hôm nay. Phần thưởng nhận được khi vượt ải và vé này có thể mua 1 lần mỗi ngày.
+EV2609_RECRUIT_GAUGE,Thanh đo Chiêu mộ Tinh anh
+EV2609_RECRUIT_GAUGE_DESC,Thanh đo Chiêu mộ có thể dùng trong thời gian sự kiện Ải Tinh Anh. Được ưu tiên tiêu hao khi chiêu mộ đảm bảo cầu thủ Tinh Anh và không có giới hạn tích trữ. Sẽ biến mất khi sự kiện kết thúc.
+EV2609_PLAYER_RECRUIT_TICKET,Vé Chiêu Mộ Cầu Thủ Đặc biệt Tinh Anh
+EV2609_PLAYER_RECRUIT_TICKET_DESC,Vé chiêu mộ có thể sử dụng trong thời gian diễn ra sự kiện Ải Tinh Anh.#Có thể dùng để chiêu mộ cầu thủ sự kiện.
+EV2609_RAID_SHOP_POPUP,"Có thể dùng loại tiền tệ chỉ định để đổi lấy nhiều loại tiền tệ, vé chiêu mộ và vật phẩm khác nhau."
+EV2609_POPUP_DESC,"Thử thách Ải Tinh Anh! Gặp gỡ Han Gitae, Seo Yuna và Kang Sejin!"
+EV2609_POPUP_PLAY_TITLE,Ải Tinh Anh
+EV2609_POPUP_PLAY_DESC,Thi đấu và giành chiến thắng trước các đội thay đổi mỗi ngày.
+EV2609_POPUP_PICKUP_TITLE,Mở Chiêu mộ Đặc biệt Cầu thủ Tinh Anh!
+EV2609_POPUP_PICKUP_DESC,Chiêu mộ Đặc biệt cầu thủ độc quyền Ải Tinh Anh và#bán gói vật phẩm
+EV2609_LOGIN_BONUS,Vé Điểm danh Tinh Anh
+EV2609_POPUP_ATTENDANCE_DESC,Nhận vật phẩm độc quyền và Xu Tinh Anh!#Mở Vé Premium và Vé Royal!
+DIFFICULTY_EXTREME,Cực hạn
+EV2609_UNLOCK_EXTRA_REWARD,Đặt lại phần thưởng
+EV2609_CLEAR_RESULT,Kết quả hoàn thành
+EV2609_RESET_INFO,Đặt lại hằng ngày lúc 00:00 (UTC).
+NO_CLEAR_RESULT,Không có thành tích hoàn thành.
+EV2609_CLAIM_WEEKLY_FIRST,Cần nhận Phần thưởng Hằng tuần
+EV2609_NO_STAGE,Hôm nay không có màn nào có thể tham gia.
+EV2609_USE_REWARD_TICKET_DES,Sử dụng để nhận thêm một lần Phần thưởng Hằng ngày của hôm nay.#Phần thưởng được trao sau khi hoàn thành màn.
+EV2609_ERROR_ALREADY_CLAIMED_WEEKLY_REWARD,Không có phần thưởng để nhận.
+EV2609_ERROR_INVALID_EVENT,Sự kiện này không hợp lệ.
+EV2609_ERROR_NOT_STAGE_TODAY,Hôm nay không thể tham gia màn này.
+EV2609_ERROR_DAILY_REWARD_AVAILABLE,Vẫn có thể nhận Phần thưởng Hằng ngày.
+EV2609_ERROR_NOT_ENOUGH_PRODUCT,Không đủ Vé Thưởng Thêm.
+EV2609_ERROR_MATCH_IN_PROGRESS,Trận đấu đang diễn ra.
+EV2609_STAR_REQUIRE,trở lên
+EV2609_MISSION_MB_WIN,Thắng {0} trận khi điều khiển phụ công
+EV2609_MISSION_BACK_ATTACK,Thực hiện thành công {0} pha tấn công hàng sau trong các trận thắng
+EV2609_MISSION_SERVE_ACE,Ghi điểm trực tiếp từ phát bóng {0} lần trong các trận thắng
+EV2609_MISSION_PERFECT_RECEIVE,Thực hiện thành công {0} lần Đỡ bóng PERFECT với tư cách là cầu thủ đang điều khiển trong các trận thắng
+EV2609_MISSION_MB_QUICK,Thực hiện {0} pha tấn công nhanh khi điều khiển phụ công trong các trận thắng
+EV2609_MISSION,Nhiệm vụ Ải Tinh Anh
+EV2609_MISSION_DES,Đây là các nhiệm vụ riêng được duy trì trong suốt Sự kiện Tinh anh. Tất cả nhiệm vụ có thể hoàn thành thông qua các trận đấu Ải Tinh Anh.
+EV2609_MATCH_PERIOD_END,Sự kiện đã kết thúc và hiện chỉ có thể nhận phần thưởng. Chuyển đến cửa sổ Phần thưởng?
+EV2609_REWARD_ONLY_ONCE,Chỉ lần đầu
+EV2609_WEEKLY_REWARD,Phần thưởng hằng tuần
+EV2609_WEEKLY_REWARD_LIST,Danh sách phần thưởng hằng tuần
+EV2609_EXCHANGE_SHOP,Cửa hàng Xu Tinh Anh
+RECRUIT_ELITE_SEO_YUNA_TITLE,Chiêu mộ Seo Yuna hạng S
+RECRUIT_ELITE_SEO_YUNA_DESC,"Có thể chiêu mộ các cầu thủ, bao gồm chủ công hạng S Seo Yuna ra mắt tại Ải Tinh Anh."
+RECRUIT_ELITE_HAN_GITAE_TITLE,Chiêu mộ Han Gitae hạng S+
+RECRUIT_ELITE_HAN_GITAE_DESC,"Có thể chiêu mộ các cầu thủ, bao gồm phụ công hạng S+ Han Gitae ra mắt tại Ải Tinh Anh."
+RECRUIT_ELITE_KANG_SEJIN_TITLE,Chiêu mộ Kang Sejin hạng S
+RECRUIT_ELITE_KANG_SEJIN_DESC,"Có thể chiêu mộ các cầu thủ, bao gồm chuyền hai hạng S Kang Sejin ra mắt tại Ải Tinh Anh."
+EV2609_PICKUP_WS,WS Seo Yuna
+EV2609_PICKUP_MB,MB Han Gitae
+EV2609_PICKUP_SE,Se Kang Sejin
+EV2609_LOGIN_BONUS_DESC,Điểm danh trong thời hạn để nhận nhiều vật phẩm và tiền tệ.
+EV2609_SPECIALIZATION_BOX,Hộp Điểm mở khóa Chuyên môn hóa
+EV2609_SPECIALIZATION_BOX_DES,Nhận ngẫu nhiên tối đa 2 trong 9 loại Điểm mở khóa Chuyên môn hóa. Phần thưởng này có thể nhận một lần mỗi ngày khi giành chiến thắng đầu tiên trong ngày.
+,
+,
+,
+,
+,
+,
+,
+상시 편입 언어,
+RECRUIT/GAUGE_SCOUT_READY,Đảm bảo nhận sau {0} lượt chiêu mộ nữa!
+RECRUIT/SCOUT_CONFIRM_GAUGE,Dùng {0} điểm thanh đo để chiêu mộ đảm bảo?
+RECRUIT/SCOUT_CONFIRM_GAUGE_ONE,Dùng {1} {0} để chiêu mộ đảm bảo?
+RECRUIT/SCOUT_CONFIRM_GAUGE_TWO,Dùng {1} {0} và {3} {2} để chiêu mộ đảm bảo?
+RECRUIT/NO_SKIN_RECRUITING,Hiện không có trang phục nào đang mở chiêu mộ!
+ALERT/PICKUP_GAUGE_HELD_CAP,Đang có {0} / Giới hạn {1}
+,
+ALERT/PICKUP_GAUGE_NO_MORE,Không thể nhận thêm Thanh đo Chiêu mộ Đặc biệt.
+RECRUIT_GAUGE,Thanh đo Chiêu mộ Đặc biệt
+RECRUIT_GAUGE_DESC,"Có thể dùng để chiêu mộ đảm bảo cầu thủ. Khi chiêu mộ bằng Vé chiêu mộ cầu thủ Đặc biệt hoặc Điểm V, mỗi 1 cầu thủ được chiêu mộ sẽ tăng 1 Thanh đo Chiêu mộ Đặc biệt.#Không thể tích trữ quá 135 Thanh đo Chiêu mộ Đặc biệt."
+BEGINNER_RECRUIT_TICKET,Vé Chiêu mộ Tân thủ
+BEGINNER_RECRUIT_TICKET_DESC,Vé chiêu mộ giúp người mới phát triển nhanh hơn.#Hãy thử chiêu mộ cầu thủ hạng S!
+BEGINNER_RECRUIT_GAUGE,Thanh đo Đặc biệt Tân thủ
+BEGINNER_RECRUIT_GAUGE_DESC,"Có thể dùng để chiêu mộ đảm bảo cầu thủ tân thủ. Khi chiêu mộ bằng Vé Chiêu mộ Tân thủ, Thanh đo Chiêu mộ Tân thủ tăng 1 điểm cho mỗi cầu thủ được chiêu mộ."
+BEGINNER_RECRUIT/SELECT_SCOUT_TARGET,Hãy chọn cầu thủ để chiêu mộ đảm bảo.
+ALERT/PICKUP_GAUGE_LIMIT,Không thể tích trữ quá 135 Thanh đo Chiêu mộ Đặc biệt.#Tiếp tục chiêu mộ?
+CONVERT,Chuyển đổi
+SCOUT_POINT_CONVERSION,Đổi Điểm chiêu mộ Đặc biệt
+PICKUP_GAUGE_LIMIT_DES,Có thể tích trữ tối đa 135 Thanh đo Chiêu mộ Đặc biệt.
+CAN_CONVERT_MORE_ONE,Cần ít nhất 1 để chuyển đổi.
+MOVE_TO_GUIDE_PLAYER_DES,Xem mô tả cầu thủ {0}?
+NO_MORE_SCOUT_POINT,Không có Điểm chiêu mộ Đặc biệt.
+CHECK_SCOUT_POINT_AMOUNT,Không thể chuyển đổi số lượng này.
+CALENDAR_BEFORE_FIRST_PURCHASE,Chưa bắt đầu.
+RECRUIT/SCOUT_HELP_LINE_1,Chiêu mộ đảm bảo là tính năng giúp bạn chắc chắn nhận được cầu thủ.
+RECRUIT/SCOUT_HELP_LINE_2,Có thể tiêu hao Thanh đo Chiêu mộ để chiêu mộ đảm bảo.
+RECRUIT/SCOUT_HELP_LINE_3,"Trong Chiêu mộ Thường, theo Vị trí và Đấu Trường, có thể dùng Điểm chiêu mộ để chiêu mộ đảm bảo."
+RECRUIT/SCOUT_RULE_GAUGE_CAP,Bạn có thể tích trữ tối đa {0} Thanh đo Chiêu mộ Đặc biệt.
+RECRUIT/SCOUT_RULE_PICKUP_CONVERT,Điểm chiêu mộ Đặc biệt có thể đổi thành Thanh đo Chiêu mộ Đặc biệt.
+RECRUIT/SCOUT_RULE_BLOCK,Không thể tiếp tục chiêu mộ đảm bảo nếu cầu thủ đã đột phá 5 lần hoặc bạn đã có 5 Mảnh Ghép Nỗ Lực của cầu thủ đó.
+,
+,
+BEGINNER_RECRUIT_DESC_1,Dùng 40 vé chiêu mộ để chắc chắn nhận 1 cầu thủ hạng S!
+BEGINNER_RECRUIT_DESC_2,Có thể mua sản phẩm này tại cửa hàng.
+,
+BEGINNER_RECRUIT/RECENTLY_SELECTED,Đã chọn gần đây
+RECRUIT/TAB_BASIC,Chiêu mộ cầu thủ thông thường
+RECRUIT/TAB_COLOSSEUM,Chiêu mộ cầu thủ Đấu Trường
+RECRUIT/PICKUP_REMAIN,Còn {0} đến khi kết thúc
+RECRUIT/SCOUT_ROUND,Lần {0}
+RECRUIT/SCOUT_NEXT_NEED,Thanh đo Chiêu mộ cần để chiêu mộ đảm bảo: {0}
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,Hướng dẫn Thanh đo Chiêu mộ đảm bảo
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,Lần
+RECRUIT/SCOUT_GAUGE_TABLE_COL_NEED,Thanh đo Chiêu mộ cần thiết
+CAN_RECRUIT_SCOUT,Có thể nhận {0}!
+RECRUIT/TAB_POSITION,Chiêu mộ cầu thủ theo vị trí
+RECRUIT/TAB_COLOSSEUM,Chiêu mộ cầu thủ Đấu Trường
+RECRUIT_NORMAL,Chiêu mộ cầu thủ thông thường
+RECRUIT_WS,Chiêu mộ Chủ Công
+RECRUIT_MB,Chiêu mộ Phụ Công
+RECRUIT_SE,Chiêu mộ Chuyền Hai
+,
+RECRUIT/SCOUT_CONFIRM_TITLE,Chiêu mộ đảm bảo {0}
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,Lần
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,Chiêu mộ đảm bảo
+RECRUIT/SCOUT_GAUGE_TABLE_DES,Chiêu mộ đảm bảo giúp bạn chắc chắn nhận được cầu thủ. Có thể dùng Thanh đo Chiêu mộ hoặc Điểm chiêu mộ để thực hiện.
+RECRUIT/SCOUT_LONG_DES,Chiêu mộ đảm bảo bằng Thanh đo Chiêu mộ sẽ giảm lượng thanh đo cần cho lần tiếp theo. # Có thể tích trữ tối đa 135 Thanh đo Chiêu mộ Đặc biệt.
+RECRUIT/SCOUT_BLOCKED_AWAKEN,Không thể nhận thêm.
+RECRUIT/BUY_TICKET_WITH_COIN_AND_RECRUIT,Dùng {1} {0} mua {3} {2} để chiêu mộ?
+CALENDAR_SCHEDULED,Sắp sử dụng
+CALENDAR_EXPIRED,Hết thời gian sử dụng
+CALENDAR_GLOBAL_BEFORE,Sắp mở
+CALENDAR_GLOBAL_AFTER,Đã ngừng hoạt động
+CALENDAR_CONFIG_MISSING,Cần cập nhật cài đặt
+DIRECT_RECRUIT,Chiêu mộ ngay
+CAN_RECRUIT,Có thể chiêu mộ
+EVENT_PICKUP_DES,· {0} được ưu tiên tiêu hao khi chiêu mộ đảm bảo cầu thủ. Sẽ biến mất khi sự kiện kết thúc.
+RECRUIT/NOT_ENUGH_GAUGE,Không đủ Thanh đo Chiêu mộ.
+BEGINNER_RECRUIT,Chiêu mộ cầu thủ cho người mới
+BEGINNER_RECRUIT_TITLE,Chiêu mộ cầu thủ cho người mới
+BEGINNER_RECRUIT_DESC,Có thể dùng Vé Chiêu mộ Tân thủ để chắc chắn nhận cầu thủ hạng S.
+BEGINNER_RECRUIT/CONFIRM_SCOUT_TARGET,Chọn cầu thủ
+BEGINNER_RECRUIT/TIP_MINJUN/KEYWORD,Ghi điểm cao
+BEGINNER_RECRUIT/TIP_MINJUN,"Dễ sử dụng và ghi điểm tốt, phù hợp với mọi nội dung"
+BEGINNER_RECRUIT/TIP_YOUNGSUB/KEYWORD,Kiểu toàn diện
+BEGINNER_RECRUIT/TIP_YOUNGSUB,"Sức mạnh ổn định, có thể phát huy ở mọi nội dung"
+BEGINNER_RECRUIT/TIP_ISABEL/KEYWORD,Kiểu chuyên phản công
+BEGINNER_RECRUIT/TIP_ISABEL,"Khó vận hành trong tình huống thông thường nhưng có tiềm năng rất cao, phù hợp với các nội dung thử thách"
+BEGINNER_RECRUIT/TIP_ATIS/KEYWORD,Kiểu áp đảo tấn công nhanh
+BEGINNER_RECRUIT/TIP_ATIS,"Gây áp lực bằng thể chất vượt trội và tấn công nhanh, phù hợp với mọi nội dung"
+BEGINNER_RECRUIT/TIP_HANRA/KEYWORD,Kiểu phòng thủ ổn định
+BEGINNER_RECRUIT/TIP_HANRA,"Tăng sự ổn định nhờ khả năng phòng thủ và hỗ trợ phòng thủ xuất sắc, phù hợp với mọi nội dung"
+BEGINNER_RECRUIT/TIP_SANGHYEON/KEYWORD,Kiểu tăng cường đội
+BEGINNER_RECRUIT/TIP_SANGHYEON,"Tăng chỉ số của cả đội để tạo cơ hội phòng thủ và tấn công, phù hợp với mọi nội dung"
+BEGINNER_RECRUIT/TIP_LISIA/KEYWORD,Kiểu chuyên phát bóng
+BEGINNER_RECRUIT/TIP_LISIA,"Nâng cao tinh thần đồng đội bằng những cú phát bóng uy hiếp, phù hợp với mọi nội dung"
+BEGINNER_RECRUIT/TIP_ZERO/KEYWORD,Kiểu hỗ trợ chuyền
+BEGINNER_RECRUIT/TIP_ZERO,"Giúp đồng đội tỏa sáng với những đường chuyền mạnh mẽ, phù hợp với mọi nội dung"
+BEGINNER_RECRUIT/TIP_AHYEON/KEYWORD,Kiểu chuyên liên kết
+BEGINNER_RECRUIT/TIP_AHYEON,"Vô hiệu hóa đối thủ bằng sự phối hợp với đồng đội, phù hợp với các nội dung thử thách"
+RECRUIT/SCOUT_MAXED,Đã hoàn tất mọi lượt chiêu mộ đảm bảo cho cầu thủ này.
+,
+,
+STAR_CONDITION/ALWAYS,Thắng trận
+STAR_CONDITION/ONAIR_VIEWERS,Đạt {0} người xem đồng thời cao nhất
+STAR_CONDITION/SPIKE_SCORE,Ghi điểm {0} lần bằng cú đập bóng
+STAR_CONDITION/BACK_ATTACK_SCORE,Ghi điểm {0} lần bằng Tấn công hàng sau
+STAR_CONDITION/QUICK_SCORE,Ghi điểm {0} lần bằng Tấn công nhanh
+STAR_CONDITION/LOSE_SCORE,Để mất ít hơn {0} điểm
+STAR_CONDITION/LOSE_SCORE_MANUAL,Để mất ít hơn {0} điểm trong Chế độ điều khiển thủ công
+STAR_CONDITION/DIFFICULTY_EXTREME,Chiến thắng ở độ khó Rất Khó
+STAR_CONDITION/DIFFICULTY_HARD,Chiến thắng ở độ khó Khó
+STAR_CONDITION/WIN_SCORE_WITHOUT_AUTO,Thắng với cách biệt ít nhất {0} điểm trong Chế độ điều khiển thủ công
+STAR_CONDITION/WIN_SCORE_WITHOUT_BEGINNER,Thắng với cách biệt ít nhất {0} điểm mà không dùng Chế độ Người mới
+CONVERTED_GAUGE_AMOUNT,Tổng lượng chuyển đổi: {0}
+COMMON/TOTAL,Tổng
+TUTORIAL_MB_MOVEMENT,Huấn luyện Phụ công
+TUTORIAL_MISSION/QUICK,Thực hiện Tấn công nhanh
+TUTORIAL_MISSION/FAKE_QUICK,Thu hút pha chắn bóng của Roberto
+TUTORIAL/QUICK,Tấn công nhanh
+TUTORIAL/QUICK_DES,"Hãy bật nhảy trước khi chuyền hai thực hiện đường chuyền,#chuyền hai sẽ chuyền bóng nhanh cho phụ công."
+QUICK_TUTORIAL/01,"Tấn công nhanh là kỹ năng cơ bản nhất của một phụ công.#Nếu không làm được... thì khó mà gọi là phụ công, đúng không?"
+QUICK_TUTORIAL/02,"Điều quan trọng là phải bật nhảy trước khi chuyền hai đội mình thực hiện đường chuyền.#Khi bóng được chuyền tới, cậu phải đạt đủ độ cao để tấn công rồi."
+QUICK_TUTORIAL/03,"Chỉ cần căn đúng thời điểm, chuyền hai sẽ đưa bóng đến ngay tầm tay cậu."
+QUICK_TUTORIAL/04,Cứ thử trước đi. Hãy bật nhảy gần tôi ngay trước lúc chuyền bóng... rồi đập đi!
+RECEIVE_QUICK_TUTORIAL/01,Ồ~ Tốt đấy! Lần này trông ra dáng lắm rồi.
+RECEIVE_QUICK_TUTORIAL/02,Lần này thử như trong thi đấu thực tế nhé?
+RECEIVE_QUICK_TUTORIAL/03,"Roberto sẽ giúp cậu.#Anh ấy sẽ phối hợp vừa sức để cậu làm quen với thời điểm tấn công nhanh, nên đừng lo."
+RECEIVE_QUICK_TUTORIAL/04,"Sau khi đỡ bước một, hãy chạy ngay lên lưới.#Thực hiện thành công một pha tấn công nhanh như đã học."
+FAKE_QUICK_TUTORIAL/01,"Tốt, tốt. Giờ trông bắt đầu ra dáng rồi đấy."
+FAKE_QUICK_TUTORIAL/02,"Có vẻ cậu đã phần nào nắm được thời điểm tấn công nhanh rồi...#Vậy Roberto, giờ hãy chắn nghiêm túc đi."
+FAKE_QUICK_TUTORIAL/03,"Lần này anh ấy sẽ thực sự chắn bóng theo đúng thời điểm tấn công nhanh của cậu.#Sẽ không dễ đập như lúc nãy đâu, đúng không?"
+FAKE_QUICK_TUTORIAL/04,Nhưng này.#Phụ công không nhất thiết lúc nào cũng phải đập bóng.#Đánh lạc hướng tay chắn đối phương cũng là một phần nhiệm vụ.
+FAKE_QUICK_TUTORIAL/05,"Chỉ cần bật nhảy đúng lúc như thể sẽ tấn công nhanh, đối thủ cũng khó có thể phớt lờ cậu."
+FAKE_QUICK_TUTORIAL/06,"Lần này đừng chạm bóng, chỉ cần bật nhảy.#Đánh lừa Roberto để chủ công đội ta ghi điểm bằng pha tấn công lệch nhịp."
+PRACTICE_GO_TUTORIAL_04/01,"Ồ~ Tuyệt lắm, tuyệt lắm."
+PRACTICE_GO_TUTORIAL_04/02,"Khác với khi chơi chủ công, đúng không? Thế nào, làm được chứ?"
+PRACTICE_GO_TUTORIAL_04/03,"Giờ cậu đã hiểu tấn công nhanh là gì rồi, phần còn lại hãy tiếp tục luyện tập để thành thạo nhé."
+WRONG_ATTACK_POSITION_TIP,Hãy bật nhảy trong vùng phát sáng.
+MIDAIR_AT_TOSS_TIP,Cậu phải bật nhảy trước khi chuyền hai thực hiện đường chuyền.
+MIDAIR_AT_TOSS_TIP_THATS_OPEN,"Đó là tấn công bóng cao, không phải tấn công nhanh."
+MIDAIR_AT_TOSS_TIP_TOO_FAST,Hãy thử bật nhảy chậm hơn một chút.
+MIDAIR_AT_TOSS_TIP_TOO_FAR,"Càng xa lưới, việc tấn công nhanh càng khó."
+ATTACK_BEFORE_TOSS_TIP,Hãy tấn công theo đúng thời điểm chuyền hai thực hiện đường chuyền.
+ATTACK_IN_COURT_TIP,Cậu phải đánh bóng ở phía trước người hơn nữa.
+FAKE_JUMP_TIP,Hãy bật nhảy theo đúng thời điểm tấn công nhanh.
+FAKE_QUICK_TIP,Hãy tiếp đất mà không đánh bóng.
+TOO_FAST_QUICK_TIP,Hãy vung tay đúng thời điểm.
+QUICK_TOSS_FAIL_TIP,Phải nhảy lên trước thì tôi mới chuyền cho cậu tấn công nhanh được chứ.
+BLOCKING_BREAK_TIP,Nhắm vào điểm yếu để xuyên phá chắn bóng!
+,
+,
+,
+SHOP/DOUBLE_BONUS,BONUS! +{0}VP
+SHOP/FIRST_PURCHASE_BONUS,Ưu đãi đặc biệt!
+COMMON/WEEKDAY_SUN,Chủ Nhật
+COMMON/WEEKDAY_MON,Thứ Hai
+COMMON/WEEKDAY_TUE,Thứ Ba
+COMMON/WEEKDAY_WED,Thứ Tư
+COMMON/WEEKDAY_THU,Thứ Năm
+COMMON/WEEKDAY_FRI,Thứ Sáu
+COMMON/WEEKDAY_SAT,Thứ Bảy
+BLOCKING_LIFE,Độ bền chắn bóng
+NAME/TEAM_NATIONAL_STUDENTS_1,Đội tập luyện U21 - A
+NAME/TEAM_NATIONAL_STUDENTS_2,Đội tập luyện U21 - B
+NAME/TEAM_NATIONAL_STUDENTS_3,Đội tập luyện U21 - Toàn Sao
+NAME/TEAM_NATIONAL_STUDENTS_4,Đội tập luyện U21 - C
+NAME/TEAM_NATIONAL_STUDENTS_5,Đội tập luyện U21 - D
+NAME/TEAM_NATIONAL_STUDENTS_6,Đội tập luyện U21 - E
+NAME/TEAM_NATIONAL_STUDENTS_7,Đội tập luyện U21 - F
+NAME/STAGE_13_01,Thầy và Trò
+NAME/STAGE_13_02,Tin vui
+NAME/STAGE_13_03,Ngày đầu nhập trại
+NAME/STAGE_13_04,Tự giới thiệu
+NAME/STAGE_13_05,Hiện thực khắc nghiệt
+NAME/STAGE_13_06,Tân binh đội tuyển quốc gia
+NAME/STAGE_13_07,Người đuổi theo
+NAME/STAGE_13_08,Hình hài của tài năng
+NAME/STAGE_13_09,Hết lần này đến lần khác
+NAME/STAGE_13_10,Cơ hội duy nhất
+NAME/STAGE_13_11,"Tạm biệt, Siwoo"
+NAME/CHAPTER_13,On My Way
+NAME/SEASON_03,Mùa 3
+PLAYER/HAN_GITAE/NICKNAME,Phụ công thép
+PLAYER/HAN_GITAE/LINE,Đúng lúc người đang hơi cứng. Khởi động một chút nhé?
+PLAYER/HAN_GITAE/LINE_2,Không nương tay đâu. Dốc toàn lực mà lên!
+PLAYER/HAN_GITAE/GACHA/LINE,Không nương tay đâu.<wait=100> Dốc toàn lực mà lên!
+PLAYER/SEO_YUNA/NICKNAME,Tài năng thích nghi
+PLAYER/SEO_YUNA/LINE,Để tôi cho cậu thấy tôi cũng khá mạnh đấy!
+PLAYER/SEO_YUNA/GACHA/LINE,"Gặp nhau cũng là duyên phận,<break><wait=85><b>vậy hãy đánh bại tất cả bọn họ nhé!"
+PLAYER/SEO_YUNA/GACHA/LINE_2,Tài năng thì có gì ghê gớm? Chỉ cần nỗ lực vượt qua là được!
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM,Hoạt ảnh hội ý
+,
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM/DES,Phát hoạt ảnh minh họa mượt mà ở chất lượng cao trên màn hình hội ý. Có thể ảnh hưởng đến hiệu năng.
+NAME/ELITE_MATCH_MON,All Star
+NAME/ELITE_MATCH_TUE,Thép Xanh
+NAME/ELITE_MATCH_WED,Valentia Spikes
+NAME/ELITE_MATCH_THU,Sylphid Case
+NAME/ELITE_MATCH_FRI,Asheville Weasels
+NAME/ELITE_MATCH_SAT,Kim loại mềm
+NAME/ELITE_MATCH_SUN,Tempesta Rosa
+,
+,
+,
+,
+,
+NAME/ELITE_MATCH_DES,Đánh bại các đội đối thủ thay đổi theo từng ngày trong tuần và nhận phần thưởng sự kiện!
+TUTORIAL/ELITE_RULE_UI_APPEAR_DES,"Mỗi cầu thủ có Thể lực và Tinh thần riêng.#Thể lực được hiển thị bằng màu vàng, còn Tinh thần được hiển thị bằng màu xanh lam."
+TUTORIAL/ELITE_RULE_UI_DAMAGE_DES,"Cầu thủ đỡ bóng sẽ bị giảm cả Thể lực và Tinh thần.#Nếu hết Thể lực, cầu thủ sẽ phòng thủ thất bại."
+TUTORIAL/ELITE_RULE_DEFENSE_TIMING_DES,"Nhấn nút Trượt người hoặc Đỡ bóng đúng thời điểm để giảm sát thương.#Nếu không nhấn nút, cầu thủ sẽ phòng thủ theo kết quả ngẫu nhiên."
+TUTORIAL/ELITE_RULE_RECEIVE_DES,Đỡ bóng đúng thời điểm để bóng nảy lên ổn định.#Đỡ bóng Hoàn hảo sẽ tạo ra Bóng Cơ hội.
+TUTORIAL/ELITE_RULE_SLIDING_DES,"Trượt người có thể phòng thủ trong phạm vi rộng, nhưng bóng sẽ nảy lên thiếu ổn định hơn.#Phòng thủ bằng Trượt người không tạo ra Bóng Cơ Hội."
+TUTORIAL/ELITE_RULE_FLOATER_SERVE_DES,"Phát bóng lắc và Phát bóng hỗn hợp gây sát thương bỏ qua Phòng thủ.#Nếu không phòng thủ đúng thời điểm, cầu thủ sẽ chịu sát thương lớn."
+TUTORIAL/ELITE_RULE_MENTALITY_DES,"Tinh thần không dễ hồi phục giữa các pha bóng.#Tinh thần càng thấp, cầu thủ càng mất nhiều Thể lực khi phòng thủ."
+TUTORIAL/ELITE_RULE_EXHAUST_DES,"Khi Tinh thần cạn hoàn toàn, cầu thủ sẽ rơi vào trạng thái Kiệt sức trong một thời gian ngắn.#Tinh thần không hồi phục khi cầu thủ đang Kiệt sức."
+TUTORIAL/ELITE_RULE_FORMATION_DES,Vị trí phòng thủ của các cầu thủ không thay đổi khi quyền phát bóng đổi bên.#Có thể thay đổi vị trí phòng thủ của các cầu thủ trong thời gian hội ý.
+TUTORIAL/RAID_TIP_06,Gần đúng rồi!
+STORYMODE_TIP_9,Luật Tinh Anh sẽ được áp dụng.
+MAP_NATIONAL,Nhà thi đấu Bay Cao
+,
+NAME LANG,
+IVAN_NAM,Ivan Nam
+SEONGJIN_PARK,Seongjin Park
+CHEI_YOO,Chei Yoo
+JINKYEONG_KIM,Jinkyeong Kim
+SEOHEE_PYEON,Seohee Pyeon
+JINHYUN_KIM,Jinhyun Kim
+MINSEO_JO,Minseo Jo
+JAEWON_LEE,Jaewon Lee
+MR_COACH,Huấn luyện viên
+,
+SPECIALIZATION/PRESET,Cài đặt sẵn
+SPECIALIZATION/REFUND_ALERT,Hoàn trả điểm Chuyên môn hóa?
+SPECIALIZATION/RESET_PRESET_ALERT,Đặt lại cài đặt sẵn {0}?
+SPECIALIZATION/PREREQUISITE_AP,AP tiên quyết {0}
+SPECIALIZATION/NO_EFFECT,Không hiệu ứng
+SPECIALIZATION/WEAKNESS,Suy yếu
+SPECIALIZATION/UNLOCK,Mở
+SPECIALIZATION/DOWNGRADE,Giảm
+SPECIALIZATION/UPGRADE,Tăng
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_MIN,Không thể giảm thêm.
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_EXCEEDS_MAX,Đã đạt cấp tối đa.
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_OVERSPENT,Không đủ AP. ({0}/{1})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH,AP của chuyên môn hóa tiên quyết không đủ. ({0})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH/DEPENDENT,Điều này sẽ phá điều kiện AP tiên quyết của {0}. ({1})
+SPECIALIZATION/ERROR/SPECIALIZATION_CORE_LIMIT_EXCEEDED,Đã vượt giới hạn kích hoạt Chuyên môn hóa cốt lõi.
+SPECIALIZATION/ERROR/SPECIALIZATION_IDENTITY_CORE_LIMIT_EXCEEDED,Chỉ có thể kích hoạt 1 Chuyên môn hóa cốt lõi Cá tính.
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_CHAIN_BLOCKED,Không thể chọn suy yếu cùng chỉ số liên tiếp.
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_BALANCE_BROKEN,Các nhánh Suy yếu chưa cân bằng.
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_NOT_UNLOCKED,Bạn cần mở khóa chuyên môn hóa tiên quyết trước.
+SPECIALIZATION/ERROR/NOT_ENOUGH_ITEM_AMOUNT,Không đủ điểm mở. ({0}/{1})
+SPECIALIZATION/POINT/WS/OFFENSE,Điểm mở khóa tấn công WS
+SPECIALIZATION/POINT/WS/DEFENSE,Điểm mở khóa phòng thủ WS
+SPECIALIZATION/POINT/WS/IDENTITY,Điểm mở khóa cá tính WS
+SPECIALIZATION/POINT/MB/OFFENSE,Điểm mở khóa tấn công MB
+SPECIALIZATION/POINT/MB/DEFENSE,Điểm mở khóa phòng thủ MB
+SPECIALIZATION/POINT/MB/IDENTITY,Điểm mở khóa cá tính MB
+SPECIALIZATION/POINT/SE/OFFENSE,Điểm mở khóa tấn công SE
+SPECIALIZATION/POINT/SE/DEFENSE,Điểm mở khóa phòng thủ SE
+SPECIALIZATION/POINT/SE/IDENTITY,Điểm mở khóa cá tính SE
+SPECIALIZATION/POINT/WS/OFFENSE_DESC,Dùng để mở khóa Chuyên môn hóa tấn công WS.
+SPECIALIZATION/POINT/WS/DEFENSE_DESC,Dùng để mở khóa Chuyên môn hóa phòng thủ WS.
+SPECIALIZATION/POINT/WS/IDENTITY_DESC,Dùng để mở khóa Chuyên môn hóa cá tính WS.
+SPECIALIZATION/POINT/MB/OFFENSE_DESC,Dùng để mở khóa Chuyên môn hóa tấn công MB.
+SPECIALIZATION/POINT/MB/DEFENSE_DESC,Dùng để mở khóa Chuyên môn hóa phòng thủ MB.
+SPECIALIZATION/POINT/MB/IDENTITY_DESC,Dùng để mở khóa Chuyên môn hóa cá tính MB.
+SPECIALIZATION/POINT/SE/OFFENSE_DESC,Dùng để mở khóa Chuyên môn hóa tấn công SE.
+SPECIALIZATION/POINT/SE/DEFENSE_DESC,Dùng để mở khóa Chuyên môn hóa phòng thủ SE.
+SPECIALIZATION/POINT/SE/IDENTITY_DESC,Dùng để mở khóa Chuyên môn hóa cá tính SE.
+SPECIALIZATION/HELP/AP,"Sau khi mở khóa Chuyên môn hóa bằng Điểm mở khóa, có thể dùng AP của cầu thủ để tăng cấp và kích hoạt.#Có thể hạ cấp để tự do hoàn lại AP đã dùng, nhưng không thể hủy việc mở khóa Chuyên môn hóa."
+SPECIALIZATION/HELP/AP_ALERT,"* Hiệu ứng và chỉ số của Chuyên môn hóa có thể được điều chỉnh trong các bản cập nhật sau này.#Nếu hiệu ứng hoặc chỉ số được điều chỉnh, toàn bộ Điểm Mở khóa đã dùng cho Chuyên môn hóa của cầu thủ đó có thể được hoàn lại."
+SPECIALIZATION/HELP/PRESET,Có thể lưu phân bổ AP cho từng Chuyên môn hóa vào bộ thiết lập sẵn.#Đổi bộ thiết lập không làm thay đổi trạng thái mở khóa Chuyên môn hóa.
+SPECIALIZATION/STATUS/LOCKED,Đã khóa
+SPECIALIZATION/ACTIVATE,Kích hoạt
+SPECIALIZATION/DEACTIVATE,Hủy kích hoạt
+SPECIALIZATION/TIER/GROWTH,Phát Triển
+SPECIALIZATION/TIER/ENHANCEMENT,Tăng cường
+SPECIALIZATION/TIER/TACTICAL,Chiến thuật
+SPECIALIZATION/TIER/CORE,Lõi
+SPECIALIZATION/TIER/UNIQUE,Đặc hữu
+SPECIALIZATION,Chuyên môn hóa
+IAP,
+EV2609_GROWTH_PACKAGE,Gói Phát Triển
+EV2609_GROWTH_PACKAGE_DESC,Gói giúp bạn nhận được lượng lớn Xu và Điểm EXP.
+EV2609_WELCOME_ELITE_PACKAGE,Gói Chào Mừng Tinh Anh
+EV2609_WELCOME_ELITE_PACKAGE_DESC,Gói giúp bạn nhận được Vé Chiêu mộ Cầu thủ Đặc biệt x10 và một lượng nhỏ tiền tệ.
+EV2609_PACKAGE_1,Gói Tinh Anh 1
+EV2609_PACKAGE_1_DESC,"Gói có thể nhận được Xu Tinh Anh x300, Điểm V x360."
+EV2609_PACKAGE_2,Gói Tinh Anh 2
+EV2609_PACKAGE_2_DESC,"Gói có thể nhận được Xu Tinh Anh x860, Điểm V x1270."
+EV2609_ELITE_PREMIUM_PACKAGE,Gói Premium Tinh Anh
+EV2609_ELITE_PREMIUM_PACKAGE_DESC,Gói giúp bạn nhận được Vé Chiêu mộ Cầu thủ Đặc biệt x10 và lượng lớn tiền tệ.
+EV2609_ELITE_ROYAL_PACKAGE,Gói Royal Tinh Anh
+EV2609_ELITE_ROYAL_PACKAGE_DESC,Gói giúp bạn nhận được Vé Chiêu mộ Cầu thủ Đặc biệt x20 và lượng lớn tiền tệ.
+EV2609_EXTREME_ROYAL_PACKAGE,Gói Royal Cực Hạn Tinh Anh
+EV2609_EXTREME_ROYAL_PACKAGE_DESC,Gói giúp bạn nhận được Vé Chiêu mộ Cầu thủ Đặc biệt x40 và lượng tiền tệ cực lớn.
+EV2609_NORMAL_PASS,Vé Thường
+EV2609_NORMAL_PASS_DESC,Có thể nhận nhiều loại đồng phục và tiền tệ qua Vé Thường.
+EV2609_PREMIUM_PASS,Vé Premium
+EV2609_PREMIUM_PASS_DESC,Mở Vé Premium để kéo dài điểm danh sự kiện thêm 3 ngày và nhận đồng phục giới hạn cùng lượng lớn tiền tệ.
+EV2609_ROYAL_PASS,Vé Royal
+EV2609_ROYAL_PASS_DESC,Mở Vé Royal để kéo dài điểm danh sự kiện thêm 1 ngày và nhận lượng lớn tiền tệ. Chỉ có thể mua sau khi mua Vé Premium.
+EV2609_PREMIUM_ROYAL_PASS,Vé Premium + Vé Royal
+EV2609_PREMIUM_ROYAL_PASS_DESC,Gói mở cùng lúc cả Vé Premium và Vé Royal.
+BEGINNER_PLAYER_RECRUIT_TICKET,Vé Chiêu mộ Tân thủ
+BEGINNER_RECRUIT_PACKAGE,Gói Vé Chiêu mộ Tân thủ
+BEGINNER_RECRUIT_PACKAGE_DESC,Nhận 40 Vé Chiêu mộ Tân thủ.
+DEFAULT_40VP_PACKAGE,Gói Điểm V x40
+DEFAULT_40VP_PACKAGE_DESC,Nhận 40 Điểm V.
+DEFAULT_200VP_PACKAGE,Gói Điểm V x200
+DEFAULT_200VP_PACKAGE_DESC,Nhận 200 Điểm V.
+DEFAULT_420VP_PACKAGE,Gói Điểm V x420
+DEFAULT_420VP_PACKAGE_DESC,Nhận 420 Điểm V.
+DEFAULT_1280VP_PACKAGE,Gói Điểm V x1280
+DEFAULT_1280VP_PACKAGE_DESC,Nhận 1280 Điểm V.
+DEFAULT_2160VP_PACKAGE,Gói Điểm V x2160
+DEFAULT_2160VP_PACKAGE_DESC,Nhận 2160 Điểm V.
+DEFAULT_4000VP_PACKAGE,"Gói Điểm V x4,000"
+DEFAULT_4000VP_PACKAGE_DESC,"Nhận 4,000 Điểm V."
+DEFAULT_40VP_PACKAGE_2X,Gói Điểm V x40 x2
+DEFAULT_40VP_PACKAGE_2X_DESC,40 Điểm V + 40 Thưởng!#Thưởng đặt lại định kỳ.
+DEFAULT_200VP_PACKAGE_2X,Gói Điểm V x200 x2
+DEFAULT_200VP_PACKAGE_2X_DESC,200 Điểm V + 200 Thưởng!#Thưởng đặt lại định kỳ.
+DEFAULT_420VP_PACKAGE_2X,Gói Điểm V x420 x2
+DEFAULT_420VP_PACKAGE_2X_DESC,420 Điểm V + 420 Thưởng!#Thưởng đặt lại định kỳ.
+DEFAULT_1280VP_PACKAGE_2X,Gói Điểm V x1280 x2
+DEFAULT_1280VP_PACKAGE_2X_DESC,1280 Điểm V + 1280 Thưởng!#Thưởng đặt lại định kỳ.
+DEFAULT_2160VP_PACKAGE_2X,Gói Điểm V x2160 x2
+DEFAULT_2160VP_PACKAGE_2X_DESC,2160 Điểm V + 2160 Thưởng!#Thưởng đặt lại định kỳ.
+DEFAULT_4000VP_PACKAGE_2X,Gói Điểm V x4000 x2
+DEFAULT_4000VP_PACKAGE_2X_DESC,4000 Điểm V + 4000 Thưởng!#Thưởng đặt lại định kỳ.
+상품(Product시트에 들어갈 것),
+GITAE_UNIFROM,Đồng phục Han Gitae
+GITAE_UNIFROM/DESC,"Đồng phục nam của đội bóng chuyền Đại Học Cheongmyeong.#Được làm từ loại vải đặc biệt có độ bền cao, khó rách dù chịu ma sát và va đập mạnh."
+BACK_ELITE_WAIT_ROOM,Trung tâm Huấn luyện Đội tuyển Quốc gia
+BACK_ELITE_WAIT_ROOM/DESC,"Trung tâm huấn luyện chuyên dụng, nơi quy tụ những cầu thủ bóng chuyền hàng đầu Hàn Quốc.#Sở hữu cơ sở chuyên nghiệp lớn nhất cả nước cùng hệ thống huấn luyện tối tân. Là nơi mài giũa những cầu thủ xuất sắc nhất, trung tâm nổi tiếng với cường độ tập luyện khắc nghiệt bậc nhất."
+BACK_ELITE_HALLWAY,Phông nền Hành lang Nhà thi đấu
+BACK_ELITE_HALLWAY/DESC,"Hành lang nhà thi đấu tại Trung tâm Huấn luyện Đội tuyển Quốc gia.#Khi Inho và người đồng đội của mình còn ở đội tuyển quốc gia, họ thường đi dọc nơi này và kể cho nhau nghe về ước mơ."
+YOUTH_BALL,Bóng Chuyên dụng NTC
+YOUTH_BALL/DES,"Bóng chuyên dụng của Trung tâm Huấn luyện Đội tuyển Quốc gia, do thương hiệu bóng chuyền 'RISE' sản xuất."
+GITAE_BALL,Bóng Yêu thích của Han Gitae
+GITAE_BALL/DES,"Quả bóng chuyền mà Han Gitae đặc biệt trân trọng.#Nghe nói vào ngày có trận đấu quan trọng, anh luôn dùng quả bóng này để luyện tập."
+YOUTH_UNIFORM_MALE,Đồng phục Nam Đội tuyển Trẻ Quốc gia
+YOUTH_UNIFORM_MALE/DES,"Đồng phục nam chính thức của đội tuyển trẻ quốc gia, do thương hiệu bóng chuyền 'RISE' sản xuất.#Được yêu thích đến mức bán chạy như tôm tươi mỗi mùa giải quốc tế."
+YOUTH_UNIFORM_FEMALE,Đồng phục Nữ Đội tuyển Trẻ Quốc gia
+YOUTH_UNIFORM_FEMALE/DES,"Đồng phục nữ chính thức của đội tuyển trẻ quốc gia, do thương hiệu bóng chuyền 'RISE' sản xuất.#Được yêu thích đến mức bán chạy như tôm tươi mỗi mùa giải quốc tế."
+JAEHYUN_UNIFORM,Đồng phục Jaehyeon
+JAEHYUN_UNIFORM/DES,"Đồng phục nam chính thức của đội bóng chuyền Trường THPT Thiên Thanh.#Vào ngày đầu tiên nhận đồng phục, Jaehyeon đã đứng trước gương khá lâu."
+JAEHYUN_SHOES,Giày Jaehyeon
+SEJIN_UNIFORM,Đồng phục Kang Sejin
+SEJIN_UNIFORM/DES,"Đồng phục nam chính thức của đội bóng chuyền Trường THPT Cheonan.#Không hiểu vì sao, Kang Sejin đặc biệt thích làm dáng mỗi khi mặc bộ này."
+SEJIN_SHOES,Giày Kang Sejin
+YUNA_UNIFORM,Đồng phục Seo Yuna
+YUNA_UNIFORM/DES,"Đồng phục nữ chính thức của đội bóng chuyền Trường THPT Cheolwon.#Là món đồ yêu thích nhất của Seo Yuna, cô có hẳn 5 bộ giống nhau để mặc luân phiên."
+YUNA_SHOES,Giày Seo Yuna
+BGM_COLEMAN_STORY_DESC,CHAPTER 13. #「Một người bắt đầu chơi bóng chuyền sớm như cậu thì chẳng hiểu gì đâu.」
+BGM_NATIONAL_TRAINING_MATCH_DESC,CHAPTER 13. #「Tôi phải thử tất cả những gì mình có thể làm!」
+BGM_TRAINING_CAMP_BUDDIES_DESC,CHAPTER 13. #「Em nhất định muốn trở thành tuyển thủ quốc gia!」
+PROFILE_FRAME_EV2609,Khung Ải Tinh Anh
+PROFILE_TITLE_ELITE_SPIKER,Cầu thủ Tinh Anh
+PROFILE_STICKER_GLOBAL,Nhãn dán Toàn cầu
+PROFILE_STICKER_GITAE,Nhãn dán Han Gitae
+PROFILE_STICKER_TROPHY,Nhãn dán Cúp Tinh Anh
+,
+,
+,
+,
+,
+,
+,
+,
+BEGINNER_RECRUIT/CAN_SCOUT,Có thể nhận cầu thủ cho người mới!
+RECRUIT/HELP_TITLE,Chiêu mộ cầu thủ
+RECRUIT/HELP_LINE_1,Bạn có thể nhận cầu thủ bằng cách tiêu hao vé chiêu mộ hoặc Tiền Tệ.
+RECRUIT/HELP_LINE_2,Có thể chiêu mộ đảm bảo cầu thủ trong Chiêu mộ Cầu thủ Đặc biệt Sự kiện bằng Thanh đo Chiêu mộ Sự kiện và Thanh đo Chiêu mộ Đặc biệt.
+RECRUIT/HELP_LINE_3,Có thể chiêu mộ đảm bảo cầu thủ trong Chiêu mộ Cầu thủ Tân thủ bằng Thanh đo Chiêu mộ Tân thủ.
+RECRUIT/HELP_LINE_4,Vé Chiêu Mộ Cầu Thủ Đặc biệt Sự Kiện sẽ hết hiệu lực khi sự kiện kết thúc.
+RECRUIT/SCOUT_NO_MORE,Không thể chiêu mộ đảm bảo thêm nữa.
+RECRUIT/NOT_ENOUGH_GAUGE,Không đủ Thanh đo Chiêu mộ.
+RECRUIT/SCOUT_CONFIRM_EVENT_FIRST,{0} sẽ được trừ trước.
+RECRUIT/CURRENCY_NOT_ENOUGH_GO_SHOP,Không đủ Tiền Tệ. Bạn có muốn đến Cửa hàng không?
+RECRUIT/BUY_THEN_RECRUIT,Chiêu mộ sau khi mua
+COMMON/RECRUIT,Chiêu mộ
+CONVERTED_GAUGE_AMOUNT,Tổng lượng chuyển đổi: {0}
+,
+COMMON/MAX_BUY_COUNT,Số lần mua tối đa : {0}
+COMMON/TOTAL_BUY_DES,Bạn sẽ mua tổng cộng {0} vật phẩm.
+COMMON/EASY,Dễ
+COMMON/TOOHARD,Rất Khó
+,
+RECRUIT/SCOUT_RULE_OVER_ROUND,"Ngay cả sau vòng cuối, bạn vẫn có thể tiếp tục chiêu mộ với cùng mức Thanh đo."
+RECRUIT/SCOUT_ROUND_AFTER,Từ lần {0} trở đi

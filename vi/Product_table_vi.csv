@@ -1,0 +1,991 @@
+﻿KEY,베트남어(vi)
+상시 인앱결제 상품,
+NORMAL_CREDIT_150K_PACKAGE,"Gói Xu x150,000"
+NORMAL_CREDIT_150K_PACKAGE_DESC,"Nhận 150,000 Xu."
+NORMAL_CREDIT_500K_PACKAGE,"Gói Xu x500,000"
+NORMAL_CREDIT_500K_PACKAGE_DESC,"Nhận 500,000 Xu."
+NORMAL_CREDIT_1600K_PACKAGE,"Gói Xu x1,600,000"
+NORMAL_CREDIT_1600K_PACKAGE_DESC,"Nhận 1,600,000 Xu."
+100_VPOINT_PACKAGE,Gói Điểm V x100
+100_VPOINT_PACKAGE_DESC,Nhận 100 Điểm V.
+300_VPOINT_PACKAGE,Gói Điểm V x300
+300_VPOINT_PACKAGE_DESC,Nhận 300 Điểm V.
+1200_VPOINT_PACKAGE,Gói Điểm V x1200
+1200_VPOINT_PACKAGE_DESC,Nhận 1200 Điểm V.
+40_VPOINT_PACKAGE,Gói Điểm V x40
+40_VPOINT_PACKAGE_DESC,Nhận 40 Điểm V.
+200_VPOINT_PACKAGE,Gói Điểm V x200
+200_VPOINT_PACKAGE_DESC,Nhận 200 Điểm V.
+420_VPOINT_PACKAGE,Gói Điểm V x420
+420_VPOINT_PACKAGE_DESC,Nhận 420 Điểm V.
+1280_VPOINT_PACKAGE,Gói Điểm V x1280
+1280_VPOINT_PACKAGE_DESC,Nhận 1280 Điểm V.
+2160_VPOINT_PACKAGE,Gói Điểm V x2160
+2160_VPOINT_PACKAGE_DESC,Nhận 2160 Điểm V.
+4000_VPOINT_PACKAGE,"Gói Điểm V x4,000"
+4000_VPOINT_PACKAGE_DESC,"Nhận 4,000 Điểm V."
+60_BLUEFLAME_PACKAGE,Gói Lửa Xanh x60
+60_BLUEFLAME_PACKAGE_DESC,Nhận 60 Lửa Xanh.
+150_BLUEFLAME_PACKAGE,Gói Lửa Xanh x150
+150_BLUEFLAME_PACKAGE_DESC,Nhận 150 Lửa Xanh.
+450_BLUEFLAME_PACKAGE,Gói Lửa Xanh x450
+450_BLUEFLAME_PACKAGE_DESC,Nhận 450 Lửa Xanh.
+BEGINNER_PACKAGE,Gói cho người mới
+BEGINNER_PACKAGE_DESC,Gói dành cho người mới với hiệu quả cao và chỉ có thể mua 1 lần duy nhất lúc ban đầu.
+BEGINNER_GROWTH_BOOST_PACKAGE,Gói tăng tốc phát triển cho người mới
+BEGINNER_GROWTH_BOOST_PACKAGE_DESC,Gói tăng tốc sự phát triển dành cho người mới với hiệu quả cao và chỉ có thể mua 1 lần duy nhất lúc ban đầu.
+EXPERT_PACKAGE,Gói cho chuyên gia
+EXPERT_PACKAGE_DESC,Gói dành cho người chơi chuyên nghiệp với hiệu quả cao và chỉ có thể mua 1 lần duy nhất lúc ban đầu.
+EXP_PACKAGE,Gói EXP
+EXP_PACKAGE_DESC,Nhận 30.000 điểm EXP.
+MORE_EXP_PACKAGE,Gói EXP V2
+MORE_EXP_PACKAGE_DESC,Nhận 90.000 điểm EXP.
+REMOVE_ADS_PACKAGE,Gỡ quảng cáo
+REMOVE_ADS_PACKAGE_DESC,Chỉ có thể mua 1 lần duy nhất lúc ban đầu khi chưa gỡ quảng cáo. Quảng cáo xuất hiện sau khi kết thúc trận đấu sẽ được gỡ bỏ.
+PLAYER_RECRUITMENT_PACKAGE,Gói chiêu mộ cầu thủ
+PLAYER_RECRUITMENT_PACKAGE_DESC,Gói chỉ có thể mua được 1 lần duy nhất lúc ban đầu. Nhận một số lượng lớn Tiền Tệ dùng để chiêu mộ cầu thủ.
+GROWTH_BOOST_PACKAGE,Gói tăng tốc phát triển
+GROWTH_BOOST_PACKAGE_DESC,Gói tăng tốc sự phát triển với hiệu quả cao và chỉ có thể mua được 1 lần duy nhất lúc ban đầu.
+MONTHLY_VPOINT,Gói Điểm V theo tháng
+MONTHLY_VPOINT_DESC,Gói Điểm V chỉ có thể mua được 1 lần mỗi tháng.
+MONTHLY_BLUEFLAME,Gói Lửa Xanh theo tháng
+MONTHLY_BLUEFLAME_DESC,Gói Lửa Xanh chỉ có thể mua được 1 lần mỗi tháng.
+WEEKLY_EXPPOINT,Gói EXP theo tuần
+WEEKLY_EXPPOINT_DESC,Gói Điểm EXP chỉ có thể mua được 1 lần mỗi tuần.
+WEEKLY_VPOINT,Gói Điểm V theo tuần
+WEEKLY_VPOINT_DESC,Gói Điểm V chỉ có thể mua được 1 lần mỗi tuần.
+WEEKLY_BLUEFLAME,Gói Lửa Xanh theo tuần
+WEEKLY_BLUEFLAME_DESC,Gói Lửa Xanh chỉ có thể mua được 1 lần mỗi tuần.
+COLOSSEO_BEGINNER_PACKAGE,Gói Người mới Đấu Trường
+COLOSSEO_BEGINNER_PACKAGE_DESC,Gói chỉ có thể mua được 1 lần duy nhất lúc ban đầu. Nhận một số lượng lớn Lửa Xanh.
+COLOSSEO_EXPERT_PACKAGE,Gói Chuyên gia Đấu Trường
+COLOSSEO_EXPERT_PACKAGE_DESC,Gói chỉ có thể mua được 1 lần duy nhất lúc ban đầu. Nhận một số lượng lớn Lửa Xanh và mở khóa Thẻ Năng Lực mới cùng khả năng lựa chọn thẻ thứ tư trong Đấu Trường.
+COLOSSEUM_TICKET_DESC,Sản phẩm chỉ có thể mua 1 lần mỗi ngày. Cho phép bạn vào Đấu Trường thêm lần nữa để nhận phần thưởng.
+PTL_ROYAL_PACKAGE,Gói Hoàng gia Phantom
+상시 일반 상품,
+RED_YELLOW_BALL,Bóng đỏ và vàng
+BLUE_YELLOW_BALL,Bóng xanh lam và vàng
+GREEN_PINK_BALL,Bóng xanh lá và hồng
+ORANGE_BLUE_BALL,Bóng cam và xanh lam
+WHITE_BALL,Bóng trắng
+BASKET_BALL,Bóng rổ
+OSIK_BALL,Bóng Osik
+VALENTIA_BALL,Bóng Valentia
+RED_VALENTIA_BALL,Bóng Valentia Màu Đỏ
+BLACK_WHITE,Đồng phục đen trắng
+ORANGE_BLACK,Đồng phục màu cam và đen
+BLUE_BLACK,Đồng phục màu xanh và đen
+BLACK_GOLD,Đồng phục màu đen và ánh vàng
+PINK_BLACK,Đồng phục màu hồng và đen
+BLACK_PINK,Đồng phục màu đen và hồng
+00001HAIR(WHITE_PERM),Tóc uốn trắng
+00002HAIR(BLACK_PERM),Tóc uốn đen
+00003HAIR(SPIKY_HAIR),Tóc dựng thẳng
+00004HAIR(BUZZCUT),Kiểu Buzz Cut
+00005HAIR(SPORTS_HAIR),Kiểu cắt thể thao
+00006HAIR(LONG_DOWN_HAIR),Tóc dài
+00007HAIR(GRAY_BABY_PERM),Tóc uốn Baby xám
+00008HAIR(GRAY_PERM),Tóc uốn xám
+00009HAIR(PUDDING_HAIR),Tóc Pudding
+00010HAIR(BLACK_DOWN_HAIR),Tóc đen xõa
+00011HAIR(PROTRUDING_HAIR),Tóc nhọn
+00012HAIR(GRAY_UPHAIR),Tóc gai màu xám
+00013HAIR(ROOSTER_UPHAIR),Mohawk
+00014HAIR(GRANDPA_HAIR),Tóc ông nội
+00015HAIR(ORANGE_HAIR),Tóc màu cam
+00016HAIR(WHITE_PERM_2),Tóc uốn trắng 2
+00017HAIR(BLACK_OVER_HAIR),Kiểu màu đen chải mượt
+00018HAIR(THUNDER_HAIR),Tóc tia sét
+00019HAIR(BLACK_OVER_HAIR2),Kiểu màu đen chải mượt 2
+00020HAIR(VOLLEYBALL_MASK),Mặt nạ bóng chuyền
+00021HAIR(BROWN_PERM),Tóc uốn nâu
+00022HAIR(GREEN_FAIRY_HAIR),Tóc tiên xanh
+00023HAIR(WINE_FAIRY_HAIR),Tóc tiên màu vang đỏ
+00024HAIR(RED_FOX_MASK),Mặt nạ cáo đỏ
+00025HAIR(BLUE_FOX_MASK),Mặt nạ cáo xanh
+00026HAIR(CLOWN_MASK),Mặt nạ chú hề
+00027HAIR(HOONYA_HAIR),Tóc Hunya
+00028HAIR(GOLD_SHORTCUT),Cắt ngắn vàng
+00029HAIR(BROWN_BUN),Búi tóc nâu
+00030HAIR(ASH_GRAY_DOWN_PERM),Tóc ép xuống xám tro
+00031HAIR(KHAKI_GREEN_SHAG_CUT),Tóc xù xanh kaki
+00032HAIR(OSIK_HAIR),Tóc Osik
+00033HAIR(NEAT_GLASSES_HAIR),Tóc kính gọn gàng
+00034HAIR(GRASSHOPPER_HAIR),Tóc châu chấu
+00035HAIR(BUSHY_HAIR),Tóc rối
+00036HAIR(COOL_CROW_HAIR),Tóc quạ cực ngầu
+00037HAIR(BLONDE_PONYTAIL_HAIR),Tóc đuôi ngựa vàng hoe
+00038HAIR(CROW_HAIR),Tóc quạ
+00039HAIR(ANGULAR_HAIR),Tóc cứng
+00040HAIR(SMOOTH_HAIR),Tóc bóng mượt
+00041HAIR(YAMADERA_HAIR),Kiểu tóc của Yamadera
+00042HAIR(NISHIKAWA_HAIR),Kiểu tóc của Nishikawa
+00043HAIR(GLASSES_NISHIKAWA_HAIR),Kiểu tóc của Nishikawa mang kính
+ISABEL_HAIR(ISABEL_HAIR),Tóc Isabel
+ROBERTO_HAIR(ROBERTO_HAIR),Tóc kiểu Roberto
+NN_HAIR(NN_HAIR),Tóc kiểu NN
+ZACO1_HAIR(WHITE_SHADOW_PERM),Tóc uốn Shadow trắng
+ZACO2_HAIR(PINK_HAIR),Tóc Hồng
+ZACO3_HAIR(REDBLACK_HAIR),Tóc Đỏ Đen
+VIOLA_HAIR,Tóc Viola
+LEON_HAIR,Tóc Leon
+STRANGER_HAIR1(RED_THUNDER_HAIR),Tóc Sấm Sét Màu Đỏ
+STRANGER_HAIR2(RED_STATIC_HAIR),Tóc Tĩnh Điện Đỏ
+00000UNIFORM(BLACK_WHITE_UNIFORM),Đồng phục đen trắng
+00001UNIFORM(BLUE_GRAY_UNIFORM),Đồng phục màu xanh và xám
+00002UNIFORM(BLACK_GOLD_UNIFORM),Đồng phục màu đen và ánh vàng
+00003UNIFORM(RED_BLACK_UNIFORM),Đồng phục màu đỏ và đen
+00004UNIFORM(BLACK_YELLOW_UNIFORM),Đồng phục màu đen và vàng
+00005UNIFORM(BLUE_HOTPINK_UNIFORM),Đồng phục màu xanh và hồng
+00006UNIFORM(BLUE_BLACK_UNIFORM),Đồng phục màu xanh và đen
+00007UNIFORM(WHITE_MINT_UNIFORM),Đồng phục màu trắng và bạc hà
+00008UNIFORM(WHITE_BLUE_UNIFORM),Đồng phục màu trắng và xanh
+00009UNIFORM(WHITE_BROWN_UNIFORM),Đồng phục màu trắng và nâu
+00010UNIFORM(BLACK_MINT_UNIFORM),Đồng phục màu đen và xanh bạc hà
+00011UNIFORM(BLACK_PINK_UNIFORM),Đồng phục màu đen và hồng
+00012UNIFORM(PRO_WRESTLING_UNIFORM),Đồng phục đấu vật chuyên nghiệp
+00013UNIFORM(WHITE_PINK_UNIFORM),Đồng phục màu trắng và hồng
+00014UNIFORM(WHITE_PURPLE_UNIFORM),Đồng phục màu trắng và tím
+00015UNIFORM(GRAY_VINTAGE_UNIFORM),Đồng phục cổ điển màu xám
+00016UNIFORM(ORIGINAL_PURPLE_UNIFORM),Đồng phục màu tím nguyên bản
+00017UNIFORM(PLUMBER_UNIFORM),Đồng phục thợ sửa ống nước
+00018UNIFORM(ORANGE_BLACK_UNIFORM),Đồng phục màu cam và đen
+00019UNIFORM(BLUE_GREEN_UNIFORM),Đồng phục xanh lam và xanh lá cây
+00020UNIFORM(SNOW_MINT_UNIFORM),Đồng phục màu trắng bạc hà tuyết
+00021UNIFORM(WHITE_LEMON_UNIFORM),Đồng phục màu trắng chanh
+00022UNIFORM(GRAY_UNIQUE_UNIFORM),Đồng phục màu xám độc đáo
+00023UNIFORM(RED_GRAY_UNIFORM),Đồng phục màu đỏ và xám
+00024UNIFORM(OFFICE_WORKER),Nhân viên văn phòng
+00025UNIFORM(TAKAYU),Takayu
+00026UNIFORM(SUPER_MUSCLE_UNIFORM),Đồng phục siêu cơ bắp
+00027UNIFORM(PRECIOUS_UNIFORM),Đồng phục quý giá
+00039UNIFORM(YELLOW_CARDIGAN_UNIFORM),Áo cardigan màu vàng
+00028UNIFORM(GRASSHOPPER_UNIFORM),Đồng phục cào cào
+00029UNIFORM(BEE_UNIFORM),Đồng phục ong
+00030UNIFORM(PINK_TILE_UNIFORM),Đồng phục ô màu hồng
+00031UNIFORM(RED_DRESS_UNIFORM),Đồng phục váy đỏ
+00032UNIFORM(ALL_GREEN_UNIFORM),Đồng phục màu xanh lá
+00033UNIFORM(SPARKLE_UNIFORM),Đồng phục lấp lánh
+00034UNIFORM(SUMMER_CAMP_BLUE_SWIMSUIT),Áo tắm màu xanh tập luyện mùa hè
+00035UNIFORM(SUMMER_CAMP_GRAY_SWIMSUIT),Áo tắm màu xám tập luyện mùa hè
+00036UNIFORM(DRESSUP_OASIS_SUNTAN),Lên đồ: Oasis rám nắng
+00037UNIFORM(DRESSUP_SUN_VOLLEYBALL_TEAM_SUNTAN),Lên đồ: Đội Bóng Chuyền Mặt Trời rám nắng
+00038UNIFORM(VALENTIA_UNIFORM),Đồng phục Valentia
+ROBERTO_UNIFORM(ARMATURA_UNIFORM),Đồng phục Armatura
+NN_UNIFORM(NN_UNIFORM),Đồng phục NN
+RED_ZACO_UNIFORM,Đồng phục Red Scudo
+BLUE_ZACO_UNIFORM,Đồng phục Blue Lancia
+YELLOW_ZACO_UNIFORM,Đồng Phục Yellow Spear
+GREEN_ZACO_UNIFORM,Đồng Phục Green Leon
+STRANGER_UNIFORM,Đồng phục Valentia Màu Đỏ
+00000SHOES(NORMAL_VOLLEYBALL_SHOES),Giày bóng chuyền trơn
+00001SHOES(NORMAL_BASKETBALL_SHOES),Giày bóng rổ trơn
+00002SHOES(WHITE_VOLLEYBALL_SHOES),Giày bóng chuyền trắng
+00003SHOES(WHITE_BLACK_MIXED_VOLLEYBALL_SHOES),Giày bóng chuyền trắng và đen
+00004SHOES(WHITE_BLACK_BLUE_MIXED_BASKETBALL_SHOES),"Giày bóng rổ trắng, đen và xanh lam"
+00005SHOES(BLUE_PATTERNED_VOLLEYBALL_SHOES),Giày bóng chuyền có hoa văn màu xanh lam
+00006SHOES(WHITE_RED_VOLLEYBALL_SHOES),Giày bóng chuyền trắng và đỏ
+00007SHOES(PINK_VOLLEYBALL_SHOES),Giày bóng chuyền màu hồng
+00008SHOES(ORANGE_VOLLEYBALL_SHOES),Giày bóng chuyền màu cam
+00009SHOES(RED_LUXURY_VOLLEYBALL_SHOES),Giày bóng chuyền màu đỏ sang trọng
+00010SHOES(BLUE_AO_SHOES),Giày màu xanh lam
+00011SHOES(ONI_OF_AO_VOLLEYBALL_SHOES),Giày bóng chuyền Oni xanh lam
+00012SHOES(WHITE_STRIPED_VOLLEYBALL_SHOES),Giày bóng chuyền sọc trắng
+00013SHOES(BLACK_WHITE_SHOES),Giày đen trắng
+00014SHOES(PENGUIN_SHOES),Giày chim cánh cụt
+STRANGER_SHOES(SPECIAL_NISHIKAWA_SHOES),Giày bóng chuyền Nishikawa Đặc biệt
+RED_BLACK_STRIPE,Đồng phục sọc đỏ đen
+WHITE_BLUE_V,Đồng phục chữ V trắng xanh
+YELLOW_SKY_BLUE,Đồng phục màu vàng và xanh da trời
+SKYBLUE_WHITE,Đồng phục xanh da trời trắng
+BLACK_DANDY,Đồng phục đen lịch lãm
+BLACK_LIGHT_GREEN,Đồng phục đen xanh lá nhạt
+RED_BLACK_TIGER,Đồng phục hổ đỏ đen
+HEART_PINK,Đồng phục trái tim hồng
+HEART_VIOLET,Đồng phục trái tim tím
+TEARD_BLACK,Đồng phục nước mắt đen
+BLUE_DANDY,Đồng phục xanh lịch lãm
+CYAN_GREEN,Đồng phục xanh lục lam
+DUST_WHITE,Đồng phục trắng xám
+DUST_YELLOW,Đồng phục vàng xám
+ALLSTAR,Đồng phục ngôi sao
+PINK_PATTERN,Đồng phục hoa văn hồng
+OFFICE,Đồng phục văn phòng
+GRAY_FLOWER,Đồng phục hoa xám
+MUSCLE,Đồng phục cơ bắp
+BLUE_PINK,Đồng phục xanh hồng
+WINE_OFFICE,Đồng phục văn phòng màu rượu
+RAIN,Đồng phục mưa
+PINK_EAGLE,Đồng phục đại bàng hồng
+YELLOW_DANDY,Đồng phục vàng lịch lãm
+GREEN_OFFICE,Đồng phục văn phòng xanh lá
+RED_SHINY,Đồng phục đỏ sáng bóng
+MUSCLE2,Đồng phục cơ bắp 2
+MUSCLE3,Đồng phục cơ bắp 3
+MUSCLE4,Đồng phục cơ bắp 4
+RED_BLACK_GRADATION,Đồng phục đỏ đen chuyển màu
+SHOOTING_STAR,Đồng phục sao băng
+SKYBLUE_FANGS,Đồng phục răng nanh xanh da trời
+WHITE_PINK_FLOWER,Đồng phục hoa màu trắng hồng
+ONE_BLACK_DANDY,Đồng phục đen lịch lãm 1
+BLUE_BEAST,Đồng phục thú xanh
+X_BLACK,Đồng phục X đen
+THUNDER,Đồng phục sấm sét
+PURPLE_MOON,Đồng phục trăng tím
+BLACK_TIGER,Đồng phục Hổ Đen
+BEACH1,Tóc Bãi biển 1
+SWIMMING2,Tóc Bơi lội 2
+SIWOO_HAIR,Tóc Siwoo
+BLACK_UPHAIR,Tóc đen dựng
+BLACK_BUZZCUT,Đầu đinh đen
+BLACK_CHEOLS_HAIR,Tóc Cheols đen
+BLACK_DOWN_HAIR,Tóc đen xõa
+WHITE_UPHAIR,Tóc trắng dựng
+DARK_GRAY_CURLY_HAIR,Tóc xoăn xám đậm
+PUDDING_HAIR,Tóc pudding
+NAVY_HAIR,Tóc xanh đen
+BLACK_RUSH_HAIR,Tóc đen rối
+BLACK_DOBOK,Đồ võ đen
+WHITE_DOBOK,Đồ võ trắng
+DRAGON_DOBOK,Đồ võ Thanh Long
+TIGER_DOBOK,Đồ võ Bạch Hổ
+SODAM_DOBOK,Trang phục Sodam
+JUJAK_DOBOK,Đồ võ Chu Tước
+HYUNMU_DOBOK,Đồ võ Huyền Vũ
+ORANGE_MINT_SHOES,Giày cam bạc hà
+MINT_YELLOW_SHOES,Giày bạc hà vàng
+RED_PREMIUM_SHOES,Giày cao cấp đỏ
+BLUE_PREMIUM_SHOES,Giày cao cấp xanh dương
+BLUE_DRAGON_SHOES,Giày Rồng Xanh
+HONGSI_HAIR,Tóc Hongsi
+SODAM_HAIR,Tóc Sodam
+HANRA_HAIR,Tóc Hanra
+MUYEONG_HAIR,Tóc Muyung
+RYUHYUN_HAIR,Tóc Ryuhyeon
+BAMBOO_HAT_RYUHYUN,Nón tre (Ryuhyeon)
+BAMBOO_HAT_SIWOO,Nón tre (Siwoo)
+GREEN_PRETTY_HAIR,Tóc trang trí xanh lá
+VIOLET_PRETTY_HAIR,Tóc trang trí tím
+BROWN_DOWN_HAIR,Tóc nâu xõa
+BLUE_SHARP_HAIR,Tóc nhọn xanh
+YELLOW_PERM_HAIR,Tóc uốn vàng
+SUNRIM_PRACTICE_BALL,Bóng trường Seonrim
+SUNRIM_BALL,Quả bóng Master
+WINTER_CANDY_BALL,Bóng Kẹo Mùa Đông
+WINTER_SNOW_BALL,Bóng Tuyết Mùa Đông
+CHRISTMAS_BALL,Bóng Giáng Sinh
+MIKE_HAIR,Tóc Mike
+DAVE_HAIR,Tóc Dave
+SARA_HAIR,Tóc Sara
+TANIA_HAIR,Tóc Tania
+CLYDE_HAIR,Tóc Clyde
+GRAY_SNOW_HAIR,Tóc Xám Tuyết
+WINTER_BLUE_HAIR,Tóc Xanh Mùa Đông
+HOLIDAY_YELLOW_HAIR,Tóc Vàng Nghỉ Lễ
+PARTY_CURL_HAIR,Tóc Xoăn Dự Tiệc
+PARTY_RABBIT_HAIR,Tóc Tai Thỏ Dự Tiệc
+PARTY_MAID_HAIR,Tóc Hầu Gái Dự Tiệc
+PARTY_YELLOW_UNIFORM,Đồng phục Vàng Dự Tiệc
+PARTY_MAID_UNIFORM,Đồng phục Hầu Gái Dự Tiệc
+SANTA_UNIFORM,Đồng phục Ông già Noel
+HOLIDAY_BLACK_UNIFORM,Đồng phục Đen Nghỉ Lễ
+HOLIDAY_BLACK_MAN_UNIFORM,Đồng phục Đen Nghỉ Lễ (Nam)
+HOT_CHRISTMAS_UNIFORM,Đồng phục Giáng Sinh Gợi Cảm
+CHRISTMAS_MAN_UNIFORM,Đồng phục Nam Giáng Sinh
+WINTER_SPIKE_SHOES,Giày Spike Mùa Đông
+BLUE_SNOW_SHOES,Giày Tuyết Xanh
+CHRISTMAS_SHOES,Giày Giáng Sinh
+BOUQUET_BALL,Bóng Bó Hoa
+RISE_BALL,Bóng Rise
+SUIT_SHOES,Giày tây
+STUDENT_SHOES,Giày học Sinh
+WEDDING_ISABEL_SHOES,Giày cưới của Isabel
+TRAINING_JAEHYUN_SHOES,Giày thể thao Jaehyeon
+HIGHSCHOOL_NISHIKAWA_SHOES,Giày học sinh Nishikawa
+HIGHSCHOOL_UNIFORM_M,Đồng phục nam sinh
+HIGHSCHOOL_UNIFORM_W,Đồng phục nữ sinh
+TRAINING_UNIFORM_M,Đồ tập nam
+TRAINING_UNIFORM_W,Đồ tập nữ
+WEDDING_SUIT_M,Vest cưới nam
+WEDDING_SUIT_W,Váy cưới nữ
+HIGHSCOOL_NISHIKAWA_HAIR,Tóc học sinh Nishikawa
+TRAINING_JAEHYUN_HAIR,Tóc tập luyện Jaehyeon
+WEDDING_ISABEL_HAIR,Tóc Isabel váy cưới
+7TH_SIWOO_HAIR,Tóc Siwoo Kỷ niệm 7 năm
+7TH_SIWOO_UNIFORM,Đồng phục Siwoo Kỷ niệm 7 năm
+7TH_DAHEE_HAIR,Tóc Dahee Kỷ niệm 7 năm
+7TH_DAHEE_UNIFORM,Đồng phục Dahee Kỷ niệm 7 năm
+7TH_DAHEE_HAIR_UNIFORM,Bộ tóc & đồng phục Dahee Kỷ niệm 7 năm
+NERO_ASPIDE_HAIR,Tóc Fedora Nero Aspide
+NERO_ASPIDE_UNIFORM,Nero Aspide
+NERO_ASPIDE_UNIFORM/DES,"Bộ vest được làm riêng chỉ dành cho cận vệ của Raul—những người được gọi là 'Mia Famiglia (Gia đình của tôi).' Raul tự mình đưa họ đến thợ may, vest sọc đen và hình xăm rắn là dấu hiệu nhận biết. #「Từ khoảnh khắc mặc bộ vest này, ngươi là anh em của ta.」"
+DAMA_DE_LA_NOTTE_HAIR,Tóc Dama della Notte
+DAMA_DE_LA_NOTTE_UNIFORM,Dama de la Notte
+DAMA_DE_LA_NOTTE_UNIFORM/DES,"Quy định trang phục cho các thành viên nòng cốt của <Hội đồng 15>, được mời tới bữa tiệc do Carla tổ chức. Khoác áo lông đỏ và đầm đen, họ không chỉ là khách mời—mà là thế lực thao túng truyền thông, tư pháp và tài chính từ trong bóng tối. #「Buona sera. Chúng tôi là luật, triết lý và tiếng nói của nơi này.」"
+RESEARCHER_HAIR,Kính của nhà nghiên cứu
+RESEARCHER_HAIR/DES,Kính của đồng nghiệp Ahyeon. Luôn che mặt khi gặp Ahyeon vì ngại ngùng.
+RESEARCHER_UNIFORM,Áo khoác nghiên cứu
+RESEARCHER_UNIFORM/DES,"Áo blouse của một nhà nghiên cứu đồng nghiệp với Ahyeon. Không thể thổ lộ tình cảm, người ấy chỉ vùi đầu vào thí nghiệm, khiến áo đầy vết bẩn lúc nào không hay."
+BREAD_HAIR,Mặt nạ Bánh mì
+BREAD_HAIR/DES,Ai đó đeo mặt nạ này đi quanh trường để quảng bá tiệm bánh và khiến Hanra mỉm cười.
+BREAD_UNIFORM,Đồng phục tiệm bánh
+BREAD_UNIFORM/DES,Đồng phục chính thức của tiệm bánh Seonrim. Họa tiết thêu dễ thương do chính Hanra thiết kế.
+PINATA_BALL,Bóng Piñata
+PINATA_BALL/DES,"Ryuhyeon vẫn giữ chiếc piñata nhận được trong lần đầu nắm tay thầy đến Lễ hội Rồng Xanh. Đây là quả bóng chuyền giới hạn của lễ hội, lấy cảm hứng từ chiếc piñata ấy."
+FESTIVAL_BALLOON_BALL,Bóng Mánh Khóe
+FESTIVAL_BALLOON_BALL/DES,Quả bóng Lễ hội Rồng Xanh do Hongsi làm để trêu Ryuhyeon. Trông như bóng bay nhưng lại nặng bất ngờ.
+RAINY_HIGHSCHOOL,Trường trung học mưa rơi
+RAINY_HIGHSCHOOL_DESC,"Mùi nhựa đường ướt, bảng tìm người mất tích, tiếng xì xào của học sinh. Ký ức về ngày tôi quyết định nghỉ học vẫn còn rõ ràng."
+PHANTOM_STADIUM_ENTRANCE,Lối Vào Sân Vận Động Giải Phantom
+PHANTOM_STADIUM_ENTRANCE_DESC,Nơi đây từng có một siêu sao xuất sắc nhất và Người Lập Vương đã đồng hành cùng anh trong thời hoàng kim.
+FESTIVAL_CLASSROOM,Lớp học ngập tràn không khí lễ hội
+FESTIVAL_CLASSROOM_DESC,"Các học sinh Seonrim thật sự mất công trang trí lớp. Bình thường họ ít theo xu hướng, nên lo sợ lớp trông quê mùa. “Hanra, chẳng phải trang trí quá dễ thương rồi sao?”"
+VOLLEYBALL_CLUBROOM,Phòng CLB Bóng chuyền Trường THPT Đại Địa
+VOLLEYBALL_CLUBROOM_DESC,"Từng là đội mạnh địa phương, nhưng suy tàn sau khi thế hệ vàng tốt nghiệp. Giờ đây vẫn còn nét vẽ của những khoá trước ở góc tường. “Chúng tôi sẽ chờ các bạn phá kỷ lục của chúng tôi.”"
+BGM_AZURE_DRAGON_FESTIVAL_DESC,"Bản nhạc chính sự kiện Lễ hội Thanh Long.#「Ngày xửa ngày xưa, có chàng trai từng gặp rồng xanh ngay tại đây.」"
+BGM_MAIN_LOBBY_DESC,Chủ đề nhạc sảnh chính của The Spike Cross
+BGM_RYUHYEON_DAYDREAM_DESC,CHƯƠNG 07. Cảnh hồi tưởng.#「Nhất định con sẽ giành được sự công nhận của người.」
+BGM_RYUHYEON_VS_SIWOO_DESC,CHƯƠNG 07. Trận đấu với boss Ryuhyeon.#「Tôi sẽ bảo vệ tương lai của Seonrim.」
+BGM_THIS_IS_SUNRIM_DESC,"CHƯƠNG 07. Chủ đề chính Seonrim High.#「Thực ra anh đã chờ đợi rồi, phải không? Khoảnh khắc được dốc hết sức cho trận đấu thế này.」"
+BGM_CLASH_OF_FANTOMS_DESC,CHƯƠNG 09. Nhạc Trận Chính.#「Ở đây mọi người đều đặt cược cả cuộc đời cho bóng chuyền.」
+SODAM_UNIFORM,Đồng phục Sodam
+HARI_UNIFORM,Đồng phục Hari
+HARI_UNIFORM/DES,Thiết kế thêu cầu kỳ và kiểu dáng không giống đồng phục bóng chuyền đều là tác phẩm của Carla. Ý kiến của Hari hoàn toàn bị bỏ qua.
+CROW_UNIFORM,Đồng phục Crow
+CROW_UNIFORM/DES,"Trước trận, Crow quấn băng vai theo thứ tự cố định. Chỉ cần băng lệch một chút cũng khiến cậu bận tâm và giảm phong độ."
+LUCAS_UNIFORM,Đồng phục Lucas
+LUCAS_UNIFORM/DES,"Ngày xưa, có một siêu sao đã đốt cháy trái tim người hâm mộ. Cú đập bóng của anh ấy rực rỡ như mặt trời."
+ZERO_UNIFORM,Đồng phục Zero
+ZERO_UNIFORM/DES,"Kể từ khi rời Phantom League, Sanghyeon chưa bao giờ mặc lại bộ đồng phục này. Nhưng anh vẫn giữ nó cẩn thận trong tủ áo."
+SUN_BALL,Giữa Trưa
+SUN_BALL/DES,"Quả bóng kỷ niệm được tạo ra cho siêu sao vĩ đại nhất của Phantom League. Carla đã cấm sử dụng nó nên nó không còn xuất hiện trên sân đấu, nhưng vẫn là quả bóng được người hâm mộ yêu thích nhất."
+MOON_BALL,Trăng Tròn
+MOON_BALL/DES,Trong Phantom League từng có một cặp đôi huyền thoại được mọi người yêu mến. Quả bóng độc nhất này được người hâm mộ quyên góp làm ra để tưởng nhớ chuyền hai thiên tài trong đội.
+BGM_SUPERSTAR_CHALLANGE1_DESC,"CHƯƠNG 04. Trận đấu với boss Sanghyeon.#「Trước khi xem trận đấu, các bạn nhớ nhấn Like nhé!」"
+BGM_RECONCILIATION_DESC,CHƯƠNG 05. Tập 08.#「Cú đập bóng tôi thấy ngày hôm đó đã thay đổi cuộc đời tôi.」
+BGM_TRIP_DESC,"CHƯƠNG 02. Tập 01.#「Biển kìa, biển kìa~!!!」"
+BGM_THE_GEMSTONE_DESC,CHƯƠNG 06. Tập 04.#「Để trở thành cầu thủ thì quan trọng nhất vẫn là tài năng sao...?」
+BGM_WINTER_WONDERLAND_DESC,CHƯƠNG 08. Tập 01.#「Thư mời từ Trại Rockwell」
+BGM_SARAH_SHOW_DESC,CHƯƠNG 08. Kết thúc.#「Valentia Spikes vs Asheville Weasels」
+BGM_EYE_OF_THE_DAY_DESC,CHƯƠNG 10. Nhạc chủ đề Ngôi Sao Bạc#「Nữ hoàng」
+BGM_BLUEBELL_COLOSSEUM_DESC,"CHƯƠNG 10. Ca khúc chủ đề Bluebell.#「Nếu các cậu cho tôi xem những cú đập bóng tuyệt vời, tôi có thể đối đầu với các cậu mỗi ngày đấy?」"
+BGM_TAKE_ME_HIGHER_DESC,CHƯƠNG 10. Trận đấu với boss Lucas.#「Lucas vs Raúl」
+BGM_ROAD_TO_SUPERSTAR_DESC,"CHƯƠNG 10.#「Nếu là đồng đội của mình, cậu ta nhất định sẽ trở thành siêu sao của tất cả mọi người.」"
+BGM_SUMMER_MEMORIES_DESC,Bài hát Chủ đề Chính Sự kiện Summer Memories#「Lúc như thế này thì chỉ cần tận hưởng bóng chuyền bãi biển hết mình thôi.」
+BGM_MAIN_TITLE_DESC,The Spike Cross Main Title #「Tôi sẽ chứng minh giá trị của cậu.」
+SUMMER_BEACH,Biển Mùa Hè
+SUMMER_BEACH_DESC,"Nơi kỷ niệm của Lisia. Mệt mỏi vì chuẩn bị để trở thành chuyên nghiệp, Lisia đã chứng kiến màn tỏa sáng của Oasis tại đây và say mê bóng chuyền bãi biển."
+SEONRIM_HIGH,Seonrim
+SEONRIM_HIGH_DESC,"Vào ngày Ryuhyeon được cha đón về, cậu đã leo lên một con đường núi dốc đến mức nghẹt thở. Khi lên đến nơi, cánh cổng cao lớn hiện ra với tấm biển đề chữ “Seonrim”. Cha cậu đứng bên dưới, nở nụ cười nhẹ nhàng."
+REGIONAL_COMPETITION_STADIUM,Khán đài
+REGIONAL_COMPETITION_STADIUM_DESC,"Hàng chục năm trước, cha của Dahee từng tung hoành trên sân này. Hôm đó, trên khán đài, một cậu bé uống sữa socola, đôi mắt ánh lên rực rỡ."
+NIGHT_STADIUM_FRONT,Lối đi ngoài (Đêm)
+NIGHT_STADIUM_FRONT_DESC,"Sau khi thử thách Siêu Sao kết thúc, Sanghyeon đã đứng lặng người tại đây thật lâu. Giải Phantom từng vang dội tiếng hò reo. Vì hoài niệm thời huy hoàng ấy, anh mới tạo nên thử thách này—"
+SUPERSTAR,Siêu sao
+SUPERSTAR_DESC,"Cơn ác mộng lặp lại. Sau mỗi buổi phát sóng, quá khứ lại hiện lên sau mí mắt nhắm nghiền."
+DAEJI_HIGH_FRONT_PARK,Công viên trước Trường Đại Địa
+DAEJI_HIGH_FRONT_PARK_DESC,Lối đi bộ gần trường Đại Địa. Ăn cơm hộp ở đây ngon hơn hẳn.
+CARLA_OFFICE,Văn phòng của Carla
+CARLA_OFFICE_DESC,Văn phòng ẩn sâu dưới lòng đất của Giải Phantom. Sau bể cá khổng lồ là căn phòng bí mật không ai có thể vào được.
+KINGMAKER_STADIUM,Sân thi đấu Giải Phantom (Quá khứ)
+KINGMAKER_STADIUM_DESC,Một giải đấu được lập nên bằng đam mê của những tuyển thủ không thể bước vào chuyên nghiệp. Nó bắt đầu từ một cơ sở dưới lòng đất bị bỏ hoang được cải tạo thành sân bóng chuyền.
+BGM_MEET_OASIS_DESC,CHAPTER 02. Tập 06#「Đối mặt với tự tin luôn ngầu hơn là chần chừ!」
+BGM_MEET_LISIA_DESC,CHAPTER 02. Tập 03_Chiến thắng trận đấu#「Ước mơ của tôi là được thi đấu bên cạnh anh ấy~!」
+SUMMER_MEMORIES_BEACH,Bãi biển
+SUMMER_MEMORIES_BEACH_DESC,"Bãi biển nơi tổ chức Giải Bóng chuyền Bãi biển RISE. Vào ngày giành chiến thắng, Sara đã dạo bước trên bãi biển đến tận hoàng hôn, nhớ về Jenny."
+SUMMER_MEMORIES_SUNSETBEACH,Biển hoàng hôn
+SUMMER_MEMORIES_SUNSETBEACH_DESC,"Bãi biển nơi diễn ra Trại Hè Summer Splash. Nghe tiếng củi cháy lách tách, Siwoo và Jaehyeon hứa sẽ gặp lại nhau ở giải toàn quốc."
+STRAWHAT_JENNY_UNIFORM,Đồ bơi Jenny
+STRAWHAT_JENNY_UNIFORM/DES,“Chị giao chiếc mũ rơm này cho em nhé. Là món quý của chị. Nhớ trả lại sau này.” — tôi mơ thấy chị nói vậy.
+WATERSPLASH_SARA_UNIFORM,Đồ bơi Sara
+WATERSPLASH_SARA_UNIFORM/DES,"Mua trước giải vì lo máy quay. Mặc lên thì sặc sỡ quá, mặt nóng bừng."
+SURFER_NN_UNIFORM,Đồ bơi Vô Danh
+SURFER_NN_UNIFORM/DES,"Thỉnh thoảng ra biển lướt sóng. Lúc chủ nợ đuổi, chạy luôn trên ván."
+DIVER_DAVE_UNIFORM,Đồ bơi Dave
+DIVER_DAVE_UNIFORM/DES,Cứ lặn là câu được cá ngừ. Thỉnh thoảng còn tìm thấy rương kho báu dưới đáy biển. Cậu lặn sâu đến mức nào?
+BEACH_BALL,Bóng bãi biển
+BEACH_BALL/DES,"Quả bóng dùng tại Giải Bóng Chuyền Bãi Biển RISE, lần đầu được giới thiệu qua tạp chí 『The Cross』 của RISE. Hai năm sau, chính tạp chí này công bố Sara trở thành thành viên mới của Top 5 Tay Đập."
+WATER_MELON_BEACH_BALL,Bóng bãi biển Dưa hấu
+WATER_MELON_BEACH_BALL/DES,Đây chắc chắn là bóng chuyền… nhưng gõ nhẹ lại vang âm “chín” kỳ lạ.
+SEAWEED_BALL,Quả bóng bị rong biển quấn lấy
+SEAWEED_BALL/DES,"Dave đã nhảy xuống biển để nhặt quả bóng mà lũ trẻ làm mất. Không hiểu sao, nó trông hơi rùng rợn."
+REYS,
+PRODUCT_SKIN_NISHIKAWA_HIGHSCHOOL,Nishikawa Thời THPT
+PRODUCT_SKIN_ISABEL_WEDDING,Váy Cưới Isabel
+PRODUCT_SKIN_JAEHYEON_TRAINING,Jaehyeon Đồ Tập
+BDF,
+PRODUCT_SKIN_RYUHYUN_CHIEF_DISCIPLE,Đại đệ tử Ryuhyeon
+PRODUCT_SKIN_HANRA_YUMMI,Thợ làm bánh nữ Hanra
+PRODUCT_SKIN_AYEONSTEIN,Ayeonstein
+SMM,
+SMM_NORMAL_PASS,Vé Thường
+SMM_NORMAL_PASS_DESC,Nhận nhiều đồng phục và tiền tệ qua Vé Thường.
+SMM_SAND_PASS,Pass Sand
+SMM_SAND_PASS_DESC,"Mở Pass Sand để nhận thêm 3 ngày điểm danh sự kiện, đồng phục giới hạn và lượng lớn tiền tệ."
+SMM_TROPICAL_PASS,Pass Tropical
+SMM_TROPICAL_PASS_DESC,"Mở Pass Tropical để nhận thêm 1 ngày điểm danh sự kiện, đồng phục giới hạn và lượng lớn tiền tệ. Chỉ mua được sau khi mua Pass Sand."
+SMM_SAND_TROPICAL_PASS,Pass Sand + Pass Tropical
+SMM_SAND_TROPICAL_PASS_DESC,Gói mở cùng lúc cả Pass Sand và Pass Tropical.
+SMM_BEGINNER_PACKAGE,Gói Tân thủ Ký ức Mùa Hè
+SMM_BEGINNER_PACKAGE_DESC,Gói dành cho người mới với hiệu quả cao và chỉ có thể mua 1 lần duy nhất lúc ban đầu.
+SMM_PREMIUM_PACKAGE,Gói Cao Cấp
+SMM_PREMIUM_PACKAGE_DESC,"Nhận Xu Mùa Hè x1,000 & Điểm V x1,200 với gói này."
+SMM_ROYAL_PACKAGE,Gói Hoàng gia
+SMM_ROYAL_PACKAGE_DESC,"Nhận Xu Mùa Hè x1,200 & Điểm V x2,500 với gói này."
+SMM_EXTREME_ROYAL_PACKAGE,Gói Hoàng gia Tối thượng
+SMM_EXTREME_ROYAL_PACKAGE_DESC,"Nhận Xu Mùa Hè x2,650 & Điểm V x5,100 với gói này."
+SMM_PACKAGE_1,Gói Ký ức Mùa Hè I
+SMM_PACKAGE_1_DESC,Nhận Xu Mùa Hè x270 với gói ưu đãi này
+SMM_PACKAGE_2,Gói Ký ức Mùa Hè II
+SMM_PACKAGE_2_DESC,Nhận Xu Mùa Hè x570 với gói ưu đãi này
+SMM_PACKAGE_3,Gói Ký ức Mùa Hè III
+SMM_PACKAGE_3_DESC,Nhận Xu Mùa Hè x1875 với gói ưu đãi này
+SMM_GROWTH_PACKAGE,Gói Phát Triển
+SMM_GROWTH_PACKAGE_DESC,Gói giúp bạn nhận lượng lớn Xu và Điểm EXP.
+HLWN 11/3~,
+PRODUCT_SKIN_SARA_WATERSPLASH,Sara Bắn Nước
+PRODUCT_SKIN_JENNY_STRAWHAT,Jenny Nón Rơm
+PRODUCT_SKIN_DAVE_DIVER,Dave Thợ lặn
+PRODUCT_SKIN_NN_SURFER,NN Lướt sóng
+PRODUCT_SKIN_VAMPIRE_SOHEE,Sohee Ma Cà Rồng
+HLWN2025_NORMAL_PASS,Vé Thường
+HLWN2025_NORMAL_PASS_DESC,Nhận nhiều vật phẩm và tiền tệ qua Vé Thường.
+HLWN2025_SURPRISE_SOHEE_PASS,Thẻ Sohee Bất Ngờ
+HLWN2025_SURPRISE_SOHEE_PASS_DESC,"Mở Thẻ Sohee Bất Ngờ để nhận thêm 3 ngày điểm danh sự kiện, trang phục Sohee Ma Cà Rồng và lượng lớn tiền tệ."
+BSP,
+RAUL_ROOM,Phòng của Raul
+RAUL_ROOM_DESC,"Anh tỉnh dậy sau một giấc ngủ dài. Cơn đau đầu quen thuộc lại nhói lên sắc lạnh. Nhìn xuống gương mặt phản chiếu trong rượu, anh nhấp một ngụm chậm rãi. Oán hận cũ luôn lạnh và đắng như chính ly rượu ấy."
+BGM_AGAINST_PHANTOM_LEAGUE_DESC,CHAPTER 11. #「Chỉ cần sơ suất là cậu sẽ không bao giờ chơi bóng chuyền được nữa.」
+BGM_REUNITED_DESC,CHAPTER 11. #「Đã 5 năm rồi nhỉ.」
+BGM_TWO_QUEENS_DESC,CHAPTER 11. #「Lần này tôi sẽ cho tiền bối thấy… tôi đã trưởng thành đến mức nào.」
+BGM_UNDERGROUND_JUNGLE_DESC,CHAPTER 11. #「Giờ tôi chẳng còn gì để chần chừ nữa. Tránh ra.」
+BGM_SIWOO_AND_PHANTOM_LEAGUE_DESC,CHAPTER 11. #「Top 5 Tay Đập không phải chỉ để nói về những tuyển thủ xuất sắc thôi đâu.」
+NEON_SIGN_BALL,Bóng Neon
+NEON_SIGN_BALL/DES,"Khán giả thì mê tít, còn tuyển thủ thì khổ sở. Trong phòng thay đồ lúc nào cũng có người thở dài: “Cho bọn tôi dùng quả bóng bình thường được không…?”"
+VENOM_BALL,Bóng Venom
+VENOM_BALL/DES,Bóng thi đấu chính thức của Phantom League. Nó được chế tác bởi một nhà thiết kế nổi tiếng theo yêu cầu trực tiếp của Carla.
+CLAIRE_UNIFORM,Đồng phục Claire
+CLAIRE_UNIFORM/DES,"Sau trận đấu, người hâm mộ cầm bộ đồng phục này kéo đến chỗ Claire đông như mây. Những ngày thắng trận, anh ấy được cho là ký tên rất vui vẻ."
+RAUL_SUIT,Bộ vest của Raul
+RAUL_SUIT/DES,"Bộ vest của Raul được may từ loại vải cao cấp nhất, dưới ánh nắng lại càng hiện rõ sắc độ sâu và trầm. Chiếc cà vạt là do Carla đích thân chọn."
+SIWOO_WHITE_STORMS_UNIFORM,Đồng phục White Storms của Siwoo
+SIWOO_WHITE_STORMS_UNIFORM/DES,"Đồng phục Siwoo mặc ở Phantom League. Vào ngày đăng ký cầu thủ, Carla đưa cho cậu bộ đồng phục đã chuẩn bị sẵn như thể biết trước mọi chuyện sẽ diễn ra thế này."
+PL_STADIUM,Sân đấu Phantom League
+PL_STADIUM_DESC,"「Trận All-Star Phantom League bắt đầu!」 Ánh đèn rực rỡ lóe lên, khán giả đồng loạt vỡ òa trong phấn khích. Bạn cũng bật dậy khỏi ghế và hét lớn."
+SIF_HAIR,Tóc Sif
+SIF_UNIFORM,Đồng phục Sif
+SIF_SHOES,Giày của Sif
+CLAIRE_HAIR,Tóc Claire
+CLAIRE_SHOES,Giày của Claire
+RAUL_HAIR,Tóc Raul
+RAUL_UNIFORM,Đồng phục Raul
+RAUL_SHOES,Giày của Raul
+LEAGUE_UNIFORM_1,Phantom League Đỏ
+LEAGUE_UNIFORM_2,Phantom League Xanh dương
+LEAGUE_UNIFORM_3,Phantom League Đỏ Trắng
+BSP_REWARD_ADD_VOUCHER,Vé Đóng góp Thêm
+BSP_NORMAL_PASS,Vé Thường
+BSP_NORMAL_PASS_DESC,Nhận nhiều đồng phục và tiền tệ qua Vé Thường.
+BSP_PREMIUM_PASS,Vé Premium
+BSP_PREMIUM_PASS_DESC,"Mở Vé Premium để nhận thêm 3 ngày điểm danh sự kiện, đồng phục giới hạn và lượng lớn tiền tệ."
+BSP_ROYAL_PASS,Vé Royal
+BSP_ROYAL_PASS_DESC,Mở Vé Royal để nhận thêm 1 ngày điểm danh sự kiện và lượng lớn tiền tệ. Chỉ mua được sau khi mua Vé Premium.
+BSP_PREMIUM_ROYAL_PASS,Vé Premium + Vé Royal
+BSP_PREMIUM_ROYAL_PASS_DESC,Gói mở cùng lúc cả Vé Premium và Vé Royal.
+BSP_BEGINNER_PACKAGE,Gói Tân thủ Quái thú
+BSP_BEGINNER_PACKAGE_DESC,Gói dành cho người mới với hiệu quả cao và chỉ có thể mua 1 lần duy nhất lúc ban đầu.
+BSP_PREMIUM_PACKAGE,Gói Cao Cấp
+BSP_PREMIUM_PACKAGE_DESC,"Nhận Xu Quái Thú x1,200 & Vé Chiêu mộ cầu thủ Spiker Quái Thú x10 với gói này."
+BSP_ROYAL_PACKAGE,Gói Hoàng gia
+BSP_ROYAL_PACKAGE_DESC,"Nhận Xu Quái Thú x1,800 & Vé Chiêu mộ cầu thủ Spiker Quái Thú x20 với gói này."
+BSP_EXTREME_ROYAL_PACKAGE,Gói Hoàng gia Tối thượng
+BSP_EXTREME_ROYAL_PACKAGE_DESC,"Nhận Xu Quái Thú x3,600 & Vé Chiêu mộ cầu thủ Spiker Quái Thú x40 với gói này."
+BSP_PACKAGE_1,Gói Quái thú I
+BSP_PACKAGE_1_DESC,Nhận Xu Quái Thú x180 với gói này.
+BSP_PACKAGE_2,Gói Quái thú II
+BSP_PACKAGE_2_DESC,Nhận Xu Quái Thú x380 với gói này.
+BSP_PACKAGE_3,Gói Quái thú III
+BSP_PACKAGE_3_DESC,"Nhận Xu Quái Thú x1,250 với gói này."
+BSP_GROWTH_PACKAGE,Gói Phát Triển
+BSP_GROWTH_PACKAGE_DESC,Nhận nhiều Xu và Điểm EXP với gói này.
+BSP_MINI_PACKAGE,Gói Mini Quái thú
+BSP_MINI_PACKAGE_DESC,Nhận Vé Chiêu mộ cầu thủ Spiker Quái Thú x5 với gói này.
+XMAS 12/10~,
+XMAS2025_NORMAL_PASS,Vé Thường
+XMAS2025_NORMAL_PASS_DESC,Nhận nhiều vật phẩm và tiền tệ qua Vé Thường.
+XMAS2025_PREMIUM_PASS,Vé Lisia Tuần lộc
+XMAS2025_PREMIUM_PASS_DESC,"Mở khóa Vé Lisia Tuần lộc, thêm 3 ngày điểm danh sự kiện và nhận skin Lisia tuần lộc cùng lượng lớn tiền tệ."
+XMAS2025_PREMIUM_PASS_DESC_2,Mở Vé Lisia Tuần lộc để nhận thật lượng lớn tiền tệ
+SNOWY_STREET,Con phố tuyết rơi
+SNOWY_STREET_DESC,"Đêm yên tĩnh. Biết đâu đêm nay, điều ước của ai đó sẽ thành hiện thực."
+JINGLE_BELL_BALL,Bóng Chuông Jingle
+JINGLE_BELL_BALL/DES,Leng keng! Quả bóng chuyền đặc biệt mang không khí cuối năm. Đúng là rất hợp cho dịp này.
+STAR_SNOW_BALL,Quả Cầu Tuyết Ngôi Sao
+STAR_SNOW_BALL/DES,Nhân vật chính hôm nay… có lẽ là quả bóng này?
+BGM_CALRA_TRAP_DESC,CHƯƠNG 9. #「Thật đáng tiếc khi mất đi một cầu thủ tài năng.」
+BGM_ALICE_DESC,CHAPTER 5. #「Tớ sẽ cho cậu thấy cú đập bóng làm thay đổi cuộc đời cậu.」
+BGM_MENACE2PLAY_DESC,Nhạc chủ đề chính của sự kiện Red Eyes#「Red eyes」
+BGM_JENNY_LAST_STAND_DESC,"CHAPTER 9. #「Như ngọn lửa chứa đựng gió, bùng cháy dữ dội.」"
+PHANTOM_COURT_ON,Sân đấu Phantom League
+PHANTOM_COURT_ON_DESC,Một đấu trường ngầm mà ngay cả người thường cũng không biết đến sự tồn tại của nó. Chỉ những thành viên được công nhận đủ đáng tin để giữ bí mật mới được phép xem trận đấu.
+PRODUCT_SKIN_LISIA_RUDOLPH,Rudolph Lisia
+Tiger Eyes 01/16~,
+PRODUCT_SKIN_NISHIKAWA_BLACK_THUNDER,Nishikawa Sấm Đen
+PRODUCT_SKIN_HONGSI_MAID,Maid Hongsi
+RED_HOWL_CUT,Cắt Howl đỏ
+RED_HOWL_CUT/DES,Kiểu tóc Đam Mê. Chỉ cần để kiểu này thôi cũng như khiến niềm đam mê bóng chuyền sôi sục.
+OBSIDIAN_ROUGH,Obsidian thô
+OBSIDIAN_ROUGH/DES,"Kiểu tóc rối bời. Sau một trận đấu dài, tóc đã ướt đẫm mồ hôi. Nhưng cảm giác thì tuyệt hơn bao giờ hết!"
+BASIC_STRIKE_CUT,Cắt đòn cơ bản
+BASIC_STRIKE_CUT/DES,"Kiểu tóc sành điệu. Không hiểu sao, nó khiến bạn nhạy cảm hơn và các giác quan trở nên sắc bén."
+BRAIDED_HAIR,Tóc tết
+BRAIDED_HAIR/DES,"Kiểu tóc tết tròn. Mỗi lần bật nhảy thật cao, bím tóc lại nảy lên lắc lư. Chỉ nhìn thôi cũng khiến tâm trạng vui hẳn."
+BLUE_WHALE_UNIFORM,Đồng phục cá voi xanh
+BLUE_WHALE_UNIFORM/DES,"Cá voi xanh. Chiều cao vượt trội, sức mạnh áp đảo và một chủ công xuất sắc. Lối đánh cổ điển, đơn giản nhưng đầy uy lực, đè bẹp hàng thủ đối phương."
+BLACK_BEAR_UNIFORM,Đồng phục gấu đen
+BLACK_BEAR_UNIFORM/DES,"Gấu đen. Những cú đập nhanh như chớp nhắm thẳng end line. Một đội bóng phá vỡ hàng thủ đối phương bằng các pha tấn công lệch nhịp, khó đoán từ chủ công."
+GREEN_HUNTER_UNIFORM,Đồng phục thợ săn xanh lá
+GREEN_HUNTER_UNIFORM/DES,"Thợ săn xanh lá. Họ hiểu hơn ai hết rằng một cú giao bóng mạnh có thể xoay chuyển cục diện trận đấu. Nhờ tập trung rèn giao bóng trong mọi buổi tập, họ tự tin tấn công cả những quả bóng ở xa lưới."
+TEAHOUSE,Trà Quán Đấu Trường
+TEAHOUSE_DESC,"Quán trà bán trà thơm và bánh ngọt do một cầu thủ từng nổi danh thế giới mở ra. Đến nay, cứ dịp năm mới, người đồng đội cũ của cô vẫn ghé thăm."
+BGM_TIGER_EYES,"Nhạc chủ đề chính sự kiện Tiger Eyes#「Chào mừng nhé, nhóc!」"
+BLACK_NISHI_BALL,Bóng Nishikawa Đen
+BLACK_NISHI_BALL/DES,"Đêm khi toàn bộ ánh đèn trong sân đã tắt. Không biết từ lúc nào, quả bóng này đã lẫn vào giữa những quả bóng chuyền khác. Và ngay khoảnh khắc ấy, tia sét đen lóe lên, quấn lấy quả bóng, như thể vừa tỉnh giấc."
+PEARL_BALL,Bóng Khảm Trai
+PEARL_BALL/DES,Món đồ thủ công được nghệ nhân tỉ mỉ ghép từng mảnh một. Đẹp đến mức chỉ muốn nâng niu và trưng bày.
+EV2601_NORMAL_PASS,Vé Thường
+EV2601_NORMAL_PASS_DESC,Nhận nhiều đồng phục và tiền tệ qua Vé Thường.
+EV2601_PREMIUM_PASS,Vé Premium
+EV2601_PREMIUM_PASS_DESC,"Mở Vé Premium để nhận thêm 3 ngày điểm danh sự kiện, đồng phục giới hạn và lượng lớn tiền tệ."
+EV2601_ROYAL_PASS,Vé Royal
+EV2601_ROYAL_PASS_DESC,Mở Vé Royal để nhận thêm 1 ngày điểm danh sự kiện và lượng lớn tiền tệ. Chỉ mua được sau khi mua Vé Premium.
+EV2601_PREMIUM_AND_ROYAL_PASS,Vé Premium + Vé Royal
+EV2601_PREMIUM_AND_ROYAL_PASS_DESC,Gói mở cùng lúc cả Vé Premium và Vé Royal.
+EV2601_GROWTH_PACKAGE,Gói Phát Triển
+EV2601_GROWTH_PACKAGE_DESC,Nhận nhiều Xu và Điểm EXP với gói này.
+EV2601_PREMIUM_PACKAGE,Gói Cao Cấp
+EV2601_PREMIUM_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x10 và lượng lớn tiền tệ với gói này.
+EV2601_ROYAL_PACKAGE,Gói Hoàng gia
+EV2601_ROYAL_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x20 và lượng lớn tiền tệ với gói này.
+EV2601_EXTREME_ROYAL_PACKAGE,Gói Hoàng gia Tối thượng
+EV2601_EXTREME_ROYAL_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x40 và phần thưởng lớn với gói này.
+EV2601_PACKAGE_1,Gói Tiger Eyes I
+EV2601_PACKAGE_1_DESC,Nhận Xu Hổ x300 và Điểm V x360 với gói này.
+EV2601_PACKAGE_2,Gói Tiger Eyes II
+EV2601_PACKAGE_2_DESC,Nhận Xu Hổ x860 và Điểm V x1.270 với gói này.
+EV2601_MINI_TIGER_PACKAGE,Gói Hổ Con
+EV2601_MINI_TIGER_PACKAGE_DESC,"Nhận Vé chiêu mộ cầu thủ Đặc biệt x10, Điểm V x400 và nhiều Xu và EXP với gói này."
+RYUHYUN_HAIR,Tóc Ryuhyeon
+HANRA_UNIFORM,Đồng phục Hanra
+MUYOUNG_UNIFORM,Đồng phục Muyung
+REY_BLUE_HAIR,Tóc Cáu Kỉnh Xanh Dương
+REY_PURPLE_HAIR,Tóc Cáu Kỉnh Nâu
+REY_BROWN_HAIR,Tóc Cáu Kỉnh Tím
+REY_SKY_HAIR,Tóc Cáu Kỉnh Xanh Da Trời
+REY_YELLOW_HAIR,Tóc Cáu Kỉnh Vàng
+SIWOO_WHITE_STORMS_HAIR,Tóc White Storms
+SIWOO_WHITE_STORMS_SHOES,Giày White Storms
+RED_HORSE_HAIR,Kiểu tóc Ngựa Đỏ 2026
+RED_HORSE_HAIR/DES,Đeo chiếc mặt nạ này khiến bạn cảm thấy chân mình nhanh hơn. Tất nhiên chỉ là cảm giác thôi.
+UNICORN_HAIR,Kiểu tóc Kỳ Lân 2026
+UNICORN_HAIR/DES,Đeo chiếc mặt nạ này khiến bạn cảm thấy mình thông minh hơn. Tất nhiên chỉ là cảm giác thôi.
+2026_LUCKY_BAG,2026 Bóng Túi May Mắn
+2026_LUCKY_BAG/DES,"Khi Ryuhyeon cấm chơi bóng chuyền, Hanra đã tự tay làm món này để an ủi Sodam đang buồn rầu."
+윈드 스파이커 03/26~,
+BLOND_HAIR,Tóc vàng tươi sáng
+BLOND_HAIR/DES,Phong cách đơn giản nhưng thu hút ánh nhìn.
+PINK_CURL_HAIR,Tóc xoăn màu hồng đáng yêu
+PINK_CURL_HAIR/DES,"Nhảy, lăn và thậm chí ngã cũng không sao. Nhờ dùng nhiều keo xịt tóc, nó được giữ cố định chắc chắn."
+BROWN_BUN_HAIR,Kiểu tóc búi gọn gàng
+BROWN_BUN_HAIR/DES,Những sợi tóc con hơi lộ ra là điểm cuốn hút.
+ASHVILLE_WISLES_UNIFORM,Đồng phục Asheville Weasels
+ASHVILLE_WISLES_UNIFORM/DES,"Đồng phục của đội danh tiếng trong LOV. Asheville Weasels nổi tiếng với hệ thống đào tạo trẻ tốt, giúp các cầu thủ trẻ liên tục phát triển lên đội một và tạo nên sự gắn kết cao."
+BLACK_LIONS_UNIFORM,Đồng phục Black Lions
+BLACK_LIONS_UNIFORM/DES,"Black Lions theo truyền thống mặc đồng phục kết hợp màu đen, trắng và vàng. Đây là bộ đồng phục được đánh giá cao cho cả nam và nữ."
+IRIS_UNIFORM,Đồng phục Iris
+IRIS_UNIFORM/DES,"Mặc dù đã mặc nhiều bộ đồng phục, đây là bộ Iris yêu thích nhất."
+YURI_UNIFORM,Đồng phục Yuri
+YURI_UNIFORM/DES,"Số áo hiện tại của anh là 11, nhưng mục tiêu là một ngày nào đó mang số áo của Victor."
+WIND_SPIKER_UNIFROM,Đồng phục Sara Chủ Công
+WIND_SPIKER_UNIFROM/DES,Đây là bộ đồng phục phổ biến nhất của Asheville Weasels. Một số người hâm mộ nói rằng mặc nó khiến họ cảm thấy nhanh hơn.
+WIND_BALL,Bóng Wind Spiral
+WIND_BALL/DES,"Quả bóng chuyền xoáy như lốc gió. Nếu bạn điều khiển nó thành thạo, bạn sẽ được người hâm mộ Asheville Weasels công nhận."
+BLUE_RIDGE_ARENA,Nhà thi đấu Blue Ridge
+BLUE_RIDGE_ARENA/DESC,Sân nhà của Asheville Weasels. Trên tường treo những bức ảnh ghi lại khoảnh khắc lịch sử và các cầu thủ.
+RAINBOW_BALL,Bóng Prism Rainbow
+RAINBOW_BALL/DES,"Quả bóng chuyền tùy chỉnh do người hâm mộ Sara tạo ra. Sara nói rằng mỗi khi nhìn thấy quả bóng này, cô như nghe thấy tiếng cổ vũ vang khắp sân đấu."
+BGM_JENNY_AND_SARA_DESC,CHAPTER 12. #「Nhưng em muốn thử thách thêm một lần nữa.」
+BGM_SAVIOR_SEO_SARA_DESC,"CHAPTER 12. #「Việc của tôi không phải là bị cuốn theo, mà là thắp lên ngọn lửa trong lòng mọi người.」"
+BGM_MEET_YURI_DESC,"CHAPTER 12. #「Này, đồ đầu đất. Nghe nói cậu gây chuyện ở chỗ nguy hiểm nào đó rồi bị bố lôi về à?」"
+BGM_MEET_IRIS_DESC,"CHAPTER 12. #「L, lúc như thế này đáng lẽ đội trưởng như tôi phải làm gì đó mới đúng...!」"
+PHANTOM_LEAGUE_COURT,Sân Phantom League
+PHANTOM_LEAGUE_COURT/DESC,"Sau khi ra mắt, Raul nhanh chóng trở thành siêu sao khi giành danh hiệu MVP ở mọi giải đấu anh tham dự, nhưng anh bị cuốn vào âm mưu của ban lãnh đạo Black Lions và bị khai trừ khỏi giải đấu. Khi tất cả các câu lạc bộ của các giải đấu lớn đều từ chối chiêu mộ anh, Raul và Carla quyết định tự tạo ra một giải đấu của riêng mình. Giải đấu này chính là Phantom League."
+EV2604_NORMAL_PASS,Vé Thường
+EV2604_NORMAL_PASS_DESC,Nhận nhiều đồng phục và tiền tệ qua Vé Thường.
+EV2604_PREMIUM_PASS,Vé Premium
+EV2604_PREMIUM_PASS_DESC,"Mở Vé Premium để nhận thêm 3 ngày điểm danh sự kiện, đồng phục giới hạn và lượng lớn tiền tệ."
+EV2604_ROYAL_PASS,Vé Royal
+EV2604_ROYAL_PASS_DESC,Mở Vé Royal để nhận thêm 1 ngày điểm danh sự kiện và lượng lớn tiền tệ. Chỉ mua được sau khi mua Vé Premium.
+EV2604_PREMIUM_ROYAL_PASS,Vé Premium + Vé Royal
+EV2604_PREMIUM_ROYAL_PASS_DESC,Gói mở cùng lúc cả Vé Premium và Vé Royal.
+EV2604_PACKAGE_1,Gói Wind Spiker I
+EV2604_PACKAGE_1_DESC,Nhận Xu Gió x300 và Điểm V x360 với gói này.
+EV2604_PACKAGE_2,Gói Wind Spiker II
+EV2604_PACKAGE_2_DESC,"Nhận Xu Gió x860 và Điểm V x1,270 với gói này."
+EV2604_BREEZE_PACKAGE,Gói Gió Nhẹ
+EV2604_BREEZE_PACKAGE_DESC,"Nhận Vé chiêu mộ cầu thủ Đặc biệt x10, Điểm V x400 và nhiều Xu và EXP với gói này."
+EV2604_BREEZE_PACKAGE_SECOND,Gói Gió Nhẹ Trở lại
+EV2604_BREEZE_PACKAGE_SECOND_DESC,"Nhận Vé chiêu mộ cầu thủ Đặc biệt x10, Điểm V x400 và nhiều Xu và EXP với gói này."
+EV2604_GUST_PACKAGE,Gói Gió Giật
+EV2604_GUST_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x10 và lượng lớn tiền tệ với gói này.
+EV2604_GUST_PACKAGE_SECOND,Gói Gió Giật Trở lại
+EV2604_GUST_PACKAGE_SECOND_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x10 và lượng lớn tiền tệ với gói này.
+EV2604_BLADE_PACKAGE,Gói Gió Sắc
+EV2604_BLADE_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x20 và lượng lớn tiền tệ với gói này.
+EV2604_BLADE_PACKAGE_SECOND,Gói Gió Sắc Trở lại
+EV2604_BLADE_PACKAGE_SECOND_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x20 và lượng lớn tiền tệ với gói này.
+EV2604_TEMPEST_PACKAGE,Gói Bão
+EV2604_TEMPEST_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x40 và phần thưởng lớn với gói này.
+EV2604_TEMPEST_PACKAGE_SECOND,Gói Bão Trở lại
+EV2604_TEMPEST_PACKAGE_SECOND_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x40 và phần thưởng lớn với gói này.
+EV2604_GROWTH_PACKAGE,Gói Phát Triển
+EV2604_GROWTH_PACKAGE_DESC,Nhận nhiều Xu và Điểm EXP với gói này.
+EV2604_GROWTH_PACKAGE_SECOND,Gói Phát Triển Trở lại
+EV2604_GROWTH_PACKAGE_SECOND_DESC,Nhận nhiều Xu và Điểm EXP với gói này.
+IRIS_SHOES,Giày Iris
+YURI_SHOES,Giày Yuri
+WIND_SPIKER_SHOES,Giày Wind Spiker
+MINJUN_HAIR,Tóc dựng đỏ
+8주년 이벤트 4/23~,
+8TH_BALL,Bóng kỷ niệm 8 năm
+8TH_BALL/DES,Bóng kỷ niệm 8 năm The Spike Cross. Được tạo ra để gửi lời cảm ơn đến tất cả những người đã đồng hành cùng chúng tôi.
+MYSTIC_AURORA_BALL,Bóng Cực Quang Huyền Bí
+MYSTIC_AURORA_BALL/DES,Có thể mua tại buổi hòa nhạc Phantoms. Đừng chần chừ kẻo hết hàng.
+PHANTOM_STUDIO,Studio Phantom
+PHANTOM_STUDIO/DES,"Phòng thu nơi các thành viên Phantoms tụ họp để thu âm ca khúc. Đây là nơi họ đã nhiều lần vắt óc để tạo nên bài hát ""See You Tomorrow, Sunset""."
+8TH_SIF_SHOES,Giày Sif Phantoms
+8TH_SIF_UNIFORM,Đồng phục Sif Phantoms
+8TH_SIF_UNIFORM/DES,"Trang phục của Sif, tay trống của Phantoms. Được cố định chắc chắn bằng kẹp để không bị xộc xệch trong lúc biểu diễn mạnh mẽ."
+8TH_SIF_HAIR,Tóc Sif Phantoms
+8TH_SIF_HAIR/DES,"Kiểu tóc phong cách funky. Mỗi khi đánh trống mạnh, mái tóc tung bay đầy ấn tượng."
+8TH_ELLIO_SHOES,Giày Ellio Phantoms
+8TH_ELLIO_UNIFORM,Đồng phục Ellio Phantoms
+8TH_ELLIO_UNIFORM/DES,"Trang phục biểu diễn của Ellio, tay keyboard của Phantoms. Anh đã tự sửa chiếc áo khoác bị rách trong lúc biểu diễn và biến nó thành trang phục sân khấu của riêng mình."
+8TH_ELLIO_HAIR,Tóc Ellio Phantoms
+8TH_ELLIO_HAIR/DES,Kiểu tóc buộc nửa. Đây là kiểu tóc được người hâm mộ yêu thích nhất.
+8TH_JENNY_SHOES,Giày Jenny Phantoms
+8TH_JENNY_UNIFORM,Đồng phục Jenny Phantoms
+8TH_JENNY_UNIFORM/DES,"Trang phục biểu diễn của Jenny, ca sĩ chính của Phantoms. Được thiết kế với quần trong liền để váy không bị lật lên."
+8TH_JENNY_HAIR,Tóc Jenny Phantoms
+8TH_JENNY_HAIR/DES,Kiểu tóc buộc hai bên. Người hâm mộ vẫn tranh luận xem tóc xõa hay buộc hai bên hợp với Jenny hơn.
+8TH_CLAIRE_SHOES,Giày Claire Phantoms
+8TH_CLAIRE_UNIFORM,Đồng phục Claire Phantoms
+8TH_CLAIRE_UNIFORM/DES,"Trang phục biểu diễn của Claire, tay guitar của Phantoms. Nhờ thiết kế rộng rãi, anh ấy có thể tự do di chuyển và biểu diễn trên sân khấu."
+8TH_CLAIRE_HAIR,Tóc Claire Phantoms
+8TH_CLAIRE_HAIR/DES,Kiểu tóc đặc trưng mà anh ấy luôn giữ kể từ khi nhận được băng đô từ người hâm mộ tại buổi hòa nhạc đầu tiên.
+8TH_HARI_SHOES,Giày Hari Phantoms
+8TH_HARI_UNIFORM,Đồng phục Hari Phantoms
+8TH_HARI_UNIFORMDES,"Trang phục biểu diễn của Hari, tay bass của Phantoms. Có khóa kéo ở phía sau nên cô ấy cần sự giúp đỡ của các thành viên khác để mặc."
+8TH_HARI_HAIR,Tóc Hari Phantoms
+8TH_HARI_HAIR/DES,Kiểu tóc được trang trí bằng ruy băng. Làm nổi bật thêm vẻ đáng yêu.
+BGM_8TH_ANNIVERSARY,"See You Tomorrow, Sunset (Inst.)"
+BGM_8TH_ANNIVERSARY_DESC,Phantoms Concert. #「Hai lần bị thương. Hai lần vượt qua.#Tôi đã quyết tâm. Tôi sẽ bay về phía mặt trời trên bầu trời.#Dù đôi cánh sáp có tan chảy.#Bởi vì tôi đang tìm kiếm.#Một điều mà tôi muốn nắm lấy dù phải đánh đổi cả cuộc đời.」
+PRODUCT_8TH_ELLIO_SKIN,Ngôi sao của Encore
+EV2605_FIRST_GIG_PACKAGE,Gói Buổi Diễn Đầu
+EV2605_FIRST_GIG_PACKAGE_DESC,Gói chứa 10 Vé chiêu mộ cầu thủ Đặc biệt cùng lượng lớn tiền tệ.
+EV2605_RISING_STAR_PACKAGE,Gói Rising Star
+EV2605_RISING_STAR_PACKAGE_DESC,"Gói chứa 10 Vé chiêu mộ cầu thủ Đặc biệt, 13 Vé chiêu mộ cầu thủ Đặc biệt Phantoms cùng lượng lớn tiền tệ."
+EV2605_BEST_GIG_PACKAGE,Gói Sân Khấu Đỉnh Cao
+EV2605_BEST_GIG_PACKAGE_DESC,"Gói chứa 20 Vé chiêu mộ cầu thủ Đặc biệt, 17 Vé chiêu mộ cầu thủ Đặc biệt Phantoms cùng lượng lớn tiền tệ."
+PRODUCT_8TH_HARI_SKIN,Midnight
+PRODUCT_8TH_JENNY_SKIN,Shooting Star
+DAEJI_SCHOOL_UNIFORM_MALE,Đồng phục nam sinh Trường THPT Đại Địa
+DAEJI_SCHOOL_UNIFORM_MALE/DES,Chịu ảnh hưởng từ thiết kế đồng phục của một trường nghệ thuật gần đó. Giản dị nhưng rất phong cách.
+DAEJI_SCHOOL_UNIFORM_FEMALE,Đồng phục nữ sinh Trường THPT Đại Địa
+DAEJI_SCHOOL_UNIFORM_FEMALE/DES,Nữ sinh có thể chọn nơ hoặc cà vạt cho đồng phục của mình. Số học sinh chọn nơ nhỉnh hơn một chút.
+웨스턴 이벤트 5/22~,
+PRODUCT_SKIN_RYUHYUN_RED_HOOD,Red Hood
+PRODUCT_SKIN_SIF_BOUNTY_HUNTER,Thợ Săn Tiền Thưởng
+PRODUCT_SKIN_CLAIRE_GOD_FATHER,Bố Già
+EV2606_NORMAL_PASS,Vé Thường
+EV2606_NORMAL_PASS_DESC,Nhận nhiều đồng phục và tiền tệ qua Vé Thường.
+EV2606_PREMIUM_PASS,Vé Premium
+EV2606_PREMIUM_PASS_DESC,"Mở Vé Premium để nhận thêm 3 ngày điểm danh sự kiện, đồng phục giới hạn và lượng lớn tiền tệ."
+EV2606_ROYAL_PASS,Vé Royal
+EV2606_ROYAL_PASS_DESC,Mở Vé Royal để nhận thêm 1 ngày điểm danh sự kiện và lượng lớn tiền tệ. Chỉ mua được sau khi mua Vé Premium.
+EV2606_PREMIUM_ROYAL_PASS,Vé Premium + Vé Royal
+EV2606_PREMIUM_ROYAL_PASS_DESC,Gói mở cùng lúc cả Vé Premium và Vé Royal.
+EV2606_GROWTH_PACKAGE,Gói Phát Triển
+EV2606_GROWTH_PACKAGE_DESC,Nhận nhiều Xu và Điểm EXP với gói này.
+EV2606_PREMIUM_PACKAGE,Gói Cao Cấp
+EV2606_PREMIUM_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x10 và lượng lớn tiền tệ với gói này.
+EV2606_ROYAL_PACKAGE,Gói Hoàng gia
+EV2606_ROYAL_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x20 và lượng lớn tiền tệ với gói này.
+EV2606_EXTREME_ROYAL_PACKAGE,Gói Hoàng gia Tối thượng
+EV2606_EXTREME_ROYAL_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x40 và phần thưởng lớn với gói này.
+EV2606_PACKAGE_1,Gói Western I
+EV2606_PACKAGE_1_DESC,"Gói có thể nhận được Xu Western x300, Điểm V x360."
+EV2606_PACKAGE_2,Gói Western II
+EV2606_PACKAGE_2_DESC,"Gói có thể nhận được Xu Western x860, Điểm V x1,270."
+EV2606_RED_HOOD_PACKAGE,Gói Red Hood
+EV2606_RED_HOOD_PACKAGE_DESC,"Nhận Vé chiêu mộ cầu thủ Đặc biệt x10, Điểm V x400 và nhiều Xu và EXP với gói này."
+TUMBLEWEED_BALL,Bóng Cỏ Lăn
+TUMBLEWEED_BALL/DES,Quả bóng được kết từ những sợi dây leo khô héo quấn chặt vào nhau. Thật khó để nhận ra hình dáng ban đầu của nó.
+CACTUS_BALL,Bóng Xương Rồng
+CACTUS_BALL/DES,Quả bóng nhức nhối nhất thế giới. Nó sẽ khiến bạn bừng tỉnh ngay lập tức.
+BGM_BANG_TO_SPIKE_DESC,"Western Event. #「Suy cho cùng, bóng chuyền cũng chỉ là một trận quyết đấu khác mà thôi.」"
+SUNRIM_VILLAGE,Ngôi làng Seonrim(?)
+SUNRIM_VILLAGE/DESC,"Chào mừng bạn đến với 'Ngôi làng Seonrim', nơi trú ẩn của những kẻ lãng du nơi miền viễn Tây khai phá. Hãy cùng chuyền bóng một lát ở đây để quên đi những mệt mỏi của chuyến hành trình."
+RED_HOOD_RYUHYUN_UNIFORM,Đồng Phục Ryuhyeon Red Hood
+RED_HOOD_RYUHYUN_UNIFORM/DES,"Bốn bề đều bị ngọn lửa bao vây, và dân làng không thấy tăm hơi đâu cả. Lê bước thân hình bị thương để tìm kiếm mọi người, Ryuhyeon cuối cùng đã phát hiện ra chiếc áo choàng của sư phụ bị rách nát và vấy đầy máu. Chắc chắn đây là trò của lũ Băng Đảng Phantoms. Một lát sau, Ryuhyeon nhặt chiếc áo choàng của sư phụ lên, khoác lên vai và chuẩn bị tinh thần để chấp nhận số phận nghiệt ngã của mình. ...Anh đã từng mơ một giấc mơ rất đời thực như thế."
+RED_HOOD_RYUHYUN_HAIR,Tóc Ryuhyeon Red Hood
+RED_HOOD_RYUHYUN_HAIR/DES,"Chiếc mũ cao bồi được cư dân vùng khai hoang ưa chuộng mỗi khi ra vào làng. Nó nhẹ, bền và không bị sờn rách ngay cả trong mưa gió. Sau khi quyết định ẩn cư, cảnh sát trưởng Ryuhyeon bắt đầu đội chiếc mũ này kéo thấp xuống."
+RED_HOOD_RYUHYUN_SHOES,Giày Ryuhyeon Red Hood
+BOUNTY_HUNTER_SIF_UNIFORM,Đồng Phục Sif Thợ Săn Tiền Thưởng
+BOUNTY_HUNTER_SIF_UNIFORM/DES,"Khá là lộng lẫy so với trang phục của một kẻ lãng du nơi hoang mạc cằn cỗi. Nhưng đối với cô, người luôn trải qua những cuộc quyết đấu sinh tử, ánh mắt của kẻ khác chẳng có nghĩa lý gì. Cô chỉ đơn giản là khoác lên mình bộ trang phục tuyệt đẹp mà mình thích và rảo bước khắp hoang mạc."
+BOUNTY_HUNTER_SIF_HAIR,Tóc Sif Thợ Săn Tiền Thưởng
+BOUNTY_HUNTER_SIF_HAIR/DES,"Chiếc mũ cao bồi quý giá của Sif. Nó đong đầy kỷ niệm khi cô mắc lỗi trong nhiệm vụ đầu tiên cùng cộng sự của mình, tiền bối Raul, và đang cảm thấy thất vọng, thì tiền bối đã kéo nó thấp xuống đầu cô. Đó là bảo vật số một không gì thay thế được của cô."
+BOUNTY_HUNTER_SIF_SHOES,Giày Sif Thợ Săn Tiền Thưởng
+GOD_FATHER_CLAIRE_UNIFORM,Đồng Phục Claire Bố Già
+GOD_FATHER_CLAIRE_UNIFORM/DES,"Quá lộng lẫy nên không mấy phù hợp với kẻ thống trị thế giới ngầm. Thế nhưng, đối với một người luôn thích đứng ở trung tâm của sự chú ý như anh, đây quả là một bộ trang phục hoàn hảo."
+GOD_FATHER_CLAIRE_HAIR,Tóc Claire Bố Già
+GOD_FATHER_CLAIRE_HAIR/DES,"Chiếc mũ fedora trắng sành điệu. Kẻ nào dám làm vấy bẩn chiếc mũ trắng tinh khôi một cách tuyệt đối này, kẻ đó quyết không thể trở về nhà một cách bình an."
+GOD_FATHER_CLAIRE_SHOES,Giày Claire Bố Già
+WESTERN_UNIFORM_MALE,Đồng Phục Nam Western
+WESTERN_UNIFORM_MALE/DES,Trang phục của một kẻ khai hoang rắn rỏi. Chiếc quần jeans bền chắc và dẻo dai đến mức bạn có thể dễ dàng quẹt diêm nhóm lửa ngay trên quần khi cần thiết.
+WANTED_HAIR_MALE,Tóc Nam Tờ Lệnh Truy Nã
+WANTED_HAIR_MALE/DES,「TRUY NÃ. Claire Roman. Sống hay Chết. Phần thưởng 25 đô la.」
+WESTERN_UNIFORM_FEMALE,Đồng Phục Nữ Western
+WESTERN_UNIFORM_FEMALE/DES,"Trang phục của một cao bồi. Nó vô cùng ấm áp, giúp bạn có thể chơi bóng chuyền ngay cả nơi hoang mạc lộng gió lạnh."
+WANTED_HAIR_FEMALE,Tóc Nữ Tờ Lệnh Truy Nã
+WANTED_HAIR_FEMALE/DES,「TRUY NÃ. Hongsi. Sống hay Chết. Phần thưởng 100 đô la.」
+WESTERN_RYUHYUN/LINE,Ta luôn là kẻ đi săn.
+WESTERN_CLAIRE/LINE,Sự kiêu ngạo đó của ngươi cũng sẽ kết thúc vào ngày hôm nay thôi.
+WESTERN_SIF/LINE,"Đoàng!! ...Ối chà, suýt rớt tim ra ngoài rồi sao, nhóc con?"
+WESTERN_SHOES_MALE,Giày Tay Súng
+WESTERN_SHOES_FEMALE,Giày Biên Cương
+PROFILE_BG_STARTER_COURT,Sân khởi đầu
+PROFILE_BG_GOLDEN_RALLY,Cú Rally vàng
+PROFILE_BG_CHAMPIONSHIP_COURT,Sân vô địch
+PROFILE_BG_MIDNIGHT_VOLLEY,Bóng chuyền nửa đêm
+PROFILE_BG_DREAM_SKY,Bầu trời ước mơ
+PROFILE_BG_BEGINNER_COURT,Sân của người mới
+PROFILE_BG_BLACKOUT,Mất điện (Blackout)
+PROFILE_BG_CARBON_PATTERN,Họa tiết Carbon
+PROFILE_BG_SPIKE_STUDIO,Studio Đập bóng
+PROFILE_BG_CLOUD_COURT,Sân mây
+PROFILE_BG_CENTER_STAGE,Sân khấu trung tâm
+PROFILE_FRAME_BLACK,Khung đen
+PROFILE_FRAME_GRAY,Khung xám
+PROFILE_FRAME_TRANSPARENT,Khung trong suốt
+PROFILE_FRAME_SPIKE_STUDIO,Studio Đập bóng
+PROFILE_FRAME_BLUE_FLAME,Lửa Xanh
+PROFILE_FRAME_BUTTERFLY,Bướm
+PROFILE_FRAME_BOUNTY_HUNTER,Thợ săn tiền thưởng
+PROFILE_FRAME_MUYEONG_BUBBLE,Bong bóng Muyung
+PROFILE_TITLE_COURT_TRAINEE,Thực tập sinh trên sân
+PROFILE_TITLE_COURT_EXPERT,Chuyên gia trên sân
+PROFILE_TITLE_NAMED_PLAYER,Cầu thủ có tiếng
+PROFILE_TITLE_RISING_STAR,Ngôi sao đang lên
+PROFILE_TITLE_ALLSTAR_PLAYER,Cầu thủ All-Star
+PROFILE_TITLE_ACE_CANDIDATE,Ứng cử viên Ace
+PROFILE_STICKER_CREDIT,Xu
+PROFILE_STICKER_ATTENDANCE_STAMP,Điểm danh
+PROFILE_STICKER_DRAGON_COIN,Xu rồng
+PROFILE_STICKER_VPOINT,Điểm V
+PROFILE_STICKER_AWAKEN_ITEM,Mảnh Ghép Nỗ Lực
+PROFILE_STICKER_WIND_COIN,Xu gió
+PROFILE_STICKER_VPOINT_BUNDLE,Gói Điểm V
+PROFILE_STICKER_VESSENCE,Tinh chất V
+PROFILE_STICKER_PHANTOM_COIN,Xu bóng ma
+PROFILE_STICKER_KINGMAKER_COIN,Xu Kingmaker
+PROFILE_STICKER_TIGER_COIN,Xu hổ
+PROFILE_STICKER_SUSPICIOUS_BLUE_FLAME,Lửa Xanh đáng ngờ
+PROFILE_STICKER_BLUE_FLAME,Lửa Xanh
+PROFILE_STICKER_WINTER_COIN,Xu mùa đông
+PROFILE_STICKER_STAR,Ngôi sao
+PROFILE_STICKER_CREDIT_RICH,Giàu Xu
+PROFILE_STICKER_VPOINT_RICH,Giàu Điểm V
+PROFILE_STICKER_WHISTLE,Còi
+PROFILE_STICKER_CREDIT_BUNDLE,Gói Xu
+PROFILE_STICKER_MB_BADGE,Huy hiệu Phụ công
+PROFILE_STICKER_WS_BADGE,Huy hiệu Chủ công
+PROFILE_STICKER_SE_BADGE,Huy hiệu Chuyền hai
+PROFILE_STICKER_PHANTOM,Bóng ma
+PROFILE_STICKER_DEATH_BLOOM,Death Bloom
+PROFILE_STICKER_POWER,Sức mạnh
+PROFILE_STICKER_DISCOURAGED,Nản Chí
+PROFILE_STICKER_JUMP,Nhảy
+PROFILE_STICKER_SHOES,Giày
+PROFILE_STICKER_DASH,Lướt (Dash)
+PROFILE_STICKER_DEFENSE,Phòng thủ
+PROFILE_STICKER_FOCUS,Tập Trung Cao Độ
+PROFILE_STICKER_CARELESS,Mất Tập Trung
+PROFILE_STICKER_DUMBBELL,Tạ tay
+PROFILE_STICKER_WORKEDUP,Phấn Khích
+PROFILE_STICKER_SPEED_TOSS,Cú Chuyền Tốc Độ
+PROFILE_STICKER_SKULL,Đầu lâu
+PROFILE_STICKER_CRITICAL_TOSS,Chuyền CRITICAL
+PROFILE_STICKER_CACTUS,Xương rồng
+PROFILE_STICKER_TIRE,Lốp xe
+PROFILE_STICKER_BUTTERFLY,Bướm
+PROFILE_STICKER_SNIPE,Bắn tỉa
+PROFILE_STICKER_FRANTIC,Cú Chuyền Mạo Hiểm
+PROFILE_STICKER_WINGS_ICARUS,Đôi cánh của Icarus
+PROFILE_STICKER_TOSS,Chuyền bóng
+PROFILE_STICKER_TYPHOON,Siêu Bão
+PROFILE_STICKER_PAIN_KILLER,Thuốc Giảm Đau
+PROFILE_STICKER_IMPERIAL_ORDER,Mệnh Lệnh Hoàng Gia
+PROFILE_STICKER_ANGRY_SKULL,Đầu lâu tức giận
+PROFILE_STICKER_SMILE_SKULL,Đầu lâu cười
+PROFILE_STICKER_HYUNMU,Huyền Vũ
+PROFILE_STICKER_BLUE_DRAGON,Thanh Long
+PROFILE_STICKER_JUJAK,Chu Tước
+PROFILE_STICKER_WHITE_TIGER,Bạch Hổ
+PROFILE_STICKER_UNIFORM,Đồng phục
+PROFILE_STICKER_VOLLEY_BALL,Bóng chuyền
+EV2607_HELLO_DAVE_PACKAGE,Gói Hello Dave
+EV2607_HELLO_DAVE_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt Warm-Up x10 và lượng lớn tiền tệ với gói này.
+EV2607_LAB_ESSENTIALS_PACKAGE,Gói Thí Nghiệm Khoa Học
+EV2607_LAB_ESSENTIALS_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt Warm-Up x13 và lượng lớn tiền tệ với gói này.
+EV2607_SUMMER_VACATION_PACKAGE,Gói Kỳ nghỉ Hè
+EV2607_SUMMER_VACATION_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt Warm-Up x17 và phần thưởng lớn với gói này.
+서머 트레이닝 이벤트(7/29~),
+COCONUT_BALL,Bóng Dừa
+COCONUT_BALL/DES,"Mỗi lần đập bóng, bên trong lại vang lên tiếng nước dừa sóng sánh."
+HANRA_BALL,Bóng Hanra
+HANRA_BALL/DES,Quả bóng chuyền Hanra mang đến cho đợt huấn luyện mùa hè. Nghe nói cô ấy đã lỡ mua ngẫu hứng chỉ vì quá thích phối màu của nó.
+VIOLA_BALL,Bóng Viola
+VIOLA_BALL/DES,Quả bóng chuyền mà Viola rất trân trọng. Đây là món quà Isabel dành tặng khi cô ấy nói sẽ đi tập luyện.
+SUMMER_TRAINING_UNIFORM_MALE,Đồng phục nam Huấn luyện mùa hè
+SUMMER_TRAINING_UNIFORM_MALE/DES,"Sau trận, chỉ cần giũ vài cái là cát rơi sạch như phép màu."
+SUMMER_TRAINING_UNIFORM_FEMALE,Đồng phục nữ Huấn luyện mùa hè
+SUMMER_TRAINING_UNIFORM_FEMALE/DES,Được thiết kế để quần áo không bị cuộn lên ngay cả khi vận động mạnh.
+PRODUCT_SKIN_SUMMER_TRAINING,Huấn luyện mùa hè
+PRODUCT_SKIN_SUMMER_TRAINING/DES,
+EV2608_NORMAL_PASS,Vé Thường
+EV2608_NORMAL_PASS_DESC,Nhận nhiều đồng phục và tiền tệ qua Vé Thường.
+EV2608_PREMIUM_PASS,Vé Premium
+EV2608_PREMIUM_PASS_DESC,"Mở Vé Premium để nhận thêm 3 ngày điểm danh sự kiện, đồng phục giới hạn và lượng lớn tiền tệ."
+EV2608_ROYAL_PASS,Vé Royal
+EV2608_ROYAL_PASS_DESC,Mở Vé Royal để nhận thêm 1 ngày điểm danh sự kiện và lượng lớn tiền tệ. Chỉ mua được sau khi mua Vé Premium.
+EV2608_PREMIUM_ROYAL_PASS,Vé Premium + Vé Royal
+EV2608_PREMIUM_ROYAL_PASS_DESC,Gói mở cùng lúc cả Vé Premium và Vé Royal.
+EV2608_GROWTH_PACKAGE,Gói Phát Triển
+EV2608_GROWTH_PACKAGE_DESC,Nhận nhiều Xu và Điểm EXP với gói này.
+EV2608_CORAL_RUBY_PACKAGE,Gói Hồng Ngọc San Hô
+EV2608_CORAL_RUBY_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x10 và lượng lớn tiền tệ với gói này.
+EV2608_ROYAL_PACKAGE,Gói Hoàng gia
+EV2608_ROYAL_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x20 và lượng lớn tiền tệ với gói này.
+EV2608_EXTREME_ROYAL_PACKAGE,Gói Hoàng gia Tối thượng
+EV2608_EXTREME_ROYAL_PACKAGE_DESC,Nhận Vé chiêu mộ cầu thủ Đặc biệt x40 và phần thưởng lớn với gói này.
+EV2608_PACKAGE_1,Gói Huấn Luyện Mùa Hè I
+EV2608_PACKAGE_1_DESC,Gói giúp bạn nhận Xu Dừa x300 và Điểm V x360.
+EV2608_PACKAGE_2,Gói Huấn Luyện Mùa Hè II
+EV2608_PACKAGE_2_DESC,"Đây là gói giúp bạn nhận được Xu Dừa x860, Điểm V x1.270."
+EV2608_VIOLET_SAPPHIRE_PACKAGE,Gói Sapphire Tím
+EV2608_VIOLET_SAPPHIRE_PACKAGE_DESC,"Gói giúp bạn nhận Vé Chiêu mộ Cầu thủ Đặc biệt x10, Điểm V x400 cùng lượng lớn Xu và Điểm EXP."
+SIWOO_ROOM,Phòng của Siwoo
+SIWOO_ROOM/DESC,"Trên bàn có đặt một bức ảnh gia đình chụp từ thời thơ ấu. Tuy nhiên, không thể tìm thấy hình bóng của người cha ở bất kỳ đâu trong ảnh."
+DAEJI_GYM,Nhà thi đấu Trường THPT Đại Địa
+DAEJI_GYM/DESC,"Thầy hiệu trưởng thỉnh thoảng lại chơi kèn trumpet ở đây, và kỹ năng của thầy khá là ấn tượng."
+PINK_POP_SPIKES_UNIFORM,Đồng phục Pink Pop Spikes
+PINK_POP_SPIKES_UNIFORM/DES,Đồng phục của một đội bóng chuyền tham gia giải đấu bóng chuyền bãi biển.
+BGM_SUMMER_RUNNING_DESC,Summer Training. #「Đó thực sự là một mùa hè tuyệt vời nhất.」
+BGM_THE_SECOND_MOVE_DESC,CHAPTER 1. #「Chỉ có duy nhất một đội giành được tấm vé tham dự Giải Toàn Quốc.」
+BGM_TOPSY_TURVY_DESC,CHAPTER 1. #「Sắp đến giờ tập solo kèn trumpet của thầy hiệu trưởng rồi đấy!」
+BGM_CHAPTER1_OPENING_1_DESC,CHAPTER 1. #「Một lần nữa cho chúng ta thấy rõ thế nào mới là một át chủ bài thật sự!!」
+VICE_PRINCIPAL_HAIR,Kiểu tóc của hiệu phó
+VICE_PRINCIPAL_HAIR/DES,30 năm nhà giáo. Nhiệt huyết ngày đầu tiên đứng trên bục giảng và mái tóc dày dặn năm xưa giờ đây không còn để lại một chút dấu vết.
+콘텐츠 업데이트 (8/26~),
+PROFILE_BG_TERRA_HALLWAY,Hành Lang Trường THPT Đại Địa
+PROFILE_BG_CHERRY_BLOSSOM_SUNSET,Hoàng Hôn Hoa Anh Đào
+PROFILE_STICKER_MINI_HONGSHI,Mini Hongsi
+PROFILE_STICKER_MINI_MIKE,Mini Mike
+PROFILE_STICKER_MINI_ISABEL,Mini Isabel
+PROFILE_STICKER_MINI_YOONSEOK,Mini Yoonseok
+PROFILE_STICKER_MINI_JENNY,Mini Jenny
+시즌 3 업데이트,
+EV2609_GROWTH_PACKAGE,Gói Phát Triển
+EV2609_GROWTH_PACKAGE_DESC,Gói giúp bạn nhận được lượng lớn Xu và Điểm EXP.
+EV2609_WELCOME_ELITE_PACKAGE,Gói Chào Mừng Tinh Anh
+EV2609_WELCOME_ELITE_PACKAGE_DESC,Gói giúp bạn nhận được Vé Chiêu mộ Cầu thủ Đặc biệt x10 và một lượng nhỏ tiền tệ.
+EV2609_PACKAGE_1,Gói Tinh Anh 1
+EV2609_PACKAGE_1_DESC,"Gói có thể nhận được Xu Tinh Anh x300, Điểm V x360."
+EV2609_PACKAGE_2,Gói Tinh Anh 2
+EV2609_PACKAGE_2_DESC,"Gói có thể nhận được Xu Tinh Anh x860, Điểm V x1270."
+EV2609_ELITE_PREMIUM_PACKAGE,Gói Premium Tinh Anh
+EV2609_ELITE_PREMIUM_PACKAGE_DESC,Gói giúp bạn nhận được Vé Chiêu mộ Cầu thủ Đặc biệt x10 và lượng lớn tiền tệ.
+EV2609_ELITE_ROYAL_PACKAGE,Gói Royal Tinh Anh
+EV2609_ELITE_ROYAL_PACKAGE_DESC,Gói giúp bạn nhận được Vé Chiêu mộ Cầu thủ Đặc biệt x20 và lượng lớn tiền tệ.
+EV2609_EXTREME_ROYAL_PACKAGE,Gói Royal Cực Hạn Tinh Anh
+EV2609_EXTREME_ROYAL_PACKAGE_DESC,Gói giúp bạn nhận được Vé Chiêu mộ Cầu thủ Đặc biệt x40 và lượng tiền tệ cực lớn.
+EV2609_NORMAL_PASS,Vé Thường
+EV2609_NORMAL_PASS_DESC,Có thể nhận nhiều loại đồng phục và tiền tệ qua Vé Thường.
+EV2609_PREMIUM_PASS,Vé Premium
+EV2609_PREMIUM_PASS_DESC,Mở Vé Premium để kéo dài điểm danh sự kiện thêm 3 ngày và nhận đồng phục giới hạn cùng lượng lớn tiền tệ.
+EV2609_ROYAL_PASS,Vé Royal
+EV2609_ROYAL_PASS_DESC,Mở Vé Royal để kéo dài điểm danh sự kiện thêm 1 ngày và nhận lượng lớn tiền tệ. Chỉ có thể mua sau khi mua Vé Premium.
+EV2609_PREMIUM_ROYAL_PASS,Vé Premium + Vé Royal
+EV2609_PREMIUM_ROYAL_PASS_DESC,Gói mở cùng lúc cả Vé Premium và Vé Royal.
+BEGINNER_PLAYER_RECRUIT_TICKET,Vé Chiêu mộ Tân thủ
+BEGINNER_RECRUIT_PACKAGE,Gói Vé Chiêu mộ Tân thủ
+BEGINNER_RECRUIT_PACKAGE_DESC,Nhận 40 Vé Chiêu mộ Tân thủ.
+DEFAULT_40VP_PACKAGE,Gói Điểm V x40
+DEFAULT_40VP_PACKAGE_DESC,Nhận 40 Điểm V.
+DEFAULT_200VP_PACKAGE,Gói Điểm V x200
+DEFAULT_200VP_PACKAGE_DESC,Nhận 200 Điểm V.
+DEFAULT_420VP_PACKAGE,Gói Điểm V x420
+DEFAULT_420VP_PACKAGE_DESC,Nhận 420 Điểm V.
+DEFAULT_1280VP_PACKAGE,Gói Điểm V x1280
+DEFAULT_1280VP_PACKAGE_DESC,Nhận 1280 Điểm V.
+DEFAULT_2160VP_PACKAGE,Gói Điểm V x2160
+DEFAULT_2160VP_PACKAGE_DESC,Nhận 2160 Điểm V.
+DEFAULT_4000VP_PACKAGE,"Gói Điểm V x4,000"
+DEFAULT_4000VP_PACKAGE_DESC,"Nhận 4,000 Điểm V."
+DEFAULT_40VP_PACKAGE_2X,Gói Điểm V x40 x2
+DEFAULT_40VP_PACKAGE_2X_DESC,40 Điểm V + 40 Thưởng!#Thưởng đặt lại định kỳ.
+DEFAULT_200VP_PACKAGE_2X,Gói Điểm V x200 x2
+DEFAULT_200VP_PACKAGE_2X_DESC,200 Điểm V + 200 Thưởng!#Thưởng đặt lại định kỳ.
+DEFAULT_420VP_PACKAGE_2X,Gói Điểm V x420 x2
+DEFAULT_420VP_PACKAGE_2X_DESC,420 Điểm V + 420 Thưởng!#Thưởng đặt lại định kỳ.
+DEFAULT_1280VP_PACKAGE_2X,Gói Điểm V x1280 x2
+DEFAULT_1280VP_PACKAGE_2X_DESC,1280 Điểm V + 1280 Thưởng!#Thưởng đặt lại định kỳ.
+DEFAULT_2160VP_PACKAGE_2X,Gói Điểm V x2160 x2
+DEFAULT_2160VP_PACKAGE_2X_DESC,2160 Điểm V + 2160 Thưởng!#Thưởng đặt lại định kỳ.
+DEFAULT_4000VP_PACKAGE_2X,Gói Điểm V x4000 x2
+DEFAULT_4000VP_PACKAGE_2X_DESC,4000 Điểm V + 4000 Thưởng!#Thưởng đặt lại định kỳ.
+상품(Product시트에 들어갈 것),
+GITAE_UNIFROM,Đồng phục Han Gitae
+GITAE_UNIFROM/DESC,"Đồng phục nam của đội bóng chuyền Đại Học Cheongmyeong.#Được làm từ loại vải đặc biệt có độ bền cao, khó rách dù chịu ma sát và va đập mạnh."
+BACK_ELITE_WAIT_ROOM,Trung tâm Huấn luyện Đội tuyển Quốc gia
+BACK_ELITE_WAIT_ROOM/DESC,"Trung tâm huấn luyện chuyên dụng, nơi quy tụ những cầu thủ bóng chuyền hàng đầu Hàn Quốc.#Sở hữu cơ sở chuyên nghiệp lớn nhất cả nước cùng hệ thống huấn luyện tối tân. Là nơi mài giũa những cầu thủ xuất sắc nhất, trung tâm nổi tiếng với cường độ tập luyện khắc nghiệt bậc nhất."
+BACK_ELITE_HALLWAY,Phông nền Hành lang Nhà thi đấu
+BACK_ELITE_HALLWAY/DESC,"Hành lang nhà thi đấu tại Trung tâm Huấn luyện Đội tuyển Quốc gia.#Khi Inho và người đồng đội của mình còn ở đội tuyển quốc gia, họ thường đi dọc nơi này và kể cho nhau nghe về ước mơ."
+YOUTH_BALL,Bóng Chuyên dụng NTC
+YOUTH_BALL/DES,"Bóng chuyên dụng của Trung tâm Huấn luyện Đội tuyển Quốc gia, do thương hiệu bóng chuyền 'RISE' sản xuất."
+GITAE_BALL,Bóng Yêu thích của Han Gitae
+GITAE_BALL/DES,"Quả bóng chuyền mà Han Gitae đặc biệt trân trọng.#Nghe nói vào ngày có trận đấu quan trọng, anh luôn dùng quả bóng này để luyện tập."
+YOUTH_UNIFORM_MALE,Đồng phục Nam Đội tuyển Trẻ Quốc gia
+YOUTH_UNIFORM_MALE/DES,"Đồng phục nam chính thức của đội tuyển trẻ quốc gia, do thương hiệu bóng chuyền 'RISE' sản xuất.#Được yêu thích đến mức bán chạy như tôm tươi mỗi mùa giải quốc tế."
+YOUTH_UNIFORM_FEMALE,Đồng phục Nữ Đội tuyển Trẻ Quốc gia
+YOUTH_UNIFORM_FEMALE/DES,"Đồng phục nữ chính thức của đội tuyển trẻ quốc gia, do thương hiệu bóng chuyền 'RISE' sản xuất.#Được yêu thích đến mức bán chạy như tôm tươi mỗi mùa giải quốc tế."
+JAEHYUN_UNIFORM,Đồng phục Jaehyeon
+JAEHYUN_UNIFORM/DES,"Đồng phục nam chính thức của đội bóng chuyền Trường THPT Thiên Thanh.#Vào ngày đầu tiên nhận đồng phục, Jaehyeon đã đứng trước gương khá lâu."
+JAEHYUN_SHOES,Giày Jaehyeon
+SEJIN_UNIFORM,Đồng phục Kang Sejin
+SEJIN_UNIFORM/DES,"Đồng phục nam chính thức của đội bóng chuyền Trường THPT Cheonan.#Không hiểu vì sao, Kang Sejin đặc biệt thích làm dáng mỗi khi mặc bộ này."
+SEJIN_SHOES,Giày Kang Sejin
+YUNA_UNIFORM,Đồng phục Seo Yuna
+YUNA_UNIFORM/DES,"Đồng phục nữ chính thức của đội bóng chuyền Trường THPT Cheolwon.#Là món đồ yêu thích nhất của Seo Yuna, cô có hẳn 5 bộ giống nhau để mặc luân phiên."
+YUNA_SHOES,Giày Seo Yuna
+BGM_COLEMAN_STORY_DESC,CHAPTER 13. #「Một người bắt đầu chơi bóng chuyền sớm như cậu thì chẳng hiểu gì đâu.」
+BGM_NATIONAL_TRAINING_MATCH_DESC,CHAPTER 13. #「Tôi phải thử tất cả những gì mình có thể làm!」
+BGM_TRAINING_CAMP_BUDDIES_DESC,CHAPTER 13. #「Em nhất định muốn trở thành tuyển thủ quốc gia!」
+PROFILE_FRAME_EV2609,Khung Ải Tinh Anh
+PROFILE_TITLE_ELITE_SPIKER,Cầu thủ Tinh Anh
+PROFILE_STICKER_GLOBAL,Nhãn dán Toàn cầu
+PROFILE_STICKER_GITAE,Nhãn dán Han Gitae
+PROFILE_STICKER_TROPHY,Nhãn dán Cúp Tinh Anh
+,
+PROFILE_BG_ELITE_COURT,Sân Tinh Anh
