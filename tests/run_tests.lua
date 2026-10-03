@@ -24,7 +24,7 @@ local function truthy(v, what) if not v then error((what or "condition") .. " wa
 local function setup(opts)
   opts = opts or {}
   local T = ce.load(SRC)
-  ce.processes[PID] = "TheSpikeCross.exe"
+  ce.processes[PID] = "TheSpike-Cross.exe"
   if not opts.noGuard then
     ce.symbols["MODE"] = MODE
     ce.values[MODE] = opts.mode or OFFLINE
@@ -337,7 +337,7 @@ end)
 test("exact processName wins over the substring match", function()
   local T = setup()
   ce.processes[1] = "SpikeLauncher.exe"
-  T.CONFIG.processName = "TheSpikeCross.exe"
+  T.CONFIG.processName = "TheSpike-Cross.exe"
   T.tick()
   eq(T._state.pid, PID, "attached to the exact name")
 end)

@@ -32,10 +32,9 @@ Contents:
      module). Cheat Engine's **Mono → Dissect mono** menu can then show you
      class and field names directly, which makes steps 1–4 much easier.
    - Neither → tell me what you see, and we'll adapt.
-2. **Process name.** With the game running, open Cheat Engine's process list
-   and note the exact `.exe` name. Put it in `CONFIG.processName`
-   (for example `"TheSpikeCross.exe"`). Auto-detect works too, but the exact
-   name avoids attaching to a launcher.
+2. **Process name.** `CONFIG.processName` is already set to the Steam build's
+   `"TheSpike-Cross.exe"`. Only change it if Cheat Engine's process list
+   shows a different name after a game update.
 3. In Cheat Engine: **Edit → Settings → Scan settings** → tick
    *MEM_PRIVATE*, *MEM_IMAGE* and *MEM_MAPPED*. Unity keeps a lot of data in
    mapped memory.

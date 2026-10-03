@@ -46,9 +46,9 @@ local Trainer = {}
 -- `nil` means "not configured yet"; the trainer shows it as such.
 --------------------------------------------------------------------------------
 local CONFIG = {
-  -- Exact process name, e.g. "TheSpikeCross.exe". nil = auto-detect by
-  -- looking for a running process whose name contains `processMatch`.
-  processName  = nil,
+  -- Exact process name of the Steam build. nil = auto-detect by looking for
+  -- a running process whose name contains `processMatch`.
+  processName  = "TheSpike-Cross.exe",
   processMatch = "spike",
 
   -- How often (ms) values are re-applied and the guard re-checked.
