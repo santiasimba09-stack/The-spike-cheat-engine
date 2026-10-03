@@ -1,0 +1,431 @@
+﻿KEY,한국어(ko)
+BAEK_SIWOO/NICKNAME,최고의 스파이커
+,
+,
+,
+PLAYER/KIM_HEESUNG/NICKNAME,최고의 미들블로커
+PLAYER/KIM_HEESUNG/LINE,최고라니... 과대평가이십니다.
+SKILLNAME_HEESUNG,절대 방어
+SKILLDES_HEESUNG,"스킬 발동 시, 어떠한 공격이든 완벽히 블로킹한다."
+PLAYER/KIM_HEESUNG/CATCHPHRASE,"""그 스파이크, 제가 막아내겠습니다!"""
+PLAYER/KIM_HEESUNG/SIMPLE_DES,"한빛고의 주장이자 고등부 최고의 미들블로커이다. 그는 1학년이지만, 작년 '최고의 선수' 상을 받은 선수의 속공을 완벽하게 차단하며 '난공불락' 김희성이란 별명을 얻었다.# 바르고 성실한 성격으로 인사할 때 반드시 90도로 허리를 숙이는 것이 그의 트레이드 마크다. 하지만, 서글서글한 평소의 인상과 달리 경기장에서는 승부욕이 폭발하기 때문에 상대할 때 꽤 무섭게 느껴진다고 한다."
+PLAYER/KIM_HEESUNG/SIMPLE_DES_02,고등학교 1학년이지만 한빛고의 주장 자리를 꿰찬 실력자. 작년 최고의 미들 블로커를 꺾고 실질적인 최고로 평가된다.
+PLAYER/KIM_HEESUNG/BACKNUM,6월 30일
+PLAYER/KIM_HEESUNG/BIRTHDAY,11
+PLAYER/KIM_HEESUNG/MOTTO,"끝없이 노력하고, 끝없이 겸손하자!"
+PLAYER/OASIS/NICKNAME,바다의 왕자
+PLAYER/OASIS/LINE,"자, 즐겨볼까?"
+PLAYER/OASIS/LINE_02,아~ 오늘도 좋은 햇빛! 낭만의 배구를 해보자!
+SKILLNAME_OASIS,정오
+SKILLDES_OASIS,"상대 팀이 3점을 얻을 때마다 강해지며, 15점이 되었을 때 최강의 선수가 된다."
+PLAYER/OASIS/CATCHPHRASE,"""신나게 즐기자. 그게 배구잖아?"""
+PLAYER/OASIS/SIMPLE_DES,"세계 최고의 프로 비치발리볼 선수. 현재는 은퇴 후 태양 배구단에서 청소년 선수들을 키우고 있다. 이름에서 알 수 있듯이 '오아시스'는 본명이 아니며, 프로 데뷔 이전의 활동에 대해선 알려진 바가 없다. 과거를 묻는 말은 그저 웃어넘길 뿐이다."
+SKILLNAME_OASIS2,일출
+SKILLNAME_OASIS3,일몰
+PLAYER/OASIS/DETAIL_DES,"오아시스는 선수 명으로, 본명이 아니다. 본명은 불명이며, 프로로 데뷔하기 이전의 활동은 밝혀지지 않았다. 자유로운 영혼, 경쟁과 자본에 구애받지 않는 자유로운 경기를 추구한다. "
+PLAYER/OASIS/NEW_DES,
+SKILLDOLPA_OASIS,스킬 효율에 비례해 상승하는 능력치가 높아진다.
+PLAYER/OASIS/BIRTH,8월 7일
+PLAYER/OASIS/BACKNUM,24
+PLAYER/OASIS/MOTTO,꿈이 있는 곳이 나의 집!
+PLAYER/HAN_SOLHWA/NICKNAME,최고의 세터
+PLAYER/HAN_SOLHWA/LINE,이곳에서 꽃 피우리라.
+SKILLNAME_SOLHWA,기습
+SKILLDES_SOLHWA,"스킬 발동 시, 설화가 즉시 공격한다. 해당 공격은 블로킹에 막히지 않는다."
+PLAYER/HAN_SOLHWA/CATCHPHRASE,"""제가 당신의 전력을 끌어내 보겠습니다."""
+PLAYER/HAN_SOLHWA/SIMPLE_DES,"고등학교 No.1 세터. 중학생 시절부터 남다른 재능으로 눈에 띄는 선수였다. 원래는 스파이커로 뛰었으나 고등학교에 진학한 뒤 포지션을 세터로 바꿨다. 중학생 시절 보여준 활약 덕분에 많은 사람들이 그를 ‘괴물 스파이커’로 기억한다. 지금도 스파이커가 더 어울리는 게 아니냔 얘기를 듣곤 하지만, 본인은 단호히 부정한다. 중학생 시절의 트라우마 때문이라는 듯. 공수 양면에 모두 뛰어나기 때문에, 문외한이 봐도 대단한 선수라는 것을 알 수 있다고 한다."
+PLAYER/HAN_SOLHWA/BIRTH,5월 1일
+PLAYER/HAN_SOLHWA/BACKNUM,2
+PLAYER/HAN_SOLHWA/MOTTO,"사는 대로 생각하는 것이 아니라, 생각하는 대로 살자."
+SKILLNAME_JAEHYUN,의지
+SKILLDES_JAEHYUN,"팀 체력이 30% 이하일 때, 전체 스테이터스가 상승한다."
+SKILLDOLPA_JAEHYUN,스킬 효율에 비례해 상승하는 능력치가 높아진다.
+PLAYER/NAM_JAEHYUN/CATCHPHRASE,"""단 하나의 공도 허투루 놓치지 않을 거야. 그게 내가 최고가 되는 길이야."""
+PLAYER/NAM_JAEHYUN/SIMPLE_DES,"하늘고의 윙스파이커. 백시우의 라이벌로, 이영섭과 함께 고등학교 최고의 스파이커 중 한 명이다. 잘 훈련된 신체에서 나오는 엄청난 체력과 꺾이지 않는 의지력이 특징이다. 경기 중 단 한 순간도 쉬지 않고 움직이며, 이 탓에 그를 마킹하는 선수는 엄청난 피로감을 느낀다.# 배구 선수에게 필요한 재능은 전무하다. 워낙 운동 신경이 없어 필요한 동작을 하나하나 전부 외운 뒤 반복해서 훈련해야 겨우 남들만큼 움직일 수 있다. 남재현을 가장 아끼는 코치마저 그에게 배구를 그만두는 게 어떻겠냐고 제안했을 정도다. 하지만, 남재현은 포기하지 않고, 오히려 남들의 몇 배, 몇십 배에 달하는 훈련을 하며 지금에 이르렀다. 오늘도 그는 최고의 선수가 되기 위해 무던히 노력하고 있다."
+PLAYER/NAM_JAEHYUN/DETAIL_DES,"다소 불량할 것 같다는 이미지이지만, 목표에만 집중하는 타입이기에 허튼 짓을 하지 않는다. 부모님이 모두 교사인 만큼, 공부도 잘하며 상당한 우등생이다."
+PLAYER/NAM_JAEHYUN/BIRTH,12월 31일
+PLAYER/NAM_JAEHYUN/BACKNUM,10
+PLAYER/NAM_JAEHYUN/MOTTO,Ad astra per aspera# (별들을 향하는 길은 가시밭길이다.)
+PLAYER/LEE_YOUNGSEOB/NICKNAME,최고의 스파이커
+PLAYER/LEE_YOUNGSEOB/LINE,적당히 봐주면서 할 테니 열심히 해봐.
+SKILLNAME_YOUNGSUB,진광불휘
+SKILLDES_YOUNGSUB,"어떠한 특수 능력이 없어도, 엄청난 신체 능력으로 코트를 강타할 수 있는 고등학교 최고의 스파이커이다."
+PLAYER/LEE_YOUNGSEOB/CATCHPHRASE,"""이름은 이영섭, 키는 169cm, 지산고등학교의 에이스다."""
+PLAYER/LEE_YOUNGSEOB/SIMPLE_DES,"지산고의 에이스. 작은 키를 폭발적인 점프력과 강력한 파워로 극복하며 팀의 에이스로 자리 잡았다. 지산고의 구심점으로서 언제나 주위를 세심하게 챙기는 이상적인 리더 스타일이다. 말투가 딱딱해 언뜻 보기엔 무서워 보이지만, 실제로는 후배들에게 꽤 다정하다."
+PLAYER/LEE_YOUNGSEOB/DETAIL_DES,"팀을 이끌고, 이들의 마음을 잘 파악해 필요한 바를 제시할 수 있는 리더 스타일. 팀에서 실질적인 구심점 역할을 한다. 말투가 딱딱해 군기가 강한 느낌이다. 하지만 말투만 그러할 뿐, 실제로는 후배들에게 꽤 다정한 선배로 불린다."
+PLAYER/LEE_YOUNGSEOB/NEW_DES,
+PLAYER/LEE_YOUNGSEOB/BIRTH,5월 5일
+PLAYER/LEE_YOUNGSEOB/BACKNUM,15
+PLAYER/LEE_YOUNGSEOB/MOTTO,불가능이란 노력하지 않는 자의 변명
+PLAYER/LISIA/NICKNAME,하늘의 영애
+PLAYER/LISIA/LINE,비치발리볼의 매력에 흠뻑 빠져보세요!
+SKILLNAME_LISIA,하늘 서브
+SKILLDES_LISIA,하늘 높이 올리는 강력한 서브를 구사한다. 연속으로 서브에 성공하면 성공률이 낮아진다.
+SKILLDOLPA_LISIA,스킬 효율에 따라 서브 성공률이 올라간다.
+PLAYER/LISIA/CATCHPHRASE,"""낭만, 자유, 바다! 비치발리볼은 정말 멋지지 않나요?"""
+PLAYER/LISIA/SIMPLE_DES,"태양 배구단 청소년 팀인 선 리시브 소속 선수. 동경하는 오아시스처럼 규칙과 승리에 얽메이지 않고, 즐겁게 운동하는 것이 그녀의 목표다. 비치발리볼을 시작한 지 그리 오래되지 않았으나, 이미 팀의 주전 자리를 꿰차고 누구보다 눈부시게 활약하고 있다.# 뜨거운 태양 아래 하루 종일 비치발리볼을 하다 보니 먹성이 남다르다. 배가 불러서 음식을 남기는 경우가 없으며, 괴식도 태연하게 먹어 치우기 때문에 오아시스의 지갑을 텅 비게 만드는 주범이라고 한다.# 팀 내에서 가장 위력적인 서브를 구사한다. 하늘 높이 공을 띄운 뒤 강하게 때리는 서브는 파워와 컨트롤을 모두 갖추고 있어 상대가 리시브를 시도조차 할 수 없게끔 만든다. 다만, 힘 조절이 아직 서툴러 연달아 시도하면 그대로 홈런이 되어버리는 것이 흠."
+PLAYER/LISIA/BIRTH,4월 28일
+PLAYER/LISIA/BACKNUM,
+PLAYER/LISIA/MOTTO,R = VD (Reality = Vivid Dream)
+SKILLNAME_ATIS,이안류
+SKILLDES_ATIS,"슬라이딩 후 일어나는 속도가 느리지만, 우월한 신체 능력을 갖추고 있다."
+PLAYER/ARTIS/CATCHPHRASE,"""...좋아, 다 모였군. 썸머 스플래쉬에 온 걸 환영한다."""
+PLAYER/ARTIS/SIMPLE_DES,"국제 비치발리볼 연맹 소속의 유소년 코치. 큰 키와 무서운 인상 탓에 다가가기 어려워 보이지만, 사실은 아이들을 진심으로 아끼는 따뜻한 마음씨를 지녔다.# 오아시스의 전 동료로, 과거에 그와 함께 태양 배구단의 스타로 활약했다. 이후 팜 스파이크스로 팀을 옮기며 오아시스와 라이벌 관계가 되었다. 그 과정에서 상당한 마찰이 있었다고 한다."
+PLAYER/ARTIS/BIRTH,2월 18일
+PLAYER/ATRIS/BACKNUM,13
+PLAYER/ARTIS/MOTTO,시련은 있어도 실패는 없다
+PLAYER/SANGHYEON/NICKNAME,코트 위의 아이돌
+PLAYER/SANGHYEON/LINE,경기 보시기 전에 좋아요 한 번씩 부탁드려요~
+SKILLNAME_SANGHYEON,하이라이트
+SKILLDES_SANGHYEON,"스킬 발동 시, 잠시동안 팀원 전체의 능력을 상승시킨다."
+PLAYER/SANGHYEON/CATCHPHRASE,"""경기 보시기 전에 좋아요 한 번씩 부탁드려요~"""
+PLAYER/SANGHYEON/SIMPLE_DES,"코트 위의 아이돌. 큰 키와 잘생긴 얼굴 덕분에 수많은 팬을 거느리고 있다. 본인 역시 자신의 스타성을 잘 알고, 이를 활용해 ‘슈퍼스타 챌린지’를 기획하며, 선수라기보다 마케터·프로듀서에 가까운 역할을 맡고 있다. 이 프로젝트 덕분에 유망한 고등학생들이 프로로 진출할 새로운 루트가 생겼지만, 과도하게 자극적인 편집과 연출로 인해 배구를 그만두는 선수들도 적지 않다. 좋은 의미로도 나쁜 의미로도 상업적인 배구의 상업성에 주목하고 있는 인물이다.# 의외로 배구에 누구보다 진심이다. 예술고에서 선수 겸 크리에이터로 이름을 알리기 시작했지만, 사실 중학생 시절부터 직접 중학생 배구 리그를 만들며 업계에서는 꽤 유명했다. 배구의 상업성에 주목하게 된 계기도 자신이 만든 중학생 배구 리그가 끝내 인기를 얻지 못해 닫게 된 경험 때문이다. 이후, 그의 재능을 알아본 누군가에게 스카우트되어 잠시 이탈리아에서 유학 생활을 했다."
+PLAYER/SANGHYEON/BIRTH,4월 1일
+PLAYER/SANGHYEON/BACKNUM,7
+PLAYER/SANGHYEON/MOTTO,남들처럼 해서는 결코 남들보다 앞설 수 없다★
+PLAYER/AYEON/NICKNAME,코트 위의 화학자
+PLAYER/AYEON/LINE,2KNO₃... S.. 3C...
+SKILLNAME_AYEON,화학 반응
+SKILLDES_AYEON,"아연이 첫 리시브를 받은 후 올라오는 토스는 강력한 스파이크를 때릴 수 있게 한다.#화학 반응된 스파이크는 속도가 더욱 빨라지며, 폭발 시 상대의 체력을 매우 크게 감소시킨다."
+SKILLDOLPA_AYEON,스킬 효율에 따라 화학 반응의 추가 공격력이 강해진다.
+PLAYER/AYEON/CATCHPHRASE,"""후후… 저랑 친구가 되어 주실래요?"""
+PLAYER/AYEON/SIMPLE_DES,"화학고의 주전 세터. 약팀이던 화학고 배구부를 전국 대회 예선까지 끌어올린 실력파다. 밤마다 책을 읽다 보니 시력이 나빠져 평소 두꺼운 안경을 쓰는데, 화학고 배구부 팬클럽 회원들은 그 안경 낀 모습이 오히려 매력적이라며 열광한다. 물론 아연이 부담스러워할까 봐 멀찍이서 숨죽여 바라볼 뿐이다. 정작 아연은 팬클럽이 있단 사실을 전혀 몰라서 사람들이 자신을 부담스러워하는 거라며 혼자 오해하고 있다."
+PLAYER/AYEON/BIRTH,7월 7일
+PLAYER/AYEON/BACKNUM,30
+PLAYER/AYEON/MOTTO,지성은 변화에 적응하는 능력이다
+PLAYER/JEONG_SOHEE/NICKNAME,신뢰의 세터
+PLAYER/JEONG_SOHEE/LINE,자! 자! 실력 한번 볼까?
+SKILLNAME_SOHEE,스테이블 토스
+SKILLDES_SOHEE,"스킬 발동 시, 공중에서 느리게 움직이는 것처럼 보이는 토스를 올린다."
+PLAYER/JEONG_SOHEE/CATCHPHRASE,"""다리가 후들거려도 괜찮아. 멈추지만 않으면 돼."""
+PLAYER/JEONG_SOHEE/SIMPLE_DES,"옐로 팬서스의 주전 세터. 활달하고 배려심 많은 성격으로, 팀에서 소외되는 사람을 보면 그냥 지나치지 못한다. 오지랖이 넓어서 곤란한 상황에 휘말릴 때도 많았지만, 정작 본인은 그 덕분에 좋은 친구를 많이 사귈 수 있었다고 한다.# 겉보기와 달리 외로움을 많이 타는 편이다. 어린 나이에 일본에서 선수 생활을 시작해 팀의 대들보 역할을 맡아온 탓에 점점 더 남들에게 속마음을 털어놓기 어려워졌다고 한다. 팬과 동료, 가족들의 기대에 부응하기 위해 늘 자신의 감정을 뒤로 미루는 것이 그녀의 유일한 약점이다."
+PLAYER/JEONG_SOHEE/BIRTH,5월 8일
+PLAYER/JEONG_SOHEE/BACKNUM,2
+PLAYER/JEONG_SOHEE/MOTTO,"서두르지 말되, 멈추지 말자!"
+PLAYER/NISHIKAWA_WEAKED/NICKNAME,천둥의 스파이커
+PLAYER/NISHIKAWA_WEAKED/LINE,하하! 어떤지 한번 봐볼까?
+PLAYER/NISHIKAWA/NICKNAME,국가대표 윙스파이커
+PLAYER/NISHIKAWA/LINE,내가 너를 증명해 줄게
+SKILLNAME_NISIKAWA1,충전
+SKILLDES_NISIKAWA1,도움닫기를 통해 점프의 높이를 조절할 수 있다.
+SKILLNAME_NISIKAWA2,천둥 스파이크
+SKILLDES_NISIKAWA2,타점이 4m 이상이 되면 더 강력한 스파이크를 할 수 있다.
+SKILLNAME_NISIKAWA3,탑스핀 페인트
+SKILLDES_NISIKAWA3,더 빨리 떨어지는 페인트를 할 수 있다.
+SKILLNAME_NISIKAWA4,멀티플 스윙
+SKILLDES_NISIKAWA4,공중에서 2회 스윙 가능. 두 번째 스윙 시 스파이크의 위력 강화.
+PLAYER/NISHIKAWA/CATCHPHRASE,"""내가 널 증명해 줄게."""
+PLAYER/NISHIKAWA/SIMPLE_DES,"세계 5대 스파이커 중 한 명. 그가 스파이크를 날리면 체육관에 천둥소리가 울린다고 하여 사람들은 그를 ‘천둥의 니시카와’라 부른다. 5대 스파이커 가운데서도 가장 뛰어난 점프력을 지닌 선수로 평가받으며, 배구를 막 시작한 유소년 선수들은 모두 그처럼 되기를 꿈꾼다.# ‘안경을 벗으면 잘생겨진다’는 클리셰를 현실로 보여주는 인물이기도 하다. 평소엔 두꺼운 뿔테 안경을 쓰고 있지만, 안경을 벗으면 날카로운 눈매가 드러난다. 어린 시절 날카로운 눈빛 때문에 자주 오해를 받았던 탓에 안경을 쓰기 시작했다고 한다. 안경 디자인이 촌스러운 이유는 그의 은사가 골라줬기 때문이다."
+SKILLNAME_NISIKAWA5,절전
+PLAYER/NISHIKAWA/DETAIL_DES,우위를 가릴 수 없는 5대 스파이커 내에서도 가장 뛰어난 점프력을 가진 선수로 평가받는다. 매사에 지나칠 정도로 긍정적이라 어떠한 비판도 자신의 칭찬으로 인식하여 받아들인다. 타고난 재능을 가졌음에도 확고한 목표와 집착으로 엄청난 노력을 통해 프로 선수가 되었으며 지금도 성장하고 있는 모습을 보인다.
+SKILLDOLPA_NISIKAWA,스킬 효율에 비례해 강해진다.
+PLAYER/NISHIKAWA/BIRTH,1월 2일
+PLAYER/NISHIKAWA/BACKNUM,25
+PLAYER/NISHIKAWA/MOTTO,1%라도 좋다. 어제의 나를 뛰어넘자
+PLAYER/YAMADERA/NICKNAME,잠금의 미들 블로커
+PLAYER/YAMADERA/LINE,하.. 어째서 내가..
+SKILLNAME_YAMADERA,록
+SKILLDES_YAMADERA,"야마데라가 첫 리시브를 받은 후 마지막으로 공을 터치한 상대 팀 선수를 잠금 상태로 만든다.#잠금 상태가 되면, 능력치가 잠시동안 크게 내려간다."
+PLAYER/YAMADERA/CATCHPHRASE,"""이야기... 길어질 거라면 저는 먼저 들어가 봐도 될까요...?"""
+PLAYER/YAMADERA/SIMPLE_DES,"발렌티아 스파이크스의 주전 미들 블로커. 타인과 어울리는 것을 극도로 어려워하며, 만사가 귀찮은 중증 귀차니스트. 우울해 보이는 외모와 특유의 직설적인 화법 때문에 쉽게 오해를 산다.# 니시카와의 고등학교 후배이다. 내성적인 성격과 결벽증, 낮은 사회성 탓에 우울한 학창 시절을 보냈으나, 고등학교 입학 이후 니시카와가 먼저 다가와 배구부 입부를 권유한 사건을 계기로 인생이 달라졌다. 그 덕에 지금은 니시카와와 괴짜 콤비로 활동 중이다.# 경기 중 상대를 자세히 관찰해 해결책을 찾아내는 데 능하며, 작은 습관이나 전략을 재빨리 간파해 상대가 장점을 살리지 못하도록 묶어 버린다."
+PLAYER/YAMADERA/BIRTH,8월 11일
+PLAYER/YAMADERA/BACKNUM,6
+PLAYER/YAMADERA/MOTTO,속도는 영혼을 망친다
+PLAYER/ROBERTO/NICKNAME,콜로세움의 갑옷
+PLAYER/ROBERTO/LINE,좋은 동작은 좋은 근육으로부터!
+SKILLNAME_ROBERTO,갑옷
+SKILLDES_ROBERTO,"블로킹의 정확도에 따라 공격력, 스피드, 점프력이 상승한다. 블로킹이 더욱 견고하다."
+SKILLDOLPA_ROBERTO,스킬 효율에 따라 상승 게이지가 빠르게 증가한다.
+PLAYER/ROBERTO/CATCHPHRASE,"""오늘 이 자리에서, 널 막는다."""
+PLAYER/ROBERTO/SIMPLE_DES,"철벽의 로베르토. 갑옷을 입은 듯이 전신이 두꺼운 근육으로 뒤덮여 있다. 체력도 어마어마하게 좋아 경기 끝까지 숨 하나 흐트러지지 않는다. 단순히 힘만 좋은 게 아니라, 시야도 넓고, 판단력도 뛰어나 상대하기 매우 까다롭다. 자신과 마찬가지로 훌륭한 근육을 가진 사람을 만나면 금세 친구가 된다."
+PLAYER/ROBERTO/BIRTH,6월 2일
+PLAYER/ROBERTO/BACKNUM,2
+PLAYER/ROBERTO/MOTTO,골격에서 재능이 보이고 근육에서 노력이 보인다
+PLAYER/NN/NICKNAME,세계 최고의 괴짜
+PLAYER/NN/LINE,뭐야.. 시작했어? 벌써?
+SKILLNAME_NN,저격
+SKILLDES_NN,정해준 곳으로 매우 빠르게 토스를 올린다.
+PLAYER/NN/SIMPLE_DES,"초코우유는 초콜릿 향미와 우유의 영양을 결합한 음료로, 탄수화물, 단백질, 지방의 균형 잡힌 섭취를 제공하며, 특히 어린이의 칼슘 섭취와 기호도를 증진시키는 인기 있는 선택이다."
+PLAYER/NN/BIRTH,제조연월 : YYYY.MM
+PLAYER/NN/BACKNUM,원유 등급 : 1A
+PLAYER/NN/MOTTO,광고 문구 : Get chocolate milk?
+PLAYER/ISABEL/NICKNAME,콜로세움의 여왕
+PLAYER/ISABEL/LINE,강한 스파이크 기대할게..
+SKILLNAME_ISABEL,패링
+SKILLDES_ISABEL,상대의 스파이크 파워만큼 힘을 충전한다. 힘을 충전할수록 더 강한 스파이크와 점프를 할 수 있다.#리시브할 경우 체력이 회복된다.
+SKILLDOLPA_ISABEL,스킬 효율에 따라 충전 용량이 커진다.
+PLAYER/ISABEL/CATCHPHRASE,"""멋진 스파이크를 받을 수 있다면, 난 매일이라도 상대해 줄 수 있는데?"""
+PLAYER/ISABEL/SIMPLE_DES,"콜로세움의 여왕. 강한 스파이커를 찾아 방랑하던 끝에 콜로세움 리그에 정착했다. 지금은 콜로세움 최강자 중 한 명으로 꼽힌다. 여담이지만, 그녀의 이상형은 자신조차 손도 대지 못할 만큼 강력한 서브를 꽂아 넣는 스파이커라고 한다.# 수비 밸런스가 뛰어나 상대의 공격을 리시브한 뒤 곧바로 본인이 직접 공격하는 걸 즐긴다. 상대의 공격을 지워내고 다시금 득점으로 되갚는 그 순간의 짜릿함을 위해 배구를 한다고 해도 과언이 아니라고 말한다."
+PLAYER/ISABEL/BIRTH,2월 4일
+PLAYER/ISABEL/BACKNUM,1
+PLAYER/ISABEL/MOTTO,사막이 아름다운 건 어딘가에 샘이 숨겨져 있기 때문이다
+PLAYER/LEON/NICKNAME,콜로세움의 맹수
+PLAYER/LEON/LINE,행운을 빌어요. 필요할 테니까
+SKILLNAME_LEON,프라이드
+SKILLDES_LEON,"네트에서 멀어질수록 스파이크의 위력이 강해지지만, 네트 근처에서의 스파이크는 평소보다 약해진다."
+PLAYER/LEON/CATCHPHRASE,"""행운을 빌어요. 필요할 테니."""
+PLAYER/LEON/SIMPLE_DES,"그린 레온의 주장. 거친 플레이와 날 선 입담 때문에 주위의 눈총을 사기 일쑤다. 항상 '강함'을 추구하기 때문에 약자에게는 철저히 무관심하지만, 강자로 인정한 이사벨과 로베르토 앞에서는 순한 양처럼 굴곤 한다. 누군가 자신의 실력을 인정해 주면 남몰래 기뻐한다."
+PLAYER/LEON/BIRTH,3월 17일
+PLAYER/LEON/BACKNUM,3
+PLAYER/LEON/MOTTO,쇠는 두드릴수록 강해진다
+PLAYER/VIOLA/NICKNAME,비올라
+SKILLNAME_VIOLA,천방지축
+SKILLDES_VIOLA,네트로부터 먼 방향으로 토스 올리기를 즐겨한다. 가끔 토스와 함께 팀의 체력을 회복시킨다.
+PLAYER/VIOLA/CATCHPHRASE,"""평범한 토스는 재미없지 않아?"""
+PLAYER/VIOLA/SIMPLE_DES,"콜로세움의 말괄량이. 이사벨의 뒤를 이을 차기 여왕 후보로 꼽힌다. 연애 이야기라면 가리지 않고 사족을 못 쓰며, 특히 이사벨의 연애사에 관심이 많다. 하지만, 정작 본인의 일에는 둔감한 편이라 은근히 주위 사람을 애태운다고 한다. 어린 시절 기억을 잃어버려 유년기의 일들은 전혀 남아 있지 않다.# 손힘이 좋으며, 변칙적인 플레이를 즐긴다. 특히 속공 상황에서 백어택을 올리는 것을 좋아해 어택 라인 뒤쪽으로 공을 띄우는 경우가 잦다. 독특한 스타일의 세터라 처음 그녀와 팀을 이루는 선수들은 꽤 고생한다."
+PLAYER/VIOLA/BIRTH,12월 23일
+PLAYER/VIOLA/BACKNUM,4
+PLAYER/VIOLA/MOTTO,인생은 한 번뿐. 최선을 다해 즐겨라
+PLAYER/MA_YOONSEOK/NICKNAME,자칭 최고의 스파이커
+PLAYER/MA_YOONSEOK/LINE, 저..적당히 봐주면서 할 테니 여..열심히 해봐!
+SKILLNAME_YOONSEOK,마윤석
+SKILLDES_YOONSEOK,상대 팀 전원의 방심할 확률을 증가시킨다.
+SKILLDOLPA_YOONSEOK,스킬 효율에 비례해 공의 페인트가 빠르게 떨어진다.
+PLAYER/MA_YOONSEOK/SIMPLE_DES,"세계 5대 스파이커인 이 몸은 잠시 정체를 감춘 채 고등학교에서 청춘을 즐기고 있다. 다만, 최근 여학생들이 끊임없이 고백 공세를 하는 바람에 곤란하다. 특히, 배구부 매니저 정다희. 최근 그녀가 나를 향한 호감을 노골적으로 드러내고 있다. 멋진 남자는 오직 배구 외길 인생이란 걸 왜 몰라주는 걸까? 역시 인기스타의 길은 험난하다.# 출처 : 마윤석의 일기장"
+PLAYER/MA_YOONSEOK/BIRTH,2월 14일
+PLAYER/MA_YOONSEOK/BACKNUM,1
+PLAYER/MA_YOONSEOK/MOTTO,잘 사는 것이 최고의 복수다!!
+PLAYER/JO_MINJUN/NICKNAME,불운의 스파이커
+PLAYER/JO_MINJUN/LINE,분명 오늘은 운이 좋을 거라 했는데..
+SKILLNAME_MINJUN,블릿츠 스핀
+SKILLDES_MINJUN,중간에 궤도가 꺾이는 스파이크를 칠 수 있다.
+SKILLDOLPA_MINJUN,스킬 효율에 비례해 공의 스핀이 강하게 걸린다.
+PLAYER/JO_MINJUN/CATCHPHRASE,"""어떤 일이 있어도 난 도망치지 않아. 도망치는 게 더 괴롭다는 걸 잘 알거든."""
+PLAYER/JO_MINJUN/SIMPLE_DES,"불운의 스파이커. 중요한 경기마다 어김없이 불행이 닥쳐와 제대로 실력을 보여준 적이 거의 없다. 하지만, 그에게 불행이란 인생의 스파이스일 뿐. 지나간 일은 훌훌 털어내고, 금방 새로운 도전에 뛰어든다. 조민준이 있는 팀은 결코 사기가 꺾이는 법이 없다고 한다."
+PLAYER/JO_MINJUN/BIRTH,2월 29일
+PLAYER/JO_MINJUN/BACKNUM,4
+PLAYER/JO_MINJUN/MOTTO,"앞만 보고 가자, 내 인생에 뒤는 없다"
+SKILLNAME_RYUHYUN,청룡
+SKILLDES_RYUHYUN,"공중에서 스파이크 버튼을 꾹 누름을 통해서, 기를 모아 스파이크를 때릴 수 있다.#기를 모을수록 강력한 공격력을 지니게 된다."
+PLAYER/RYUHYUN/CATCHPHRASE,"""선림을 지키겠어."""
+PLAYER/RYUHYUN/SIMPLE_DES,"선림고의 학생회장이자 전통 무술 '선림'의 대제자. 어린 시절 선림의 문주에게 주어져 그의 수제자로 길러졌다. 문주의 유지를 이어 선림의 무술을 계승하고자 하지만, 배구를 향한 마음이 자꾸만 커져 고민이다.# 오랜 무술 수련 덕분에 그는 어떤 자세에서도 강력한 스파이크를 꽂아 넣는다. 배구를 오래 쉬었음에도 그의 스파이크는 여전히 돌처럼 묵직하다."
+SKILLDOLPA_RYUHYUN,스킬 효율에 비례해 차징 속도가 빨라진다.
+PLAYER/RYUHYUN/DETAIL_DES,휘파람을 자주 분다. 별 이유는 없는 습관. 그러나 무영의 잔소리가 시작될 때 더더욱 심해진다
+PLAYER/RYUHYUN/BIRTH,10월 3일
+PLAYER/RYUHYUN/BACKNUM,3
+PLAYER/RYUHYUN/MOTTO,흔들려도 꺾이지 않는다
+PLAYER/RYUHYUN/NICKNAME,청룡의 스파이커
+PLAYER/RYUHYUN/LINE,선림의 미래를 지키겠어.
+PLAYER/RYUHYUN/LINE_02,오늘은 반드시 이겨줄게!
+SKILLNAME_HONGSI,어흥
+SKILLDES_HONGSI,"경기 중 첫 서브 시, 높은 확률로 상대 팀 전체를 기죽음 상태로 만든다.#홍시의 스파이크에 닿은 선수는 표식이 남으며, 한 번 더 맞을 경우 수비에 실패한다."
+PLAYER/HONGSI/CATCHPHRASE,"""소년! 야망을 가져라!"""
+PLAYER/HONGSI/SIMPLE_DES,"선림고에서 손꼽히는 무술가 중 한 명이다. 호기심이 많아 세상 구경을 핑계로 툭 하면 학교를 뛰쳐나가 세계를 유랑한다. 류현과 정신 연령이 딱 맞아서 툭하면 투닥거리며 다투곤 한다.# 기분이 좋을 땐, 서브를 넣으며 힘찬 기합을 내지르곤 한다. 본인은 자신이 큰 목소리를 내지르면 모두가 압도된다고 생각하지만, 실상은... 다들 귀여워서 흐뭇해지느라 집중력이 흐트러지는 것이다."
+PLAYER/HONGSI/BIRTH,8월 15일
+PLAYER/HONGSI/BACKNUM,2
+PLAYER/HONGSI/MOTTO,"세상은 넓고, 모험은 끝이 없다!"
+PLAYER/HONGSI/NICKNAME,백호의 스파이커
+PLAYER/HONGSI/LINE,덤벼라 소년!
+INGAME/HONGSI/LINE,작은 홍시가 가장 매운 법!
+SKILLNAME_MOOYOUNG,보호
+SKILLNAME_MOOYOUNG_REMAKE,비호
+SKILLDES_MOOYOUNG,"리시브할 때, 몸 주변에서 큰 물방울을 생성한다.#물방울에 휩싸인 선수는 수비력이 크게 증가 하며, 공의 특수 효과를 무시한다."
+SKILLDES_MOOYOUNG_REMAKE,"특성 활성화 시, 비호 상태가 되며 수비력이 가장 낮은 선수의 방어력과 수비 범위를 늘려준다. #비호 상태에서 페인트 수비 시 호격 상태가 된다."
+PLAYER/MUYEONG/CATCHPHRASE,"""오랜만에 공을 만져보니 기분이 묘하군요. 그리웠나 봅니다."""
+PLAYER/MUYEONG/SIMPLE_DES,"선림의 제자 중 한 명으로 매사에 신중하고 차분한 성격 덕에 각종 잡일을 도맡는다. 애늙은이 같은 면모가 있어 류현이 오만하게 굴거나 홍시가 사고를 치면 혀를 쯧쯧 차며 잔소리를 늘어놓는다.# 수비 실력이 뛰어나 선림의 '수호신'이라 불린다. 두뇌 플레이가 장기며, 어떤 상황에서도 당황하지 않고, 차분히 상황을 읽은 뒤 최선의 수를 찾아낸다. 플레이 스타일이 화려하진 않지만, 막상 상대해 보면 굉장히 까다로운 스타일. 팀원들의 능력을 정확히 파악해 매끄럽게 연계시켜 주기 때문에 팀 전체의 수비력이 한층 탄탄해진다."
+SKILLDOLPA_MOOYOUNG,스킬 효율에 비례해 보호하는 대상의 수비력 증가와 위력 감소율이 증가한다.
+SKILLDOLPA_MOOYOUNG_REMAKE,"스킬 효율에 비례해 비호 상태의 수비력과 수비범위, 호격 상태의 공격력이 증가한다."
+PLAYER/MUYEONG/BIRTH,2월 1일
+PLAYER/MUYEONG/BACKNUM,9
+PLAYER/MUYEONG/MOTTO,"기분 나쁘게 생각하지 말고, 이리 와서 내 말 좀 들어봐라"
+PLAYER/MUYEONG/NICKNAME,현무의 세터
+PLAYER/MUYEONG/LINE,이 묘한 기분.. 기대되는군요
+PLAYER/MUYEONG/LINE_02,부드러움이 가장 강한 법..
+SKILLNAME_HANRA,태양
+SKILLDES_HANRA,"한라가 존재하는 것으로 팀원의 [기죽음]이 발생할 확률을 크게 낮춘다.# 수비력,  스피드 , 수비 범위 , 슬라이딩 속도 , 블로킹 준비 속도 등의 신체 능력이 일반 선수보다 뛰어나다."
+PLAYER/HANRA/CATCHPHRASE,"""한 수 가르침을 받겠소."""
+PLAYER/HANRA/SIMPLE_DES,"선림고에서도 가장 무술 실력이 뛰어난 네 명 중 한 명. 의외로 무술 실력만큼은 류현보다 뛰어나다고 한다. 하지만, 선림의 대제자가 류현이란 사실은 인정하고, 그를 서포트하는 데 집중하고 있다. 사실상 선도부장 같은 위치라 교내에서 벌어지는 소동은 대개 한라가 정리한다.# 겉보기엔 차갑고 무뚝뚝해 보이지만, 실은 귀여운 것을 무척 좋아한다. 그러나 이런 취향이 자신에게 어울리지 않는다고 생각해 다른 사람들에게 들키지 않으려 애쓴다."
+PLAYER/HANRA/BIRTH,7월 28일
+PLAYER/HANRA/BACKNUM,7
+PLAYER/HANRA/MOTTO,강한 자일수록 다정해야 한다
+PLAYER/HANRA/NICKNAME,주작의 미들블로커
+PLAYER/HANRA/LINE,어쩔 수 없소. 딱 한판만!
+PLAYER/HANRA/LINE_02,눈 멀지 않게 조심하십시오!
+SKILLNAME_SODAM,해바라기
+SKILLDES_SODAM,스파이커와 자신의 거리에 따라 올리는 토스가 달라진다.# 팀이 실점할 때마다 5% 확률로 팀 전체를 [몰입] 상태가 되도록 한다.
+PLAYER/SODAM/CATCHPHRASE,"""이제 배구… 해도 괜찮은 거예요…?"""
+PLAYER/SODAM/SIMPLE_DES,"무술 학교에 다니지만, 무술가보단 배구 선수를 동경하는 소녀. 우연히 선림고에 견학을 갔다가 열정적으로 배구를 하는 학생들을 보고 배구에 빠져 선림고에 진학하게 되었다. 입학한 뒤, 얼마 지나지 않아 류현이 배구를 금지하는 바람에 크게 좌절했다고 한다.# 한라를 무척 따르며 병아리처럼 그녀를 졸졸 따라다닌다. 한라가 주는 엄청난 양의 음식을 아기새처럼 꾸역꾸역 받아먹다 배탈이 나곤 한다."
+SKILLDOLPA_SODAM,스킬 효율에 비례해 스킬 발동 확률을 증가시킨다.
+PLAYER/SODAM/BIRTH,7월 29일
+PLAYER/SODAM/BACKNUM,8
+PLAYER/SODAM/MOTTO,꿈이 있다면 지켜야 한다
+SKILLNAME_SARAH,크리티컬 토스
+PLAYER/SARA/CATCHPHRASE,"""넌 항상 내 예상을 뛰어넘는다니까."""
+PLAYER/SARA/SIMPLE_DES,"세계 5대 스파이커 중 한 명. 폭발적인 순발력과 스피드로 경기장을 장악한다. 5대 스파이커가 된 지금도 조금도 자만하지 않고, 계속해서 성장하기 위해 노력 중이다. 명장 애슈빌 위즐스 배구단의 감독이 말하길, 배구의 이해도만 보았을 때는 5대 스파이커 내에서 사라가 단연 최고라고 한다.# 높은 배구 지능 덕분에 어떤 포지션을 맡더라도 프로 주전급의 활약을 펼칠 수 있다. 비시즌인 지금은 시우와 함께 뛰기 위해 임시로 세터 역할을 맡고 있지만, 머지않아 스파이커로 돌아올 것이다.# 주변으로부터 엄청난 찬사를 받지만, 시우 앞에만 서면 덜렁이가 된다. 시우의 말 한마디에 고민에 빠지기도 하고, 긴장한 나머지 평소라면 하지 않을 실수를 저지르기도 한다. 덕분에 시우는 가끔 사라의 진짜 실력을 의심하곤 한다."
+SKILLDES_SARAH,"토스 시, 공 주변에 원이 생기며 가장 스파이크하기 좋은 타이밍을 표시해 준다. 원이 공과 맞닿는 순간 스파이크를 치게 될 경우 평소보다 훨씬 강력한 위력을 낼 수 있다.#낮은 확률로 직접 스파이크를 친다."
+PLAYER/SARA/SIMPLE_DES_02,"세계 5대 스파이커 서사라. 코트 내를 매우 빠르게 움직이는 선수로 유명하다. 올라운드 플레이어로서, 어떤 포지션을 하더라도 프로 주전급 활약을 할 수 있다. 현재는 시우를 위해 임시로 세터를 하고 있으나, 언젠가 스파이커의 모습으로 다시 찾아올 수 있을 것이다."
+PLAYER/SARA/BIRTH,1월 5일
+PLAYER/SARA/BACKNUM,2
+PLAYER/SARA/MOTTO,세게 쳐봤자 2점 안 나온다.
+SKILLNAME_MIKE,타이어
+SKILLDES_MIKE,"몸에 타이어를 매고 있는 동안 스피드와 점프력이 낮아진다.#리시브로 일정 충격이 쌓이게 되면, 타이어가 해제되고 점프력과 스피드가 크게 증가한다."
+PLAYER/MIKE/CATCHPHRASE,"""준비됐나, 데이브?"""
+PLAYER/MIKE/SIMPLE_DES,"데이브의 쌍둥이 형으로 함께 산장을 운영하고 있다. 발목에 모래주머니를 달고 운동하는 걸 좋아한다. 선수 시절부터 허리에 타이어를 매달고 달리는 과격한 단련법으로 유명했다.# 머리숱은 없지만, 구레나룻만큼은 누구보다 빽빽하다. 매일 아침 거울 앞에 서서 정성스레 구레나룻을 빗질한다고 한다."
+PLAYER/MIKE/BIRTH,11월 11일
+PLAYER/MIKE/BACKNUM,7
+PLAYER/MIKE/MOTTO,땀은 거짓말하지 않는다!
+SKILLNAME_DAVE,몸풀기
+SKILLDES_DAVE,"움직이지 않을 경우, 푸시업 동작을 수행한다.# 푸시업 동작을 할수록, 신체 능력이 강화되고 몸의 크기가 조금씩 커진다."
+PLAYER/DAVE/CATCHPHRASE,"""시작하자, 마이크!"""
+PLAYER/DAVE/SIMPLE_DES,"록웰 캠프가 열리는 산장의 소유주. 과거 배구 선수였지만, 실력보다는 멋진 콧수염과 우람한 체격으로 더 유명했다. 탄탄한 근육질 몸매와 정성 들여 관리한 고운 머릿결은 그의 자부심이다.# 신사다운 성격을 가진 보기 드문 호인이다. 록웰 캠프가 시작되면 형 마이크와 함께 자발적으로 아이들을 돌보며, 이를 무척 자랑스럽게 생각한다. 다만, 아이들을 위한 마음이 지나쳐 이따금 폭주할 때가 있다."
+PLAYER/DAVE/BIRTH,11월 11일
+PLAYER/DAVE/BACKNUM,3
+PLAYER/DAVE/MOTTO,근육은 배신하지 않는다!
+PLAYER/CLYDE/LINE,"나비야, 잠깐 시간 좀 때울까?"
+PLAYER/CLYDE/NICKNAME,유망주 미들 블로커
+SKILLNAME_CLYDE,나비
+SKILLDES_CLYDE,클라이드가 애지중지하는 고양이가 함께 등장한다.# 고양이는 코트를 돌아다니며 기죽음 컨디션의 선수를 몰입 컨디션으로 변경시킨다.
+PLAYER/CLYDE/CATCHPHRASE,"""나비야~ 밥 먹자~"""
+PLAYER/CLYDE/SIMPLE_DES,"록웰 유소년 배구단의 주전 미들 블로커. 타니아만큼은 아니지만 꽤 부잣집 아들이다.# 마이 페이스 기질이 다분하다. 한동안 보이지 않는다 싶으면 열에 아홉은 고양이랑 놀고 있다. 어린 시절엔 툭하면 고양이를 쫓아 사라져 소동이 벌어지곤 했는데, 그때마다 꼭 타니아가 그를 찾아 데려왔다. 지금도 타니아는 그의 유일한 친구로, 여전히 만나기만 하면 티격태격한다."
+PLAYER/CLYDE/BIRTH,8월 8일
+PLAYER/CLYDE/BACKNUM,35
+PLAYER/CLYDE/MOTTO,고양이 없인 못 살아
+SKILLNAME_TANIA,스피드 토스
+SKILLDES_TANIA,"빠르게 떨어지는 토스를 올린다.#타니아의 토스를 스파이크할 때, 토스 된 공의 하강 속도가 빠를수록 공의 위력이 증가한다. #(난이도가 높아 초보자가 사용하기 어려운 선수입니다.)"
+PLAYER/TANIA/CATCHPHRASE,"""좋아, 타니아한테 지면 당장 짐 싸서 돌아갈 준비해. 알았지?"""
+PLAYER/TANIA/SIMPLE_DES,"세계적으로 유명한 윌튼 그룹 회장의 막내딸. 어린 시절부터 윌튼 그룹이 소유한 배구 브랜드 'RISE' 의 배구공을 갖고 놀며 자연스레 배구에 빠져들었다. 열정도 있고, 재능도 넘치지만, 응석받이 막내딸로 자란 탓에 다소 자기중심적이다. 다른 선수를 생각하지 않고, 멋대로 빠른 토스를 올려 동료들을 당황하게 만들곤 한다.# 마찬가지로 부잣집 아들인 클라이드와는 어린 시절부터 알고 지낸 사이다. 남들처럼 자신에게 잘 보이려 하지 않는 클라이드가 은근히 신경 쓰인다고 한다. 언젠가 클라이드에게 자신의 위대함을 깨닫게 만들겠다는 목표를 갖고 있다."
+PLAYER/TANIA/BIRTH,10월 28일
+PLAYER/TANIA/BACKNUM,9
+PLAYER/TANIA/MOTTO,내 삶의 주인공은 바로 나
+PLAYER/JENNY/NICKNAME,와일드 캣
+SKILLNAME_JENNY,이카로스의 날개
+SKILLDES_JENNY,경기 내에서 달성한 최고 타점만큼 공격력과 점프력이 올라간다.#최고 타점을 갱신하는 순간에 스파이크의 위력이 25%가 증가한다.
+PLAYER/JENNY/CATCHPHRASE,"""다른 사람에게는 져도 돼. 하지만, 나에게 만큼은 질 수 없어!"""
+PLAYER/JENNY/SIMPLE_DES,"팬텀 리그 최연소 스파이커. 어린 시절 서사라와 '최고의 배구 선수가 되자'는 약속을 나눈 뒤, 단 한 순간도 멈추지 않고 달려왔다. 어린 시절, 부상을 당하며 영영 배구를 그만둘 뻔했으나, 본인의 피눈물 나는 노력을 통해 극복하고 팬텀 리그에서 가장 눈부신 성장 속도를 보여줬다. 감정 기복이 커서 컨디션에 따라 경기력 차이가 큰 스타일이며, 그만큼 몰입하면 폭발적인 집중력을 발휘하는 타입이다.# 평생 배구만 바라보고 살아서 일반 상식이 부족한 편이다. 또래 친구들과 어울리는 데 서툴고, 그 나이대의 유행에도 어둡다. 다만, 배구 이외의 것들에 관심이 없는 것은 아니라 단지 접할 기회가 없었을 뿐이기에, 가끔은 같은 또래의 아이들을 부러운 눈길로 바라보곤 한다."
+PLAYER/JENNY/BIRTH,5월 14일
+PLAYER/JENNY/BACKNUM,13
+PLAYER/JENNY/MOTTO,"누구보다 멀리, 누구보다 높이"
+SKILLNAME_ELLIO,심연의 토스
+SKILLDES_ELLIO,엘리오가 올린 토스를 깊게 스파이크할수록 위력이 강해진다.
+PLAYER/ELLIO/DES,가장 아름다운 경기를 보여줄게.
+PLAYER/ELLIO/CATCHPHRASE,"""관중들이 즐거워하는 플레이를 해야 해. 우린 프로니까."""
+PLAYER/ELLIO/SIMPLE_DES,"한때 꽤 유명한 팀에서 활약했으나, 모종의 이유로 방출당해 결국 팬텀 리그까지 흘러들어왔다. 지금은 제니와 같은 팀에서 뛰며, 뛰어난 팬서비스와 쇼맨십 덕에 많은 인기를 얻고 있다.# 팬텀 리그에서 점점 무너져 가는 제니를 안타깝게 여겨 은근히 챙겨주고 있으며, 그 때문에 제니가 마음을 터놓고 의지가 하는 몇 안 되는 사람 중 하나다. 본인은 스스로를 ‘속물’이라고 말하지만, 주변 사람들은 하나같이 입을 모아 그를 '좋은 사람'이라고 얘기한다. 겉으론 이기적이고 계산적인 것처럼 굴지만, 뒤에선 항상 주변 사람들을 꼼꼼히 챙긴 결과다."
+PLAYER/ELLIO/BIRTH,6월6일
+PLAYER/ELLIO/BACKNUM,7
+PLAYER/ELLIO/MOTTO,"부드러운 바람처럼, 유연한 갈대처럼"
+SKILLNAME_RAUL,
+SKILLDES_RAUL,
+PLAYER/JENNY/DES,코트 위에서만큼은 누구보다 높이 날아오를 거야!
+PLAYER/RAUL/SIMPLE_DES,"팬텀 리그 유일의 Lv.4 선수이자, 5대 스파이커 중 한 명. 거칠고 호전적인 성격으로, 강한 상대와의 승부에 쾌감을 느낀다. 타인의 명령을 받는 것을 극도로 싫어하지만, 누나 카를라의 말만큼은 무조건적으로 따른다. 원한도 은혜도 잊지 않으며, 의외로 의리를 중시하는 면모도 지녔다."
+PLAYER/RAUL/BIRTH,1월 4일
+PLAYER/RAUL/BACKNUM,4
+PLAYER/RAUL/MOTTO,짓밟히느니 짓밟으며 살아가겠다.
+PLAYER/RAUL_FIRST_SHOW/LINE,방해되니까 비켜.
+PLAYER/RAUL_FIRST_SHOW/NICKNAME,비스트 스파이커 라울
+SKILLNAME_LUCAS,플레어
+SKILLDES_LUCAS,"능력을 발동할 경우, 전체 스테이터스가 크게 증가한다. 그러나 능력을 사용할수록 전체 스테이터스가 감소한다."
+PLAYER/LUCAS/CATCHPHRASE,"""시키는 대로만 해서야 슈퍼스타라고 할 수 있겠어?"""
+PLAYER/LUCAS/SIMPLE_DES,"팬텀 리그 최강의 스파이커. 타고난 센스와 재능으로 무슨 일이든 평균 이상으로 해낸다. 자기 중심적이고, 나르시시즘이 강하지만, 그만큼 슈퍼스타로서의 책임감도 확고하다.# 팬텀 리그에서의 마지막 경기를 앞두고, 우연히 상현의 태블릿을 엿본 적 있다. 루카스는 그 안에는 수없이 지우고 다시 써 내려간 메모를 발견한다. 그리고 마지막 줄에 적힌 단어 ‘오아시스’를 본 순간, 이름에 담긴 의미를 단숨에 파악하곤, 이를 자신의 예명으로 삼는다."
+PLAYER/LUCAS/BIRTH,8월 7일
+PLAYER/LUCAS/BACKNUM,24
+PLAYER/LUCAS/MOTTO,팬이 있는 곳이 나의 무대!
+SKILLNAME_ZERO,스포트라이트
+SKILLDES_ZERO,"스킬 발동 시, 낮은 토스를 올린다. 해당 토스는 정점에 다가가면 빛나며, 그 전에는 스파이크할 수 없다. 스파이크하면 더 강한 위력을 낼 수 있으나, 실패할 경우 윙스파이커가 기죽음 상태가 된다."
+PLAYER/ZERO/CATCHPHRASE,"""내가 널 슈퍼스타로 만들어 줄게."""
+PLAYER/ZERO/SIMPLE_DES,"상현의 5년 전 모습. 중학교에 입학할 무렵부터 압도적인 센스로 '천재 세터'로 주목받았다. 세터뿐만 아니라 어떤 포지션을 맡아도 잘할 거란 평가를 들었다고 한다. 이러한 재능 덕분에 팬텀 리그에 진출한 뒤로도 선 스파크의 주전 세터로 활약했다. '제로'라는 이름은 본명이 아니며, 해외 활동을 위해 스스로 지은 이름이라고 한다. 소문에 따르면, 카를라가 지어준 이름이라고도 한다.# 팬텀 리그를 떠난 뒤, 상현은 예술고로 전학했다. 첫 등교 날, 중학교 시절 친구들조차 그를 알아보지 못했다. 화려한 색으로 머리를 물들이고, 말투도 완전히 달라져 있었기 때문이다. 몇몇 친구들이 이유를 묻기도 했지만, 상현은 그저 무심히 스마트폰 화면만 들여다볼 뿐 대답해 주지 않았다."
+PLAYER/ZERO/BIRTH,4월 1일
+PLAYER/ZERO/BACKNUM,7
+PLAYER/ZERO/MOTTO,한 번 저지른 실수는 두 번 다시 반복하지 않아야 한다
+SKILLNAME_HARI,멸화
+SKILLDES_HARI,"리시브할 때, 마지막으로 터치한 상대 선수에게 표식을 남긴다. 원하는 시점에 능력을 발동하면, 표식을 지닌 모든 선수에게 일시적인 행동 제약을 건다. "
+PLAYER/HARI/CATCHPHRASE,"""...일이니까."""
+PLAYER/HARI/SIMPLE_DES,"(전) 콜로세움의 여왕이자, 팬텀 리그 15인 위원회의 일원. 그녀가 콜로세움에서 자취를 감춘 뒤에야 이사벨은 여왕의 자리를 차지했다고 한다.# 카를라의 지시가 떨어지면 어떤 명령이든 수행한다. 하지만, 단 하나의 명령만큼은 거부하는데, 바로 왼쪽 손목에 찬 낡고 때 묻은 손목 보호대를 버리라는 것. 이것만큼은 카를라의 명령이더라도 따르지 않는다. 그 이유는 카를라와 본인밖에 모른다.# 상대를 철저히 분석해 경기를 완벽히 장악하는 것이 그녀의 특기다. 상대 선수들은 본인들이 자신 있는 플레이를 단 한 번도 펼치지 못한 채, 결국 경직되고 만다."
+PLAYER/HARI/BIRTH,12월 22일
+PLAYER/HARI/BACKNUM,21
+PLAYER/HARI/MOTTO,...
+SKILLNAME_CROW,다크 크로우
+SKILLDES_CROW,상대의 수비력을 50% 무시하는 스파이크를 할 수 있다.
+PLAYER/CROW/CATCHPHRASE,"""안됐군. 이 경기, 우리가 이긴다."""
+PLAYER/CROW/SIMPLE_DES,"이사벨과 듀오로 활약했던 미들 블로커. 이사벨과 함께 콜로세움에서 최고의 선수로 주목받았다. 신경질적이고 강박적인 성격이지만, 이사벨에게만큼은 누구보다 든든한 동료이다."
+PLAYER/CROW/BIRTH,7월 7일
+PLAYER/CROW/BACKNUM,16
+PLAYER/CROW/MOTTO,지금 이 순간을 살아라
+SKILLNAME_RAUL,비스트 스파이크
+SKILLDES_RAUL,가속도를 받아 공중에서 강력한 스파이크를 칠 수 있다.
+PLAYER/RAUL/CATCHPHRASE,"""짓이겨주지."""
+PLAYER/RAUL/SIMPLE_DES,"세계 5대 스파이커 중 한 명. 압도적인 파워로 상대를 찍어누른다. 단순히 힘이 좋을 뿐만 아니라 볼 컨트롤 또한 무서울 정도로 뛰어나 사이드 라인에 대포 같은 서브를 망설임 없이 꽂아 넣는다.# 한때 5대 리그를 통틀어 역대 최고 이적료를 기록하고, 개인 수상 기록을 갈아치우며 전 세계 팬들의 이목을 집중시켰다. 당시 그는 5대 리그 MVP를 모두 차지하겠다고 선언한 뒤 팀을 옮겨 빅토르와 우승 경쟁을 펼쳤다. 하지만 모종의 사건으로 큰 소동을 일으켜 징계를 받았고, 이후 팬텀 리그에서 재기를 노리고 있다."
+PLAYER/RAUL/BIRTH,1월 4일
+PLAYER/RAUL/BACKNUM,4
+PLAYER/RAUL/MOTTO,짓밟히느니 짓밟으며 살아가라.
+SKILLNAME_SIF,글래디우스 월
+SKILLDES_SIF,체력을 30 회복하고 일시적으로 팀원의 수비력을 증가시킨다.#각 팀원의 공격력에 비례해서 더 크게 수비력이 증가한다.
+PLAYER/SIF/CATCHPHRASE,"""시프. 인페르노 네로의 세터다."""
+PLAYER/SIF/SIMPLE_DES,"팬텀 리그 최고의 세터. 세 가지 단어로 그녀를  정의하면 다음과 같다. 냉정, 침착, 완벽주의. 어떤 순간에도 당황하지 않고, 해결책을 제시하는 팀의 든든한 버팀목이다.# # 하지만 이는 외부에서 들여다본 그녀의 모습일 뿐...# # 그녀의 본질은 사랑. 겉으로 보이는 모습은 모두 가면일 뿐이다. 그녀의 심장을 뜨겁게 하는 건 오로지 사랑뿐! 그녀는 오늘도 라울에 대한 넘치는 사랑과 존경을 간신히 억누르고 있는 중이다. 가끔 자기도 모르게 그 마음이 입 밖으로 튀어나와 버리곤 하지만... 본인은 아직까지 아무에게도 들키지 않았다고 굳게 믿고 있다."
+PLAYER/SIF/BIRTH,9월 22일
+PLAYER/SIF/BACKNUM,3
+PLAYER/SIF/MOTTO,모든 건 선배를 위하여!
+SKILLNAME_CLAIRE,오버드라이브
+SKILLDES_CLAIRE,매 랠리가 끝날 때마다 오버 드라이브 게이지가 채워진다.#특성을 발동하면 일정 시간 동안 팀의 전체 능력치가 상승한다.#게이지를 많이 채울 수록 능력치 상승량과 지속 시간이 증가한다.
+PLAYER/CLAIRE/CATCHPHRASE,"""승리는 이 몸의 것이다."""
+PLAYER/CLAIRE/SIMPLE_DES,"지나칠 정도로 거만하지만, 실제로 그에 어울리는 실력을 지닌  천재 미들블로커. 보는 이들의 시선을 사로잡는 외모와 플레이스타일 덕에 항상 팬들을 몰고 다닌다. 팬 서비스가 최악이기로 소문났으나, 자기딴에는 최대한 예의를 갖춰 팬들에게 신경을 써주고 있다.# 라이벌 운이 지독히 나쁘다. 과거엔 루카스, 현재는 라울에 밀려 '팬텀 리그 만년 2등' 자리에 머물러 있다. 자신이 MVP가 되지 못했단 사실에 분노한 나머지, MVP 자리를 차지한 두 사람을 맹렬히 증오하게 되었다. 특히, 라울을 꺾기 위해 포지션까지 미들블로커로 변경했으며, 이번 시즌만큼은 반드시 MVP를 차지하겠다고 벼르고 있다."
+PLAYER/CLAIRE/BIRTH,2월 2일
+PLAYER/CLAIRE/BACKNUM,5
+PLAYER/CLAIRE/MOTTO,탐스러운 과일은 풍요로운 토양에서만 자라는 법.
+SKILLNAME_SARA_WS,태풍
+SKILLDES_SARA_WS,"돌풍 특성을 통해 도약한 이후, 스파이크 버튼을 누르고 있으면 잠시 동안 공중에 머무르며 상대 코드에 빠르게 타격 지점이 표시된다. #스파이크 버튼을 놓으면 해당 지점으로 타격한다."
+PLAYER/SARA_WS/CATCHPHRASE,"""뒤는 내게 맡겨."""
+PLAYER/SARA_WS/SIMPLE_DES,"세계 5대 스파이커. 시우와 함께 경기를 치르기 위해 실력을 숨겨왔던 그녀가 마침내 본래의 실력을 드러냈다. 평소에는 상냥하지만, 시합이 시작되면 누구보다 뛰어난 실력을 보여주는 외유내강 소녀. 그녀는 미성년자의 나이로 아메리카 대륙을 중심으로 한 글로벌 배구 프로리그 LOV(League One Volleyball)에 데뷔했고, 데뷔와 동시에 팀을 우승으로 이끌었다. 이후, 연달아 MVP를 차지하며 마지막 5대 스파이커로 등극하였다. 새로운 슈퍼스타의 탄생으로 인해 세계는 지금 들끓고 있다."
+PLAYER/SARA_WS/BIRTH,1월 5일
+PLAYER/SARA_WS/BACKNUM,2
+PLAYER/SARA_WS/MOTTO,세게 쳐봤자 2점 안 나온다.
+SKILLNAME_IRIS,임페리얼 오더
+SKILLDES_IRIS,"특성 활성화 시, 코트 위의 나침반이 3개가 된다. #나침반은 각각 다른 속도로 회전하며, 상대 팀 코트 방향으로 겹치는 순간이 존재한다."
+PLAYER/IRIS/CATCHPHRASE,"""...오늘도 구단주 님께 혼나려나요... 후후..."""
+PLAYER/IRIS/SIMPLE_DES,"애슈빌 위즐스의 주장. 세계 5대 스파이커였던 켈리가 은퇴한 뒤 완장을 이어받아 팀을 이끌어왔다. 주장으로서 책임감도 강하고, 팀을 잘 이끌고 싶은 마음도 크지만, 타고난 성격이 워낙 소심한 탓에 구단과 선수단 사이에 끼어 늘 고생 중이다.##물론, 그녀가 그저 순하기만 하다고 생각하면 큰 착각이다. 애슈빌 위즐스의 주장은 실력 없이 맡을 수 있는 자리가 아닌 만큼 그녀 역시 매우 뛰어나고, 매우 까다로운 세터다. 공격수가 자신의 토스에 따라오지 못하면 성공할 때까지 같은 공을 몇 번이고 반복해서 올린다.""지금부터 또 같은 토스를 올릴 거예요."" 얼음장 같은 그녀의 목소리를 들으면 산전수전을 다 겪은 애슈빌 위즐스의 선수들도 등골에 소름이 돋는다고 한다."
+PLAYER/IRIS/BIRTH,10월 10일
+PLAYER/IRIS/BACKNUM,8
+PLAYER/IRIS/MOTTO,좋은 것은 위대한 것의 적이다.
+SKILLNAME_YURI,페인 킬러
+SKILLDES_YURI,"특성 활성화 시, 우리 팀 선수의 스피드와 수비력, 공격력과 점프력, 중력이 증가한다. #슬라이딩 기상 속도 또한 빨라진다."
+PLAYER/YURI/CATCHPHRASE,"""난 내 마음이 시키는 대로만 움직여."""
+PLAYER/YURI/SIMPLE_DES,"블랙 라이온즈의 악동. 남의 시선은 전혀 신경 쓰지 않기에 비뚤어진 녀석이라는 평가를 듣는다. 하고 싶은 말이 있으면 일단 내뱉어야 직성이 풀리는 성격 덕분에 인터뷰만 했다 하면 신문에 대문짝만 한 기사가 실리곤 한다.##그의 목표는 '빅토르보다 뛰어난 선수'가 되는 것이다. 아직 블랙 라이온즈의 2군 선수일 뿐이지만, 그런 건 그에게 조금도 중요하지 않다. 잘못된 길로 빠질 뻔한 자신을 배구의 길로 이끌어준 빅토르에게 보답할 방법은 이것뿐이라고 믿기 때문이다. '남에게 빚을 지곤 살 수 없다.'는 본인의 신념에 따라 오늘도 유리는 자신의 목표인 빅토르를 뛰어넘고자 훈련 중이다."
+PLAYER/YURI/BIRTH,7월 31일
+PLAYER/YURI/BACKNUM,11
+PLAYER/YURI/MOTTO,"틀린 음을 하나 쳤을 때, 그 음을 좋게 만들지 나쁘게 만들지는 바로 다음에 치는 음에 달려 있다."
+SKILLNAME_HAEUN,
+SKILLDES_HAEUN,
+PLAYER/SHIN_HAEUN/CATCHPHRASE,"""어때~ 이 펭귄 귀엽지 않아?"""
+PLAYER/SHIN_HAEUN/SIMPLE_DES,"지산고등학교 배구부의 부주장이자 주전 세터. 다희와 중학교 시절 함께 배구부 생활을 했으며, 본인 스스로 다희의 가장 친한 친구라고 자처한다. 하지만, 관심 있는 상대일수록 괜히 괴롭히고 싶어 하는 꼬인 성격 탓에, 정작 다희는 약간은 거리두기를 하는 중. 다소 자기중심적인 면이 있지만, 천성이 나쁜 것은 아니라, 은근히 뒤에서 다희를 많이 챙겨준다. 배구부에서도 꽤 인망이 두터운 편이라 차기 주장이 될 것임이 확실시 되고 있다. 좋아하는 동물은 펭귄."
+PLAYER/SHIN_HAEUN/BIRTH,4월 25일
+PLAYER/SHIN_HAEUN/BACKNUM,18
+PLAYER/SHIN_HAEUN/MOTTO,오늘도 즐겁고 신나게!
+SKILLNAME_SAYA,붕어빵
+SKILLDES_SAYA,"특성 활성화 시, 붕어빵을 먹어 체력을 보충한다.#팀의 스태미나를 회복하고 자신의 모든 능력치가 증가한다."
+PLAYER/YOO_SAYA/CATCHPHRASE,"""열심히 할게. 모두의 힘이 될 수 있다면."""
+PLAYER/YOO_SAYA/SIMPLE_DES,"대지고등학교 배구부의 주전 미들블로커. 얼핏 보기에는 차갑고 무뚝뚝해 보이지만, 누구보다 팀과 친구들을 아끼는 의리파 소녀. 가끔 엉뚱한 발상을 아무렇지도 않게 행동으로 옮겨 주변을 당황하게 만들기도 한다. 좋아하는 음식은 붕어빵, 좋아하는 친구는 고양이 보스."
+PLAYER/YOO_SAYA/BIRTH,10월 27일
+PLAYER/YOO_SAYA/BACKNUM,8
+PLAYER/YOO_SAYA/MOTTO,천 리 길도 한 걸음부터.
+SKILLNAME_JIHOON,기적의 토스
+SKILLDES_JIHOON,"특성 활성화 시, 기적의 토스를 올린다.#상대 팀에게 지고 있을 경우, 팀과 상대 팀의 점수 차이가 클수록 기적의 토스를 스파이크한 공의 위력이 증가한다.(최대 7점 중첩)"
+PLAYER/LEE_JIHOON/CATCHPHRASE,"""아무도 날 막을 수 없어!"""
+PLAYER/LEE_JIHOON/SIMPLE_DES,"대지고등학교 배구부의 주전 세터. 특유의 친화력으로 어디서든 팀의 분위기 메이커 역할을 한다. 초등학교 시절 아버지를 따라 미국으로 건너가 자신보다 체격이 큰 선수들과 맞붙으며 강인한 체력과 정신력을 길렀다. 강적 앞에서도 기죽지 않고, 팀원들이 모두 지쳐 있을 때도 혼자 팔팔해서 팀의 든든한 활력소가 된다. 
+취미는 러닝. 하지만, 심각한 길치라서 툭하면 산책로를 벗어나 헤매고 만다. 강아지를 산책 시키다 보면 다른 동네까지 가 버리는 일도 부지기수다."
+PLAYER/LEE_JIHOON/BIRTH,12월 14일
+PLAYER/LEE_JIHOON/BACKNUM,5
+PLAYER/LEE_JIHOON/MOTTO,Hakuna Matata(모든 것이 다 잘 될 거야.)
+LINE/LUCAS/SUMMERTRAINING_1,"이게 내 한계라고? <wait=85>하,"
+LINE/LUCAS/SUMMERTRAINING_2,그럴 리가 없잖아!
+LINE/VIOLA/SUMMERTRAINING,"지는 사람이 아이스크림 사주기, 어때?"
+LINE/HANRA/SUMMERTRAINING,"후후, 이 더위, 익숙해지려면 시간이 제법 걸릴 듯싶구려."
+SKILLNAME_GITAE,위압
+SKILLDES_GITAE,"특성 활성화 시 킬블락하는 경우, 마지막으로 스파이크한 상대 선수의 액티브 특성을 비활성화시킨다. 해당 상대는 일정 시간 동안 부정 효과에 걸린다."
+PLAYER/HAN_GITAE/CATCHPHRASE,"""최고라면, 이런 경기쯤 뒤집어야지!"""
+PLAYER/HAN_GITAE/SIMPLE_DES,"경기장 안팎에서 독보적인 존재감을 발휘하는 분위기 메이커이자 핵심 미들블로커.#근거 있는 자신감과 두둑한 배짱을 지녔으며, 팀이 위기에 몰릴수록 오히려 텐션을 끌어올려 팀 전체의 사기를 폭발시키는 타입이다. 단순 명쾌한 행동파로, 복잡하게 돌려 말하는 것을 싫어하고 호불호가 명확하지만 지나간 일에는 뒤끝을 남기지 않는다. 험악해 보이는 첫인상과 달리 처음 본 사람에게도 거리낌없이 다가갈 정도로 친화력이 뛰어난 편이다. 풀 죽은 후배의 머리를 말없이 툭 치며 ""밥이나 먹으러 가자"" 하고 무심하게 챙겨주는 등, 겉보기와 다른 의외의 자상함이 있다고 한다.#그의 목표는, 세계 최강!"
+PLAYER/HAN_GITAE/BIRTH,4월 8일
+PLAYER/HAN_GITAE/BACKNUM,10
+PLAYER/HAN_GITAE/MOTTO,Simple is the best
+SKILLNAME_YUNA,전신 스파이크
+SKILLDES_YUNA,공의 위치에 따라 다양한 포즈로 스파이크를 한다. 그 위치에 따라 스파이크 궤적이 달라진다.
+PLAYER/SEO_YUNA/CATCHPHRASE,"""재능이 있다고 늘 이기는 것도 아니고, 재능이 없다고 늘 지는 것도 아니야!"""
+PLAYER/SEO_YUNA/SIMPLE_DES,"열악한 환경 속에서도 피나는 노력 끝에 국가대표팀까지 발탁된 노력형 윙 스파이커.#맑고 해맑은 성격에 붙임성이 좋아 어디서나 사랑받는 팀의 마스코트 같은 존재다. 타고난 신체적 조건의 한계를 극복하기 위해 늘 '연습 노트'를 들고 다닌다. 경기장에서는 지기 싫어하는 강한 승부욕과 집념을 발휘하며, 뛰어난 유연성을 바탕으로 어떤 각도에서든 공을 때려낸다. 경기에서 지고 난 후에도 ""괜찮아요!"" 라며 명랑함을 잃지 않지만, 밤에 혼자 남몰래 훈련할 만큼 근성과 고집이 세다. 귀여운 외모와 달리 왠지 후배들에겐 든든한 선배로 보이고 싶어 하는 것 같다."
+PLAYER/SEO_YUNA/BIRTH,10월 5일
+PLAYER/SEO_YUNA/BACKNUM,3
+PLAYER/SEO_YUNA/MOTTO,"멈추지 않는 한, 얼마나 천천히 가느냐는 중요하지 않다."
+SKILLNAME_SEJIN,전화위복
+SKILLDES_SEJIN,"특성 활성화 시, 아군의 일정 단계 이하 부정 효과를 해제한다."
+PLAYER/KANG_SEJIN/CATCHPHRASE,"""되고 싶거든. 멋진 척 말고, 진짜 멋진 선수가..."""
+PLAYER/KANG_SEJIN/SIMPLE_DES,"완벽하고 쿨한 이미지의 세터를 지향하지만, 진심 어린 칭찬이나 호의를 받으면 포커페이스가 바로 무너지며 귀가 빨개진다. 남들에게 잘 보이고 싶은 마음에 패션부터 게임 닉네임까지 '멋짐'에 공을 들이지만, 실상은 공포 영화도 못 보고 피망도 못 먹는 허당. 친해지기 전에는 거리감이 느껴지지만, 한 번 마음을 연 상대에게는 거리낌없이 다가가며, 팀의 위기 상황에서는 누구보다 침착하게 경기를 풀어나간다."
+PLAYER/KANG_SEJIN/BIRTH,5월 14일
+PLAYER/KANG_SEJIN/BACKNUM,9
+PLAYER/KANG_SEJIN/MOTTO,칭찬은 고래도 춤추게 한다.

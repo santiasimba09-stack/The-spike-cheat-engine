@@ -1,0 +1,169 @@
+﻿KEY,스페인어(es)
+NAME/SEASON_01,Temporada 1
+NAME/SEASON_02,Temporada 2
+NAME/SEASON_03,Temporada 3
+NAME/MAIN_STORY,Historia principal
+NAME/SIDE_STORY,Historia secundaria
+NAME/SPECIAL_EPISODE,Episodio especial
+NAME/CHAPTER_TUTORIAL,Tutorial
+NAME/STAGE_TUTORIAL_01,Aprende los movimientos básicos
+NAME/STAGE_TUTORIAL_02,Practica los movimientos básicos
+NAME/STAGE_TUTORIAL_03,Aprende los movimientos clave
+NAME/STAGE_TUTORIAL_04,Practica los movimientos clave
+NAME/STAGE_TUTORIAL_05,Partido de práctica
+NAME/CHAPTER_01,As
+NAME/STAGE_01_01,Ponte el uniforme
+NAME/STAGE_01_02,Respira hondo
+NAME/STAGE_01_03,¡A la cancha!
+NAME/STAGE_01_04,Partido amistoso
+NAME/STAGE_01_05,Aparece un rival formidable
+NAME/STAGE_01_06,El cuadro en peligro
+NAME/STAGE_01_07,Problemas
+NAME/STAGE_01_08,Sentimientos ocultos
+NAME/STAGE_01_09,Recobrar la determinación
+NAME/STAGE_01_10,As
+NAME/STAGE_01_11,"Adiós, Siwoo."
+NAME/CHAPTER_02,Línea de salida
+NAME/STAGE_02_01,Obstinación
+NAME/STAGE_02_02,Let you down
+NAME/STAGE_02_03,Fin del juego
+NAME/STAGE_02_04,El estudiante misterioso
+NAME/STAGE_02_05,El gato y el balón de voleibol
+NAME/STAGE_02_06,Nueva técnica
+NAME/STAGE_02_07,Símbolo de la mala suerte
+NAME/STAGE_02_08,Desátate
+NAME/STAGE_02_09,Etapa final
+NAME/STAGE_02_10,Línea de salida
+NAME/CHAPTER_03,Summer Splash
+NAME/STAGE_03_01,Vamos de viaje
+NAME/STAGE_03_02,Bajo la sombrilla
+NAME/STAGE_03_03,Con viejos amigos
+NAME/STAGE_03_04,Arena brillante
+NAME/STAGE_03_05,Bajo el sol ardiente
+NAME/STAGE_03_06,Con el viento que sopla
+NAME/STAGE_03_07,Olas rompiendo 1
+NAME/STAGE_03_08,Olas rompiendo 2
+NAME/CHAPTER_04,Determinación
+NAME/STAGE_04_01,Florecimiento
+NAME/STAGE_04_02,Sugestión
+NAME/STAGE_04_03,Presagio
+NAME/STAGE_04_04,Equilibrio
+NAME/STAGE_04_05,Límite
+NAME/STAGE_04_06,Más allá del límite 1
+NAME/STAGE_04_07,Más allá del límite 2
+NAME/CHAPTER_05,Talento y esfuerzo
+NAME/STAGE_05_01,Aumentando la tensión
+NAME/STAGE_05_02,Adversidad creciente
+NAME/STAGE_05_03,Coraje vacilante
+NAME/STAGE_05_04,Sobrepasar la alta muralla
+NAME/STAGE_05_05,Volando hacia el cielo
+NAME/STAGE_05_06,Cortando el viento
+NAME/STAGE_05_07,"Ojo del huracán, calma antes de la tormenta"
+NAME/STAGE_05_08,Cielo y tierra
+NAME/CHAPTER_06,¡The Spike!
+NAME/STAGE_06_01,Briefing
+NAME/STAGE_06_02,Colocación alta
+NAME/STAGE_06_03,Finta
+NAME/STAGE_06_04,Sincronización
+NAME/STAGE_06_05,Ataque zaguero
+NAME/STAGE_06_06,Ataque rápido
+NAME/STAGE_06_07,Con todo el esfuerzo 1
+NAME/STAGE_06_08,Con todo el esfuerzo 2
+NAME/STAGE_06_09,Mejor rematador
+NAME/CHAPTER_07,De Desafío a Maestro
+NAME/STAGE_07_01,La pequeña Hongsi es picante
+NAME/STAGE_07_02,No puede lanzar una onda de energía
+NAME/STAGE_07_03,Turista lleno de pasión
+NAME/STAGE_07_04,"Cuerpo fuerte, mente fuerte"
+NAME/STAGE_07_05,Ese simple juego de balón
+NAME/STAGE_07_06,Actitud familiar
+NAME/STAGE_07_07,El futuro de Seonlim
+NAME/CHAPTER_08,Voleibol de Nieve
+NAME/STAGE_08_01,Maravillas de invierno
+NAME/STAGE_08_02,Manos y pies congelados
+NAME/STAGE_08_03,Entrenador de bajo nivel
+NAME/STAGE_08_04,Chico élite de la Batalla de Nieve
+NAME/STAGE_08_05,La peor Navidad
+NAME/STAGE_08_06,Un pasado cubierto de polvo
+NAME/STAGE_08_07,Tíos raros
+NAME/STAGE_08_08,Las sentadillas son obligatorias
+NAME/STAGE_08_09,Feliz Navidad
+NAME/STAGE_08_10,Viento Cortante
+NAME/CHAPTER_09,La peor liga
+NAME/STAGE_09_01,¡Nos vemos otra vez!
+NAME/STAGE_09_02,Caras conocidas
+NAME/STAGE_09_03,Subiendo en el ascensor
+NAME/STAGE_09_04,Grieta
+NAME/STAGE_09_05,Invitado inesperado
+NAME/STAGE_09_06,Los 5 mejores rematadores
+NAME/STAGE_09_07,Esto no es voleibol
+NAME/STAGE_09_08,Liga Fantasma
+NAME/CHAPTER_10,Hacedor de Reyes
+NAME/STAGE_10_01,Rematador del Sol
+NAME/STAGE_10_02,Patrocinador
+NAME/STAGE_10_03,Un secreto que no se puede contar
+NAME/STAGE_10_04,Propuesta
+NAME/STAGE_10_05,Diferencia
+NAME/STAGE_10_06,Uniforme
+NAME/STAGE_10_07,Mi superestrella
+NAME/STAGE_10_08,Sol y Noche Oscura
+NAME/STORY/BDF,¡Apertura! Gran Alboroto del Festival del Dragón Azul
+NAME/STAGE_BDF_01,¡Por hoy!
+NAME/STAGE_BDF_02,Batidor y Veneno
+NAME/STAGE_BDF_03,Orgullo y prejuicio
+NAME/STAGE_BDF_04,We are
+NAME/STORY/SMM,Recuerdos de Verano
+NAME/STAGE_SMM_01,Vacaciones de verano
+NAME/STAGE_SMM_02,Atún y leche con chocolate
+NAME/STAGE_SMM_03,Desencuentro
+NAME/STAGE_SMM_04,Un día que solo yo recuerdo
+NAME/CHAPTER_11,La Noche de Cada Uno
+NAME/STAGE_11_01,El Colocador de Dos Caras
+NAME/STAGE_11_02,El Nivel Más Bajo de la Desesperación
+NAME/STAGE_11_03,El Eterno Segundo Lugar
+NAME/STAGE_11_04,La Caída
+NAME/STAGE_11_05,Dolor
+NAME/STAGE_11_06,El Cautivo
+NAME/STAGE_11_07,Las Dos Reinas
+NAME/STAGE_11_08,Reencuentro del Destino
+NAME/STAGE_11_09,Sueño y Maldición
+NAME/STORY_READY_TO_SCOUT,¡Listos para fichar jugadores!
+NAME/STAGE_READY_TO_SCOUT_01,¡Aparece Hongsi!
+NAME/STAGE_READY_TO_SCOUT_02,Invitado inesperado
+NAME/STAGE_READY_TO_SCOUT_03,El muchacho esperado aparece
+NAME/STAGE_READY_TO_SCOUT_04,Sonambulismo
+NAME/CHAPTER_12,Big Five
+NAME/STAGE_12_01,Conflicto entre padre e hija
+NAME/STAGE_12_02,On my way
+NAME/STAGE_12_03,Mi ídolo
+NAME/STAGE_12_04,Asheville Weasels vs. Valentia Spikes
+NAME/STAGE_12_05,Ascenso
+NAME/STAGE_12_06,Un vínculo funesto
+NAME/STAGE_12_07,¡Ánimo!
+NAME/STAGE_12_08,La Mañana de Cada Uno
+NAME/STORY_RED_HOOD_AT_SUNSET,Red Hood del Atardecer
+NAME/STAGE_RED_HOOD_AT_SUNSET_01,Érase una vez en Seonlim
+NAME/STAGE_RED_HOOD_AT_SUNSET_02,Mi nombre es Crepúsculo
+NAME/STAGE_RED_HOOD_AT_SUNSET_03,El forajido del páramo
+NAME/STAGE_RED_HOOD_AT_SUNSET_04,"El bueno, el malo y el raro"
+NAME/STORY_SUPERSTAR_CHALLENGE,Desafío Superstar
+NAME/STORY_SUPERSTAR_CHALLENGE_01,Mantente sintonizado
+NAME/STORY_SUPERSTAR_CHALLENGE_02,Claqueta
+NAME/STORY_SUPERSTAR_CHALLENGE_03,En el centro de atención
+NAME/STORY_SUPERSTAR_CHALLENGE_04,Paneo de cámara
+NAME/STORY_SUPERSTAR_CHALLENGE_05,Señal de acción
+NAME/STORY_SUPERSTAR_CHALLENGE_06,Miedo escénico
+NAME/STORY_SUPERSTAR_CHALLENGE_07,Enfoque 1
+NAME/STORY_SUPERSTAR_CHALLENGE_08,Enfoque 2
+NAME/CHAPTER_13,On My Way
+NAME/STAGE_13_01,Maestro y discípulo
+NAME/STAGE_13_02,Buenas noticias
+NAME/STAGE_13_03,Primer día en el centro
+NAME/STAGE_13_04,Presentaciones
+NAME/STAGE_13_05,La cruda realidad
+NAME/STAGE_13_06,Novato de la selección nacional
+NAME/STAGE_13_07,Quien persigue
+NAME/STAGE_13_08,La forma del talento
+NAME/STAGE_13_09,Una y otra vez
+NAME/STAGE_13_10,Una única oportunidad
+NAME/STAGE_13_11,"Adiós, Siwoo"

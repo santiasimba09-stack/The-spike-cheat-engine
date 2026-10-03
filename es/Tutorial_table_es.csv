@@ -1,0 +1,300 @@
+﻿KEY,스페인어(es)
+TUTORIAL_MISSION/BASIC_SERVE,Realiza un Saque básico
+TUTORIAL_MISSION/BLOCKING,Realiza un Bloqueo
+TUTORIAL_MISSION/FEINT,Realiza una Finta
+TUTORIAL_MISSION/JUMP_FLOATER_SERVE,Realiza un Saque flotante con salto
+TUTORIAL_MISSION/MOVE_LEFT,Muévete a la izquierda
+TUTORIAL_MISSION/MOVE_RIGHT,Muévete a la derecha
+TUTORIAL_MISSION/RECEIVE,Realiza una Recepción
+TUTORIAL_MISSION/SLIDING,Realiza una Plancha
+TUTORIAL_MISSION/SPIKE_SERVE,Realiza un Saque de remate
+TUTORIAL_MISSION/SPIKE,Realiza un Remate
+TUTORIAL_MISSION/PERFECT_BLOCKING,Realizar un Bloqueo Perfecto
+BLOCK_NET_FRONT_TIP,¡El bloqueo debe hacerse frente a la red!
+BLOCK_FASTER_TIP,¡Intenta saltar un poco antes!
+BLOCK_SLOWER_TIP,¡Intenta saltar un poco más tarde!
+SPIKE_TWICE_TIP,¡Tienes que presionar el botón de remate una vez más en el aire!
+SPIKE_NEAR_TIP,¡Tienes que saltar cerca de la pelota!
+PRACTICE_MATCH_OKAY_TIP,"¡Como es un partido de práctica, la puntuación del equipo contrario no subirá!"
+MOVE_FAST_AFTER_SERVE_TIP,"¡Después del saque, muévete rápido hacia dentro de la cancha!#(Muévete hacia la derecha)"
+SPIKE_NEAR_TIP_02,"¡Para rematar, necesitas acercarte al balón!"
+HOLD_RECEIVE_BUTTON,¡Está bien mantener presionado el botón de recibir!
+SPIKE_JUMP_FASTER_TIP,¡Demasiado tarde! Tienes que saltar antes.
+SPIKE_JUMP_LATER_TIP,¡Demasiado pronto! Tienes que saltar más tarde.
+GO_FRONT_NET_TIP,¡Muévete a la red y prepárate para Bloquear!
+SPIKE_PRESS_LONG_TIP,¡Mantén pulsado el botón de Remate hasta el final!
+TUTORIAL_LEVEL_BASIC,Tutorial Básico
+FEINT_PRESS_AIR_TIP,¡Pulsa el botón de Finta en el aire!
+TUTORIAL_BASIC_MOVEMENT,Movimiento Básico
+TUTORIAL_MED_MOVEMENT,Movimiento Normal
+TUTORIAL_HARD_MOVEMENT,Movimiento Avanzado
+TUTORIAL_BASIC_CONCEPT,Concepto Básico
+,
+TUTORIAL/SLOWER_MOVE,Reducción de Velocidad de Movimiento
+TUTORIAL/SLOWER_MOVE_DES,"Cuando el rally se alarga, la velocidad de movimiento de todos los jugadores disminuye."
+TUTORIAL/MOVE,Movimiento
+TUTORIAL/MOVE_DES,Intenta moverte a izquierda y derecha
+TUTORIAL/SERVE,Saque
+TUTORIAL/SERVE_DES,¡Presiona (n1) para sacar!
+TUTORIAL/BLOCKING,Bloqueo
+TUTORIAL/BLOCKING_DES,¡Pulsa y suelta (n1) frente a la red para Bloquear!
+TUTORIAL/SCOREBOARD,Ver Marcador
+TUTORIAL/SCOREBOARD_DES1,Puedes ver la resistencia y el marcador de tu equipo en la parte superior de la pantalla.
+TUTORIAL/SCOREBOARD_DES2,La resistencia se consume al defender golpes fuertes.
+TUTORIAL/SCOREBOARD_DES3,"Si te quedas sin resistencia, fallarás la Recepción, ¡ten cuidado!"
+TUTORIAL/JUMP_FLOATER_SERVE,Saque flotante con salto
+TUTORIAL/JUMP_FLOATER_SERVE_DES,¡Mantén (n1) para sacar!
+TUTORIAL/SPIKE,Remate
+TUTORIAL/SPIKE_DES,¡Pulsa (n1) para saltar y (n2) para rematar!
+TUTORIAL/RECEIVE,Recepción
+TUTORIAL/RECEIVE_DES,¡Mantén (n1) para recibir!
+TUTORIAL/FEINT,Finta
+TUTORIAL/FEINT_DES,"En el aire, pulsa (n1) para hacer una Finta!"
+TUTORIAL/SPIKE_DES2,"Después de recibir, ¡remata al ritmo de la colocación del colocador!"
+TUTORIAL/SLIDING,Plancha
+TUTORIAL/SLIDING_DES,¡Pulsa (n1) para Deslizar!
+TUTORIAL/SPIKE_SERVE,Saque de remate
+TUTORIAL/SPIKE_SERVE_DES,¡Mantén (n1) para lanzar la pelota y (n2) para rematar!
+SPIKE_SERVE_TIP,¡El lanzamiento del saque es demasiado bajo! Mantén pulsado el botón un poco más.
+TUTORIAL_SKIP_QUESTION,¿Seguro que quieres saltarte el tutorial? Siempre puedes repetirlo más tarde en el Capítulo de Tutorial.
+TUTORIAL/SHORT_SPIKE,Remate Corto
+TUTORIAL/SHORT_SPIKE_DES2,Con (n1) puedes clavar el remate hacia abajo.
+TUTORIAL/LONG_SPIKE_DES,"Después de la recepción, ¡intenta rematar con (n1)!"
+FEVER_TUTORIAL/01,El partido de Raid de Nieve tiene reglas especiales.
+FEVER_TUTORIAL/02,"Cada vez que anotas, la Fiebre se acumula según la duración del rally."
+FEVER_TUTORIAL/03,"En estado de Fiebre, la Temperatura corporal aumenta y las estadísticas del jugador mejoran."
+RECEIVE_TIMING_TUTORIAL/01,"Cuanta más precisión tengas, menos daño recibirás."
+TUTORIAL/SKILL,Habilidad
+TUTORIAL/SKILL_DES,Algunos {0} tienen su propia {1} única.#Puedes comprobar el estado actual de esa {1} en el botón con el icono de {1}.
+TUTORIAL/SKILL_USE,Usar habilidad
+TUTORIAL/SKILL_USE_DES,Puedes interactuar con {0} y {1} pulsando sus botones directamente.
+TUTORIAL/SKILL_ACTIVATE,Activar habilidad
+TUTORIAL/SKILL_ACTIVATE_DES,Puedes activar {0} cuando quieras pulsando su icono.#{1} permanece activada hasta que hagas {3} al balón potenciado por {2}.
+TUTORIAL/SKILL_COOLDOWN,Tiempo de espera para reutilización
+TUTORIAL/SKILL_COOLDOWN_DES,La mayoría de {0} no se pueden usar durante un breve periodo después de que termine su efecto.
+TUTORIAL/SKILL_COOLDOWN2_DES,"La mayoría de {0} tienen {1} después de que termine su efecto.#Durante {1}, no se puede volver a activar {2}."
+TUTORIAL/SKILL_DURATION,Duración
+TUTORIAL/SKILL_DURATION_DES,{0} permanece activada durante el {1} especificado después de pulsar el icono.
+TUTORIAL/SKILL_STATUS_USING,En efecto
+TUTORIAL/SKILL_STATUS_AVAILABLE,Listo
+TUTORIAL/SKILL_STATUS_UNAVAILABLE,No disponible
+TEMPERATURE_TUTORIAL/01,La Temperatura corporal del jugador se muestra en la esquina superior izquierda.
+TEMPERATURE_TUTORIAL/02,La Temperatura corporal disminuye al final de cada rally.
+TEMPERATURE_TUTORIAL/03,"Cuando la Temperatura corporal baja, también disminuyen las estadísticas del jugador."
+COUNTER_RECEIVE_TUTORIAL/01,Debes presionar el botón de Recepción en el momento correcto.
+,
+,
+MOVE_TUTORIAL/01,Hoy vamos a aprender juntos los movimientos básicos del voleibol.
+MOVE_TUTORIAL/02,"Lo primero, ¿ya entraste en calor?"
+MOVE_TUTORIAL/03,Puedes moverte con las flechas. Da una vuelta ligera por la cancha.
+,
+RECEIVE_TUTORIAL/01,¡Bien! ¿Ya entraste un poco en calor?
+RECEIVE_TUTORIAL/02,El primer movimiento que vamos a aprender es la recepción.
+RECEIVE_TUTORIAL/03,La recepción es la base del voleibol. Es la acción clave que inicia cada jugada.
+RECEIVE_TUTORIAL/04,"Te lanzaré la pelota suavemente, ¿quieres intentar recibirla?"
+,
+JUMPSPIKE_TUTORIAL/01,¡Bien hecho! Esta vez vamos a aprender el movimiento de remate.
+JUMPSPIKE_TUTORIAL/02,El remate es un ataque en el que clavas la pelota en la cancha rival.
+JUMPSPIKE_TUTORIAL/03,"¡Es un movimiento esencial para jugar al voleibol,#pero es una técnica bastante difícil para los principiantes!"
+JUMPSPIKE_TUTORIAL/04,¡Pero confía en mí! Te aseguraré que puedas rematar.
+JUMPSPIKE_TUTORIAL/05,"Primero, como golpear una pelota en movimiento es difícil, vamos a practicar con una fija."
+,
+RECEIVE_SPIKE_TUTORIAL/01,¡Bien hecho! ¿Ya cogiste un poco la idea? A partir de ahora es lo verdadero.
+RECEIVE_SPIKE_TUTORIAL/02,Te haré una colocación suave; intenta rematar en el momento justo.
+RECEIVE_SPIKE_TUTORIAL/03,"El balón en movimiento puede ponerte nervioso, pero golpea con calma al ritmo de mi colocación. ¡Seguro que puedes!"
+,
+SERVE_TUTORIAL/01,"¡Increíble! Con este nivel, de verdad tienes talento."
+SERVE_TUTORIAL/02,"¡Bien, terminemos aprendiendo el saque!"
+SERVE_TUTORIAL/03,El saque es el movimiento básico del voleibol para enviar el balón al campo contrario#y comenzar el partido.
+SERVE_TUTORIAL/04,"¡En el voleibol moderno, el saque es un arma poderosa! Cuanto mejor es un jugador, más variedad de saques puede dominar."
+SERVE_TUTORIAL/05,Pero... para un principiante será difícil intentar saques de alta dificultad de buenas a primeras.
+SERVE_TUTORIAL/06,Primero vamos a aprender el saque más básico.
+SERVE_TUTORIAL/07,"¡Un saque potente es importante, pero primero lo primero: un saque estable! La próxima vez te enseñaré el saque en suspensión, así que hoy vamos a practicar suave para ir le agarrando el truco."
+,
+PRACTICE_GO_TUTORIAL/01,Con esto basta para los movimientos básicos. ¡Bien hecho!
+PRACTICE_GO_TUTORIAL/02,"Un partido real puede ponerte nervioso, pero tranquilo, haz lo que aprendiste."
+,
+BLOCKING_TUTORIAL/01,El bloqueo es un movimiento frente a la red para detener el remate del rival.
+BLOCKING_TUTORIAL/02,"Puede reducir la trayectoria de ataque del oponente,#incluso con solo tocarlo se puede reducir mucho la potencia, así que hay que aprenderlo."
+BLOCKING_TUTORIAL/03,Golpearé suave el balón para que practiques. ¡Inténtalo!
+,
+RECEIVE_FEINT_TUTORIAL/01,¡Bien hecho! Pasemos enseguida al siguiente movimiento.
+RECEIVE_FEINT_TUTORIAL/02,¡El movimiento que aprenderemos ahora es la Finta!
+RECEIVE_FEINT_TUTORIAL/03,¡Y no hace falta traer un bote de pintura!
+RECEIVE_FEINT_TUTORIAL/04,"Desde la postura de Remate, pasa suavemente la pelota con la punta de los dedos#para sorprender al rival."
+RECEIVE_FEINT_TUTORIAL/05,"Es muy efectivo cuando la resistencia del rival es baja, ¡así que aprende a usarlo bien!"
+RECEIVE_FEINT_TUTORIAL/06,¡Vamos a intentarlo ahora mismo!
+,
+JUMP_FLOATER_TUTORIAL/01,¡Bien hecho! ¿Pasamos al último movimiento?
+JUMP_FLOATER_TUTORIAL/02,¡Saque flotante con salto!
+JUMP_FLOATER_TUTORIAL/03,Es un Saque en el que saltas y golpeas la pelota sin giro.
+JUMP_FLOATER_TUTORIAL/04,"¡Sin efecto, la trayectoria del balón tambalea, así que al equipo rival le resultará muy difícil recibirlo!"
+JUMP_FLOATER_TUTORIAL/05,"No tiene una gran capacidad de anotación,#pero puede reducir la resistencia del rival, ¡así que será muy útil!"
+JUMP_FLOATER_TUTORIAL/06,¿Lo probamos ahora mismo?
+,
+PRACTICE_GO_TUTORIAL_02/01,¡Muy bien! Con esto por hoy ya basta.
+PRACTICE_GO_TUTORIAL_02/02,"Aún quedan movimientos difíciles como el saque de remate o la deslizada, ¡pero te los enseñaré la próxima vez!"
+,
+SLIDING_TUTORIAL/01,¡El torneo está a la vuelta de la esquina! Jugar como lo hemos hecho hasta ahora no será suficiente.
+SLIDING_TUTORIAL/02,¡Hoy vamos a aprender juntos una técnica nueva!
+SLIDING_TUTORIAL/03,"¡El primer movimiento que aprenderemos es la Plancha!#A veces fallaste en la defensa por falta de resistencia, ¿verdad?"
+SLIDING_TUTORIAL/04,"La Plancha es un movimiento importante,#te permite levantar la pelota aunque te falte resistencia."
+SLIDING_TUTORIAL/05,"Requiere un tiempo más preciso que la Recepción,#pero al poder levantar la pelota sin perder resistencia, ¡es súper importante!"
+SLIDING_TUTORIAL/06,"¡Vamos a intentarlo! Te lanzaré la pelota suavemente, ajusta el momento y haz la Plancha."
+,
+SPIKE_SERVE_TUTORIAL/01,¡Bien! Ahora pasemos al saque más difícil pero más poderoso…
+SPIKE_SERVE_TUTORIAL/02,¡Aprendamos el Saque de remate!
+SPIKE_SERVE_TUTORIAL/03,"El saque de remate consiste, como su nombre indica, en sacar rematando el balón."
+SPIKE_SERVE_TUTORIAL/04,"Primero debes lanzar el balón a la altura adecuada para el saque,#¡y golpearlo en el lugar y el momento precisos!"
+SPIKE_SERVE_TUTORIAL/05,"Es potente y puede reducir mucha resistencia del rival,#pero la desventaja es que el riesgo de perder un punto es alto."
+SPIKE_SERVE_TUTORIAL/06,¿Lo intentamos? ¡El entrenamiento también es para probar saques difíciles!
+,
+PRACTICE_GO_TUTORIAL_03/01,¡Genial! ¡Por hoy ya basta!
+PRACTICE_GO_TUTORIAL_03/02,Creo que ya te enseñé todos los movimientos que podía.
+PRACTICE_GO_TUTORIAL_03/03,¡Ahora pon en práctica lo aprendido en partidos reales y hazlo completamente tuyo!
+,
+CASUAL_RECEIVE_TUTORIAL/03,Hoy vamos a aprender juntos los movimientos básicos del voleibol.
+CASUAL_RECEIVE_TUTORIAL/04,El primer movimiento que vamos a aprender es la recepción.
+CASUAL_RECEIVE_TUTORIAL/05,La recepción es la base del voleibol. Es la acción clave que inicia cada jugada.
+CASUAL_RECEIVE_TUTORIAL/06,"Te lanzaré la pelota suavemente, ¿quieres intentar recibirla?"
+,
+CASUAL_LONG_SPIKE_TUTORIAL/01,¡Bien hecho! Esta vez vamos a aprender el movimiento de remate.
+CASUAL_LONG_SPIKE_TUTORIAL/02,El remate es un ataque en el que clavas la pelota en la cancha rival.
+CASUAL_LONG_SPIKE_TUTORIAL/03,"¡Es un movimiento esencial para jugar al voleibol,#pero bastante difícil para los principiantes!"
+CASUAL_LONG_SPIKE_TUTORIAL/04,Te haré una colocación suave; intenta rematar en el momento justo.
+CASUAL_LONG_SPIKE_TUTORIAL/05,"El balón en movimiento puede ponerte nervioso, pero golpea con calma al ritmo de mi colocación. ¡Seguro que puedes!"
+,
+CASUAL_SHORT_SPIKE_TUTORIAL/01,"¡Muy bien! ¡No te detengas, sigue adelante!"
+CASUAL_SHORT_SPIKE_TUTORIAL/02,"Justo ahora hiciste un remate largo porque estabas un poco lejos de la red, ¿verdad?"
+CASUAL_SHORT_SPIKE_TUTORIAL/03,"Esta vez te pasaré el balón cerca de la red, así que intenta rematar hacia abajo."
+CASUAL_SHORT_SPIKE_TUTORIAL/04,"El remate hacia abajo es vulnerable a los bloqueos, así que elige bien la dirección."
+CASUAL_SHORT_SPIKE_TUTORIAL/05,¡Vamos a intentarlo ahora mismo!
+,
+CASUAL_FEINT_TUTORIAL/01,¡El movimiento que aprenderemos ahora es la Finta!
+CASUAL_FEINT_TUTORIAL/02,¡Y no hace falta traer un bote de pintura!
+CASUAL_FEINT_TUTORIAL/03,"Desde la postura de Remate, pasa suavemente la pelota con la punta de los dedos#para sorprender al rival."
+CASUAL_FEINT_TUTORIAL/04,"Es muy efectivo cuando la resistencia del rival es baja, ¡así que aprende a usarlo bien!"
+CASUAL_FEINT_TUTORIAL/05,¡Vamos a intentarlo ahora mismo!
+,
+CASUAL_BLOCK_TUTORIAL/01,¡La siguiente acción que aprenderemos es el bloqueo!
+CASUAL_BLOCK_TUTORIAL/02,El bloqueo es un movimiento frente a la red para detener el remate del rival.
+CASUAL_BLOCK_TUTORIAL/03,"¡Puedes bloquear cuando estás en la primera línea durante la rotación!#Ah, ¿quizás explicado así suena un poco difícil?"
+CASUAL_BLOCK_TUTORIAL/04,"Cuando es el saque del oponente y nuestro equipo anota un punto,#ganamos el derecho de saque y las posiciones iniciales de los jugadores rotan."
+CASUAL_BLOCK_TUTORIAL/05,"En ese momento, el jugador que está frente a la red se prepara para bloquear."
+CASUAL_BLOCK_TUTORIAL/06,"Puede reducir la trayectoria de ataque del oponente,#incluso con solo tocarlo se puede reducir mucho la potencia, así que hay que aprenderlo."
+CASUAL_BLOCK_TUTORIAL/07,"Te pasaré el balón suavemente, ¿quieres intentarlo tú mismo?"
+,
+CASUAL_SLIDING_TUTORIAL/01,"¡Esta vez, aprendamos el movimiento defensivo desde la fila trasera: deslizarse!"
+CASUAL_SLIDING_TUTORIAL/02,"La Plancha es un movimiento importante,#te permite levantar la pelota aunque te falte resistencia."
+CASUAL_SLIDING_TUTORIAL/03,"Requiere un tiempo más preciso que la Recepción,#pero al poder levantar la pelota sin perder resistencia, ¡es súper importante!"
+CASUAL_SLIDING_TUTORIAL/04,"¡Vamos a intentarlo! Te lanzaré la pelota suavemente, ajusta el momento y haz la Plancha."
+,
+CASUAL_SPIKE_SERVE_TUTORIAL/01,¡Bien! Ahora pasemos al saque más difícil pero más poderoso…
+CASUAL_SPIKE_SERVE_TUTORIAL/02,¡Aprendamos el Saque de remate!
+CASUAL_SPIKE_SERVE_TUTORIAL/03,"El saque de remate consiste, como su nombre indica, en sacar rematando el balón."
+CASUAL_SPIKE_SERVE_TUTORIAL/04,"Primero debes lanzar el balón a la altura adecuada para el saque,#¡y golpearlo en el lugar y el momento precisos!"
+CASUAL_SPIKE_SERVE_TUTORIAL/05,"Es potente y puede reducir mucha resistencia del rival,#pero la desventaja es que el riesgo de perder un punto es alto."
+CASUAL_SPIKE_SERVE_TUTORIAL/06,¿Lo intentamos? ¡El entrenamiento también es para probar saques difíciles!
+,
+CASUAL_END_TUTORIAL/01,¡El torneo está a la vuelta de la esquina! Jugar como lo hemos hecho hasta ahora no será suficiente.
+CASUAL_END_TUTORIAL/02,¡Espera! ¿Has estado jugando en Modo de control automático hasta ahora?
+CASUAL_END_TUTORIAL/03,"El Modo de control automático ayuda en muchos movimientos, así que puedes disfrutar del juego fácilmente."
+CASUAL_END_TUTORIAL/04,"Pero, al no tener un 100% de libertad, el límite de crecimiento es claro."
+CASUAL_END_TUTORIAL/05,"Cuando te acostumbres un poco, te recomiendo jugar en modo manual."
+CASUAL_END_TUTORIAL/06,"Como el tutorial cambia según el modo, si pasas a manual asegúrate de revisarlo otra vez."
+CASUAL_END_TUTORIAL/07,"Pero yo estaré a tu lado para apoyarte, ¡así que demos lo mejor juntos!"
+,
+TUTORIAL/CONDITION_DES/01,"Durante el partido, los jugadores pueden#entrar en ciertos estados de condición dependiendo de la situación."
+TUTORIAL/CONDITION_DES/02,"En el estado Excitación, el ATQ y la VEL aumentan, mientras que el Salto y la DEF disminuyen.#Ocurre principalmente tras un ataque fallido o ser bloqueado."
+TUTORIAL/CONDITION_DES/03,"En el estado Inmersión, todas las estadísticas aumentan.#Ocurre principalmente al encadenar ataques, bloqueos o saques exitosos."
+TUTORIAL/CONDITION_DES/04,"En el estado Desánimo, todas las estadísticas disminuyen.#Ocurre principalmente al fallar en la defensa o el ataque."
+TUTORIAL/CONDITION_DES/05,"En el estado Descuido, la DEF y la VEL disminuyen significativamente.#Ocurre principalmente si no se toca el balón durante mucho tiempo."
+FEVER_TUTORIAL/TITLE,Regla Especial
+TUTORIAL/WS_DECRIPTION,"El WS es el as del equipo, encargado de liderar los ataques principales."
+TUTORIAL/SE_DECRIPTION,"El Se (colocador) levanta el balón recibido, creando una oportunidad para que el rematador ataque."
+TUTORIAL/MB_DECRIPTION,El MB usa ataques rápidos para desestabilizar el bloqueo rival y brindar cobertura a los ataques del WS.
+TUTORIAL/POSITION_DECRIPTION,En el equipo hay tres posiciones.
+TUTORIAL/LISIA_DESCRIPTION,El saque celestial de Liscia cae rápidamente desde lo alto.#Debes deslizarte en el momento justo.
+,
+BEACH_FEVER_TUTORIAL/01,El partido de Incursión de Vóley Playa tiene reglas especiales.
+HEAT_TUTORIAL/01,"Cuanto más dure el partido en la playa calurosa, más subirá la temperatura corporal de los jugadores."
+HEAT_TUTORIAL/02,"Cuanto más aumenta la temperatura corporal de los jugadores, más aumentan su poder de ataque y velocidad."
+HEAT_TUTORIAL/03,"Sin embargo, la capacidad de salto y la defensa disminuyen considerablemente."
+HEAT_TUTORIAL/04,"Por eso, debes sustituir a los jugadores cuando su temperatura corporal sea demasiado alta."
+HEAT_TUTORIAL/05,La temperatura corporal del jugador se muestra en la esquina superior izquierda.
+ITEM_TUTORIAL/01,"Cada 3 puntos, puedes usar objetos para enfrentarte al partido de manera estratégica."
+ITEM_TUTORIAL/02,"Si dependes de Fiebre, la temperatura corporal aumentará rápidamente, así que ten cuidado."
+BEACH_RAID/HEAT,El calor
+TUTORIAL/UI/DES_01,Puedes continuar la historia aquí.
+TUTORIAL/UI/DES_02,Alcanza un rango superior para desafiar nuevos partidos.
+TUTORIAL/UI/DES_03,Puedes perfeccionar tus habilidades aquí.
+TUTORIAL/UI/DES_04,Puedes reclutar nuevos jugadores aquí.
+TUTORIAL/UI/DES_05,Aquí puedes fichar directamente al jugador que quieras.
+TUTORIAL/UI/DES_06,Aquí puedes personalizar la apariencia de los jugadores o comprar balones de voleibol.
+TUTORIAL/UI/DES_07,Puedes recibir recompensas aquí al alcanzar un nuevo rango.
+TUTORIAL/UI/DES_08,Consulta los desafíos de cada rango.
+TUTORIAL/UI/DES_09,Completa desafíos para obtener recompensas.#Completa todos los desafíos para ascender al siguiente rango.
+TUTORIAL/UI/DES_10,Selecciona un jugador.
+TUTORIAL/UI/DES_11,Puedes consultar las estadísticas del jugador.
+TUTORIAL/UI/DES_12,"Cuando se activa el Estado, el jugador se fortalece o debilita temporalmente.#Cuanto mayor sea el valor de Estado del jugador, mayor será la probabilidad de activación."
+TUTORIAL/UI/DES_13,Puedes personalizar la apariencia del jugador.
+TUTORIAL/UI/DES_14,Añade jugadores a Favoritos para que aparezcan primero.
+TUTORIAL/UI/DES_15,Puedes jugar inmediatamente al contenido recomendado en esta pantalla.
+TUTORIAL/UI/DES_16,"¡Muy bien!#Ahora juega partidos libremente, desarrolla a los jugadores que quieras y mejora tus habilidades."
+TUTORIAL/NEW_PLAYER/DES_01,¡Ya puedes usar a un nuevo jugador!
+TUTORIAL/NEW_PLAYER/DES_02,Ve a la pantalla de Gestión de jugadores.
+TUTORIAL/NEW_PLAYER/DES_03,Aquí puedes registrar a un nuevo jugador como titular.
+TUTORIAL/NEW_PLAYER/DES_04,¡Se ha registrado un nuevo colocador!
+TUTORIAL/NEW_PLAYER/DES_05,Ahora vamos a hacer que el jugador crezca.
+TUTORIAL/NEW_PLAYER/DES_06,Aumentar los niveles de las estadísticas incrementa el nivel del jugador.
+TUTORIAL/NEW_PLAYER/DES_07,Para subir de nivel al jugador se necesita <item=EXPPOINT> adicional.
+TUTORIAL/NEW_PLAYER/DES_08,"Cuanto mayor sea el rango del jugador, mayor será el costo de#<item=EXPPOINT> y <item=CREDIT> para subir de nivel."
+TUTORIAL/NEW_PLAYER/DES_09,¡Vaya! Parece que ahora mismo no puedes mejorar al jugador...
+TUTORIAL/NEW_PLAYER/DES_10,Aquí también puedes registrar directamente a un jugador como titular.
+TUTORIAL/NEW_PLAYER/DES_11,¡Ahora disfruta de partidos aún más variados con tus nuevos jugadores!
+,
+TUTORIAL_MB_MOVEMENT,Entrenamiento de central
+TUTORIAL_MISSION/QUICK,Realiza un Ataque rápido
+TUTORIAL_MISSION/FAKE_QUICK,Atrae el bloqueo de Roberto
+TUTORIAL/QUICK,Ataque rápido
+TUTORIAL/QUICK_DES,"Salta antes de que el colocador arme el balón,#y hará una colocación rápida para el central."
+QUICK_TUTORIAL/01,"El ataque rápido es lo más básico para un central.#Si no sabes hacerlo... bueno, no puedes considerarte central, ¿verdad?"
+QUICK_TUTORIAL/02,"Lo importante es saltar antes de que nuestro colocador arme el balón.#Cuando llegue el balón, ya deberías estar a la altura necesaria para atacar."
+QUICK_TUTORIAL/03,"Si coordinas bien el salto, el colocador pondrá el balón justo donde lo necesitas."
+QUICK_TUTORIAL/04,Inténtalo. Salta cerca de mí justo antes de la colocación... ¡y remata!
+RECEIVE_QUICK_TUTORIAL/01,Oh~ ¡Muy bien! Esta vez ha estado bastante logrado.
+RECEIVE_QUICK_TUTORIAL/02,¿Probamos ahora como si fuera un partido de verdad?
+RECEIVE_QUICK_TUTORIAL/03,"Roberto te ayudará.#Se adaptará para que aprendas a coordinar el ataque rápido, así que no te preocupes."
+RECEIVE_QUICK_TUTORIAL/04,"Después de recibir, corre inmediatamente hacia la red.#Haz un ataque rápido como has aprendido."
+FAKE_QUICK_TUTORIAL/01,"Bien, bien. Esto ya empieza a tomar forma."
+FAKE_QUICK_TUTORIAL/02,"Parece que ya dominas más o menos los tiempos del ataque rápido...#Roberto, ahora bloquéalo en serio."
+FAKE_QUICK_TUTORIAL/03,"Esta vez bloqueará en serio siguiendo el ritmo de tu ataque rápido.#Ya no será tan fácil rematar como antes, ¿verdad?"
+FAKE_QUICK_TUTORIAL/04,Pero escucha.#Un central no siempre tiene que rematar el balón.#Confundir a los bloqueadores rivales también forma parte del trabajo.
+FAKE_QUICK_TUTORIAL/05,"Aunque solo saltes en el momento justo como si fueras a hacer un ataque rápido, al rival le costará ignorarte."
+FAKE_QUICK_TUTORIAL/06,"Esta vez, salta sin tocar el balón.#Atrae el bloqueo de Roberto y crea una oportunidad para que nuestro atacante de punta anote con un ataque de segundo tiempo."
+PRACTICE_GO_TUTORIAL_04/01,"Oh~ Excelente, excelente."
+PRACTICE_GO_TUTORIAL_04/02,"Es diferente a jugar como atacante de punta, ¿verdad? ¿Qué tal? ¿Puedes hacerlo?"
+PRACTICE_GO_TUTORIAL_04/03,"Ahora que ya sabes en qué consiste un ataque rápido, aprenderás el resto con más práctica."
+WRONG_ATTACK_POSITION_TIP,Salta dentro de la zona brillante.
+MIDAIR_AT_TOSS_TIP,Tienes que saltar antes de que el colocador arme el balón.
+MIDAIR_AT_TOSS_TIP_THATS_OPEN,"Eso es un ataque de balón alto, no un ataque rápido."
+MIDAIR_AT_TOSS_TIP_TOO_FAST,Intenta saltar un poco más tarde.
+MIDAIR_AT_TOSS_TIP_TOO_FAR,"Cuanto más te alejes de la red, más difícil será realizar un ataque rápido."
+ATTACK_BEFORE_TOSS_TIP,Coordina el ataque con la colocación.
+ATTACK_IN_COURT_TIP,Tienes que contactar el balón más por delante del cuerpo.
+FAKE_JUMP_TIP,Salta en el momento adecuado para un ataque rápido.
+FAKE_QUICK_TIP,Aterriza sin golpear el balón.
+TOO_FAST_QUICK_TIP,Haz el movimiento de ataque en el momento adecuado.
+QUICK_TOSS_FAIL_TIP,Tienes que saltar antes para que pueda colocarte el balón para un ataque rápido.
+BLOCKING_BREAK_TIP,¡Apunta al punto débil y atraviesa el bloqueo!
+,
+TUTORIAL/ELITE_RULE_UI_APPEAR_DES,"Cada jugador tiene su propia Resistencia y Fortaleza mental.#La Resistencia se muestra en amarillo y la Fortaleza mental, en azul."
+TUTORIAL/ELITE_RULE_UI_DAMAGE_DES,"El jugador que recibe el balón pierde Resistencia y Fortaleza mental.#Si se queda sin Resistencia, fallará al defender."
+TUTORIAL/ELITE_RULE_DEFENSE_TIMING_DES,"Pulsa el botón de Plancha o Recepción en el momento adecuado para reducir el daño.#Si no pulsas ningún botón, el jugador defenderá según un resultado aleatorio."
+TUTORIAL/ELITE_RULE_RECEIVE_DES,Recibe el balón en el momento preciso para que se eleve de forma estable.#Una Recepción perfecta genera un Balón de oportunidad.
+TUTORIAL/ELITE_RULE_SLIDING_DES,"La Plancha permite defender una zona amplia, pero hace que el balón se eleve de forma menos estable.#Defender con una Plancha no genera un Balón libre."
+TUTORIAL/ELITE_RULE_FLOATER_SERVE_DES,"El Saque flotante y el Saque híbrido infligen daño que ignora la Defensa.#Si no defiendes en el momento preciso, recibirás mucho daño."
+TUTORIAL/ELITE_RULE_MENTALITY_DES,"La Fortaleza mental no se recupera fácilmente entre jugadas.#Cuanto menor sea la Fortaleza mental de un jugador, más Resistencia perderá al defender."
+TUTORIAL/ELITE_RULE_EXHAUST_DES,"Cuando la Fortaleza mental se agota por completo, el jugador queda Exhausto durante un breve período.#La Fortaleza mental no se recupera mientras el jugador está Exhausto."
+TUTORIAL/ELITE_RULE_FORMATION_DES,Las posiciones defensivas de los jugadores no cambian cuando cambia el turno de saque.#Puedes cambiar sus posiciones defensivas durante un tiempo muerto.
+TUTORIAL/RAID_TIP_06,¡Casi perfecto!

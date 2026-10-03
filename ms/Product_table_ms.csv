@@ -1,0 +1,991 @@
+﻿KEY,말레이시아어(ms)
+상시 인앱결제 상품,
+NORMAL_CREDIT_150K_PACKAGE,"Pek Kredit x150,000"
+NORMAL_CREDIT_150K_PACKAGE_DESC,"Dapatkan 150,000 kredit."
+NORMAL_CREDIT_500K_PACKAGE,"Pek Kredit x500,000"
+NORMAL_CREDIT_500K_PACKAGE_DESC,"Dapatkan 500,000 kredit."
+NORMAL_CREDIT_1600K_PACKAGE,"Pek Kredit x1,600,000"
+NORMAL_CREDIT_1600K_PACKAGE_DESC,"Dapatkan 1,600,000 kredit."
+100_VPOINT_PACKAGE,Pek Mata V x100
+100_VPOINT_PACKAGE_DESC,Dapatkan 100 Mata V.
+300_VPOINT_PACKAGE,Pek Mata V x300
+300_VPOINT_PACKAGE_DESC,Dapatkan 300 Mata V.
+1200_VPOINT_PACKAGE,Pek Mata V x1200
+1200_VPOINT_PACKAGE_DESC,Dapatkan 1200 Mata V.
+40_VPOINT_PACKAGE,Pek Mata V x40
+40_VPOINT_PACKAGE_DESC,Dapatkan 40 Mata V.
+200_VPOINT_PACKAGE,Pek Mata V x200
+200_VPOINT_PACKAGE_DESC,Dapatkan 200 Mata V.
+420_VPOINT_PACKAGE,Pek Mata V x420
+420_VPOINT_PACKAGE_DESC,Dapatkan 420 Mata V.
+1280_VPOINT_PACKAGE,Pek Mata V x1280
+1280_VPOINT_PACKAGE_DESC,Dapatkan 1280 Mata V.
+2160_VPOINT_PACKAGE,Pek Mata V x2160
+2160_VPOINT_PACKAGE_DESC,Dapatkan 2160 Mata V.
+4000_VPOINT_PACKAGE,"Pek Mata V x4,000"
+4000_VPOINT_PACKAGE_DESC,"Dapatkan 4,000 Mata V."
+60_BLUEFLAME_PACKAGE,Pek Api Biru x60
+60_BLUEFLAME_PACKAGE_DESC,Dapatkan 60 Api Biru.
+150_BLUEFLAME_PACKAGE,Pek Api Biru x150
+150_BLUEFLAME_PACKAGE_DESC,Dapatkan 150 Api Biru.
+450_BLUEFLAME_PACKAGE,Pek Api Biru x450
+450_BLUEFLAME_PACKAGE_DESC,Dapatkan 450 Api Biru.
+BEGINNER_PACKAGE,Pakej Permulaan
+BEGINNER_PACKAGE_DESC,Pakej pemula bernilai tinggi yang hanya boleh dibeli sekali.
+BEGINNER_GROWTH_BOOST_PACKAGE,Pakej Peningkatan Pertumbuhan Pemula
+BEGINNER_GROWTH_BOOST_PACKAGE_DESC,Produk ini hanya tersedia sekali sahaja pada permulaan. Ia adalah pakej pecutan pertumbuhan yang berkecekapan tinggi untuk pemula.
+EXPERT_PACKAGE,Pakej Pro
+EXPERT_PACKAGE_DESC,Produk ini hanya tersedia sekali pada permulaannya. Ia adalah pakej kecekapan tinggi untuk pakar.
+EXP_PACKAGE,Pek EXP
+EXP_PACKAGE_DESC,"Dapatkan 30,000 EXP."
+MORE_EXP_PACKAGE,Pek EXP V2
+MORE_EXP_PACKAGE_DESC,"Dapatkan 90,000 EXP."
+REMOVE_ADS_PACKAGE,Alih Keluar Iklan
+REMOVE_ADS_PACKAGE_DESC,Hanya boleh dibeli sekali sekiranya iklan tidak dialih keluar pada masa ini. Iklan pada penghujung perlawanan akan dialih keluar.
+PLAYER_RECRUITMENT_PACKAGE,Pakej Pengambilan Pemain
+PLAYER_RECRUITMENT_PACKAGE_DESC,Produk ini hanya tersedia sekali sahaja pada permulaan. Ia menyediakan sejumlah besar mata wang untuk merekrut pemain.
+GROWTH_BOOST_PACKAGE,Pakej Peningkatan Pertumbuhan
+GROWTH_BOOST_PACKAGE_DESC,Produk ini hanya tersedia sekali sahaja pada permulaan. Ia adalah satu pakej untuk pecutan pertumbuhan berkecekapan tinggi.
+MONTHLY_VPOINT,Pek Mata V Bulanan
+MONTHLY_VPOINT_DESC,Satu pek Mata V yang boleh dibeli sebulan sekali.
+MONTHLY_BLUEFLAME,Pek Api Biru Bulanan
+MONTHLY_BLUEFLAME_DESC,Satu pek Api Biru yang boleh dibeli sebulan sekali.
+WEEKLY_EXPPOINT,Pek EXP Mingguan
+WEEKLY_EXPPOINT_DESC,Satu pek EXP yang boleh dibeli sekali seminggu.
+WEEKLY_VPOINT,Pek Mata V Mingguan
+WEEKLY_VPOINT_DESC,Satu pek Mata V yang boleh dibeli sekali seminggu.
+WEEKLY_BLUEFLAME,Pek Api Biru Mingguan
+WEEKLY_BLUEFLAME_DESC,Satu pek Api Biru yang boleh dibeli sekali seminggu.
+COLOSSEO_BEGINNER_PACKAGE,Pakej Rookie Colosseum
+COLOSSEO_BEGINNER_PACKAGE_DESC,Produk ini hanya boleh dibeli sekali. Ia menawarkan sejumlah besar Api Biru.
+COLOSSEO_EXPERT_PACKAGE,Pakej Veteran Colosseum
+COLOSSEO_EXPERT_PACKAGE_DESC,Produk ini hanya boleh dibeli sekali. Ia menawarkan sejumlah besar Api Biru dan membuka Kad Keupayaan baharu di Colosseum. Pakej ini juga membuka kunci pilihan keempat semasa memilih Kad Keupayaan.
+COLOSSEUM_TICKET_DESC,Produk ini boleh dibeli sekali sehari. Anda boleh memasuki Colosseum sekali lagi untuk memperoleh ganjaran.
+PTL_ROYAL_PACKAGE,Pek Diraja Phantom
+상시 일반 상품,
+RED_YELLOW_BALL,Bola Merah dan Kuning
+BLUE_YELLOW_BALL,Bola Biru dan Kuning
+GREEN_PINK_BALL,Bola Hijau dan Merah Jambu
+ORANGE_BLUE_BALL,Bola Jingga dan Biru
+WHITE_BALL,Bola Putih
+BASKET_BALL,Bola keranjang
+OSIK_BALL,Bola Osik
+VALENTIA_BALL,Bola Valentia
+RED_VALENTIA_BALL,Bola Crimson Valentia
+BLACK_WHITE,Hitam dan Putih
+ORANGE_BLACK,Jingga dan Hitam
+BLUE_BLACK,Biru dan Hitam
+BLACK_GOLD,Hitam dan Emas
+PINK_BLACK,Merah Jambu dan Hitam
+BLACK_PINK,Hitam dan Merah Jambu
+00001HAIR(WHITE_PERM),Perm Putih
+00002HAIR(BLACK_PERM),Perm Hitam
+00003HAIR(SPIKY_HAIR),Rambut Cacak
+00004HAIR(BUZZCUT),Potongan Buzz
+00005HAIR(SPORTS_HAIR),Potongan Sport
+00006HAIR(LONG_DOWN_HAIR),Rambut Panjang
+00007HAIR(GRAY_BABY_PERM),Perm Bayi Kelabu
+00008HAIR(GRAY_PERM),Perm Kelabu
+00009HAIR(PUDDING_HAIR),Rambut Puding
+00010HAIR(BLACK_DOWN_HAIR),Rambut Santai Hitam
+00011HAIR(PROTRUDING_HAIR),Rambut Tajam
+00012HAIR(GRAY_UPHAIR),Rambut Cacak kelabu
+00013HAIR(ROOSTER_UPHAIR),Mohawk
+00014HAIR(GRANDPA_HAIR),Rambut Atuk
+00015HAIR(ORANGE_HAIR),Rambut Jingga
+00016HAIR(WHITE_PERM_2),Perm Putih 2
+00017HAIR(BLACK_OVER_HAIR),Sikat Hitam Seluruh
+00018HAIR(THUNDER_HAIR),Rambut Kilat
+00019HAIR(BLACK_OVER_HAIR2),Sikat Hitam Seluruh 2
+00020HAIR(VOLLEYBALL_MASK),Topeng Bola Tampar
+00021HAIR(BROWN_PERM),Perm Perang
+00022HAIR(GREEN_FAIRY_HAIR),Rambut Pari-pari Hijau
+00023HAIR(WINE_FAIRY_HAIR),Rambut Wain Pari-pari
+00024HAIR(RED_FOX_MASK),Topeng Musang Merah
+00025HAIR(BLUE_FOX_MASK),Topeng Musang Biru
+00026HAIR(CLOWN_MASK),Topeng Badut
+00027HAIR(HOONYA_HAIR),Rambut Hunya
+00028HAIR(GOLD_SHORTCUT),Potongan Pendek Emas
+00029HAIR(BROWN_BUN),Sanggul Kecil Perang
+00030HAIR(ASH_GRAY_DOWN_PERM),Down Perm Kelabu Abu
+00031HAIR(KHAKI_GREEN_SHAG_CUT),Potongan Shaggy Hijau Khaki
+00032HAIR(OSIK_HAIR),Rambut Osik
+00033HAIR(NEAT_GLASSES_HAIR),Rambut Kaca Mata Kemas
+00034HAIR(GRASSHOPPER_HAIR),Rambut Belalang
+00035HAIR(BUSHY_HAIR),Rambut Kusut Masai
+00036HAIR(COOL_CROW_HAIR),Rambut Raven Hebat
+00037HAIR(BLONDE_PONYTAIL_HAIR),Rambut Ekor Kuda Perang Keemasan
+00038HAIR(CROW_HAIR),Rambut Raven
+00039HAIR(ANGULAR_HAIR),Rambut Bersudut
+00040HAIR(SMOOTH_HAIR),Rambut Licin
+00041HAIR(YAMADERA_HAIR),Rambut Yamadera
+00042HAIR(NISHIKAWA_HAIR),Rambut Nishikawa
+00043HAIR(GLASSES_NISHIKAWA_HAIR),Cermin mata dan rambut Nishikawa
+ISABEL_HAIR(ISABEL_HAIR),Rambut Isabel
+ROBERTO_HAIR(ROBERTO_HAIR),Rambut Roberto
+NN_HAIR(NN_HAIR),Rambut NN
+ZACO1_HAIR(WHITE_SHADOW_PERM),Perm Bayang Putih
+ZACO2_HAIR(PINK_HAIR),Rambut Merah Jambu
+ZACO3_HAIR(REDBLACK_HAIR),Rambut Merah Hitam
+VIOLA_HAIR,Rambut Viola
+LEON_HAIR,Rambut Leon
+STRANGER_HAIR1(RED_THUNDER_HAIR),Rambut Crimson Lightning
+STRANGER_HAIR2(RED_STATIC_HAIR),Rambut Crimson Shock
+00000UNIFORM(BLACK_WHITE_UNIFORM),Pakaian Seragam Hitam dan Putih
+00001UNIFORM(BLUE_GRAY_UNIFORM),Pakaian Seragam Biru dan Kelabu
+00002UNIFORM(BLACK_GOLD_UNIFORM),Pakaian Seragam Hitam dan Emas
+00003UNIFORM(RED_BLACK_UNIFORM),Pakaian Seragam Merah dan Hitam
+00004UNIFORM(BLACK_YELLOW_UNIFORM),Pakaian Seragam Hitam dan Kuning
+00005UNIFORM(BLUE_HOTPINK_UNIFORM),Pakaian Seragam Biru dan Merah Jambu Terang
+00006UNIFORM(BLUE_BLACK_UNIFORM),Pakaian Seragam Biru dan Hitam
+00007UNIFORM(WHITE_MINT_UNIFORM),Pakaian Seragam Putih dan Mint
+00008UNIFORM(WHITE_BLUE_UNIFORM),Pakaian Seragam Putih dan Biru
+00009UNIFORM(WHITE_BROWN_UNIFORM),Pakaian Seragam Putih dan Coklat
+00010UNIFORM(BLACK_MINT_UNIFORM),Pakaian Seragam Hitam Mint
+00011UNIFORM(BLACK_PINK_UNIFORM),Pakaian Seragam Hitam dan Merah Jambu
+00012UNIFORM(PRO_WRESTLING_UNIFORM),Pakaian Seragam Gusti Pro
+00013UNIFORM(WHITE_PINK_UNIFORM),Pakaian Seragam Putih dan Merah Jambu
+00014UNIFORM(WHITE_PURPLE_UNIFORM),Pakaian Seragam Putih dan Ungu
+00015UNIFORM(GRAY_VINTAGE_UNIFORM),Pakaian Seragam Vintaj Kelabu
+00016UNIFORM(ORIGINAL_PURPLE_UNIFORM),Pakaian Seragam Ungu Asli
+00017UNIFORM(PLUMBER_UNIFORM),Pakaian Seragam Tukang Paip
+00018UNIFORM(ORANGE_BLACK_UNIFORM),Pakaian Seragam Jingga dan Hitam
+00019UNIFORM(BLUE_GREEN_UNIFORM),Pakaian Seragam Biru dan Hijau
+00020UNIFORM(SNOW_MINT_UNIFORM),Pakaian Seragam Snow Mint
+00021UNIFORM(WHITE_LEMON_UNIFORM),Pakaian Seragam Putih Lemon
+00022UNIFORM(GRAY_UNIQUE_UNIFORM),Pakaian Seragam Unik Kelabu
+00023UNIFORM(RED_GRAY_UNIFORM),Pakaian Seragam Merah dan Kelabu
+00024UNIFORM(OFFICE_WORKER),Pekerja Pejabat
+00025UNIFORM(TAKAYU),Takayu
+00026UNIFORM(SUPER_MUSCLE_UNIFORM),Pakaian Seragam Otot Super
+00027UNIFORM(PRECIOUS_UNIFORM),Pakaian Seragam Berharga
+00039UNIFORM(YELLOW_CARDIGAN_UNIFORM),Kardigan kuning
+00028UNIFORM(GRASSHOPPER_UNIFORM),Pakaian Seragam Belalang
+00029UNIFORM(BEE_UNIFORM),Pakaian seragam Lebah
+00030UNIFORM(PINK_TILE_UNIFORM),Pakaian Seragam Jubin Merah Jambu
+00031UNIFORM(RED_DRESS_UNIFORM),Pakaian seragam Dres Merah
+00032UNIFORM(ALL_GREEN_UNIFORM),Pakaian Seragam Hijau Sepenuhnya
+00033UNIFORM(SPARKLE_UNIFORM),Pakaian Seragam Berkilauan
+00034UNIFORM(SUMMER_CAMP_BLUE_SWIMSUIT),Pakaian Renang Biru Latihan Musim Panas
+00035UNIFORM(SUMMER_CAMP_GRAY_SWIMSUIT),Pakaian Renang Kelabu Latihan Musim Panas
+00036UNIFORM(DRESSUP_OASIS_SUNTAN),Gaya: Kulit Sawo Matang Oasis
+00037UNIFORM(DRESSUP_SUN_VOLLEYBALL_TEAM_SUNTAN),Gaya: Kulit Sawo Matang Sun Volleyball Team
+00038UNIFORM(VALENTIA_UNIFORM),Baju seragam Valentia
+ROBERTO_UNIFORM(ARMATURA_UNIFORM),Pakaian seragam Armatura
+NN_UNIFORM(NN_UNIFORM),Pakaian seragam NN
+RED_ZACO_UNIFORM,Pakaian seragam Scudo Merah
+BLUE_ZACO_UNIFORM,Pakaian seragam Lancia Biru
+YELLOW_ZACO_UNIFORM,Pakaian seragam Lembing Kuning
+GREEN_ZACO_UNIFORM,Pakaian Seragam Green Leon
+STRANGER_UNIFORM,Pakaian Seragam Crimson Valentia
+00000SHOES(NORMAL_VOLLEYBALL_SHOES),Kasut Bola Tampar Biasa
+00001SHOES(NORMAL_BASKETBALL_SHOES),Kasut Bola Keranjang Biasa
+00002SHOES(WHITE_VOLLEYBALL_SHOES),Kasut Bola Tampar Putih
+00003SHOES(WHITE_BLACK_MIXED_VOLLEYBALL_SHOES),Kasut Bola Tampar Putih dan Hitam
+00004SHOES(WHITE_BLACK_BLUE_MIXED_BASKETBALL_SHOES),"Kasut Bola Keranjang Putih, Hitam dan Biru"
+00005SHOES(BLUE_PATTERNED_VOLLEYBALL_SHOES),Kasut Bola Tampar Bercorak Biru
+00006SHOES(WHITE_RED_VOLLEYBALL_SHOES),Kasut Bola Tampar Putih dan Merah
+00007SHOES(PINK_VOLLEYBALL_SHOES),Kasut Bola Tampar Merah Jambu
+00008SHOES(ORANGE_VOLLEYBALL_SHOES),Kasut Bola Tampar Jingga
+00009SHOES(RED_LUXURY_VOLLEYBALL_SHOES),Kasut Bola Tampar Merah Mewah
+00010SHOES(BLUE_AO_SHOES),Kasut Biru
+00011SHOES(ONI_OF_AO_VOLLEYBALL_SHOES),Kasut Bola Tampar Oni Biru
+00012SHOES(WHITE_STRIPED_VOLLEYBALL_SHOES),Kasut Bola Tampar Berjalur Putih
+00013SHOES(BLACK_WHITE_SHOES),Kasut Hitam dan Putih
+00014SHOES(PENGUIN_SHOES),Kasut Penguin
+STRANGER_SHOES(SPECIAL_NISHIKAWA_SHOES),Kasut Khas Nishikawa
+RED_BLACK_STRIPE,Pakaian Seragam Garis Merah dan Hitam
+WHITE_BLUE_V,Pakaian Seragam V Putih dan Biru
+YELLOW_SKY_BLUE,Pakaian Seragam Kuning dan Biru Langit
+SKYBLUE_WHITE,Pakaian Seragam Biru Langit dan Putih
+BLACK_DANDY,Pakaian Seragam Hitam Gagah
+BLACK_LIGHT_GREEN,Pakaian Seragam Hitam dan Hijau Muda
+RED_BLACK_TIGER,Pakaian Seragam Harimau Merah dan Hitam
+HEART_PINK,Pakaian Seragam Hati Merah Jambu
+HEART_VIOLET,Pakaian Seragam Hati Ungu
+TEARD_BLACK,Pakaian Seragam Air Mata Hitam
+BLUE_DANDY,Pakaian Seragam Biru Gagah
+CYAN_GREEN,Pakaian Seragam Hijau Sian
+DUST_WHITE,Pakaian Seragam Putih Berdebu
+DUST_YELLOW,Pakaian Seragam Kuning Berdebu
+ALLSTAR,Pakaian Seragam Bintang
+PINK_PATTERN,Pakaian Seragam Corak Merah Jambu
+OFFICE,Pakaian Seragam Pejabat
+GRAY_FLOWER,Pakaian Seragam Bunga Kelabu
+MUSCLE,Pakaian Seragam Otot
+BLUE_PINK,Pakaian Seragam Biru dan Merah Jambu
+WINE_OFFICE,Pakaian Seragam Pejabat Warna Wain
+RAIN,Pakaian Seragam Hujan
+PINK_EAGLE,Pakaian Seragam Helang Merah Jambu
+YELLOW_DANDY,Pakaian Seragam Kuning Gagah
+GREEN_OFFICE,Pakaian Seragam Pejabat Hijau
+RED_SHINY,Pakaian Seragam Merah Berkilau
+MUSCLE2,Pakaian Seragam Otot 2
+MUSCLE3,Pakaian Seragam Otot 3
+MUSCLE4,Pakaian Seragam Otot 4
+RED_BLACK_GRADATION,Pakaian Seragam Gradasi Merah dan Hitam
+SHOOTING_STAR,Pakaian Seragam Bintang Jatuh
+SKYBLUE_FANGS,Pakaian Seragam Taring Biru Langit
+WHITE_PINK_FLOWER,Pakaian Seragam Bunga Putih dan Merah Jambu
+ONE_BLACK_DANDY,Pakaian Seragam Hitam Gagah Satu
+BLUE_BEAST,Pakaian Seragam Binatang Biru
+X_BLACK,Pakaian Seragam X Hitam
+THUNDER,Pakaian Seragam Guruh
+PURPLE_MOON,Pakaian Seragam Bulan Ungu
+BLACK_TIGER,Pakaian Seragam Harimau Hitam
+BEACH1,Rambut Pantai 1
+SWIMMING2,Rambut Berenang 2
+SIWOO_HAIR,Rambut Siwoo
+BLACK_UPHAIR,Rambut Hitam Naik
+BLACK_BUZZCUT,Potongan Cepak Hitam
+BLACK_CHEOLS_HAIR,Rambut Cheols Hitam
+BLACK_DOWN_HAIR,Rambut Hitam Turun
+WHITE_UPHAIR,Rambut Putih Naik
+DARK_GRAY_CURLY_HAIR,Rambut Keriting Kelabu Gelap
+PUDDING_HAIR,Rambut Puding
+NAVY_HAIR,Rambut Biru Tua
+BLACK_RUSH_HAIR,Rambut Serbuan Hitam
+BLACK_DOBOK,Dobok Hitam
+WHITE_DOBOK,Dobok Putih
+DRAGON_DOBOK,Dobok Naga Biru
+TIGER_DOBOK,Dobok Harimau Putih
+SODAM_DOBOK,Pakaian Sodam
+JUJAK_DOBOK,Dobok Phoenix Merah
+HYUNMU_DOBOK,Dobok Kura-kura Hitam
+ORANGE_MINT_SHOES,Kasut Oren Pudina
+MINT_YELLOW_SHOES,Kasut Pudina Kuning
+RED_PREMIUM_SHOES,Kasut Premium Merah
+BLUE_PREMIUM_SHOES,Kasut Premium Biru
+BLUE_DRAGON_SHOES,Kasut Naga Biru
+HONGSI_HAIR,Rambut Hongshi
+SODAM_HAIR,Rambut Sodam
+HANRA_HAIR,Rambut Hanra
+MUYEONG_HAIR,Rambut Muyeong
+RYUHYUN_HAIR,Rambut Ryuhyeon
+BAMBOO_HAT_RYUHYUN,Topi Buluh (Ryuhyeon)
+BAMBOO_HAT_SIWOO,Topi Buluh (Siwoo)
+GREEN_PRETTY_HAIR,Rambut Hiasan Hijau
+VIOLET_PRETTY_HAIR,Rambut Hiasan Ungu
+BROWN_DOWN_HAIR,Rambut Coklat Turun
+BLUE_SHARP_HAIR,Rambut Tajam Biru
+YELLOW_PERM_HAIR,Rambut Keriting Kuning
+SUNRIM_PRACTICE_BALL,Bola Sekolah Menengah Seonrim
+SUNRIM_BALL,Masterball
+WINTER_CANDY_BALL,Bola Gula-gula Musim Sejuk
+WINTER_SNOW_BALL,Bola Salji Musim Sejuk
+CHRISTMAS_BALL,Bola Krismas
+MIKE_HAIR,Rambut Mike
+DAVE_HAIR,Rambut Dave
+SARA_HAIR,Rambut Sara
+TANIA_HAIR,Rambut Tania
+CLYDE_HAIR,Rambut Clyde
+GRAY_SNOW_HAIR,Rambut Salji Kelabu
+WINTER_BLUE_HAIR,Rambut Biru Musim Sejuk
+HOLIDAY_YELLOW_HAIR,Rambut Kuning Percutian
+PARTY_CURL_HAIR,Rambut Keriting Pesta
+PARTY_RABBIT_HAIR,Rambut Arnab Pesta
+PARTY_MAID_HAIR,Rambut Pelayan Pesta
+PARTY_YELLOW_UNIFORM,Seragam Kuning Pesta
+PARTY_MAID_UNIFORM,Seragam Pelayan Pesta
+SANTA_UNIFORM,Seragam Santa
+HOLIDAY_BLACK_UNIFORM,Pakaian Seragam Hitam Percutian
+HOLIDAY_BLACK_MAN_UNIFORM,Pakaian Seragam Hitam Percutian (Lelaki)
+HOT_CHRISTMAS_UNIFORM,Pakaian Seragam Krismas Hangat
+CHRISTMAS_MAN_UNIFORM,Pakaian Seragam Krismas (Lelaki)
+WINTER_SPIKE_SHOES,Kasut Spike Musim Sejuk
+BLUE_SNOW_SHOES,Kasut Salji Biru
+CHRISTMAS_SHOES,Kasut Krismas
+BOUQUET_BALL,Bola Tampar Bouquet
+RISE_BALL,Bola Tampar Rise
+SUIT_SHOES,Kasut Formal
+STUDENT_SHOES,Kasut Sekolah
+WEDDING_ISABEL_SHOES,Kasut Gaun Perkahwinan Isabel
+TRAINING_JAEHYUN_SHOES,Kasut Latihan Jaehyun
+HIGHSCHOOL_NISHIKAWA_SHOES,Kasut Nishikawa Zaman Sekolah
+HIGHSCHOOL_UNIFORM_M,Pakaian Seragam Sekolah Menengah (L)
+HIGHSCHOOL_UNIFORM_W,Pakaian Seragam Sekolah Menengah (P)
+TRAINING_UNIFORM_M,Pakaian Latihan (L)
+TRAINING_UNIFORM_W,Pakaian Latihan (P)
+WEDDING_SUIT_M,Pakaian Perkahwinan (L)
+WEDDING_SUIT_W,Pakaian Perkahwinan (P)
+HIGHSCOOL_NISHIKAWA_HAIR,Rambut Nishikawa Zaman Sekolah
+TRAINING_JAEHYUN_HAIR,Rambut Latihan Jaehyun
+WEDDING_ISABEL_HAIR,Rambut Perkahwinan Isabel
+7TH_SIWOO_HAIR,Rambut Siwoo Ulang Tahun ke-7
+7TH_SIWOO_UNIFORM,Uniform Siwoo Ulang Tahun ke-7
+7TH_DAHEE_HAIR,Rambut Dahee Ulang Tahun ke-7
+7TH_DAHEE_UNIFORM,Uniform Dahee Ulang Tahun ke-7
+7TH_DAHEE_HAIR_UNIFORM,Set Rambut & Uniform Dahee Ulang Tahun ke-7
+NERO_ASPIDE_HAIR,Rambut Fedora Nero Aspide
+NERO_ASPIDE_UNIFORM,Nero Aspide
+NERO_ASPIDE_UNIFORM/DES,"Hanya pengawal peribadi Raul yang tergolong dalam 'Mia Famiglia (Keluarga Saya)' layak memakai sut ini. Raul sendiri membawa mereka ke tukang jahit untuk membuat sut belang hitam khas dan tatu ular berbisa sebagai simbol mereka. #「Saat kau pakai sut ini, kau saudara aku.」"
+DAMA_DE_LA_NOTTE_HAIR,Rambut Dama della Notte
+DAMA_DE_LA_NOTTE_UNIFORM,Dama de la Notte
+DAMA_DE_LA_NOTTE_UNIFORM/DES,"Kod pakaian untuk ahli utama <Majlis 15> yang dijemput ke majlis oleh Carla. Diselubungi bulu merah dan gaun hitam, mereka bukan tetamu biasa—mereka adalah penguasa bayangan media, kehakiman, dan kewangan. #「Buona sera. Kami adalah undang-undang, falsafah dan suara tempat ini.」"
+RESEARCHER_HAIR,Gogal Penyelidik
+RESEARCHER_HAIR/DES,Gogal rakan penyelidik Ayeon. Dia akan menutup muka bila malu berdepan Ayeon.
+RESEARCHER_UNIFORM,Jubah Penyelidik
+RESEARCHER_UNIFORM/DES,Jubah penyelidik rakan Ayeon. Ternoda akibat menahan perasaan dan hanya fokus eksperimen.
+BREAD_HAIR,Topeng Roti
+BREAD_HAIR/DES,Seseorang memakai topeng ini dan berkeliling sekolah untuk membuat Hanra tersenyum dan mempromosikan kedai roti.
+BREAD_UNIFORM,Uniform Kedai Roti
+BREAD_UNIFORM/DES,Uniform rasmi Kedai Roti Seonrim. Sulaman comel ini direka sendiri oleh Hanra.
+PINATA_BALL,Bola Piñata
+PINATA_BALL/DES,Ryuhyeon masih menyimpan piñata dari Festival Naga Biru pertamanya saat dia memegang tangan gurunya. Bola ini diinspirasikan darinya.
+FESTIVAL_BALLOON_BALL,Bola Tipu
+FESTIVAL_BALLOON_BALL/DES,"Bola Festival Naga Biru yang dibuat Hongshi untuk mengusik Ryuhyeon. Nampak seperti belon, tapi sebenarnya berat!"
+RAINY_HIGHSCHOOL,Sekolah Menengah Hujan
+RAINY_HIGHSCHOOL_DESC,"Bau asfalt basah, papan orang hilang, bisik-bisik para pelajar. Memori hari aku putuskan berhenti sekolah masih jelas terbayang."
+PHANTOM_STADIUM_ENTRANCE,Pintu Masuk Stadium Liga Phantom
+PHANTOM_STADIUM_ENTRANCE_DESC,"Pernah suatu ketika, di sini ada seorang kingmaker yang bersama superstar terhebat pada zaman kegemilangannya."
+FESTIVAL_CLASSROOM,Bilik darjah penuh suasana perayaan
+FESTIVAL_CLASSROOM_DESC,"Pelajar Maktab Seonrim memang memberi tumpuan menghias bilik darjah. Mereka biasanya tak ikut arus trendy, jadi risau ia nampak kampungan. “Hanra, bukan terlalu comel ke?”"
+VOLLEYBALL_CLUBROOM,Bilik Kelab Bola Tampar Terra High
+VOLLEYBALL_CLUBROOM_DESC,"Kelab bola tampar ini dahulu sebuah pasukan berkuasa di rantau ini, tetapi merosot selepas generasi emas tamat. Malah kini, coretan pelajar senior masih ada di sudut dinding. “Kami akan tunggu kamu pecahkan rekod kami.”"
+BGM_AZURE_DRAGON_FESTIVAL_DESC,"Tema utama acara Festival Naga Biru.#「Dahulu kala, seorang pemuda kononnya bertemu naga biru di sini.」"
+BGM_MAIN_LOBBY_DESC,Tema lobi utama The Spike Cross
+BGM_RYUHYEON_DAYDREAM_DESC,BAB 07. Imbas Kembali#「Saya pasti akan meraih pengiktirafan awak.」
+BGM_RYUHYEON_VS_SIWOO_DESC,BAB 07. Pertarungan bos Ryuhyeon.#「Saya akan melindungi masa depan Seonrim.」
+BGM_THIS_IS_SUNRIM_DESC,BAB 07. Tema utama Seonrim High.#「Awak tahu anda telah menunggu ini—untuk memberikan segala-galanya dalam perlawanan bola tampar.」
+BGM_CLASH_OF_FANTOMS_DESC,BAB 09. Muzik Perlawanan Utama.#「Semua orang di sini pertaruhkan nyawa demi bola tampar.」
+SODAM_UNIFORM,Uniform Sodam
+HARI_UNIFORM,Seragam Hari
+HARI_UNIFORM/DES,Sulaman mewah dan reka bentuk luar biasa ini semuanya hasil kerja Carla. Pendapat Hari langsung tidak diambil kira.
+CROW_UNIFORM,Seragam Crow
+CROW_UNIFORM/DES,"Sebelum perlawanan, Crow akan balut bahunya ikut urutan tertentu. Kalau tersasar sikit pun, prestasinya akan terganggu."
+LUCAS_UNIFORM,Seragam Lucas
+LUCAS_UNIFORM/DES,"Suatu ketika, ada seorang superstar yang membakar semangat peminat. Spikenya bersinar seperti matahari."
+ZERO_UNIFORM,Seragam Zero
+ZERO_UNIFORM/DES,"Sejak tinggalkan Liga Phantom, Sanghyeon tidak pernah pakai seragam ini lagi. Tapi ia masih tersimpan kemas di almari miliknya."
+SUN_BALL,High Noon
+SUN_BALL/DES,"Bola kenangan yang dicipta untuk superstar terhebat dalam Liga Phantom. Carla telah melarang penggunaannya dan ia tidak lagi digunakan di gelanggang, tetapi ia tetap bola yang paling digemari peminat."
+MOON_BALL,Bulan Purnama
+MOON_BALL/DES,"Dalam Liga Phantom, terdapat pasangan lagenda yang disayangi peminat. Bola ini satu-satunya dicipta oleh peminat untuk memperingati pengumpan genius dari pasukan itu."
+BGM_SUPERSTAR_CHALLANGE1_DESC,BAB 04. Pertarungan bos Sanghyeon.#「Bolehkah anda tekan butang Like sebelum anda menonton permainan?」
+BGM_RECONCILIATION_DESC,"BAB 05. Episod 08.#「Tetapi apabila saya lihat The Spike pada hari itu, ia mengubah hidup saya.」"
+BGM_TRIP_DESC,BAB 02. Episod 01.#「Ini lautan!!!」
+BGM_THE_GEMSTONE_DESC,BAB 06. Episod 04.#「Adakah bakat semula jadi perkara yang paling penting untuk menjadi pemain profesional?」
+BGM_WINTER_WONDERLAND_DESC,BAB 08. Episod 01#「Jemputan daripada Kem Rockwell」
+BGM_SARAH_SHOW_DESC,BAB 08. Epilog.#「Valentia Spike vs Ashville Weasels」
+BGM_EYE_OF_THE_DAY_DESC,BAB 10. Lagu Tema Silver Star#「Ratu」
+BGM_BLUEBELL_COLOSSEUM_DESC,"BAB 10. Lagu Tema Bluebell.#「Jika anda menunjukkan Spike yang hebat, saya sanggup lawan setiap hari!」"
+BGM_TAKE_ME_HIGHER_DESC,BAB 10. Pertarungan bos Lucas.#「Lucas vs Raul」
+BGM_ROAD_TO_SUPERSTAR_DESC,BAB 10.#「Rakan sepasukan saya pasti akan menjadi superstar semua orang.」
+BGM_SUMMER_MEMORIES_DESC,"Lagu Tema Utama Acara Summer Memories#「Pada saat seperti ini, cukup nikmati bola tampar pantai sepenuhnya.」"
+BGM_MAIN_TITLE_DESC,The Spike Cross Mian Title #「Saya akan buktikan awak betul.」
+SUMMER_BEACH,Pantai Musim Panas
+SUMMER_BEACH_DESC,"Tempat kenangan Lisia. Penat bersiap menjadi pro, Lisia melihat Oasis bersinar di sini dan jatuh cinta pada bola tampar pantai."
+SEONRIM_HIGH,Seonrim
+SEONRIM_HIGH_DESC,"Pada hari Ryuhyeon dipelihara oleh ayahnya, dia mendaki jalan gunung yang curam sampai kehabisan nafas, lalu terlihat pintu gerbang tinggi dengan papan bertulis “Seonrim”. Ayahnya berdiri di bawahnya dengan senyuman lembut."
+REGIONAL_COMPETITION_STADIUM,Tempat Duduk Penonton
+REGIONAL_COMPETITION_STADIUM_DESC,"Beberapa dekad lalu, ayah Dahee pernah beraksi di gelanggang ini. Pada hari itu, seorang budak lelaki duduk di tempat penonton sambil minum susu coklat dan matanya bersinar."
+NIGHT_STADIUM_FRONT,Koridor Luar (Malam)
+NIGHT_STADIUM_FRONT_DESC,"Selepas Superstar Challenge tamat, Sanghyeon berdiri di sini lama dalam diam. Liga Phantom suatu ketika dahulu penuh dengan sorakan. Dia cipta cabaran itu kerana merindui zaman gemilang tersebut—"
+SUPERSTAR,Superstar
+SUPERSTAR_DESC,"Mimpi ngeri yang berulang. Selepas setiap siaran langsung, memori silam kembali muncul di kelopak mata yang terpejam."
+DAEJI_HIGH_FRONT_PARK,Taman Depan Terra High
+DAEJI_HIGH_FRONT_PARK_DESC,Laluan pejalan kaki berhampiran Terra High. Makan tengah hari di sini rasa lebih sedap.
+CARLA_OFFICE,Pejabat Carla
+CARLA_OFFICE_DESC,Pejabat tersembunyi di bahagian paling dalam bawah tanah Liga Phantom. Di sebalik akuarium besar ada ruang rahsia yang tak boleh dimasuki sesiapa.
+KINGMAKER_STADIUM,Stadium Liga Phantom (Lama)
+KINGMAKER_STADIUM_DESC,Liga yang dibina atas semangat semata-mata oleh pemain yang gagal ke tahap profesional. Semuanya bermula dari fasiliti bawah tanah terbengkalai yang dijadikan gelanggang bola tampar.
+BGM_MEET_OASIS_DESC,CHAPTER 02. Episod 06#「Lebih hebat menghadapinya dengan keyakinan daripada ragu-ragu!」
+BGM_MEET_LISIA_DESC,CHAPTER 02. Episod 03_Kemenangan Perlawanan#「Impian saya ialah bermain di sisinya!」
+SUMMER_MEMORIES_BEACH,Pantai
+SUMMER_MEMORIES_BEACH_DESC,"Pantai tempat berlangsungnya Kejohanan Bola Tampar Pantai RISE. Pada hari kemenangan itu, Sara berjalan di tepi pantai hingga senja sambil teringat pada Jenny."
+SUMMER_MEMORIES_SUNSETBEACH,Laut Senja
+SUMMER_MEMORIES_SUNSETBEACH_DESC,"Pantai tempat berlangsungnya Percikan Musim Panas Camp. Sambil mendengar bunyi api unggun, Siwoo dan Jaehyun berjanji untuk bertemu lagi di kejohanan kebangsaan."
+STRAWHAT_JENNY_UNIFORM,Pakaian Renang Jenny
+STRAWHAT_JENNY_UNIFORM/DES,“Topi jerami ini aku titipkan padamu. Ini topi kesayanganku. Nanti kembalikan ya.” — mimpi kakak berkata begitu.
+WATERSPLASH_SARA_UNIFORM,Pakaian Renang Sara
+WATERSPLASH_SARA_UNIFORM/DES,"Pakaian renang yang dibeli sebelum kejohanan kerana risau akan kamera. Selepas memakainya, mukanya terasa panas kerana pakaian itu terlalu menonjol."
+SURFER_NN_UNIFORM,Pakaian Renang NN
+SURFER_NN_UNIFORM/DES,"Dia kadangkala ke laut untuk meluncur ombak. Apabila dikejar pemiutang, dia juga melarikan diri dengan papan luncur."
+DIVER_DAVE_UNIFORM,Pakaian Renang Dave
+DIVER_DAVE_UNIFORM/DES,Setiap kali menyelam pasti naik tuna. Kadang-kadang jumpa pula peti harta di dasar laut. Sebenarnya sedalam apa dia menyelam?
+BEACH_BALL,Bola Pantai
+BEACH_BALL/DES,"Bola yang digunakan dalam Kejohanan Bola Tampar Pantai RISE. Ia diperkenalkan buat kali pertama dalam majalah RISE, 『The Cross』. Dua tahun kemudian, majalah yang sama mengumumkan Sara sebagai salah seorang daripada lima perejam terhebat dunia."
+WATER_MELON_BEACH_BALL,Bola Pantai Tembikai
+WATER_MELON_BEACH_BALL/DES,"Ini jelas bola tampar… tapi bila diketuk, bunyinya macam tembikai masak."
+SEAWEED_BALL,Bola yang terjerat rumpai laut
+SEAWEED_BALL/DES,"Dave terjun ke laut untuk mengambil bola yang hilang oleh anak-anak. Entah kenapa, ia kelihatan agak menyeramkan."
+REYS,
+PRODUCT_SKIN_NISHIKAWA_HIGHSCHOOL,Sekolah Menengah Nishikawa
+PRODUCT_SKIN_ISABEL_WEDDING,Gaun Pengantin Isabel
+PRODUCT_SKIN_JAEHYEON_TRAINING,Latihan Jaehyun
+BDF,
+PRODUCT_SKIN_RYUHYUN_CHIEF_DISCIPLE,Murid Utama Ryuhyeon
+PRODUCT_SKIN_HANRA_YUMMI,Cef Pastri Hanra
+PRODUCT_SKIN_AYEONSTEIN,Ayeonstein
+SMM,
+SMM_NORMAL_PASS,Pas Normal
+SMM_NORMAL_PASS_DESC,Dapatkan pelbagai pakaian seragam dan mata wang melalui Pas Normal.
+SMM_SAND_PASS,Pas Sand
+SMM_SAND_PASS_DESC,"Buka Pas Sand untuk mendapatkan tambahan 3 hari kehadiran acara, pakaian seragam eksklusif dan banyak mata wang."
+SMM_TROPICAL_PASS,Pas Tropikal
+SMM_TROPICAL_PASS_DESC,"Buka Pas Tropikal untuk dapatkan tambahan 1 hari kehadiran acara, pakaian seragam eksklusif dan mata wang dalam jumlah yang banyak. Hanya boleh dibeli selepas membeli Pas Sand."
+SMM_SAND_TROPICAL_PASS,Pas Sand + Pas Tropikal
+SMM_SAND_TROPICAL_PASS_DESC,Pakej yang membuka kedua-dua Pas Sand dan Pas Tropikal sekaligus.
+SMM_BEGINNER_PACKAGE,Pakej Pemula Kenangan Musim Panas
+SMM_BEGINNER_PACKAGE_DESC,Pakej pemula bernilai tinggi yang hanya boleh dibeli sekali.
+SMM_PREMIUM_PACKAGE,Pakej Premium
+SMM_PREMIUM_PACKAGE_DESC,"Dapatkan Syiling Musim Panas x1,000 & Mata V x1,200 dengan pakej ini."
+SMM_ROYAL_PACKAGE,Pakej Diraja
+SMM_ROYAL_PACKAGE_DESC,"Dapatkan Syiling Musim Panas x1,200 & Mata V x2,500 dengan pakej ini."
+SMM_EXTREME_ROYAL_PACKAGE,Pakej Diraja Ekstrem
+SMM_EXTREME_ROYAL_PACKAGE_DESC,"Dapatkan Syiling Musim Panas x2,650 & Mata V x5,100 dengan pakej ini."
+SMM_PACKAGE_1,Pakej Kenangan Musim Panas I
+SMM_PACKAGE_1_DESC,Dapatkan Syiling Musim Panas x270 dengan pakej bernilai ini
+SMM_PACKAGE_2,Pakej Kenangan Musim Panas II
+SMM_PACKAGE_2_DESC,Dapatkan Syiling Musim Panas x570 dengan pakej bernilai ini
+SMM_PACKAGE_3,Pakej Kenangan Musim Panas III
+SMM_PACKAGE_3_DESC,Dapatkan Syiling Musim Panas x1875 dengan pakej bernilai ini
+SMM_GROWTH_PACKAGE,Pakej Pertumbuhan
+SMM_GROWTH_PACKAGE_DESC,Pakej yang memberikan Kredit dan Mata EXP dalam jumlah yang banyak.
+HLWN 11/3~,
+PRODUCT_SKIN_SARA_WATERSPLASH,Sara Percikan Air
+PRODUCT_SKIN_JENNY_STRAWHAT,Jenny Topi Jerami
+PRODUCT_SKIN_DAVE_DIVER,Dave Penyelam
+PRODUCT_SKIN_NN_SURFER,NN Pelayar Ombak
+PRODUCT_SKIN_VAMPIRE_SOHEE,Sohee Si Vampir
+HLWN2025_NORMAL_PASS,Pas Normal
+HLWN2025_NORMAL_PASS_DESC,Dapatkan pelbagai item dan mata wang melalui Pas Normal.
+HLWN2025_SURPRISE_SOHEE_PASS,Pas Kejutan Sohee
+HLWN2025_SURPRISE_SOHEE_PASS_DESC,"Buka Pas Kejutan Sohee untuk dapatkan tambahan 3 hari kehadiran acara, skin Sohee Vampire, dan mata wang dalam jumlah yang banyak."
+BSP,
+RAUL_ROOM,Bilik Raul
+RAUL_ROOM_DESC,"Dia bangun dari tidur panjang. Sakit kepala yang dikenalinya menikam dengan tajam. Menatap wajahnya di dalam wain, dia meneguk perlahan. Dendam lama itu dingin dan pahit seperti minuman itu."
+BGM_AGAINST_PHANTOM_LEAGUE_DESC,"CHAPTER 11. #「Kalau sesuatu berlaku, mungkin awak takkan dapat bermain bola tampar lagi.」"
+BGM_REUNITED_DESC,CHAPTER 11. #「Sudah lima tahun berlalu.」
+BGM_TWO_QUEENS_DESC,"CHAPTER 11. #「Kali ini, saya akan tunjukkan kepada awak betapa jauh perkembangan saya.」"
+BGM_UNDERGROUND_JUNGLE_DESC,CHAPTER 11. #「Tiada apa yang menghalang saya lagi. Tepi.」
+BGM_SIWOO_AND_PHANTOM_LEAGUE_DESC,CHAPTER 11. #「Penyerang Big Five bukan sahaja mahir.」
+NEON_SIGN_BALL,Bola Neon
+NEON_SIGN_BALL/DES,"Penonton suka, tapi pemain sengsara. Di bilik persalinan selalu ada yang mengeluh, “Boleh tak bagi bola yang biasa saja…?”"
+VENOM_BALL,Bola Venom
+VENOM_BALL/DES,Bola rasmi Phantom League. Ia dibuat oleh pereka terkenal atas permintaan peribadi Carla.
+CLAIRE_UNIFORM,Baju Seragam Claire
+CLAIRE_UNIFORM/DES,"Selesai perlawanan, para peminat berkerumun membawa baju ini menuju Claire seperti awan. Pada hari kemenangan, katanya dia akan menandatangani dengan gembira."
+RAUL_SUIT,Sut Raul
+RAUL_SUIT/DES,Sut Raul yang dibuat daripada fabrik terbaik ini memancarkan tona yang lebih dalam dan matang di bawah sinar matahari. Tali lehernya dipilih sendiri oleh Carla.
+SIWOO_WHITE_STORMS_UNIFORM,Pakaian Seragam White Storms Siwoo
+SIWOO_WHITE_STORMS_UNIFORM/DES,"Seragam yang dipakai Siwoo di Phantom League. Pada hari pendaftarannya sebagai pemain, Carla menyerahkannya seolah-olah dia sudah tahu sejak awal bahawa saat ini akan datang."
+PL_STADIUM,Stadium Phantom League
+PL_STADIUM_DESC,「Pertandingan All-Star Phantom League bermula!」 Lampu megah berkelip dan para penonton bersorak teruja. Anda juga berdiri serta-merta dan menjerit dari tempat duduk.
+SIF_HAIR,Rambut Sif
+SIF_UNIFORM,Uniform Sif
+SIF_SHOES,Kasut Sif
+CLAIRE_HAIR,Rambut Claire
+CLAIRE_SHOES,Kasut Claire
+RAUL_HAIR,Rambut Raul
+RAUL_UNIFORM,Uniform Raul
+RAUL_SHOES,Kasut Raul
+LEAGUE_UNIFORM_1,Phantom League Merah
+LEAGUE_UNIFORM_2,Phantom League Biru
+LEAGUE_UNIFORM_3,Phantom League Merah Putih
+BSP_REWARD_ADD_VOUCHER,Tiket Sumbangan Tambahan
+BSP_NORMAL_PASS,Pas Normal
+BSP_NORMAL_PASS_DESC,Dapatkan pelbagai pakaian seragam dan mata wang melalui Pas Normal.
+BSP_PREMIUM_PASS,Pas Premium
+BSP_PREMIUM_PASS_DESC,"Buka Pas Premium untuk dapatkan tambahan 3 hari kehadiran acara, pakaian seragam eksklusif, dan mata wang dalam jumlah yang banyak."
+BSP_ROYAL_PASS,Pas Royal
+BSP_ROYAL_PASS_DESC,Buka Pas Royal untuk dapatkan tambahan 1 hari kehadiran acara dan mata wang dalam jumlah yang banyak. Hanya boleh dibeli selepas membeli Pas Premium.
+BSP_PREMIUM_ROYAL_PASS,Pas Premium + Pas Royal
+BSP_PREMIUM_ROYAL_PASS_DESC,Pakej yang membuka kedua-dua Pas Premium dan Pas Royal sekaligus.
+BSP_BEGINNER_PACKAGE,Pakej Permulaan Beast
+BSP_BEGINNER_PACKAGE_DESC,Pakej pemula bernilai tinggi yang hanya boleh dibeli sekali.
+BSP_PREMIUM_PACKAGE,Pakej Premium
+BSP_PREMIUM_PACKAGE_DESC,"Dapatkan Syiling Beast x1,200 & Tiket Rekrut Pemain Beast Spiker x10 dengan pakej ini."
+BSP_ROYAL_PACKAGE,Pakej Diraja
+BSP_ROYAL_PACKAGE_DESC,"Dapatkan Syiling Beast x1,800 & Tiket Rekrut Pemain Beast Spiker x20 dengan pakej ini."
+BSP_EXTREME_ROYAL_PACKAGE,Pakej Diraja Ekstrem
+BSP_EXTREME_ROYAL_PACKAGE_DESC,"Dapatkan Syiling Beast x3,600 & Tiket Rekrut Pemain Beast Spiker x40 dengan pakej ini."
+BSP_PACKAGE_1,Pakej Pemangsa I
+BSP_PACKAGE_1_DESC,Dapatkan Syiling Beast x180 dengan pakej ini.
+BSP_PACKAGE_2,Pakej Pemangsa II
+BSP_PACKAGE_2_DESC,Dapatkan Syiling Beast x380 dengan pakej ini.
+BSP_PACKAGE_3,Pakej Pemangsa III
+BSP_PACKAGE_3_DESC,"Dapatkan Syiling Beast x1,250 dengan pakej ini."
+BSP_GROWTH_PACKAGE,Pakej Pertumbuhan
+BSP_GROWTH_PACKAGE_DESC,Pakej yang memberikan Kredit dan Mata EXP dalam jumlah yang banyak.
+BSP_MINI_PACKAGE,Pakej Mini Pemangsa
+BSP_MINI_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Beast Spiker x5 dengan pakej ini.
+XMAS 12/10~,
+XMAS2025_NORMAL_PASS,Pas Normal
+XMAS2025_NORMAL_PASS_DESC,Dapatkan pelbagai item dan mata wang melalui Pas Normal.
+XMAS2025_PREMIUM_PASS,Pas Rudolph Lisia
+XMAS2025_PREMIUM_PASS_DESC,"Membuka Pas Rudolph Lisia, menambah 3 hari kehadiran acara dan memberi skin Rudolph Lisia serta banyak mata wang."
+XMAS2025_PREMIUM_PASS_DESC_2,Buka Pas Rudolph Lisia untuk dapatkan banyak mata wang
+SNOWY_STREET,Jalan Bersalji
+SNOWY_STREET_DESC,"Malam yang sunyi. Mungkin malam ini, impian seseorang akan menjadi kenyataan."
+JINGLE_BELL_BALL,Bola Jingle Bell
+JINGLE_BELL_BALL/DES,Jring! Bola khas yang membawa suasana hujung tahun. Memang sesuai untuk musim ini.
+STAR_SNOW_BALL,Bola Salji Bintang
+STAR_SNOW_BALL/DES,Wira hari ini… mungkin bola ini?
+BGM_CALRA_TRAP_DESC,BAB 9. #「Ruginya kehilangan bakat macam tu.」
+BGM_ALICE_DESC,BAB 5. #「Saya akan tunjukkan rejaman yang mengubah hidup awak..」
+BGM_MENACE2PLAY_DESC,Lagu Tema Utama Acara Red Eyes#「Red eyes」
+BGM_JENNY_LAST_STAND_DESC,BAB 9. #「Macam api disapu angin.」
+PHANTOM_COURT_ON,Gelanggang Phantom League
+PHANTOM_COURT_ON_DESC,Gelanggang bawah tanah yang kewujudannya tidak diketahui orang awam. Hanya ahli yang diiktiraf layak menyimpan rahsia dibenarkan menonton perlawanan.
+PRODUCT_SKIN_LISIA_RUDOLPH,Rudolph Lisia
+Tiger Eyes 01/16~,
+PRODUCT_SKIN_NISHIKAWA_BLACK_THUNDER,Black Thunder Nishikawa
+PRODUCT_SKIN_HONGSI_MAID,Maid Hongshi
+RED_HOWL_CUT,Potongan Howl Merah
+RED_HOWL_CUT/DES,Gaya rambut penuh semangat. Memakainya sahaja terasa seperti membangkitkan semangat untuk bermain bola tampar.
+OBSIDIAN_ROUGH,Obsidian Kasar
+OBSIDIAN_ROUGH/DES,"Gaya Rambut Bersepah. Selepas bermain lama, ia basah kuyup dengan peluh. Tapi, rasanya lebih seronok daripada biasa!"
+BASIC_STRIKE_CUT,Potongan Serangan Asas
+BASIC_STRIKE_CUT/DES,"Gaya Rambut Bergaya. Entah kenapa, ia membuat anda lebih peka dan deria terasa lebih tajam."
+BRAIDED_HAIR,Rambut Tocang
+BRAIDED_HAIR/DES,Tocang bulat ini melantun setiap kali anda melompat tinggi. Melihatnya sahaja sudah menceriakan hati.
+BLUE_WHALE_UNIFORM,Pakaian Seragam Paus Biru
+BLUE_WHALE_UNIFORM/DES,"Paus Biru. Pemain tinggi, kuasa yang kuat, dan ace yang cemerlang. Pasukan yang ringkas tetapi kuat, menekan pertahanan lawan dengan gaya klasik."
+BLACK_BEAR_UNIFORM,Pakaian Seragam Beruang Hitam
+BLACK_BEAR_UNIFORM/DES,Beruang Hitam. Mereka menggunakan spike serangan pantas sepantas kilat yang menyasar end line. Pasukan yang memusnahkan pertahanan lawan dengan serangan masa yang sukar dijangka daripada wing spiker.
+GREEN_HUNTER_UNIFORM,Pakaian Seragam Pemburu Hijau
+GREEN_HUNTER_UNIFORM/DES,"Pemburu Hijau. Mereka paling tahu bahawa servis yang kuat mampu mengubah rentak perlawanan. Dengan latihan servis yang intensif setiap sesi, mereka menyerang dengan yakin walaupun bola jauh dari jaring."
+TEAHOUSE,Colosseum Teahouse
+TEAHOUSE_DESC,"Kedai teh yang menjual teh wangi dan manisan. Ia dibuka oleh seorang atlet yang pernah terkenal di seluruh dunia. Hingga kini, setiap kali tiba Tahun Baharu, rakan sepasukan lamanya yang paling rapat dengannya akan datang ke sini."
+BGM_TIGER_EYES,"Lagu Tema Utama Acara Tiger Eyes#「Selamat datang, nak!」"
+BLACK_NISHI_BALL,Bola Nishikawa Hitam
+BLACK_NISHI_BALL/DES,"Malam ketika semua lampu di gelanggang telah padam. Entah bila, bola ini sudah bercampur di antara bola-bola tampar yang lain. Dan dalam sekelip mata, kilat hitam menyambar sambil melilit bola itu, seolah-olah ia terjaga daripada tidur."
+PEARL_BALL,Bola Mutiara
+PEARL_BALL/DES,"Kraf tangan yang dibuat oleh tukang mahir, satu demi satu. Terlalu indah sampai buat anda mahu menyimpannya sebagai hiasan."
+EV2601_NORMAL_PASS,Pas Normal
+EV2601_NORMAL_PASS_DESC,Dapatkan pelbagai pakaian seragam dan mata wang melalui Pas Normal.
+EV2601_PREMIUM_PASS,Pas Premium
+EV2601_PREMIUM_PASS_DESC,"Buka Pas Premium untuk dapatkan tambahan 3 hari kehadiran acara, pakaian seragam eksklusif, dan mata wang dalam jumlah yang banyak."
+EV2601_ROYAL_PASS,Pas Royal
+EV2601_ROYAL_PASS_DESC,Buka Pas Royal untuk dapatkan tambahan 1 hari kehadiran acara dan mata wang dalam jumlah yang banyak. Hanya boleh dibeli selepas membeli Pas Premium.
+EV2601_PREMIUM_AND_ROYAL_PASS,Pas Premium + Pas Royal
+EV2601_PREMIUM_AND_ROYAL_PASS_DESC,Pakej yang membuka kedua-dua Pas Premium dan Pas Royal sekaligus.
+EV2601_GROWTH_PACKAGE,Pakej Pertumbuhan
+EV2601_GROWTH_PACKAGE_DESC,Pakej yang memberikan Kredit dan Mata EXP dalam jumlah yang banyak.
+EV2601_PREMIUM_PACKAGE,Pakej Premium
+EV2601_PREMIUM_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x10 dan banyak mata wang dengan pakej ini.
+EV2601_ROYAL_PACKAGE,Pakej Diraja
+EV2601_ROYAL_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x20 dan banyak mata wang dengan pakej ini.
+EV2601_EXTREME_ROYAL_PACKAGE,Pakej Diraja Ekstrem
+EV2601_EXTREME_ROYAL_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x40 dan mata wang dalam jumlah yang banyak dengan pakej ini.
+EV2601_PACKAGE_1,Pakej Tiger Eyes I
+EV2601_PACKAGE_1_DESC,Dapatkan Syiling Tiger x300 dan Mata V x360 dengan pakej ini.
+EV2601_PACKAGE_2,Pakej Tiger Eyes II
+EV2601_PACKAGE_2_DESC,"Dapatkan Syiling Tiger x860 dan Mata V x1,270 dengan pakej ini."
+EV2601_MINI_TIGER_PACKAGE,Pakej Baby Tiger
+EV2601_MINI_TIGER_PACKAGE_DESC,"Dapatkan Tiket Rekrut Pemain Pick-Up x10, Mata V x400 serta banyak Kredit dan EXP dengan pakej ini."
+RYUHYUN_HAIR,Rambut Ryuhyeon
+HANRA_UNIFORM,Seragam Hanra
+MUYOUNG_UNIFORM,Seragam Muyeong
+REY_BLUE_HAIR,Rambut Sengit Biru
+REY_PURPLE_HAIR,Rambut Sengit Coklat
+REY_BROWN_HAIR,Rambut Sengit Ungu
+REY_SKY_HAIR,Rambut Sengit Biru Langit
+REY_YELLOW_HAIR,Rambut Sengit Kuning
+SIWOO_WHITE_STORMS_HAIR,Rambut White Storms
+SIWOO_WHITE_STORMS_SHOES,Kasut White Storms
+RED_HORSE_HAIR,Gaya Rambut Kuda Merah 2026
+RED_HORSE_HAIR/DES,"Memakai topeng ini membuatkan kaki terasa lebih pantas. Sudah tentu, itu cuma bayangan sahaja."
+UNICORN_HAIR,Gaya Rambut Unicorn 2026
+UNICORN_HAIR/DES,"Memakai topeng ini membuatkan anda terasa lebih pintar. Sudah tentu, itu cuma bayangan sahaja."
+2026_LUCKY_BAG,2026 Bola Kantung Tuah
+2026_LUCKY_BAG/DES,"Apabila Ryuhyeon melarang bermain bola tampar, Hanra membuatnya sendiri untuk memujuk Sodam yang hampir menangis."
+윈드 스파이커 03/26~,
+BLOND_HAIR,Rambut emas segar
+BLOND_HAIR/DES,Gaya yang sederhana namun menarik perhatian.
+PINK_CURL_HAIR,Rambut keriting pink yang manis
+PINK_CURL_HAIR/DES,"Melompat, berguling atau terjatuh pun tiada masalah. Semburan rambut yang banyak memastikan gaya ini kekal kemas."
+BROWN_BUN_HAIR,Sanggul rapi
+BROWN_BUN_HAIR/DES,Anak rambut yang terkeluar sedikit menjadi tarikan utamanya.
+ASHVILLE_WISLES_UNIFORM,Seragam Ashville Weasels
+ASHVILLE_WISLES_UNIFORM/DES,"Pakaian seragam pasukan ternama LOV. Ashville Weasels terkenal dengan sistem pembangunan pemain muda yang baik. Ramai pemain mudanya berkembang menjadi pemain utama, menjadikan kerjasama pasukan mereka sangat erat."
+BLACK_LIONS_UNIFORM,Seragam Black Lions
+BLACK_LIONS_UNIFORM/DES,"Black Lions secara tradisinya memakai pakaian seragam gabungan hitam, putih dan emas. Pakaian ini digemari lelaki dan wanita."
+IRIS_UNIFORM,Seragam Iris
+IRIS_UNIFORM/DES,"Iris pernah memakai pelbagai pakaian seragam, tetapi inilah yang paling disayanginya."
+YURI_UNIFORM,Seragam Yuri
+YURI_UNIFORM/DES,"Nombor jersinya kini 11, tetapi dia berhasrat untuk memiliki nombor jersi Victor suatu hari nanti."
+WIND_SPIKER_UNIFROM,Pakaian Seragam Sara (Perejam Sayap)
+WIND_SPIKER_UNIFROM/DES,Pakaian seragam Ashville Weasels yang paling popular. Ada peminat mengatakan mereka terasa lebih pantas apabila memakainya.
+WIND_BALL,Bola Wind Spiral
+WIND_BALL/DES,"Bola tampar yang diselubungi pusaran angin. Jika anda mampu mengendalikannya dengan bebas, peminat Ashville Weasels akan mengiktiraf anda."
+BLUE_RIDGE_ARENA,Arena Blue Ridge
+BLUE_RIDGE_ARENA/DESC,Gelanggang tuan rumah Ashville Weasels. Foto detik bersejarah dan pemain pasukan menghiasi dindingnya.
+RAINBOW_BALL,Bola Prism Rainbow
+RAINBOW_BALL/DES,"Bola tampar tersuai yang dibuat oleh penyokong Sara. Sara berkata setiap kali melihatnya, dia seolah-olah mendengar sorakan peminat yang memenuhi gelanggang."
+BGM_JENNY_AND_SARA_DESC,CHAPTER 12. #「Tetapi... aku mahu mencuba sekali lagi.」
+BGM_SAVIOR_SEO_SARA_DESC,"CHAPTER 12. #「Tugas saya bukannya untuk dikawal oleh mereka, tetapi untuk menyemarakkan semangat dalam hati semua orang.」"
+BGM_MEET_YURI_DESC,"CHAPTER 12. #「Woi, budak degil. Aku dengar kau kena heret dengan bapa kau sebab berlagak samseng kat tempat bahaya?」"
+BGM_MEET_IRIS_DESC,"CHAPTER 12. #「D-Dalam saat sebeginilah, saya sebagai kapten patut melakukan sesuatu...!」"
+PHANTOM_LEAGUE_COURT,Gelanggang Phantom League
+PHANTOM_LEAGUE_COURT/DESC,"Selepas membuat kemunculan sulung, Raul melonjak menjadi superstar dalam sekelip mata dengan memenangi gelaran MVP dalam setiap kejohanan yang disertainya. Namun, dia telah disingkirkan selepas terperangkap dalam muslihat pihak pengurusan Black Lions. Apabila setiap kelab liga utama enggan mengambilnya, Raul dan Carla memutuskan untuk membina liga mereka sendiri. Liga inilah yang dikenali sebagai Phantom League."
+EV2604_NORMAL_PASS,Pas Normal
+EV2604_NORMAL_PASS_DESC,Dapatkan pelbagai pakaian seragam dan mata wang melalui Pas Normal.
+EV2604_PREMIUM_PASS,Pas Premium
+EV2604_PREMIUM_PASS_DESC,"Buka Pas Premium untuk dapatkan tambahan 3 hari kehadiran acara, pakaian seragam eksklusif, dan mata wang dalam jumlah yang banyak."
+EV2604_ROYAL_PASS,Pas Royal
+EV2604_ROYAL_PASS_DESC,Buka Pas Royal untuk dapatkan tambahan 1 hari kehadiran acara dan mata wang dalam jumlah yang banyak. Hanya boleh dibeli selepas membeli Pas Premium.
+EV2604_PREMIUM_ROYAL_PASS,Pas Premium + Pas Royal
+EV2604_PREMIUM_ROYAL_PASS_DESC,Pakej yang membuka kedua-dua Pas Premium dan Pas Royal sekaligus.
+EV2604_PACKAGE_1,Pakej Wind Spiker I
+EV2604_PACKAGE_1_DESC,Dapatkan Syiling Wind x300 dan Mata V x360 dengan pakej ini.
+EV2604_PACKAGE_2,Pakej Wind Spiker II
+EV2604_PACKAGE_2_DESC,"Dapatkan Syiling Wind x860 dan Mata V x1,270 dengan pakej ini."
+EV2604_BREEZE_PACKAGE,Pakej Angin Sepoi
+EV2604_BREEZE_PACKAGE_DESC,"Dapatkan Tiket Rekrut Pemain Pick-Up x10, Mata V x400 serta banyak Kredit dan EXP dengan pakej ini."
+EV2604_BREEZE_PACKAGE_SECOND,Pakej Angin Sepoi Kembali
+EV2604_BREEZE_PACKAGE_SECOND_DESC,"Dapatkan Tiket Rekrut Pemain Pick-Up x10, Mata V x400 serta banyak Kredit dan EXP dengan pakej ini."
+EV2604_GUST_PACKAGE,Pakej Hembusan Angin
+EV2604_GUST_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x10 dan banyak mata wang dengan pakej ini.
+EV2604_GUST_PACKAGE_SECOND,Pakej Hembusan Angin Kembali
+EV2604_GUST_PACKAGE_SECOND_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x10 dan banyak mata wang dengan pakej ini.
+EV2604_BLADE_PACKAGE,Pakej Angin Tajam
+EV2604_BLADE_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x20 dan banyak mata wang dengan pakej ini.
+EV2604_BLADE_PACKAGE_SECOND,Pakej Angin Tajam Kembali
+EV2604_BLADE_PACKAGE_SECOND_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x20 dan banyak mata wang dengan pakej ini.
+EV2604_TEMPEST_PACKAGE,Pakej Ribut
+EV2604_TEMPEST_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x40 dan mata wang dalam jumlah yang banyak dengan pakej ini.
+EV2604_TEMPEST_PACKAGE_SECOND,Pakej Ribut Kembali
+EV2604_TEMPEST_PACKAGE_SECOND_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x40 dan mata wang dalam jumlah yang banyak dengan pakej ini.
+EV2604_GROWTH_PACKAGE,Pakej Pertumbuhan
+EV2604_GROWTH_PACKAGE_DESC,Pakej yang memberikan Kredit dan Mata EXP dalam jumlah yang banyak.
+EV2604_GROWTH_PACKAGE_SECOND,Pakej Pertumbuhan Kembali
+EV2604_GROWTH_PACKAGE_SECOND_DESC,Pakej yang memberikan Kredit dan Mata EXP dalam jumlah yang banyak.
+IRIS_SHOES,Kasut Iris
+YURI_SHOES,Kasut Yuri
+WIND_SPIKER_SHOES,Kasut Wind Spiker
+MINJUN_HAIR,Rambut Runcing Merah
+8주년 이벤트 4/23~,
+8TH_BALL,Bola Peringatan Ulang Tahun ke-8
+8TH_BALL/DES,Bola Peringatan Ulang Tahun ke-8 The Spike Cross. Dicipta untuk menyampaikan penghargaan kepada semua yang telah bersama kami sepanjang perjalanan ini.
+MYSTIC_AURORA_BALL,Bola Aurora Mistis
+MYSTIC_AURORA_BALL/DES,"Boleh dibeli di Konsert Phantoms. Jangan berlengah, ia mungkin habis terjual."
+PHANTOM_STUDIO,Studio Phantom
+PHANTOM_STUDIO/DES,"Studio tempat ahli Phantoms berkumpul untuk merakam lagu. Tempat mereka berhempas pulas berkali-kali untuk menghasilkan lagu ""See You Tomorrow, Sunset""."
+8TH_SIF_SHOES,Kasut Sif Fantom
+8TH_SIF_UNIFORM,Uniform Sif Fantom
+8TH_SIF_UNIFORM/DES,"Pakaian Sif, pemain dram Phantoms. Ia dipasang kukuh dengan klip supaya tidak longgar semasa persembahan yang rancak."
+8TH_SIF_HAIR,Rambut Sif Fantom
+8TH_SIF_HAIR/DES,Gaya rambut funky. Ia berayun dengan bergaya setiap kali dram dimainkan dengan kuat.
+8TH_ELLIO_SHOES,Kasut Ellio Fantom
+8TH_ELLIO_UNIFORM,Uniform Ellio Fantom
+8TH_ELLIO_UNIFORM/DES,"Pakaian pentas Ellio, pemain keyboard Phantoms. Dia membaiki sendiri jaket yang koyak semasa persembahan dan menjadikannya pakaian pentasnya yang tersendiri."
+8TH_ELLIO_HAIR,Rambut Ellio Fantom
+8TH_ELLIO_HAIR/DES,Gaya rambut separuh ikat. Ini gaya yang paling digemari peminat.
+8TH_JENNY_SHOES,Kasut Jenny Fantom
+8TH_JENNY_UNIFORM,Uniform Jenny Fantom
+8TH_JENNY_UNIFORM/DES,"Pakaian pentas Jenny, vokalis Phantoms. Ia direka dengan seluar dalam terbina supaya skirt tidak terselak."
+8TH_JENNY_HAIR,Rambut Jenny Fantom
+8TH_JENNY_HAIR/DES,Gaya rambut dua ekor. Peminat terus berdebat sama ada rambut terurai atau dua ekor lebih sesuai untuk Jenny.
+8TH_CLAIRE_SHOES,Kasut Claire Fantom
+8TH_CLAIRE_UNIFORM,Uniform Claire Fantom
+8TH_CLAIRE_UNIFORM/DES,"Pakaian pentas Claire, pemain gitar Phantoms. Potongan longgar membolehkannya bergerak bebas dan membuat persembahan di atas pentas."
+8TH_CLAIRE_HAIR,Rambut Claire Fantom
+8TH_CLAIRE_HAIR/DES,Gaya rambut ikonik yang dipakai sejak dia menerima ikat kepala daripada peminat pada konsert pertamanya.
+8TH_HARI_SHOES,Kasut Hari Fantom
+8TH_HARI_UNIFORM,Uniform Hari Fantom
+8TH_HARI_UNIFORMDES,"Pakaian pentas Hari, pemain bass Phantoms. Ia mempunyai zip di bahagian belakang, jadi dia memerlukan bantuan ahli lain untuk memakainya."
+8TH_HARI_HAIR,Rambut Hari Fantom
+8TH_HARI_HAIR/DES,Gaya rambut dengan hiasan reben. Ia menambahkan lagi suasana yang comel.
+BGM_8TH_ANNIVERSARY,"See You Tomorrow, Sunset (Inst.)"
+BGM_8TH_ANNIVERSARY_DESC,Phantoms Concert. #「Dua kecederaan. Dua pemulihan.#Saya telah membuat keputusan. Saya akan terbang menuju matahari di langit.#Walaupun sayap lilin saya mencair.#Kerana saya sedang mencari.#Sesuatu yang ingin saya genggam walaupun mempertaruhkan hidup.」
+PRODUCT_8TH_ELLIO_SKIN,Bintang Encore
+EV2605_FIRST_GIG_PACKAGE,Pakej Persembahan Pertama
+EV2605_FIRST_GIG_PACKAGE_DESC,Pakej dengan 10 Tiket Pemain Pickup & pelbagai ganjaran.
+EV2605_RISING_STAR_PACKAGE,Pakej Rising Star
+EV2605_RISING_STAR_PACKAGE_DESC,"Pakej dengan 10 Tiket Pemain Pickup, 13 Tiket Pemain Pickup Phantoms & pelbagai ganjaran."
+EV2605_BEST_GIG_PACKAGE,Pakej Pentas Terbaik
+EV2605_BEST_GIG_PACKAGE_DESC,"Pakej dengan 20 Tiket Pemain Pickup, 17 Tiket Pemain Pickup Phantoms & pelbagai ganjaran."
+PRODUCT_8TH_HARI_SKIN,Midnight
+PRODUCT_8TH_JENNY_SKIN,Shooting Star
+DAEJI_SCHOOL_UNIFORM_MALE,Uniform Sekolah Lelaki Terra High
+DAEJI_SCHOOL_UNIFORM_MALE/DES,Terinspirasi daripada reka bentuk uniform sekolah seni berdekatan. Ringkas tetapi bergaya.
+DAEJI_SCHOOL_UNIFORM_FEMALE,Uniform Sekolah Perempuan Terra High
+DAEJI_SCHOOL_UNIFORM_FEMALE/DES,Pelajar perempuan boleh memilih sama ada reben atau tali leher untuk uniform sekolah mereka. Sedikit lebih ramai pelajar memilih reben.
+웨스턴 이벤트 5/22~,
+PRODUCT_SKIN_RYUHYUN_RED_HOOD,Red Hood
+PRODUCT_SKIN_SIF_BOUNTY_HUNTER,Bounty Hunter
+PRODUCT_SKIN_CLAIRE_GOD_FATHER,Godfather
+EV2606_NORMAL_PASS,Pas Normal
+EV2606_NORMAL_PASS_DESC,Dapatkan pelbagai pakaian seragam dan mata wang melalui Pas Normal.
+EV2606_PREMIUM_PASS,Pas Premium
+EV2606_PREMIUM_PASS_DESC,"Buka Pas Premium untuk dapatkan tambahan 3 hari kehadiran acara, pakaian seragam eksklusif, dan mata wang dalam jumlah yang banyak."
+EV2606_ROYAL_PASS,Pas Royal
+EV2606_ROYAL_PASS_DESC,Buka Pas Royal untuk dapatkan tambahan 1 hari kehadiran acara dan mata wang dalam jumlah yang banyak. Hanya boleh dibeli selepas membeli Pas Premium.
+EV2606_PREMIUM_ROYAL_PASS,Pas Premium + Pas Royal
+EV2606_PREMIUM_ROYAL_PASS_DESC,Pakej yang membuka kedua-dua Pas Premium dan Pas Royal sekaligus.
+EV2606_GROWTH_PACKAGE,Pakej Pertumbuhan
+EV2606_GROWTH_PACKAGE_DESC,Pakej yang memberikan Kredit dan Mata EXP dalam jumlah yang banyak.
+EV2606_PREMIUM_PACKAGE,Pakej Premium
+EV2606_PREMIUM_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x10 dan banyak mata wang dengan pakej ini.
+EV2606_ROYAL_PACKAGE,Pakej Diraja
+EV2606_ROYAL_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x20 dan banyak mata wang dengan pakej ini.
+EV2606_EXTREME_ROYAL_PACKAGE,Pakej Diraja Ekstrem
+EV2606_EXTREME_ROYAL_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x40 dan mata wang dalam jumlah yang banyak dengan pakej ini.
+EV2606_PACKAGE_1,Pakej Western I
+EV2606_PACKAGE_1_DESC,Pakej yang membolehkan anda memperoleh Syiling Western x300 dan Mata V x360.
+EV2606_PACKAGE_2,Pakej Western II
+EV2606_PACKAGE_2_DESC,"Pakej yang membolehkan anda memperoleh Syiling Western x860 dan Mata V x1,270."
+EV2606_RED_HOOD_PACKAGE,Pakej Red Hood
+EV2606_RED_HOOD_PACKAGE_DESC,"Dapatkan Tiket Rekrut Pemain Pick-Up x10, Mata V x400 serta banyak Kredit dan EXP dengan pakej ini."
+TUMBLEWEED_BALL,Bola Tumbleweed
+TUMBLEWEED_BALL/DES,Bola yang diperbuat daripada jalinan erat ranting kering. Sukar untuk mengecam rupa asalnya.
+CACTUS_BALL,Bola Kaktus
+CACTUS_BALL/DES,Bola paling berduri di dunia. Ia akan membuatkan anda sedar sepenuhnya dalam sekelip mata.
+BGM_BANG_TO_SPIKE_DESC,"Western Event. #「Pada akhirnya, bola tampar hanyalah satu lagi pertarungan.」"
+SUNRIM_VILLAGE,Kampung Seonrim(?)
+SUNRIM_VILLAGE/DESC,"Selamat datang ke 'Kampung Seonrim', sebuah perlindungan bagi pengembara di sempadan Barat. Hantarlah bola tampar seketika di sini dan lupakan kepenatan perjalanan anda."
+RED_HOOD_RYUHYUN_UNIFORM,Jersi Red Hood Ryuhyeon
+RED_HOOD_RYUHYUN_UNIFORM/DES,"Segala-galanya di sekeliling diselubungi api, dan orang-orang kampung tidak kelihatan di mana-mana. Mengheret badannya yang cedera untuk mencari mereka, Ryuhyeon akhirnya menemui jubah gurunya yang berlumuran darah dan koyak-rabak. Ia pastinya perbuatan kumpulan Phantoms. Seketika kemudian, Ryuhyeon mengambil jubah gurunya, menyampirkannya ke bahu, dan bersedia untuk menerima takdirnya yang kejam. ...Dia pernah mengalami mimpi yang sangat jelas seperti itu."
+RED_HOOD_RYUHYUN_HAIR,Rambut Red Hood Ryuhyeon
+RED_HOOD_RYUHYUN_HAIR/DES,"Topi koboi yang digemari oleh penduduk perbatasan apabila keluar masuk kampung. Ia ringan, tahan lasak, dan tidak rosak walaupun dalam angin dan hujan. Selepas memutuskan untuk menyendiri, Syerif Ryuhyeon mula memakai topi ini ditarik rendah."
+RED_HOOD_RYUHYUN_SHOES,Kasut Red Hood Ryuhyeon
+BOUNTY_HUNTER_SIF_UNIFORM,Jersi Bounty Hunter Sif
+BOUNTY_HUNTER_SIF_UNIFORM/DES,"Agak menyerlah bagi persalinan seorang pengembara yang merayau di padang belantara yang gersang. Namun, bagi dia yang sering bertarung dalam pertarungan hidup mati, pandangan orang lain tidak penting sama sekali. Dia hanya merayau di padang belantara dengan pakaian hebat yang menambat hatinya."
+BOUNTY_HUNTER_SIF_HAIR,Rambut Bounty Hunter Sif
+BOUNTY_HUNTER_SIF_HAIR/DES,"Topi koboi Sif yang berharga. Ia menyimpan kenangan apabila dia melakukan kesilapan dalam misi pertamanya bersama rakan kongsinya, Senior Raul, dan sedang bersedih, lalu seniornya menarik topi itu rendah ke atas kepalanya. Ia adalah khazanah nombor satu miliknya yang tidak boleh diganti."
+BOUNTY_HUNTER_SIF_SHOES,Kasut Bounty Hunter Sif
+GOD_FATHER_CLAIRE_UNIFORM,Jersi Godfather Claire
+GOD_FATHER_CLAIRE_UNIFORM/DES,"Terlalu meriah untuk dipadankan dengan pemerintah lorong belakang. Namun, bagi dia yang sentiasa gemar menjadi pusat perhatian orang ramai, ia adalah persalinan yang sangat sesuai."
+GOD_FATHER_CLAIRE_HAIR,Rambut Godfather Claire
+GOD_FATHER_CLAIRE_HAIR/DES,"Topi fedora putih yang bergaya. Sesiapa yang berani mengotorkan topi yang putih melepak ini walaupun sedikit, pasti tidak akan dapat pulang ke rumah dengan selamat."
+GOD_FATHER_CLAIRE_SHOES,Kasut Godfather Claire
+WESTERN_UNIFORM_MALE,Jersi Lelaki Western
+WESTERN_UNIFORM_MALE/DES,Persalinan perintis yang gagah. Seluar jinsnya begitu kuat dan tahan lasak sehinggakan anda boleh menggores mancis padanya untuk menyalakan api jika perlu.
+WANTED_HAIR_MALE,Rambut Lelaki Poster Dikehendaki
+WANTED_HAIR_MALE/DES,「DIKEHENDAKI. Claire Roman. Hidup atau Mati. Ganjaran $25.」
+WESTERN_UNIFORM_FEMALE,Jersi Wanita Western
+WESTERN_UNIFORM_FEMALE/DES,"Persalinan koboi. Ia sangat hangat, membolehkan anda bermain bola tampar walaupun di padang belantara yang ditiup angin sejuk."
+WANTED_HAIR_FEMALE,Rambut Wanita Poster Dikehendaki
+WANTED_HAIR_FEMALE/DES,「DIKEHENDAKI. Hongshi. Hidup atau Mati. Ganjaran $100.」
+WESTERN_RYUHYUN/LINE,Aku sentiasa di pihak yang memburu.
+WESTERN_CLAIRE/LINE,Sikap sombong kau itu pun akan berakhir hari ini.
+WESTERN_SIF/LINE,"Bang!! ...Alamak, terkejut sampai nak gugur jantung ke, budak?"
+WESTERN_SHOES_MALE,Kasut Gunslinger
+WESTERN_SHOES_FEMALE,But Frontier
+PROFILE_BG_STARTER_COURT,Gelanggang Permulaan
+PROFILE_BG_GOLDEN_RALLY,Rali Emas
+PROFILE_BG_CHAMPIONSHIP_COURT,Gelanggang Kejohanan
+PROFILE_BG_MIDNIGHT_VOLLEY,Voli Tengah Malam
+PROFILE_BG_DREAM_SKY,Langit Impian
+PROFILE_BG_BEGINNER_COURT,Gelanggang Pemula
+PROFILE_BG_BLACKOUT,Blackout
+PROFILE_BG_CARBON_PATTERN,Corak Karbon
+PROFILE_BG_SPIKE_STUDIO,Studio Spike
+PROFILE_BG_CLOUD_COURT,Gelanggang Awan
+PROFILE_BG_CENTER_STAGE,Pentas Utama
+PROFILE_FRAME_BLACK,Bingkai Hitam
+PROFILE_FRAME_GRAY,Bingkai Kelabu
+PROFILE_FRAME_TRANSPARENT,Bingkai Lutsinar
+PROFILE_FRAME_SPIKE_STUDIO,Studio Spike
+PROFILE_FRAME_BLUE_FLAME,Api Biru
+PROFILE_FRAME_BUTTERFLY,Rama-rama
+PROFILE_FRAME_BOUNTY_HUNTER,Pemburu Hadiah
+PROFILE_FRAME_MUYEONG_BUBBLE,Buih Muyeong
+PROFILE_TITLE_COURT_TRAINEE,Pelatih di Gelanggang
+PROFILE_TITLE_COURT_EXPERT,Pakar di Gelanggang
+PROFILE_TITLE_NAMED_PLAYER,Pemain Ternama
+PROFILE_TITLE_RISING_STAR,Bintang Meningkat Naik
+PROFILE_TITLE_ALLSTAR_PLAYER,Pemain All-Star
+PROFILE_TITLE_ACE_CANDIDATE,Calon Ace
+PROFILE_STICKER_CREDIT,Kredit
+PROFILE_STICKER_ATTENDANCE_STAMP,Cop Kehadiran
+PROFILE_STICKER_DRAGON_COIN,Syiling Naga
+PROFILE_STICKER_VPOINT,Mata V
+PROFILE_STICKER_AWAKEN_ITEM,Serpihan Usaha
+PROFILE_STICKER_WIND_COIN,Syiling Angin
+PROFILE_STICKER_VPOINT_BUNDLE,Himpunan Mata V
+PROFILE_STICKER_VESSENCE,Pati V
+PROFILE_STICKER_PHANTOM_COIN,Syiling Fantom
+PROFILE_STICKER_KINGMAKER_COIN,Syiling Kingmaker
+PROFILE_STICKER_TIGER_COIN,Syiling Harimau
+PROFILE_STICKER_SUSPICIOUS_BLUE_FLAME,Api Biru Mencurigakan
+PROFILE_STICKER_BLUE_FLAME,Api Biru
+PROFILE_STICKER_WINTER_COIN,Syiling Musim Sejuk
+PROFILE_STICKER_STAR,Bintang
+PROFILE_STICKER_CREDIT_RICH,Kaya Kredit
+PROFILE_STICKER_VPOINT_RICH,Kaya Mata V
+PROFILE_STICKER_WHISTLE,Wisel
+PROFILE_STICKER_CREDIT_BUNDLE,Himpunan Kredit
+PROFILE_STICKER_MB_BADGE,Lencana Pengadang Tengah
+PROFILE_STICKER_WS_BADGE,Lencana Perejam Sayap
+PROFILE_STICKER_SE_BADGE,Lencana Setter
+PROFILE_STICKER_PHANTOM,Fantom
+PROFILE_STICKER_DEATH_BLOOM,Death Bloom
+PROFILE_STICKER_POWER,Kuasa
+PROFILE_STICKER_DISCOURAGED,Berkecil hati
+PROFILE_STICKER_JUMP,Lompat
+PROFILE_STICKER_SHOES,Kasut
+PROFILE_STICKER_DASH,Pecut
+PROFILE_STICKER_DEFENSE,Pertahanan
+PROFILE_STICKER_FOCUS,Fokus
+PROFILE_STICKER_CARELESS,Cuai
+PROFILE_STICKER_DUMBBELL,Dumbel
+PROFILE_STICKER_WORKEDUP,Teruja
+PROFILE_STICKER_SPEED_TOSS,Lambungan Laju
+PROFILE_STICKER_SKULL,Tengkorak
+PROFILE_STICKER_CRITICAL_TOSS,Lambungan Kritikal
+PROFILE_STICKER_CACTUS,Kaktus
+PROFILE_STICKER_TIRE,Tayar
+PROFILE_STICKER_BUTTERFLY,Rama-rama
+PROFILE_STICKER_SNIPE,Tembak Tepat
+PROFILE_STICKER_FRANTIC,Kecoh
+PROFILE_STICKER_WINGS_ICARUS,Sayap Icarus
+PROFILE_STICKER_TOSS,Lambungan
+PROFILE_STICKER_TYPHOON,Taufan
+PROFILE_STICKER_PAIN_KILLER,Penawar Sakit
+PROFILE_STICKER_IMPERIAL_ORDER,Perintah Imperial
+PROFILE_STICKER_ANGRY_SKULL,Tengkorak Marah
+PROFILE_STICKER_SMILE_SKULL,Tengkorak Senyum
+PROFILE_STICKER_HYUNMU,Kura-kura Hitam
+PROFILE_STICKER_BLUE_DRAGON,Naga Biru
+PROFILE_STICKER_JUJAK,Phoenix Merah
+PROFILE_STICKER_WHITE_TIGER,Harimau Putih
+PROFILE_STICKER_UNIFORM,Pakaian Seragam
+PROFILE_STICKER_VOLLEY_BALL,Bola Tampar
+EV2607_HELLO_DAVE_PACKAGE,Pakej Hello Dave
+EV2607_HELLO_DAVE_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up Warm-Up x10 dan banyak mata wang dengan pakej ini.
+EV2607_LAB_ESSENTIALS_PACKAGE,Pakej Keperluan Makmal
+EV2607_LAB_ESSENTIALS_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up Warm-Up x13 dan banyak mata wang dengan pakej ini.
+EV2607_SUMMER_VACATION_PACKAGE,Pakej Percutian Musim Panas
+EV2607_SUMMER_VACATION_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up Warm-Up x17 dan mata wang dalam jumlah yang banyak dengan pakej ini.
+서머 트레이닝 이벤트(7/29~),
+COCONUT_BALL,Bola Kelapa
+COCONUT_BALL/DES,"Setiap kali melakukan 'spike', dengar bunyi air kelapa berkocak di dalamnya."
+HANRA_BALL,Bola Hanra
+HANRA_BALL/DES,"Bola tampar yang dibawa oleh Hanra sempena latihan musim panas. Katanya, dia terbeli secara impulsif hanya kerana menyukai warnanya."
+VIOLA_BALL,Bola Viola
+VIOLA_BALL/DES,Bola tampar yang amat disayangi Viola. Ia merupakan barang yang dihadiahkan oleh Isabel apabila dia memberitahu mahu pergi berlatih.
+SUMMER_TRAINING_UNIFORM_MALE,Seragam Lelaki Latihan Musim Panas
+SUMMER_TRAINING_UNIFORM_MALE/DES,"Jika digoncang selepas perlawanan, pasir akan jatuh bagaikan keajaiban."
+SUMMER_TRAINING_UNIFORM_FEMALE,Seragam Wanita Latihan Musim Panas
+SUMMER_TRAINING_UNIFORM_FEMALE/DES,Direka supaya pakaian tidak tergulung ke atas walaupun semasa pergerakan yang sengit.
+PRODUCT_SKIN_SUMMER_TRAINING,Latihan Musim Panas
+PRODUCT_SKIN_SUMMER_TRAINING/DES,
+EV2608_NORMAL_PASS,Pas Normal
+EV2608_NORMAL_PASS_DESC,Dapatkan pelbagai pakaian seragam dan mata wang melalui Pas Normal.
+EV2608_PREMIUM_PASS,Pas Premium
+EV2608_PREMIUM_PASS_DESC,"Buka Pas Premium untuk dapatkan tambahan 3 hari kehadiran acara, pakaian seragam eksklusif, dan mata wang dalam jumlah yang banyak."
+EV2608_ROYAL_PASS,Pas Royal
+EV2608_ROYAL_PASS_DESC,Buka Pas Royal untuk dapatkan tambahan 1 hari kehadiran acara dan mata wang dalam jumlah yang banyak. Hanya boleh dibeli selepas membeli Pas Premium.
+EV2608_PREMIUM_ROYAL_PASS,Pas Premium + Pas Royal
+EV2608_PREMIUM_ROYAL_PASS_DESC,Pakej yang membuka kedua-dua Pas Premium dan Pas Royal sekaligus.
+EV2608_GROWTH_PACKAGE,Pakej Pertumbuhan
+EV2608_GROWTH_PACKAGE_DESC,Pakej yang memberikan Kredit dan Mata EXP dalam jumlah yang banyak.
+EV2608_CORAL_RUBY_PACKAGE,Pakej Delima Koral
+EV2608_CORAL_RUBY_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x10 dan banyak mata wang dengan pakej ini.
+EV2608_ROYAL_PACKAGE,Pakej Diraja
+EV2608_ROYAL_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x20 dan banyak mata wang dengan pakej ini.
+EV2608_EXTREME_ROYAL_PACKAGE,Pakej Diraja Ekstrem
+EV2608_EXTREME_ROYAL_PACKAGE_DESC,Dapatkan Tiket Rekrut Pemain Pick-Up x40 dan mata wang dalam jumlah yang banyak dengan pakej ini.
+EV2608_PACKAGE_1,Pakej Latihan Musim Panas I
+EV2608_PACKAGE_1_DESC,"Pakej yang membolehkan anda memperoleh Syiling Palma x300, Mata V x360."
+EV2608_PACKAGE_2,Pakej Latihan Musim Panas II
+EV2608_PACKAGE_2_DESC,"Pakej yang membolehkan anda memperoleh Syiling Palma x860, Mata V x1,270."
+EV2608_VIOLET_SAPPHIRE_PACKAGE,Pakej Safir Violet
+EV2608_VIOLET_SAPPHIRE_PACKAGE_DESC,"Pakej yang memberikan Tiket Rekrut Pemain Pilihan x10, Mata V x400 serta banyak Kredit dan Mata EXP."
+SIWOO_ROOM,Bilik Siwoo
+SIWOO_ROOM/DESC,"Di atas meja ada foto keluarga yang diambil semasa kecil. Namun, kelibat bapanya tidak kelihatan di mana-mana dalam foto itu."
+DAEJI_GYM,Gimnasium Terra High
+DAEJI_GYM/DESC,"Kadangkala pengetua memainkan trompet di sini, dan kemahirannya amat hebat."
+PINK_POP_SPIKES_UNIFORM,Uniform Pink Pop Spikes
+PINK_POP_SPIKES_UNIFORM/DES,Seragam sebuah pasukan bola tampar yang menyertai kejohanan bola tampar pantai.
+BGM_SUMMER_RUNNING_DESC,Summer Training. #「Ia benar-benar musim panas yang terbaik.」
+BGM_THE_SECOND_MOVE_DESC,CHAPTER 1. #「Hanya satu pasukan yang dapat tiket emas ke Kejohanan Kebangsaan.」
+BGM_TOPSY_TURVY_DESC,CHAPTER 1. #「Sekarang hampir masa untuk latihan solo trompet pengetua!」
+BGM_CHAPTER1_OPENING_1_DESC,CHAPTER 1. #「Menunjukkan erti sebenar pemain handalan!」
+VICE_PRINCIPAL_HAIR,Gaya rambut Penolong Kanan
+VICE_PRINCIPAL_HAIR/DES,30 tahun berkhidmat sebagai guru. Semangat pada hari pertama berdiri di bilik darjah dan rambut yang lebat kini tidak meninggalkan sebarang kesan lagi.
+콘텐츠 업데이트 (8/26~),
+PROFILE_BG_TERRA_HALLWAY,Koridor Terra High
+PROFILE_BG_CHERRY_BLOSSOM_SUNSET,Senja Bunga Sakura
+PROFILE_STICKER_MINI_HONGSHI,Mini Hongshi
+PROFILE_STICKER_MINI_MIKE,Mini Mike
+PROFILE_STICKER_MINI_ISABEL,Mini Isabel
+PROFILE_STICKER_MINI_YOONSEOK,Mini Yoonseok
+PROFILE_STICKER_MINI_JENNY,Mini Jenny
+시즌 3 업데이트,
+EV2609_GROWTH_PACKAGE,Pakej Pertumbuhan
+EV2609_GROWTH_PACKAGE_DESC,Pakej yang memberikan Kredit dan Mata EXP dalam jumlah yang banyak.
+EV2609_WELCOME_ELITE_PACKAGE,Pakej Elit Selamat Datang
+EV2609_WELCOME_ELITE_PACKAGE_DESC,Pakej yang memberikan Tiket Rekrut Pemain Pilihan x10 dan sedikit mata wang.
+EV2609_PACKAGE_1,Pakej Elit 1
+EV2609_PACKAGE_1_DESC,Pakej yang memberikan Syiling Elit x300 dan Mata V x360.
+EV2609_PACKAGE_2,Pakej Elit 2
+EV2609_PACKAGE_2_DESC,Pakej yang memberikan Syiling Elit x860 dan Mata V x1270.
+EV2609_ELITE_PREMIUM_PACKAGE,Pakej Premium Elit
+EV2609_ELITE_PREMIUM_PACKAGE_DESC,Pakej yang memberikan Tiket Rekrut Pemain Pilihan x10 dan banyak mata wang.
+EV2609_ELITE_ROYAL_PACKAGE,Pakej Diraja Elit
+EV2609_ELITE_ROYAL_PACKAGE_DESC,Pakej yang memberikan Tiket Rekrut Pemain Pilihan x20 dan banyak mata wang.
+EV2609_EXTREME_ROYAL_PACKAGE,Pakej Diraja Ekstrem Elit
+EV2609_EXTREME_ROYAL_PACKAGE_DESC,Pakej yang memberikan Tiket Rekrut Pemain Pilihan x40 dan mata wang dalam jumlah yang amat banyak.
+EV2609_NORMAL_PASS,Pas Normal
+EV2609_NORMAL_PASS_DESC,Dapatkan pelbagai pakaian seragam dan mata wang melalui Pas Normal.
+EV2609_PREMIUM_PASS,Pas Premium
+EV2609_PREMIUM_PASS_DESC,"Buka Pas Premium untuk mendapatkan tambahan 3 hari kehadiran acara, pakaian seragam eksklusif dan banyak mata wang."
+EV2609_ROYAL_PASS,Pas Royal
+EV2609_ROYAL_PASS_DESC,Buka Pas Royal untuk mendapatkan tambahan 1 hari kehadiran acara dan banyak mata wang. Hanya boleh dibeli selepas membeli Pas Premium.
+EV2609_PREMIUM_ROYAL_PASS,Pas Premium + Pas Royal
+EV2609_PREMIUM_ROYAL_PASS_DESC,Pakej yang membuka kedua-dua Pas Premium dan Pas Royal sekaligus.
+BEGINNER_PLAYER_RECRUIT_TICKET,Tiket Rekrut Pemula
+BEGINNER_RECRUIT_PACKAGE,Pakej Tiket Rekrut Pemula
+BEGINNER_RECRUIT_PACKAGE_DESC,Dapatkan 40 Tiket Rekrut Pemula.
+DEFAULT_40VP_PACKAGE,Pek Mata V x40
+DEFAULT_40VP_PACKAGE_DESC,Dapatkan 40 Mata V.
+DEFAULT_200VP_PACKAGE,Pek Mata V x200
+DEFAULT_200VP_PACKAGE_DESC,Dapatkan 200 Mata V.
+DEFAULT_420VP_PACKAGE,Pek Mata V x420
+DEFAULT_420VP_PACKAGE_DESC,Dapatkan 420 Mata V.
+DEFAULT_1280VP_PACKAGE,Pek Mata V x1280
+DEFAULT_1280VP_PACKAGE_DESC,Dapatkan 1280 Mata V.
+DEFAULT_2160VP_PACKAGE,Pek Mata V x2160
+DEFAULT_2160VP_PACKAGE_DESC,Dapatkan 2160 Mata V.
+DEFAULT_4000VP_PACKAGE,"Pek Mata V x4,000"
+DEFAULT_4000VP_PACKAGE_DESC,"Dapatkan 4,000 Mata V."
+DEFAULT_40VP_PACKAGE_2X,Pek Mata V x40 2x
+DEFAULT_40VP_PACKAGE_2X_DESC,40 Mata V + 40 Bonus!#Bonus ditetapkan semula secara berkala.
+DEFAULT_200VP_PACKAGE_2X,Pek Mata V x200 2x
+DEFAULT_200VP_PACKAGE_2X_DESC,200 Mata V + 200 Bonus!#Bonus ditetapkan semula secara berkala.
+DEFAULT_420VP_PACKAGE_2X,Pek Mata V x420 2x
+DEFAULT_420VP_PACKAGE_2X_DESC,420 Mata V + 420 Bonus!#Bonus ditetapkan semula secara berkala.
+DEFAULT_1280VP_PACKAGE_2X,Pek Mata V x1280 2x
+DEFAULT_1280VP_PACKAGE_2X_DESC,1280 Mata V + 1280 Bonus!#Bonus ditetapkan semula secara berkala.
+DEFAULT_2160VP_PACKAGE_2X,Pek Mata V x2160 2x
+DEFAULT_2160VP_PACKAGE_2X_DESC,2160 Mata V + 2160 Bonus!#Bonus ditetapkan semula secara berkala.
+DEFAULT_4000VP_PACKAGE_2X,Pek Mata V x4000 2x
+DEFAULT_4000VP_PACKAGE_2X_DESC,4000 Mata V + 4000 Bonus!#Bonus ditetapkan semula secara berkala.
+상품(Product시트에 들어갈 것),
+GITAE_UNIFROM,Jersi Han Gitae
+GITAE_UNIFROM/DESC,Jersi lelaki pasukan bola tampar Universiti Cheongmyeong.#Diperbuat daripada fabrik khas berkekuatan tinggi yang tidak mudah koyak akibat geseran atau hentaman kuat.
+BACK_ELITE_WAIT_ROOM,Pusat Latihan Pasukan Kebangsaan
+BACK_ELITE_WAIT_ROOM/DESC,"Pusat latihan khas tempat pemain bola tampar terbaik Korea Selatan berkumpul.#Dilengkapi kemudahan profesional terbesar di negara ini dan sistem latihan tercanggih. Sebagai tempat mengasah pemain terbaik, pusat ini terkenal dengan latihan yang amat berat."
+BACK_ELITE_HALLWAY,Latar Koridor Gimnasium
+BACK_ELITE_HALLWAY/DESC,"Koridor gimnasium di Pusat Latihan Pasukan Kebangsaan.#Ketika Inho dan pasangannya dalam pasukan kebangsaan, mereka sering berjalan di sini sambil berbual tentang impian masing-masing."
+YOUTH_BALL,Bola Eksklusif NTC
+YOUTH_BALL/DES,Bola eksklusif Pusat Latihan Pasukan Kebangsaan yang dihasilkan oleh jenama bola tampar 'RISE'.
+GITAE_BALL,Bola Kegemaran Gitae
+GITAE_BALL/DES,"Bola tampar yang amat disayangi Han Gitae.#Katanya, dia sentiasa berlatih dengan bola ini pada hari perlawanan penting."
+YOUTH_UNIFORM_MALE,Jersi Lelaki Pasukan Kebangsaan Remaja
+YOUTH_UNIFORM_MALE/DES,Jersi lelaki rasmi pasukan kebangsaan remaja keluaran jenama bola tampar 'RISE'.#Sangat popular hingga laris terjual ketika musim kejohanan antarabangsa.
+YOUTH_UNIFORM_FEMALE,Jersi Wanita Pasukan Kebangsaan Remaja
+YOUTH_UNIFORM_FEMALE/DES,Jersi wanita rasmi pasukan kebangsaan remaja keluaran jenama bola tampar 'RISE'.#Sangat popular hingga laris terjual ketika musim kejohanan antarabangsa.
+JAEHYUN_UNIFORM,Jersi Jaehyun
+JAEHYUN_UNIFORM/DES,"Jersi lelaki rasmi pasukan bola tampar Sky High.#Pada hari pertama menerimanya, Jaehyun berdiri agak lama di hadapan cermin."
+JAEHYUN_SHOES,Kasut Jaehyun
+SEJIN_UNIFORM,Jersi Kang Sejin
+SEJIN_UNIFORM/DES,"Jersi lelaki rasmi pasukan bola tampar Sekolah Tinggi Cheonan.#Entah mengapa, Kang Sejin suka bergaya lebih daripada biasa apabila memakainya."
+SEJIN_SHOES,Kasut Kang Sejin
+YUNA_UNIFORM,Jersi Seo Yuna
+YUNA_UNIFORM/DES,Jersi wanita rasmi pasukan bola tampar Sekolah Tinggi Cheolwon.#Item kegemaran Seo Yuna. Dia memiliki 5 set yang sama dan memakainya secara bergilir.
+YUNA_SHOES,Kasut Seo Yuna
+BGM_COLEMAN_STORY_DESC,CHAPTER 13. #「Kamu tak faham. Kamu mula bermain pada usia muda.」
+BGM_NATIONAL_TRAINING_MATCH_DESC,CHAPTER 13. #「Saya mesti lakukan segala-galanya yang saya mampu!」
+BGM_TRAINING_CAMP_BUDDIES_DESC,CHAPTER 13. #「Tiada apa lagi yang saya mahukan selain menyertai pasukan kebangsaan!」
+PROFILE_FRAME_EV2609,Bingkai Peringkat Elit
+PROFILE_TITLE_ELITE_SPIKER,Pemain Elit
+PROFILE_STICKER_GLOBAL,Pelekat Global
+PROFILE_STICKER_GITAE,Pelekat Gitae
+PROFILE_STICKER_TROPHY,Pelekat Trofi Elit
+,
+PROFILE_BG_ELITE_COURT,Lapangan Elite

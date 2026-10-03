@@ -1,0 +1,300 @@
+﻿KEY,말레이시아어(ms)
+TUTORIAL_MISSION/BASIC_SERVE,Lakukan Basic Serve
+TUTORIAL_MISSION/BLOCKING,Lakukan Blok
+TUTORIAL_MISSION/FEINT,Lakukan Feint
+TUTORIAL_MISSION/JUMP_FLOATER_SERVE,Lakukan Jump Float Serve
+TUTORIAL_MISSION/MOVE_LEFT,Bergerak ke kiri
+TUTORIAL_MISSION/MOVE_RIGHT,Bergerak ke kanan
+TUTORIAL_MISSION/RECEIVE,Terima Bola
+TUTORIAL_MISSION/SLIDING,Lakukan Slaid
+TUTORIAL_MISSION/SPIKE_SERVE,Lakukan Spike Serve
+TUTORIAL_MISSION/SPIKE,Lakukan Spike
+TUTORIAL_MISSION/PERFECT_BLOCKING,Lakukan Blocking Sempurna
+BLOCK_NET_FRONT_TIP,Blocking mesti dilakukan di hadapan jaring!
+BLOCK_FASTER_TIP,Cuba lompat sedikit awal!
+BLOCK_SLOWER_TIP,Cuba lompat sedikit lewat!
+SPIKE_TWICE_TIP,Anda perlu tekan butang spike sekali lagi di udara!
+SPIKE_NEAR_TIP,Anda perlu melompat dekat dengan bola!
+PRACTICE_MATCH_OKAY_TIP,"Sebab ini perlawanan latihan, skor pasukan lawan tidak akan naik!"
+MOVE_FAST_AFTER_SERVE_TIP,"Selepas servis, cepat bergerak ke dalam gelanggang!#(Bergerak ke kanan)"
+SPIKE_NEAR_TIP_02,"Untuk melakukan spike, anda perlu mendekati bola!"
+HOLD_RECEIVE_BUTTON,Kamu boleh terus menahan butang penerimaan!
+SPIKE_JUMP_FASTER_TIP,Terlalu lewat! Kamu perlu melompat lebih awal.
+SPIKE_JUMP_LATER_TIP,Terlalu awal! Kamu perlu melompat lebih lewat.
+GO_FRONT_NET_TIP,Bergerak ke depan jaring dan bersiap untuk Blok!
+SPIKE_PRESS_LONG_TIP,Terus tahan butang rejaman hingga akhir!
+TUTORIAL_LEVEL_BASIC,Tutorial Asas
+FEINT_PRESS_AIR_TIP,Tekan butang Feint ketika di udara!
+TUTORIAL_BASIC_MOVEMENT,Gerakan Asas
+TUTORIAL_MED_MOVEMENT,Gerakan Biasa
+TUTORIAL_HARD_MOVEMENT,Gerakan Lanjutan
+TUTORIAL_BASIC_CONCEPT,Konsep Asas
+,
+TUTORIAL/SLOWER_MOVE,Pengurangan Kelajuan Pergerakan
+TUTORIAL/SLOWER_MOVE_DES,"Apabila rali berlarutan, kelajuan pergerakan semua pemain akan berkurangan."
+TUTORIAL/MOVE,Gerakan
+TUTORIAL/MOVE_DES,Cuba gerak kiri dan kanan
+TUTORIAL/SERVE,Servis
+TUTORIAL/SERVE_DES,Tekan (n1) untuk Serve!
+TUTORIAL/BLOCKING,Blok
+TUTORIAL/BLOCKING_DES,Tekan dan lepas (n1) di depan jaring untuk Blok!
+TUTORIAL/SCOREBOARD,Lihat Papan Skor
+TUTORIAL/SCOREBOARD_DES1,Anda boleh semak stamina dan skor pasukan di bahagian atas skrin!
+TUTORIAL/SCOREBOARD_DES2,Stamina akan berkurang bila bertahan lawan bola kuat.
+TUTORIAL/SCOREBOARD_DES3,"Jika stamina tidak mencukupi, penerimaan akan gagal, jadi berhati-hati!"
+TUTORIAL/JUMP_FLOATER_SERVE,Jump Float Serve
+TUTORIAL/JUMP_FLOATER_SERVE_DES,Tekan lama (n1) untuk Serve!
+TUTORIAL/SPIKE,Spike
+TUTORIAL/SPIKE_DES,"Tekan (n1) untuk Jump, lalu (n2) untuk Spike!"
+TUTORIAL/RECEIVE,Penerimaan
+TUTORIAL/RECEIVE_DES,Tahan (n1) untuk menerima bola!
+TUTORIAL/FEINT,Feint
+TUTORIAL/FEINT_DES,Tekan (n1) di udara untuk Feint!
+TUTORIAL/SPIKE_DES2,"Selepas menerima bola, rejam mengikut masa hantaran pengumpan!"
+TUTORIAL/SLIDING,Slaid
+TUTORIAL/SLIDING_DES,Tekan (n1) untuk Slaid!
+TUTORIAL/SPIKE_SERVE,Spike Serve
+TUTORIAL/SPIKE_SERVE_DES,"Tekan lama (n1) untuk Toss bola, lalu (n2) untuk Spike!"
+SPIKE_SERVE_TIP,Serve Toss terlalu rendah! Tekan lebih lama sikit.
+TUTORIAL_SKIP_QUESTION,Adakah anda pasti mahu langkau tutorial? Anda boleh mengulanginya bila-bila masa melalui Bab Tutorial.
+TUTORIAL/SHORT_SPIKE,Spike Pendek
+TUTORIAL/SHORT_SPIKE_DES2,"Melalui (n1), kamu boleh spike bola ke bawah."
+TUTORIAL/LONG_SPIKE_DES,"Selepas menerima bola, cuba spike dengan (n1)!"
+FEVER_TUTORIAL/01,Perlawanan Snow Raid mempunyai peraturan khas.
+FEVER_TUTORIAL/02,"Setiap kali menjaringkan mata, Fever terkumpul mengikut tempoh rali."
+FEVER_TUTORIAL/03,Keadaan Fever meningkatkan suhu badan dan statistik pemain.
+RECEIVE_TIMING_TUTORIAL/01,"Semakin tinggi ketepatan, semakin sedikit kerosakan diterima."
+TUTORIAL/SKILL,Kemahiran
+TUTORIAL/SKILL_DES,Sesetengah {0} memiliki {1} unik mereka sendiri.#Anda boleh menyemak status semasa {1} tersebut pada butang dengan ikon {1}.
+TUTORIAL/SKILL_USE,Guna Kemahiran
+TUTORIAL/SKILL_USE_DES,Anda boleh berinteraksi dengan {0} dan {1} dengan menekan butangnya secara terus.
+TUTORIAL/SKILL_ACTIVATE,Aktifkan Kemahiran
+TUTORIAL/SKILL_ACTIVATE_DES,{0} boleh diaktifkan pada bila-bila masa dengan menekan ikonnya.#{1} kekal aktif sehingga anda melakukan {3} pada bola yang diperkuat oleh {2}.
+TUTORIAL/SKILL_COOLDOWN,Masa Menunggu
+TUTORIAL/SKILL_COOLDOWN_DES,Kebanyakan {0} tidak boleh digunakan buat sementara waktu selepas kesannya tamat.
+TUTORIAL/SKILL_COOLDOWN2_DES,"Kebanyakan {0} mempunyai {1} selepas kesannya tamat.#Semasa {1}, {2} tidak boleh diaktifkan semula."
+TUTORIAL/SKILL_DURATION,Tempoh
+TUTORIAL/SKILL_DURATION_DES,{0} kekal aktif selama {1} yang ditetapkan selepas ikon ditekan.
+TUTORIAL/SKILL_STATUS_USING,Sedang Berkesan
+TUTORIAL/SKILL_STATUS_AVAILABLE,Sedia Digunakan
+TUTORIAL/SKILL_STATUS_UNAVAILABLE,Tidak Boleh Digunakan
+TEMPERATURE_TUTORIAL/01,Suhu Badan pemain dipaparkan di kiri atas.
+TEMPERATURE_TUTORIAL/02,Suhu Badan menurun setiap kali rali berakhir.
+TEMPERATURE_TUTORIAL/03,"Apabila Suhu Badan menurun, status pemain juga menurun."
+COUNTER_RECEIVE_TUTORIAL/01,Tekan butang penerimaan pada masa yang tepat.
+,
+,
+MOVE_TUTORIAL/01,Hari ini mari kita belajar gerakan asas bola tampar bersama!
+MOVE_TUTORIAL/02,"Pertama sekali, sudah panaskan badan?"
+MOVE_TUTORIAL/03,Kamu boleh bergerak menggunakan kekunci arah. Cuba berjalan di gelanggang!
+,
+RECEIVE_TUTORIAL/01,Bagus! Badan dah longgar sikit?
+RECEIVE_TUTORIAL/02,Pergerakan pertama yang kita akan belajar ialah receive.
+RECEIVE_TUTORIAL/03,Penerimaan ialah asas bola tampar! Gerakan penting ini menjadi titik permulaan setiap permainan.
+RECEIVE_TUTORIAL/04,"Saya akan baling bola perlahan, cuba receive ya?"
+,
+JUMPSPIKE_TUTORIAL/01,Bagus! Kali ini mari kita belajar gerakan spike.
+JUMPSPIKE_TUTORIAL/02,Spike ialah serangan memukul bola ke dalam gelanggang lawan.
+JUMPSPIKE_TUTORIAL/03,"Ia adalah gerakan yang wajib diketahui untuk bermain bola tampar,#tetapi merupakan gerakan yang agak sukar untuk pemula!"
+JUMPSPIKE_TUTORIAL/04,Percayakan saya! Saya akan pastikan kamu boleh merejam.
+JUMPSPIKE_TUTORIAL/05,"Mula-mula, sukar untuk memukul bola bergerak terus, #jadi mari berlatih dengan bola yang statik!"
+,
+RECEIVE_SPIKE_TUTORIAL/01,Bagus! Dah dapat sedikit rasa? Mulai sekarang yang sebenarnya.
+RECEIVE_SPIKE_TUTORIAL/02,Saya akan mengumpan perlahan. Cuba rejam pada masa yang tepat.
+RECEIVE_SPIKE_TUTORIAL/03,"Bola bergerak mungkin membuat kamu panik, tetapi ayun dengan tenang mengikut hantaran saya. Kamu pasti boleh!"
+,
+SERVE_TUTORIAL/01,"Hebat! Dengan tahap ini, kamu benar-benar ada bakat!"
+SERVE_TUTORIAL/02,"Sekarang, mari kita akhiri dengan belajar servis!"
+SERVE_TUTORIAL/03,Servis ialah gerakan asas bola tampar dengan menghantar bola ke gelanggang lawan#untuk memulakan perlawanan.
+SERVE_TUTORIAL/04,"Dalam bola tampar moden, servis ialah senjata yang ampuh! Semakin hebat seseorang pemain, semakin pelbagai jenis servis yang boleh dikuasai."
+SERVE_TUTORIAL/05,Tetapi... agak sukar untuk pemula terus mencuba servis berperingkat tinggi.
+SERVE_TUTORIAL/06,Mula-mula mari kita belajar servis paling asas.
+SERVE_TUTORIAL/07,"Servis yang kuat memang penting, tetapi utamakan servis yang stabil dahulu! Lain kali saya akan ajarkan servis melompat, jadi hari ini mari rasa-rasa dahulu secara santai."
+,
+PRACTICE_GO_TUTORIAL/01,Cukup sampai sini untuk gerakan asas. Bagus!
+PRACTICE_GO_TUTORIAL/02,"Perlawanan sebenar mungkin buat kamu gementar, tapi bertenang dan ikut apa yang telah dipelajari!"
+,
+BLOCKING_TUTORIAL/01,Hadangan ialah gerakan menahan rejaman lawan di hadapan jaring.
+BLOCKING_TUTORIAL/02,"Ia boleh mengecilkan laluan serangan lawan,#sentuh sedikit pun boleh mengurangkan kuasa dengan banyak, jadi wajib dipelajari!"
+BLOCKING_TUTORIAL/03,"Saya akan pukul perlahan, mahu cuba sendiri?"
+,
+RECEIVE_FEINT_TUTORIAL/01,Bagus! Teruskan ke gerakan seterusnya.
+RECEIVE_FEINT_TUTORIAL/02,Gerakan yang kita belajar kali ini ialah Feint!
+RECEIVE_FEINT_TUTORIAL/03,"Bukan cat dalam baldi, tapi Feint!"
+RECEIVE_FEINT_TUTORIAL/04,"Dari posisi Spike, sentuh bola ringan dengan hujung jari#untuk menyerang kelemahan lawan."
+RECEIVE_FEINT_TUTORIAL/05,"Sangat berkesan bila stamina lawan rendah, jadi tahu cara gunakannya ya!"
+RECEIVE_FEINT_TUTORIAL/06,Jom cuba sekarang juga!
+,
+JUMP_FLOATER_TUTORIAL/01,Bagus! Jom kita terus ke gerakan terakhir?
+JUMP_FLOATER_TUTORIAL/02,Jump Float Serve!
+JUMP_FLOATER_TUTORIAL/03,Servis ini dilakukan dengan melompat lalu memukul bola tanpa putaran.
+JUMP_FLOATER_TUTORIAL/04,"Tanpa putaran, trajektori bola akan bergoyang, menjadikan sangat sukar untuk pasukan lawan menerima!"
+JUMP_FLOATER_TUTORIAL/05,"Walaupun tak punya kuasa menjaring yang kuat,#ia boleh mengurangkan stamina lawan jadi sangat membantu!"
+JUMP_FLOATER_TUTORIAL/06,Jom cuba sekarang juga?
+,
+PRACTICE_GO_TUTORIAL_02/01,Bagus! Cukup setakat ini untuk pelajaran hari ini.
+PRACTICE_GO_TUTORIAL_02/02,"Masih ada gerakan sukar seperti servis rejam dan gelongsoran, tapi saya akan ajar kamu lain kali!"
+,
+SLIDING_TUTORIAL/01,Kejohanan semakin hampir! Bermain seperti biasa sahaja tidak akan mencukupi.
+SLIDING_TUTORIAL/02,Hari ini mari kita belajar teknik baru sama-sama!
+SLIDING_TUTORIAL/03,Gerakan pertama yang kita belajar ialah Sliding!#Pernah kan gagal bertahan sebab stamina tak cukup?
+SLIDING_TUTORIAL/04,"Sliding ialah gerakan penting,#boleh selamatkan bola walaupun stamina kurang!"
+SLIDING_TUTORIAL/05,"Gerakan ini memerlukan masa yang lebih tepat berbanding penerimaan,#tetapi amat penting kerana boleh menyelamatkan bola tanpa kehilangan stamina!"
+SLIDING_TUTORIAL/06,"Jom cuba! Aku akan pukul bola perlahan, cuba ikut timing dan buat Slaid!"
+,
+SPIKE_SERVE_TUTORIAL/01,Baik! Sekarang kita belajar Serve yang paling susah tapi paling kuat…
+SPIKE_SERVE_TUTORIAL/02,Jom belajar Spike Serve!
+SPIKE_SERVE_TUTORIAL/03,Spike Serve bermaksud melakukan Serve dengan Spike.
+SPIKE_SERVE_TUTORIAL/04,"Mula-mula kena buat Serve Toss pada ketinggian yang betul,#dan penting untuk ambil timing dan titik pukul yang sesuai."
+SPIKE_SERVE_TUTORIAL/05,"Ia kuat dan boleh kurangkan banyak stamina lawan,#tapi kelemahannya ialah risiko kehilangan mata tinggi."
+SPIKE_SERVE_TUTORIAL/06,Nak cuba tak? Masa latihan sesuai juga untuk Serve susah!
+,
+PRACTICE_GO_TUTORIAL_03/01,Bagus! Sampai sini dulu untuk hari ini!
+PRACTICE_GO_TUTORIAL_03/02,Rasanya aku dah ajar semua gerakan yang boleh aku ajar.
+PRACTICE_GO_TUTORIAL_03/03,"Sekarang, guna apa yang dah belajar dalam perlawanan sebenar dan jadikannya milik kamu sepenuhnya!"
+,
+CASUAL_RECEIVE_TUTORIAL/03,Hari ini mari kita belajar gerakan asas bola tampar bersama!
+CASUAL_RECEIVE_TUTORIAL/04,Pergerakan pertama yang kita akan belajar ialah receive.
+CASUAL_RECEIVE_TUTORIAL/05,Penerimaan ialah asas bola tampar! Gerakan penting ini menjadi titik permulaan setiap permainan.
+CASUAL_RECEIVE_TUTORIAL/06,"Saya akan baling bola perlahan, cuba receive ya?"
+,
+CASUAL_LONG_SPIKE_TUTORIAL/01,Bagus! Kali ini mari kita belajar gerakan spike.
+CASUAL_LONG_SPIKE_TUTORIAL/02,Spike ialah serangan memukul bola ke dalam gelanggang lawan.
+CASUAL_LONG_SPIKE_TUTORIAL/03,"Ini gerakan yang wajib diketahui untuk bermain bola tampar,#tetapi agak sukar bagi pemula!"
+CASUAL_LONG_SPIKE_TUTORIAL/04,Saya akan mengumpan perlahan. Cuba rejam pada masa yang tepat.
+CASUAL_LONG_SPIKE_TUTORIAL/05,"Bola bergerak mungkin membuat kamu panik, tetapi ayun dengan tenang mengikut hantaran saya. Kamu pasti boleh!"
+,
+CASUAL_SHORT_SPIKE_TUTORIAL/01,"Bagus! Jangan berhenti, teruskan!"
+CASUAL_SHORT_SPIKE_TUTORIAL/02,"Tadi kamu melakukan spike panjang kerana agak jauh dari jaring, kan?"
+CASUAL_SHORT_SPIKE_TUTORIAL/03,"Kali ini saya akan berikan toss dekat jaring, jadi cuba spike ke bawah!"
+CASUAL_SHORT_SPIKE_TUTORIAL/04,"Spike ke bawah lemah terhadap blok, jadi pilih arah serangan dengan bijak."
+CASUAL_SHORT_SPIKE_TUTORIAL/05,Mari kita cuba sekarang!
+,
+CASUAL_FEINT_TUTORIAL/01,Gerakan yang kita belajar kali ini ialah Feint!
+CASUAL_FEINT_TUTORIAL/02,"Bukan cat dalam baldi, tapi Feint!"
+CASUAL_FEINT_TUTORIAL/03,"Dari posisi Spike, sentuh bola ringan dengan hujung jari#untuk menyerang kelemahan lawan."
+CASUAL_FEINT_TUTORIAL/04,"Sangat berkesan bila stamina lawan rendah, jadi tahu cara gunakannya ya!"
+CASUAL_FEINT_TUTORIAL/05,Jom cuba sekarang juga!
+,
+CASUAL_BLOCK_TUTORIAL/01,Pergerakan seterusnya yang akan kita belajar ialah blocking!
+CASUAL_BLOCK_TUTORIAL/02,Hadangan ialah gerakan menahan rejaman lawan di hadapan jaring.
+CASUAL_BLOCK_TUTORIAL/03,"Kamu boleh melakukan blocking semasa berada di barisan depan ketika rotasi!#Ah, mungkin penjelasan ini kedengaran agak susah?"
+CASUAL_BLOCK_TUTORIAL/04,"Apabila giliran servis lawan dan pasukan kita mendapat mata,#kita akan mendapat hak servis dan posisi permulaan pemain berputar."
+CASUAL_BLOCK_TUTORIAL/05,"Pada waktu itu, pemain yang berada di depan jaring bersiap sedia untuk blocking!"
+CASUAL_BLOCK_TUTORIAL/06,"Ia boleh mengecilkan laluan serangan lawan,#sentuh sedikit pun boleh mengurangkan kuasa dengan banyak, jadi wajib dipelajari!"
+CASUAL_BLOCK_TUTORIAL/07,"Saya akan pukul perlahan, jadi mahu cuba sendiri?"
+,
+CASUAL_SLIDING_TUTORIAL/01,"Kali ini, mari pelajari gerakan bertahan di barisan belakang: sliding!"
+CASUAL_SLIDING_TUTORIAL/02,"Sliding ialah gerakan penting,#boleh selamatkan bola walaupun stamina kurang!"
+CASUAL_SLIDING_TUTORIAL/03,"Gerakan ini memerlukan masa yang lebih tepat berbanding penerimaan,#tetapi amat penting kerana boleh menyelamatkan bola tanpa kehilangan stamina!"
+CASUAL_SLIDING_TUTORIAL/04,"Jom cuba! Aku akan pukul bola perlahan, cuba ikut timing dan buat Slaid!"
+,
+CASUAL_SPIKE_SERVE_TUTORIAL/01,Baik! Sekarang kita belajar Serve yang paling susah tapi paling kuat…
+CASUAL_SPIKE_SERVE_TUTORIAL/02,Jom belajar Spike Serve!
+CASUAL_SPIKE_SERVE_TUTORIAL/03,Spike Serve bermaksud melakukan Serve dengan Spike.
+CASUAL_SPIKE_SERVE_TUTORIAL/04,"Mula-mula kena buat Serve Toss pada ketinggian yang betul,#dan penting untuk ambil timing dan titik pukul yang sesuai."
+CASUAL_SPIKE_SERVE_TUTORIAL/05,"Ia kuat dan boleh kurangkan banyak stamina lawan,#tapi kelemahannya ialah risiko kehilangan mata tinggi."
+CASUAL_SPIKE_SERVE_TUTORIAL/06,Nak cuba tak? Masa latihan sesuai juga untuk Serve susah!
+,
+CASUAL_END_TUTORIAL/01,Kejohanan semakin hampir! Bermain seperti biasa sahaja tidak akan mencukupi.
+CASUAL_END_TUTORIAL/02,Tunggu! Jadi selama ini kamu main dalam Mod Automatik ya?
+CASUAL_END_TUTORIAL/03,Mod Automatik membantu pelbagai pergerakan supaya permainan lebih mudah dan selesa!
+CASUAL_END_TUTORIAL/04,"Namun, kawalannya tidak sepenuhnya mengikut kehendak kamu, jadi kemajuan kemahiran kamu ada hadnya."
+CASUAL_END_TUTORIAL/05,"Selepas agak biasa bermain, saya mengesyorkan Mod Manual!"
+CASUAL_END_TUTORIAL/06,"Kandungan tutorial berbeza mengikut mod, jadi semak semula tutorial apabila bertukar ke Mod Manual!"
+CASUAL_END_TUTORIAL/07,"Saya tetap akan membantu kamu, jadi mari berusaha bersama!"
+,
+TUTORIAL/CONDITION_DES/01,"Semasa perlawanan, pemain boleh#jatuh ke dalam keadaan tertentu bergantung pada situasi."
+TUTORIAL/CONDITION_DES/02,"Keadaan Teruja meningkatkan Serangan dan Kelajuan, tetapi mengurangkan Lompatan dan Pertahanan.#Biasanya berlaku selepas serangan gagal atau dihadang."
+TUTORIAL/CONDITION_DES/03,"Keadaan Fokus meningkatkan semua statistik.#Biasanya berlaku selepas serangan, hadangan atau servis berjaya berturut-turut."
+TUTORIAL/CONDITION_DES/04,"Apabila berada dalam keadaan Berkecil hati, statistik keseluruhan berkurang.#Biasanya berlaku apabila gagal dalam pertahanan atau serangan."
+TUTORIAL/CONDITION_DES/05,"Apabila berada dalam keadaan Cuai, Pertahanan dan Kelajuan berkurang dengan ketara.#Biasanya berlaku apabila pemain tidak menyentuh bola dalam jangka masa yang lama."
+FEVER_TUTORIAL/TITLE,Peraturan Khas
+TUTORIAL/WS_DECRIPTION,"WS ialah ace pasukan, bertanggungjawab untuk serangan utama."
+TUTORIAL/SE_DECRIPTION,"Se (Setter) menaikkan bola yang diterima, mencipta peluang untuk spiker melakukan serangan."
+TUTORIAL/MB_DECRIPTION,MB menggunakan serangan pantas untuk mengganggu blok lawan dan memberi coverage untuk serangan WS.
+TUTORIAL/POSITION_DECRIPTION,Terdapat tiga posisi dalam pasukan.
+TUTORIAL/LISIA_DESCRIPTION,Servis langit Lisia jatuh dengan pantas dari tempat tinggi.#Anda mesti melakukan sliding dengan tepat pada masanya.
+,
+BEACH_FEVER_TUTORIAL/01,Perlawanan Serbuan Bola Tampar Pantai mempunyai peraturan khas.
+HEAT_TUTORIAL/01,"Semakin lama pertandingan berlangsung di pantai yang panas, semakin tinggi suhu badan pemain."
+HEAT_TUTORIAL/02,"Semakin tinggi suhu badan pemain, semakin meningkat kuasa serangan dan kelajuan mereka."
+HEAT_TUTORIAL/03,"Walau bagaimanapun, keupayaan lompatan dan pertahanan berkurang dengan ketara."
+HEAT_TUTORIAL/04,"Oleh itu, apabila suhu badan meningkat, anda perlu menukar pemain dari semasa ke semasa."
+HEAT_TUTORIAL/05,Suhu badan pemain dipaparkan di sudut kiri atas.
+ITEM_TUTORIAL/01,"Setiap 3 mata, anda boleh menggunakan item untuk mendekati perlawanan secara strategik."
+ITEM_TUTORIAL/02,"Jika bergantung pada Fever, suhu badan akan meningkat dengan cepat, jadi perlu berhati-hati."
+BEACH_RAID/HEAT,Panas
+TUTORIAL/UI/DES_01,Anda boleh meneruskan cerita di sini.
+TUTORIAL/UI/DES_02,Capai tier yang lebih tinggi untuk mencabar perlawanan baharu.
+TUTORIAL/UI/DES_03,Anda boleh mengasah kemahiran di sini.
+TUTORIAL/UI/DES_04,Anda boleh merekrut pemain baharu di sini.
+TUTORIAL/UI/DES_05,Anda boleh mencari pemain yang diinginkan secara langsung di sini.
+TUTORIAL/UI/DES_06,Anda boleh menyesuaikan penampilan pemain atau membeli bola tampar di sini.
+TUTORIAL/UI/DES_07,Anda boleh menuntut ganjaran di sini apabila mencapai tier baharu.
+TUTORIAL/UI/DES_08,Semak cabaran bagi setiap tier.
+TUTORIAL/UI/DES_09,Lengkapkan cabaran untuk menerima ganjaran.#Lengkapkan semua cabaran untuk naik ke tier seterusnya.
+TUTORIAL/UI/DES_10,Pilih pemain.
+TUTORIAL/UI/DES_11,Anda boleh menyemak statistik pemain.
+TUTORIAL/UI/DES_12,"Apabila keadaan tercetus, pemain menjadi lebih kuat atau lemah buat sementara waktu.#Semakin tinggi nilai keadaan pemain, semakin tinggi peluangnya tercetus."
+TUTORIAL/UI/DES_13,Anda boleh menyesuaikan penampilan pemain.
+TUTORIAL/UI/DES_14,Tambahkan pemain pada Kegemaran untuk memaparkannya terlebih dahulu.
+TUTORIAL/UI/DES_15,Anda boleh terus memainkan kandungan yang disyorkan pada skrin ini.
+TUTORIAL/UI/DES_16,"Bagus!#Sekarang, bermainlah dalam perlawanan dengan bebas, kembangkan pemain pilihan anda dan tingkatkan kemahiran anda!"
+TUTORIAL/NEW_PLAYER/DES_01,Pemain baharu kini tersedia!
+TUTORIAL/NEW_PLAYER/DES_02,Pergi ke skrin Pengurusan Pemain.
+TUTORIAL/NEW_PLAYER/DES_03,Anda boleh mendaftarkan pemain baharu sebagai pemain utama di sini.
+TUTORIAL/NEW_PLAYER/DES_04,Setter baharu telah didaftarkan!
+TUTORIAL/NEW_PLAYER/DES_05,"Sekarang, mari kita cuba meningkatkan pemain."
+TUTORIAL/NEW_PLAYER/DES_06,Anda boleh meningkatkan tahap pemain dengan menambah statistik mereka.
+TUTORIAL/NEW_PLAYER/DES_07,<item=EXPPOINT> tambahan diperlukan untuk meningkatkan tahap pemain.
+TUTORIAL/NEW_PLAYER/DES_08,"Semakin tinggi rank pemain, semakin banyak#<item=EXPPOINT> dan <item=CREDIT> diperlukan untuk meningkatkan tahap."
+TUTORIAL/NEW_PLAYER/DES_09,Alamak! Nampaknya pemain tidak boleh dinaik taraf sekarang...
+TUTORIAL/NEW_PLAYER/DES_10,Anda juga boleh terus mendaftarkan pemain sebagai pemain utama di sini.
+TUTORIAL/NEW_PLAYER/DES_11,Kini nikmati perlawanan yang lebih pelbagai bersama pemain baharu anda!
+,
+TUTORIAL_MB_MOVEMENT,Latihan Pengadang Tengah
+TUTORIAL_MISSION/QUICK,Lakukan Serangan Pantas
+TUTORIAL_MISSION/FAKE_QUICK,Tarik Hadangan Roberto
+TUTORIAL/QUICK,Serangan Pantas
+TUTORIAL/QUICK_DES,"Lompat sebelum pengumpan membuat hantaran,#dan dia akan membuat hantaran pantas kepada pengadang tengah."
+QUICK_TUTORIAL/01,"Serangan pantas ialah asas terpenting bagi pengadang tengah.#Kalau ini pun tak boleh... susahlah nak panggil diri pengadang tengah, bukan?"
+QUICK_TUTORIAL/02,"Yang penting, lompat sebelum pengumpan kita membuat hantaran.#Apabila bola sampai, kamu sepatutnya sudah berada pada ketinggian untuk menyerang."
+QUICK_TUTORIAL/03,"Jika masanya tepat, pengumpan akan menghantar bola tepat ke tangan kamu."
+QUICK_TUTORIAL/04,Cuba dahulu. Lompat berhampiran aku sejurus sebelum hantaran... kemudian terus rejam bola itu!
+RECEIVE_QUICK_TUTORIAL/01,Oh~ Bagus! Kali ini nampak agak meyakinkan.
+RECEIVE_QUICK_TUTORIAL/02,"Kali ini, apa kata kita cuba seperti dalam perlawanan sebenar?"
+RECEIVE_QUICK_TUTORIAL/03,"Roberto akan membantu kamu.#Dia akan menyesuaikan permainannya supaya kamu dapat mempelajari masa serangan pantas, jadi jangan risau."
+RECEIVE_QUICK_TUTORIAL/04,"Selepas menerima bola, terus berlari ke depan jaring.#Lakukan serangan pantas seperti yang telah dipelajari."
+FAKE_QUICK_TUTORIAL/01,"Bagus, bagus. Sekarang sudah mula nampak caranya."
+FAKE_QUICK_TUTORIAL/02,"Nampaknya kamu sudah agak memahami masa serangan pantas...#Jadi, Roberto, sekarang cuba halang dengan bersungguh-sungguh."
+FAKE_QUICK_TUTORIAL/03,"Kali ini, dia akan benar-benar membuat hadangan mengikut masa serangan pantas kamu.#Tak semudah tadi untuk merejam, bukan?"
+FAKE_QUICK_TUTORIAL/04,"Tapi, dengar sini.#Pengadang tengah tak semestinya perlu merejam bola.#Mengelirukan pengadang lawan juga sebahagian daripada tugas kamu."
+FAKE_QUICK_TUTORIAL/05,"Walaupun kamu hanya melompat mengikut masa seolah-olah mahu melakukan serangan pantas, pihak lawan sukar untuk mengabaikan kamu."
+FAKE_QUICK_TUTORIAL/06,"Kali ini, lompat sahaja tanpa menyentuh bola.#Perdayakan Roberto dan bantu perejam sayap kita memperoleh mata dengan serangan tertunda."
+PRACTICE_GO_TUTORIAL_04/01,"Oh~ Hebat, hebat."
+PRACTICE_GO_TUTORIAL_04/02,"Berbeza daripada bermain sebagai perejam sayap, bukan? Macam mana, boleh buat?"
+PRACTICE_GO_TUTORIAL_04/03,"Sekarang kamu sudah memahami serangan pantas, jadi mari kuasai yang selebihnya dengan terus berlatih."
+WRONG_ATTACK_POSITION_TIP,Lompat di dalam kawasan yang bercahaya.
+MIDAIR_AT_TOSS_TIP,Kamu perlu melompat sebelum pengumpan membuat hantaran.
+MIDAIR_AT_TOSS_TIP_THATS_OPEN,"Itu serangan terbuka, bukan serangan pantas."
+MIDAIR_AT_TOSS_TIP_TOO_FAST,Cuba lompat sedikit lewat.
+MIDAIR_AT_TOSS_TIP_TOO_FAR,"Semakin jauh kamu daripada jaring, semakin sukar untuk melakukan serangan pantas."
+ATTACK_BEFORE_TOSS_TIP,Serang mengikut masa hantaran pengumpan.
+ATTACK_IN_COURT_TIP,Kamu perlu memukul bola lebih jauh di hadapan.
+FAKE_JUMP_TIP,Lompat mengikut masa serangan pantas.
+FAKE_QUICK_TIP,Mendarat tanpa memukul bola.
+TOO_FAST_QUICK_TIP,Ayun mengikut masa yang tepat.
+QUICK_TOSS_FAIL_TIP,Kena lompat awal supaya saya boleh buat set untuk Serangan Pantas.
+BLOCKING_BREAK_TIP,Sasarkan titik lemah dan tembusi blok!
+,
+TUTORIAL/ELITE_RULE_UI_APPEAR_DES,"Setiap pemain mempunyai Stamina dan Kekuatan Mental masing-masing.#Stamina ditunjukkan dalam warna kuning, manakala Kekuatan Mental ditunjukkan dalam warna biru."
+TUTORIAL/ELITE_RULE_UI_DAMAGE_DES,"Pemain yang menerima bola akan kehilangan Stamina dan Kekuatan Mental.#Jika Stamina habis, pemain akan gagal bertahan."
+TUTORIAL/ELITE_RULE_DEFENSE_TIMING_DES,"Tekan butang Meluncur atau Menerima pada masa yang tepat untuk mengurangkan kerosakan.#Jika tiada butang ditekan, pemain akan bertahan berdasarkan keputusan rawak."
+TUTORIAL/ELITE_RULE_RECEIVE_DES,Terima bola pada masa yang tepat supaya bola melantun naik dengan stabil.#Penerimaan Sempurna akan menghasilkan Bola Peluang.
+TUTORIAL/ELITE_RULE_SLIDING_DES,"Meluncur boleh mempertahankan kawasan yang luas, tetapi bola akan melantun naik dengan kurang stabil.#Bertahan dengan Meluncur tidak akan menghasilkan Bola Peluang."
+TUTORIAL/ELITE_RULE_FLOATER_SERVE_DES,Servis Apung dan Servis Hibrid memberikan kerosakan yang mengabaikan Pertahanan.#Kegagalan bertahan pada masa yang tepat akan menyebabkan kerosakan yang besar.
+TUTORIAL/ELITE_RULE_MENTALITY_DES,"Kekuatan Mental tidak mudah pulih antara rali.#Semakin rendah Kekuatan Mental pemain, semakin banyak Stamina yang hilang ketika bertahan."
+TUTORIAL/ELITE_RULE_EXHAUST_DES,"Apabila Kekuatan Mental habis sepenuhnya, pemain akan menjadi Letih untuk seketika.#Kekuatan Mental tidak akan pulih semasa pemain dalam keadaan Letih."
+TUTORIAL/ELITE_RULE_FORMATION_DES,Kedudukan pertahanan pemain tidak berubah apabila giliran servis bertukar.#Kedudukan pertahanan pemain boleh diubah semasa masa rehat.
+TUTORIAL/RAID_TIP_06,Hampir tepat!

@@ -1,0 +1,471 @@
+﻿KEY,말레이시아어(ms)
+엘리트룰,
+ELITE_RULE,Peraturan Elit
+ELITE_RULE/DEFENSE,Pertahanan Elit
+ELITE_RULE/DEFENSE/DES,"Peraturan Elit memerlukan pertahanan yang tepat.#Semakin hampir masa Penerimaan atau Luncuran dengan saat pemain menyentuh bola, semakin tinggi ketepatannya, dan penilaian PERFECT, GREAT, GOOD atau BAD akan diberikan mengikut ketepatan.#Semakin hampir penilaian kepada PERFECT, semakin kurang kerosakan pada Stamina Individu dan Mental."
+ELITE_RULE/DEFENSE_PERFECT,Pertahanan PERFECT
+ELITE_RULE/DEFENSE_PERFECT/DES,Pertahanan Sempurna yang dilakukan dalam julat bingkai yang ditetapkan menangkis 100% serangan lawan dan membatalkan kebolehan khas.#Penerimaan Sempurna menghasilkan Hantaran A serta memulihkan sebahagian Stamina Individu dan Mental.#Penerimaan: dalam 1 bingkai#Luncuran: dalam 3 bingkai
+ELITE_RULE/DEFENSE_GREAT,Pertahanan GREAT
+ELITE_RULE/DEFENSE_GREAT/DES,"Pertahanan GREAT menangkis 80% serangan lawan.#Jika Stamina Individu tidak mencukupi, pertahanan boleh gagal walaupun mendapat penilaian GREAT."
+ELITE_RULE/DEFENSE_GOOD,Pertahanan GOOD
+ELITE_RULE/DEFENSE_BAD,Pertahanan BAD
+ELITE_RULE/DEFENSE_BAD/DES,"Jika anda bertahan terlalu lewat, anda mungkin menerima penilaian BAD. Pertahanan BAD meningkatkan kerosakan pada Stamina Individu dan Mental pemain yang bertahan, jadi sebaiknya elakkan penilaian BAD semasa Penerimaan.#Semasa Luncuran, anda tidak akan menerima penilaian Pertahanan BAD."
+ELITE_RULE/RECEIVE_COMMAND,Arahan Penerimaan
+ELITE_RULE/RECEIVE_COMMAND/DES,"Dalam Peraturan Elit, tekan butang Menerima untuk mengarahkan masa penerimaan rakan sepasukan.#Jika tiada arahan diberikan sebelum tempoh penerimaan tamat, rakan sepasukan akan bertahan sendiri pada saat terakhir.#Bar masa pertahanan menunjukkan ketepatan arahan penerimaan atau keputusan automatik rakan sepasukan."
+ELITE_RULE/EXHAUSTION,Keletihan
+ELITE_RULE/EXHAUSTION/DES,"Pemain yang kehilangan semua Mental akan berada dalam keadaan Keletihan.#Semasa Keletihan, Stamina Individu dan Mental tidak akan pulih.#Keletihan boleh dihilangkan melalui pertukaran pemain atau timeout, dan pada masa itu Mental serta Stamina Individu akan pulih sepenuhnya."
+ELITE_RULE/MENTALITY,Mental
+ELITE_RULE/MENTALITY/DES,"Setiap pemain mempunyai Mental sendiri. Apabila habis, pemain menjadi Letih.#Mental berkurang mengikut Kekuatan serangan lawan, tetapi Pertahanan boleh mengurangkan kerosakan."
+ELITE_RULE/INDIVIDUAL_STAMINA,Stamina Individu
+ELITE_RULE/INDIVIDUAL_STAMINA/DES,"Setiap pemain mempunyai Stamina sendiri. Apabila Stamina rendah, bola akan melantun jauh walaupun pemain menerima atau meluncur untuk menahan serangan lawan."
+RULE/ELITE_RECEIVE,Penerimaan Elit
+RULE/MATCH_RULE,Peraturan Perlawanan
+RULE/INDIVIDUAL_STAMINA,Stamina Individu
+EV2609 이벤트 이후 삭제해도 되는 언어,
+EV2609,Peringkat Elit
+EV2609_DES,Peraturan Elit khas digunakan dalam Peringkat Elit.##Lawan pasukan yang berbeza setiap hari dan lengkapkan Syarat Bintang untuk mengumpulkan Bintang. Hanya rekod Bintang tertinggi yang dicapai dalam perlawanan hari tersebut akan dikira sebagai jumlah harian anda.##Anda boleh memperoleh Ganjaran Harian bagi kemenangan pertama setiap hari dan terus mencabar perlawanan yang sama untuk mendapatkan lebih banyak Bintang. Ganjaran Mingguan diberikan berdasarkan jumlah Bintang yang dikumpulkan sepanjang minggu.
+EV2609_COIN,Syiling Elit
+EV2609_COIN_DESC,Mata wang acara yang diperoleh dari Peringkat Elit.#Boleh digunakan di Kedai.
+EV2609_EXTRA_REWARD_TICKET,Tiket Ganjaran Tambahan
+EV2609_EXTRA_REWARD_TICKET_DESC,Gunakan untuk menerima Ganjaran Harian hari ini sekali lagi. Ganjaran diperoleh dengan menyelesaikan peringkat dan tiket ini boleh dibeli sekali sehari.
+EV2609_RECRUIT_GAUGE,Meter Pengambilan Elit
+EV2609_RECRUIT_GAUGE_DESC,Meter Pengambilan yang boleh digunakan sepanjang acara Peringkat Elit. Digunakan dahulu semasa meninjau pemain Elit dan tiada had simpanan. Luput apabila acara tamat.
+EV2609_PLAYER_RECRUIT_TICKET,Tiket Pengambilan Pemain Pickup Elit
+EV2609_PLAYER_RECRUIT_TICKET_DESC,Tiket pengambilan yang boleh digunakan sepanjang acara Peringkat Elit.#Boleh digunakan untuk mengambil pemain acara.
+EV2609_RAID_SHOP_POPUP,"Tukar mata wang yang ditetapkan dengan pelbagai mata wang, tiket pengambilan dan item."
+EV2609_POPUP_DESC,"Cabar Peringkat Elit! Temui Han Gitae, Seo Yuna dan Kang Sejin!"
+EV2609_POPUP_PLAY_TITLE,Peringkat Elit
+EV2609_POPUP_PLAY_DESC,Bertanding menentang pasukan yang berbeza setiap hari dan menang.
+EV2609_POPUP_PICKUP_TITLE,Pengambilan Pilihan Pemain Elit Bermula!
+EV2609_POPUP_PICKUP_DESC,Pengambilan pilihan pemain eksklusif Peringkat Elit dan#jualan pakej
+EV2609_LOGIN_BONUS,Pas Kehadiran Elit
+EV2609_POPUP_ATTENDANCE_DESC,Dapatkan item eksklusif dan Syiling Elit!#Pas Premium dan Pas Royal kini tersedia!
+DIFFICULTY_EXTREME,Ekstrem
+EV2609_UNLOCK_EXTRA_REWARD,Tetapkan Semula Ganjaran
+EV2609_CLEAR_RESULT,Keputusan Penyelesaian
+EV2609_RESET_INFO,Ditetapkan semula setiap hari pada 00:00 (UTC).
+NO_CLEAR_RESULT,Tiada rekod penyelesaian.
+EV2609_CLAIM_WEEKLY_FIRST,Tuntutan Ganjaran Mingguan Diperlukan
+EV2609_NO_STAGE,Tiada peringkat yang boleh dimasuki hari ini.
+EV2609_USE_REWARD_TICKET_DES,Gunakan untuk menerima Ganjaran Harian hari ini sekali lagi.#Ganjaran diperoleh selepas menamatkan peringkat.
+EV2609_ERROR_ALREADY_CLAIMED_WEEKLY_REWARD,Tiada ganjaran yang boleh dituntut.
+EV2609_ERROR_INVALID_EVENT,Acara ini tidak sah.
+EV2609_ERROR_NOT_STAGE_TODAY,Peringkat ini tidak boleh dimasuki hari ini.
+EV2609_ERROR_DAILY_REWARD_AVAILABLE,Ganjaran Harian masih boleh dituntut.
+EV2609_ERROR_NOT_ENOUGH_PRODUCT,Tiket Ganjaran Tambahan tidak mencukupi.
+EV2609_ERROR_MATCH_IN_PROGRESS,Perlawanan sedang berlangsung.
+EV2609_STAR_REQUIRE,atau lebih
+EV2609_MISSION_MB_WIN,Menangi {0} perlawanan sambil mengawal pengadang tengah
+EV2609_MISSION_BACK_ATTACK,Berjaya lakukan Back Attack {0} kali dalam perlawanan dimenangi
+EV2609_MISSION_SERVE_ACE,Dapatkan Serve Ace {0} kali dalam perlawanan dimenangi
+EV2609_MISSION_PERFECT_RECEIVE,Berjaya melakukan Perfect Receive sebanyak {0} kali sebagai pemain yang dikawal dalam perlawanan yang dimenangi
+EV2609_MISSION_MB_QUICK,Lakukan {0} serangan pantas sambil mengawal Middle Blocker dalam perlawanan dimenangi
+EV2609_MISSION,Misi Peringkat Elit
+EV2609_MISSION_DES,Misi khas ini kekal tersedia sepanjang Acara Elit. Semua misi boleh diselesaikan melalui perlawanan Peringkat Elit.
+EV2609_MATCH_PERIOD_END,Acara telah tamat dan kini anda hanya boleh menuntut ganjaran. Pergi ke tetingkap Ganjaran?
+EV2609_REWARD_ONLY_ONCE,Kali Pertama Sahaja
+EV2609_WEEKLY_REWARD,Ganjaran Mingguan
+EV2609_WEEKLY_REWARD_LIST,Senarai Ganjaran Mingguan
+EV2609_EXCHANGE_SHOP,Kedai Syiling Elit
+RECRUIT_ELITE_SEO_YUNA_TITLE,Pengambilan Seo Yuna S
+RECRUIT_ELITE_SEO_YUNA_DESC,"Rekrut pemain termasuk perejam sayap berpangkat S, Seo Yuna, yang menyertai melalui Peringkat Elit."
+RECRUIT_ELITE_HAN_GITAE_TITLE,Pengambilan Han Gitae S+
+RECRUIT_ELITE_HAN_GITAE_DESC,"Rekrut pemain termasuk pengadang tengah berpangkat S+, Han Gitae, yang menyertai melalui Peringkat Elit."
+RECRUIT_ELITE_KANG_SEJIN_TITLE,Pengambilan Kang Sejin S
+RECRUIT_ELITE_KANG_SEJIN_DESC,"Rekrut pemain termasuk pengumpan berpangkat S, Kang Sejin, yang menyertai melalui Peringkat Elit."
+EV2609_PICKUP_WS,WS Seo Yuna
+EV2609_PICKUP_MB,MB Han Gitae
+EV2609_PICKUP_SE,Se Kang Sejin
+EV2609_LOGIN_BONUS_DESC,Log masuk dalam tempoh yang ditetapkan untuk mendapatkan pelbagai item dan mata wang.
+EV2609_SPECIALIZATION_BOX,Kotak Mata Buka Pengkhususan
+EV2609_SPECIALIZATION_BOX_DES,Dapatkan sehingga 2 daripada 9 jenis Mata Buka Pengkhususan secara rawak. Ganjaran ini boleh diperoleh sekali sehari selepas kemenangan pertama pada hari tersebut.
+,
+,
+,
+,
+,
+,
+,
+상시 편입 언어,
+RECRUIT/GAUGE_SCOUT_READY,Dijamin selepas {0} rekrut lagi!
+RECRUIT/SCOUT_CONFIRM_GAUGE,Gunakan {0} unit meter untuk meninjau?
+RECRUIT/SCOUT_CONFIRM_GAUGE_ONE,Gunakan {1} {0} untuk meninjau?
+RECRUIT/SCOUT_CONFIRM_GAUGE_TWO,Gunakan {1} {0} dan {3} {2} untuk meninjau?
+RECRUIT/NO_SKIN_RECRUITING,Tiada skin tersedia untuk direkrut sekarang!
+ALERT/PICKUP_GAUGE_HELD_CAP,Dimiliki {0} / Had {1}
+,
+ALERT/PICKUP_GAUGE_NO_MORE,Anda tidak boleh mendapatkan lagi Meter Pengambilan Pilihan.
+RECRUIT_GAUGE,Meter Pengambilan Pilihan
+RECRUIT_GAUGE_DESC,Boleh digunakan untuk meninjau pemain. Merekrut dengan Tiket Rekrut Pemain Pick-Up atau Mata V menambah 1 Meter Pengambilan Pilihan bagi setiap 1 pemain direkrut.#Anda tidak boleh menyimpan lebih daripada 135 Meter Pengambilan Pilihan.
+BEGINNER_RECRUIT_TICKET,Tiket Rekrut Pemula
+BEGINNER_RECRUIT_TICKET_DESC,Tiket Rekrut untuk membantu pemula berkembang dengan cepat.#Cuba rekrut pemain berpangkat S!
+BEGINNER_RECRUIT_GAUGE,Meter Pilihan Pemula
+BEGINNER_RECRUIT_GAUGE_DESC,"Boleh digunakan untuk pencarian bakat pemain pemula. Apabila merekrut menggunakan Tiket Pengambilan Pemula, Meter Pengambilan Pemula meningkat sebanyak 1 bagi setiap pemain yang direkrut."
+BEGINNER_RECRUIT/SELECT_SCOUT_TARGET,Pilih pemain untuk ditinjau.
+ALERT/PICKUP_GAUGE_LIMIT,Anda tidak boleh menyimpan lebih daripada 135 Meter Pengambilan Pilihan.#Teruskan merekrut?
+CONVERT,Tukar
+SCOUT_POINT_CONVERSION,Tukar Mata Scout Pickup
+PICKUP_GAUGE_LIMIT_DES,Anda boleh menyimpan sehingga 135 Meter Pengambilan Pilihan.
+CAN_CONVERT_MORE_ONE,Anda mesti menukar sekurang-kurangnya 1.
+MOVE_TO_GUIDE_PLAYER_DES,Lihat penerangan pemain {0}?
+NO_MORE_SCOUT_POINT,Tiada Mata Scout Pickup.
+CHECK_SCOUT_POINT_AMOUNT,Jumlah ini tidak boleh ditukar.
+CALENDAR_BEFORE_FIRST_PURCHASE,Belum bermula.
+RECRUIT/SCOUT_HELP_LINE_1,Scout membolehkan merekrut pemain secara pasti.
+RECRUIT/SCOUT_HELP_LINE_2,Gunakan Meter Pengambilan untuk meninjau pemain.
+RECRUIT/SCOUT_HELP_LINE_3,"Dalam rekrut Normal, Posisi dan Colosseum, scout dengan Mata Scout."
+RECRUIT/SCOUT_RULE_GAUGE_CAP,Anda boleh menyimpan sehingga {0} Meter Pengambilan Pilihan.
+RECRUIT/SCOUT_RULE_PICKUP_CONVERT,Mata Scout Pickup boleh ditukar kepada Meter Pengambilan Pilihan.
+RECRUIT/SCOUT_RULE_BLOCK,Pemain tidak boleh ditinjau lagi jika telah mencapai 5 Terobosan atau anda memiliki 5 Serpihan Usaha.
+,
+,
+BEGINNER_RECRUIT_DESC_1,Gunakan 40 Tiket Rekrut untuk menjamin 1 pemain berpangkat S!
+BEGINNER_RECRUIT_DESC_2,Produk ini boleh dibeli di kedai.
+,
+BEGINNER_RECRUIT/RECENTLY_SELECTED,Dipilih Baru-baru Ini
+RECRUIT/TAB_BASIC,Rekrut Asas
+RECRUIT/TAB_COLOSSEUM,Pengambilan Pemain Colosseum
+RECRUIT/PICKUP_REMAIN,Tamat dalam {0}
+RECRUIT/SCOUT_ROUND,Pusingan {0}
+RECRUIT/SCOUT_NEXT_NEED,Meter Pengambilan diperlukan untuk meninjau: {0}
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,Panduan Meter Pengambilan untuk Tinjauan
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,Pusingan
+RECRUIT/SCOUT_GAUGE_TABLE_COL_NEED,Meter Pengambilan Diperlukan
+CAN_RECRUIT_SCOUT,{0} boleh diperoleh!
+RECRUIT/TAB_POSITION,Pengambilan Pemain Mengikut Kedudukan
+RECRUIT/TAB_COLOSSEUM,Pengambilan Pemain Colosseum
+RECRUIT_NORMAL,Rekrut Asas
+RECRUIT_WS,Rekrut Pemain Spiker Sayap
+RECRUIT_MB,Rekrut Pengadang Tengah
+RECRUIT_SE,Rekrut Pengumpan
+,
+RECRUIT/SCOUT_CONFIRM_TITLE,Tinjau {0}
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,Pusingan
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,Tinjau
+RECRUIT/SCOUT_GAUGE_TABLE_DES,Tinjauan menjamin pengambilan pemain. Anda boleh meninjau pemain menggunakan Meter Pengambilan atau Mata Scout.
+RECRUIT/SCOUT_LONG_DES,Meninjau dengan Meter Pengambilan mengurangkan meter yang diperlukan untuk tinjauan seterusnya. # Anda boleh menyimpan sehingga 135 Meter Pengambilan Pilihan.
+RECRUIT/SCOUT_BLOCKED_AWAKEN,Anda tidak boleh mendapatkan lagi.
+RECRUIT/BUY_TICKET_WITH_COIN_AND_RECRUIT,Beli {3} {2} dengan {1} {0} dan rekrut?
+CALENDAR_SCHEDULED,Dijadualkan
+CALENDAR_EXPIRED,Tempoh Penggunaan Tamat
+CALENDAR_GLOBAL_BEFORE,Akan Dibuka
+CALENDAR_GLOBAL_AFTER,Operasi Tamat
+CALENDAR_CONFIG_MISSING,Kemas Kini Tetapan Diperlukan
+DIRECT_RECRUIT,Rekrut Sekarang
+CAN_RECRUIT,Perekrutan Tersedia
+EVENT_PICKUP_DES,· {0} digunakan dahulu semasa meninjau pemain. Luput apabila acara tamat.
+RECRUIT/NOT_ENUGH_GAUGE,Meter Pengambilan tidak mencukupi.
+BEGINNER_RECRUIT,Pengambilan Pemain untuk Pemula
+BEGINNER_RECRUIT_TITLE,Pengambilan Pemain untuk Pemula
+BEGINNER_RECRUIT_DESC,Gunakan Tiket Rekrut Pemula untuk mendapatkan pemain berpangkat S secara pasti.
+BEGINNER_RECRUIT/CONFIRM_SCOUT_TARGET,Pilih Pemain
+BEGINNER_RECRUIT/TIP_MINJUN/KEYWORD,Keupayaan menjaringkan mata yang tinggi
+BEGINNER_RECRUIT/TIP_MINJUN,"Mudah diguna, skor tinggi - disyorkan untuk semua kandungan"
+BEGINNER_RECRUIT/TIP_YOUNGSUB/KEYWORD,Jenis serba boleh
+BEGINNER_RECRUIT/TIP_YOUNGSUB,Kekuatan stabil yang cemerlang dalam semua kandungan
+BEGINNER_RECRUIT/TIP_ISABEL/KEYWORD,Jenis fokus counter
+BEGINNER_RECRUIT/TIP_ISABEL,"Sukar digunakan dalam permainan biasa, tetapi potensi prestasinya yang tinggi sesuai untuk kandungan mencabar."
+BEGINNER_RECRUIT/TIP_ATIS/KEYWORD,Jenis tekanan serangan pantas
+BEGINNER_RECRUIT/TIP_ATIS,Menekan lawan dengan keupayaan fizikal unggul dan serangan pantas - disyorkan untuk semua kandungan
+BEGINNER_RECRUIT/TIP_HANRA/KEYWORD,Jenis pertahanan stabil
+BEGINNER_RECRUIT/TIP_HANRA,Tingkatkan kestabilan dengan pertahanan kukuh dan sokongan - disyorkan semua kandungan
+BEGINNER_RECRUIT/TIP_SANGHYEON/KEYWORD,Jenis pengukuh pasukan
+BEGINNER_RECRUIT/TIP_SANGHYEON,Naikkan status seluruh pasukan untuk peluang bertahan & menyerang - disyorkan semua kandungan
+BEGINNER_RECRUIT/TIP_LISIA/KEYWORD,Jenis pakar servis
+BEGINNER_RECRUIT/TIP_LISIA,Servis mengancam yang naikkan moral rakan - disyorkan semua kandungan
+BEGINNER_RECRUIT/TIP_ZERO/KEYWORD,Jenis sokongan toss
+BEGINNER_RECRUIT/TIP_ZERO,Toss kuat yang buat rakan bersinar - disyorkan semua kandungan
+BEGINNER_RECRUIT/TIP_AHYEON/KEYWORD,Jenis pakar sinergi
+BEGINNER_RECRUIT/TIP_AHYEON,Melumpuhkan lawan melalui kerjasama dengan rakan sepasukan - disyorkan untuk kandungan mencabar
+RECRUIT/SCOUT_MAXED,Semua tinjauan untuk pemain ini telah selesai.
+,
+,
+STAR_CONDITION/ALWAYS,Menangi Perlawanan
+STAR_CONDITION/ONAIR_VIEWERS,Capai jumlah penonton tertinggi sebanyak {0} orang
+STAR_CONDITION/SPIKE_SCORE,Jaringkan mata {0} kali dengan rejaman
+STAR_CONDITION/BACK_ATTACK_SCORE,Jaringkan mata {0} kali dengan Serangan Barisan Belakang
+STAR_CONDITION/QUICK_SCORE,Jaringkan mata {0} kali dengan Serangan Pantas
+STAR_CONDITION/LOSE_SCORE,Bolos kurang daripada {0} mata
+STAR_CONDITION/LOSE_SCORE_MANUAL,Bolos kurang daripada {0} mata dalam Mod Manual
+STAR_CONDITION/DIFFICULTY_EXTREME,Menang pada tahap kesukaran Sangat Sukar
+STAR_CONDITION/DIFFICULTY_HARD,Menang pada tahap kesukaran Sukar
+STAR_CONDITION/WIN_SCORE_WITHOUT_AUTO,Menang dengan perbezaan sekurang-kurangnya {0} mata dalam Mod Manual
+STAR_CONDITION/WIN_SCORE_WITHOUT_BEGINNER,Menang dengan perbezaan sekurang-kurangnya {0} mata tanpa Mod Pemula
+CONVERTED_GAUGE_AMOUNT,Jumlah Ditukar: {0}
+COMMON/TOTAL,Jumlah
+TUTORIAL_MB_MOVEMENT,Latihan Pengadang Tengah
+TUTORIAL_MISSION/QUICK,Lakukan Serangan Pantas
+TUTORIAL_MISSION/FAKE_QUICK,Tarik Hadangan Roberto
+TUTORIAL/QUICK,Serangan Pantas
+TUTORIAL/QUICK_DES,"Lompat sebelum pengumpan membuat hantaran,#dan dia akan membuat hantaran pantas kepada pengadang tengah."
+QUICK_TUTORIAL/01,"Serangan pantas ialah asas terpenting bagi pengadang tengah.#Kalau ini pun tak boleh... susahlah nak panggil diri pengadang tengah, bukan?"
+QUICK_TUTORIAL/02,"Yang penting, lompat sebelum pengumpan kita membuat hantaran.#Apabila bola sampai, kamu sepatutnya sudah berada pada ketinggian untuk menyerang."
+QUICK_TUTORIAL/03,"Jika masanya tepat, pengumpan akan menghantar bola tepat ke tangan kamu."
+QUICK_TUTORIAL/04,Cuba dahulu. Lompat berhampiran aku sejurus sebelum hantaran... kemudian terus rejam bola itu!
+RECEIVE_QUICK_TUTORIAL/01,Oh~ Bagus! Kali ini nampak agak meyakinkan.
+RECEIVE_QUICK_TUTORIAL/02,"Kali ini, apa kata kita cuba seperti dalam perlawanan sebenar?"
+RECEIVE_QUICK_TUTORIAL/03,"Roberto akan membantu kamu.#Dia akan menyesuaikan permainannya supaya kamu dapat mempelajari masa serangan pantas, jadi jangan risau."
+RECEIVE_QUICK_TUTORIAL/04,"Selepas menerima bola, terus berlari ke depan jaring.#Lakukan serangan pantas seperti yang telah dipelajari."
+FAKE_QUICK_TUTORIAL/01,"Bagus, bagus. Sekarang sudah mula nampak caranya."
+FAKE_QUICK_TUTORIAL/02,"Nampaknya kamu sudah agak memahami masa serangan pantas...#Jadi, Roberto, sekarang cuba halang dengan bersungguh-sungguh."
+FAKE_QUICK_TUTORIAL/03,"Kali ini, dia akan benar-benar membuat hadangan mengikut masa serangan pantas kamu.#Tak semudah tadi untuk merejam, bukan?"
+FAKE_QUICK_TUTORIAL/04,"Tapi, dengar sini.#Pengadang tengah tak semestinya perlu merejam bola.#Mengelirukan pengadang lawan juga sebahagian daripada tugas kamu."
+FAKE_QUICK_TUTORIAL/05,"Walaupun kamu hanya melompat mengikut masa seolah-olah mahu melakukan serangan pantas, pihak lawan sukar untuk mengabaikan kamu."
+FAKE_QUICK_TUTORIAL/06,"Kali ini, lompat sahaja tanpa menyentuh bola.#Perdayakan Roberto dan bantu perejam sayap kita memperoleh mata dengan serangan tertunda."
+PRACTICE_GO_TUTORIAL_04/01,"Oh~ Hebat, hebat."
+PRACTICE_GO_TUTORIAL_04/02,"Berbeza daripada bermain sebagai perejam sayap, bukan? Macam mana, boleh buat?"
+PRACTICE_GO_TUTORIAL_04/03,"Sekarang kamu sudah memahami serangan pantas, jadi mari kuasai yang selebihnya dengan terus berlatih."
+WRONG_ATTACK_POSITION_TIP,Lompat di dalam kawasan yang bercahaya.
+MIDAIR_AT_TOSS_TIP,Kamu perlu melompat sebelum pengumpan membuat hantaran.
+MIDAIR_AT_TOSS_TIP_THATS_OPEN,"Itu serangan terbuka, bukan serangan pantas."
+MIDAIR_AT_TOSS_TIP_TOO_FAST,Cuba lompat sedikit lewat.
+MIDAIR_AT_TOSS_TIP_TOO_FAR,"Semakin jauh kamu daripada jaring, semakin sukar untuk melakukan serangan pantas."
+ATTACK_BEFORE_TOSS_TIP,Serang mengikut masa hantaran pengumpan.
+ATTACK_IN_COURT_TIP,Kamu perlu memukul bola lebih jauh di hadapan.
+FAKE_JUMP_TIP,Lompat mengikut masa serangan pantas.
+FAKE_QUICK_TIP,Mendarat tanpa memukul bola.
+TOO_FAST_QUICK_TIP,Ayun mengikut masa yang tepat.
+QUICK_TOSS_FAIL_TIP,Kena lompat awal supaya saya boleh buat set untuk Serangan Pantas.
+BLOCKING_BREAK_TIP,Sasarkan titik lemah dan tembusi blok!
+,
+,
+,
+SHOP/DOUBLE_BONUS,BONUS! +{0}VP
+SHOP/FIRST_PURCHASE_BONUS,Tawaran Istimewa!
+COMMON/WEEKDAY_SUN,Ahad
+COMMON/WEEKDAY_MON,Isnin
+COMMON/WEEKDAY_TUE,Selasa
+COMMON/WEEKDAY_WED,Rabu
+COMMON/WEEKDAY_THU,Khamis
+COMMON/WEEKDAY_FRI,Jumaat
+COMMON/WEEKDAY_SAT,Sabtu
+BLOCKING_LIFE,Kekuatan Hadangan
+NAME/TEAM_NATIONAL_STUDENTS_1,Pasukan Latihan U21 - A
+NAME/TEAM_NATIONAL_STUDENTS_2,Pasukan Latihan U21 - B
+NAME/TEAM_NATIONAL_STUDENTS_3,Pasukan Latihan U21 - All-Stars
+NAME/TEAM_NATIONAL_STUDENTS_4,Pasukan Latihan U21 - C
+NAME/TEAM_NATIONAL_STUDENTS_5,Pasukan Latihan U21 - D
+NAME/TEAM_NATIONAL_STUDENTS_6,Pasukan Latihan U21 - E
+NAME/TEAM_NATIONAL_STUDENTS_7,Pasukan Latihan U21 - F
+NAME/STAGE_13_01,Guru dan Murid
+NAME/STAGE_13_02,Berita Gembira
+NAME/STAGE_13_03,Hari Pertama di Kem
+NAME/STAGE_13_04,Pengenalan Diri
+NAME/STAGE_13_05,Realiti Pahit
+NAME/STAGE_13_06,Pendatang Baharu Pasukan Kebangsaan
+NAME/STAGE_13_07,Sang Pengejar
+NAME/STAGE_13_08,Bentuk Bakat
+NAME/STAGE_13_09,Lagi dan Lagi
+NAME/STAGE_13_10,Satu-satunya Peluang
+NAME/STAGE_13_11,"Selamat Tinggal, Siwoo"
+NAME/CHAPTER_13,On My Way
+NAME/SEASON_03,Musim 3
+PLAYER/HAN_GITAE/NICKNAME,Pengadang Tengah Keluli
+PLAYER/HAN_GITAE/LINE,Badan aku memang terasa kaku. Apa kata kita panaskan badan sedikit?
+PLAYER/HAN_GITAE/LINE_2,Aku takkan berlembut. Serang dengan sekuat hati!
+PLAYER/HAN_GITAE/GACHA/LINE,Aku takkan berlembut.<wait=100> Serang dengan sekuat hati!
+PLAYER/SEO_YUNA/NICKNAME,Bakat Adaptasi
+PLAYER/SEO_YUNA/LINE,Akan kutunjukkan. Aku sebenarnya cukup kuat!
+PLAYER/SEO_YUNA/GACHA/LINE,"Memandangkan pertemuan kita ini suatu takdir,<break><wait=85><b>mari kita kalahkan mereka semua!"
+PLAYER/SEO_YUNA/GACHA/LINE_2,Bakat bukanlah segalanya. Kita hanya perlu mengatasinya dengan usaha!
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM,Animasi Masa Rehat
+,
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM/DES,Memainkan animasi ilustrasi dengan lancar dan berkualiti tinggi pada skrin masa rehat. Mungkin menjejaskan prestasi.
+NAME/ELITE_MATCH_MON,All-Star
+NAME/ELITE_MATCH_TUE,Keluli Biru
+NAME/ELITE_MATCH_WED,Valentia Spike
+NAME/ELITE_MATCH_THU,Sylphid Case
+NAME/ELITE_MATCH_FRI,Ashville Weasels
+NAME/ELITE_MATCH_SAT,Logam Lembut
+NAME/ELITE_MATCH_SUN,Tempesta Rosa
+,
+,
+,
+,
+,
+NAME/ELITE_MATCH_DES,Kalahkan pasukan lawan yang berbeza mengikut hari dan dapatkan ganjaran acara!
+TUTORIAL/ELITE_RULE_UI_APPEAR_DES,"Setiap pemain mempunyai Stamina dan Kekuatan Mental masing-masing.#Stamina ditunjukkan dalam warna kuning, manakala Kekuatan Mental ditunjukkan dalam warna biru."
+TUTORIAL/ELITE_RULE_UI_DAMAGE_DES,"Pemain yang menerima bola akan kehilangan Stamina dan Kekuatan Mental.#Jika Stamina habis, pemain akan gagal bertahan."
+TUTORIAL/ELITE_RULE_DEFENSE_TIMING_DES,"Tekan butang Meluncur atau Menerima pada masa yang tepat untuk mengurangkan kerosakan.#Jika tiada butang ditekan, pemain akan bertahan berdasarkan keputusan rawak."
+TUTORIAL/ELITE_RULE_RECEIVE_DES,Terima bola pada masa yang tepat supaya bola melantun naik dengan stabil.#Penerimaan Sempurna akan menghasilkan Bola Peluang.
+TUTORIAL/ELITE_RULE_SLIDING_DES,"Meluncur boleh mempertahankan kawasan yang luas, tetapi bola akan melantun naik dengan kurang stabil.#Bertahan dengan Meluncur tidak akan menghasilkan Bola Peluang."
+TUTORIAL/ELITE_RULE_FLOATER_SERVE_DES,Servis Apung dan Servis Hibrid memberikan kerosakan yang mengabaikan Pertahanan.#Kegagalan bertahan pada masa yang tepat akan menyebabkan kerosakan yang besar.
+TUTORIAL/ELITE_RULE_MENTALITY_DES,"Kekuatan Mental tidak mudah pulih antara rali.#Semakin rendah Kekuatan Mental pemain, semakin banyak Stamina yang hilang ketika bertahan."
+TUTORIAL/ELITE_RULE_EXHAUST_DES,"Apabila Kekuatan Mental habis sepenuhnya, pemain akan menjadi Letih untuk seketika.#Kekuatan Mental tidak akan pulih semasa pemain dalam keadaan Letih."
+TUTORIAL/ELITE_RULE_FORMATION_DES,Kedudukan pertahanan pemain tidak berubah apabila giliran servis bertukar.#Kedudukan pertahanan pemain boleh diubah semasa masa rehat.
+TUTORIAL/RAID_TIP_06,Hampir tepat!
+STORYMODE_TIP_9,Peraturan Elit akan digunakan.
+MAP_NATIONAL,Gimnasium Terbang Tinggi
+,
+NAME LANG,
+IVAN_NAM,Ivan Nam
+SEONGJIN_PARK,Seongjin Park
+CHEI_YOO,Chei Yoo
+JINKYEONG_KIM,Jinkyeong Kim
+SEOHEE_PYEON,Seohee Pyeon
+JINHYUN_KIM,Jinhyun Kim
+MINSEO_JO,Minseo Jo
+JAEWON_LEE,Jaewon Lee
+MR_COACH,Jurulatih
+,
+SPECIALIZATION/PRESET,Pratetapan
+SPECIALIZATION/REFUND_ALERT,Pulangkan mata pengkhususan?
+SPECIALIZATION/RESET_PRESET_ALERT,Tetapkan semula pratetapan {0}?
+SPECIALIZATION/PREREQUISITE_AP,AP prasyarat {0}
+SPECIALIZATION/NO_EFFECT,Tiada kesan
+SPECIALIZATION/WEAKNESS,Kelemahan
+SPECIALIZATION/UNLOCK,Buka
+SPECIALIZATION/DOWNGRADE,Turun
+SPECIALIZATION/UPGRADE,Naik
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_MIN,Tidak boleh diturunkan lagi.
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_EXCEEDS_MAX,Sudah tahap maksimum.
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_OVERSPENT,AP tidak mencukupi. ({0}/{1})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH,AP pengkhususan prasyarat tidak mencukupi. ({0})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH/DEPENDENT,Ini akan merosakkan syarat AP prasyarat {0}. ({1})
+SPECIALIZATION/ERROR/SPECIALIZATION_CORE_LIMIT_EXCEEDED,Had pengkhususan teras aktif dilebihi.
+SPECIALIZATION/ERROR/SPECIALIZATION_IDENTITY_CORE_LIMIT_EXCEEDED,Hanya 1 pengkhususan teras Identiti boleh diaktifkan.
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_CHAIN_BLOCKED,Tidak boleh pilih kelemahan stat yang sama berturut-turut.
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_BALANCE_BROKEN,Imbangan kelemahan terjejas.
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_NOT_UNLOCKED,Anda perlu membuka pengkhususan prasyarat terlebih dahulu.
+SPECIALIZATION/ERROR/NOT_ENOUGH_ITEM_AMOUNT,Mata buka tidak mencukupi. ({0}/{1})
+SPECIALIZATION/POINT/WS/OFFENSE,Mata buka serangan WS
+SPECIALIZATION/POINT/WS/DEFENSE,Mata buka pertahanan WS
+SPECIALIZATION/POINT/WS/IDENTITY,Mata buka identiti WS
+SPECIALIZATION/POINT/MB/OFFENSE,Mata buka serangan MB
+SPECIALIZATION/POINT/MB/DEFENSE,Mata buka pertahanan MB
+SPECIALIZATION/POINT/MB/IDENTITY,Mata buka identiti MB
+SPECIALIZATION/POINT/SE/OFFENSE,Mata buka serangan SE
+SPECIALIZATION/POINT/SE/DEFENSE,Mata buka pertahanan SE
+SPECIALIZATION/POINT/SE/IDENTITY,Mata buka identiti SE
+SPECIALIZATION/POINT/WS/OFFENSE_DESC,Digunakan untuk membuka pengkhususan serangan WS.
+SPECIALIZATION/POINT/WS/DEFENSE_DESC,Digunakan untuk membuka pengkhususan pertahanan WS.
+SPECIALIZATION/POINT/WS/IDENTITY_DESC,Digunakan untuk membuka pengkhususan identiti WS.
+SPECIALIZATION/POINT/MB/OFFENSE_DESC,Digunakan untuk membuka pengkhususan serangan MB.
+SPECIALIZATION/POINT/MB/DEFENSE_DESC,Digunakan untuk membuka pengkhususan pertahanan MB.
+SPECIALIZATION/POINT/MB/IDENTITY_DESC,Digunakan untuk membuka pengkhususan identiti MB.
+SPECIALIZATION/POINT/SE/OFFENSE_DESC,Digunakan untuk membuka pengkhususan serangan SE.
+SPECIALIZATION/POINT/SE/DEFENSE_DESC,Digunakan untuk membuka pengkhususan pertahanan SE.
+SPECIALIZATION/POINT/SE/IDENTITY_DESC,Digunakan untuk membuka pengkhususan identiti SE.
+SPECIALIZATION/HELP/AP,"Selepas membuka Pengkhususan dengan Mata Buka, gunakan AP pemain untuk menaikkan tahap dan mengaktifkannya.#AP yang digunakan boleh diperoleh semula dengan menurunkan tahap, tetapi pembukaan Pengkhususan tidak boleh dibatalkan."
+SPECIALIZATION/HELP/AP_ALERT,"* Kesan dan nilai Pengkhususan mungkin diselaraskan dalam kemas kini akan datang.#Jika kesan atau nilai diselaraskan, semua Mata Buka Kunci yang digunakan pada Pengkhususan pemain tersebut boleh dikembalikan."
+SPECIALIZATION/HELP/PRESET,Anda boleh menyimpan pembahagian AP bagi setiap Pengkhususan dalam pratetapan.#Menukar pratetap tidak mengubah status pembukaan Pengkhususan.
+SPECIALIZATION/STATUS/LOCKED,Dikunci
+SPECIALIZATION/ACTIVATE,Aktifkan
+SPECIALIZATION/DEACTIVATE,Nyahaktifkan
+SPECIALIZATION/TIER/GROWTH,Pertumbuhan
+SPECIALIZATION/TIER/ENHANCEMENT,Peningkatan
+SPECIALIZATION/TIER/TACTICAL,Taktikal
+SPECIALIZATION/TIER/CORE,Teras
+SPECIALIZATION/TIER/UNIQUE,Unik
+SPECIALIZATION,Pengkhususan
+IAP,
+EV2609_GROWTH_PACKAGE,Pakej Pertumbuhan
+EV2609_GROWTH_PACKAGE_DESC,Pakej yang memberikan Kredit dan Mata EXP dalam jumlah yang banyak.
+EV2609_WELCOME_ELITE_PACKAGE,Pakej Elit Selamat Datang
+EV2609_WELCOME_ELITE_PACKAGE_DESC,Pakej yang memberikan Tiket Rekrut Pemain Pilihan x10 dan sedikit mata wang.
+EV2609_PACKAGE_1,Pakej Elit 1
+EV2609_PACKAGE_1_DESC,Pakej yang memberikan Syiling Elit x300 dan Mata V x360.
+EV2609_PACKAGE_2,Pakej Elit 2
+EV2609_PACKAGE_2_DESC,Pakej yang memberikan Syiling Elit x860 dan Mata V x1270.
+EV2609_ELITE_PREMIUM_PACKAGE,Pakej Premium Elit
+EV2609_ELITE_PREMIUM_PACKAGE_DESC,Pakej yang memberikan Tiket Rekrut Pemain Pilihan x10 dan banyak mata wang.
+EV2609_ELITE_ROYAL_PACKAGE,Pakej Diraja Elit
+EV2609_ELITE_ROYAL_PACKAGE_DESC,Pakej yang memberikan Tiket Rekrut Pemain Pilihan x20 dan banyak mata wang.
+EV2609_EXTREME_ROYAL_PACKAGE,Pakej Diraja Ekstrem Elit
+EV2609_EXTREME_ROYAL_PACKAGE_DESC,Pakej yang memberikan Tiket Rekrut Pemain Pilihan x40 dan mata wang dalam jumlah yang amat banyak.
+EV2609_NORMAL_PASS,Pas Normal
+EV2609_NORMAL_PASS_DESC,Dapatkan pelbagai pakaian seragam dan mata wang melalui Pas Normal.
+EV2609_PREMIUM_PASS,Pas Premium
+EV2609_PREMIUM_PASS_DESC,"Buka Pas Premium untuk mendapatkan tambahan 3 hari kehadiran acara, pakaian seragam eksklusif dan banyak mata wang."
+EV2609_ROYAL_PASS,Pas Royal
+EV2609_ROYAL_PASS_DESC,Buka Pas Royal untuk mendapatkan tambahan 1 hari kehadiran acara dan banyak mata wang. Hanya boleh dibeli selepas membeli Pas Premium.
+EV2609_PREMIUM_ROYAL_PASS,Pas Premium + Pas Royal
+EV2609_PREMIUM_ROYAL_PASS_DESC,Pakej yang membuka kedua-dua Pas Premium dan Pas Royal sekaligus.
+BEGINNER_PLAYER_RECRUIT_TICKET,Tiket Rekrut Pemula
+BEGINNER_RECRUIT_PACKAGE,Pakej Tiket Rekrut Pemula
+BEGINNER_RECRUIT_PACKAGE_DESC,Dapatkan 40 Tiket Rekrut Pemula.
+DEFAULT_40VP_PACKAGE,Pek Mata V x40
+DEFAULT_40VP_PACKAGE_DESC,Dapatkan 40 Mata V.
+DEFAULT_200VP_PACKAGE,Pek Mata V x200
+DEFAULT_200VP_PACKAGE_DESC,Dapatkan 200 Mata V.
+DEFAULT_420VP_PACKAGE,Pek Mata V x420
+DEFAULT_420VP_PACKAGE_DESC,Dapatkan 420 Mata V.
+DEFAULT_1280VP_PACKAGE,Pek Mata V x1280
+DEFAULT_1280VP_PACKAGE_DESC,Dapatkan 1280 Mata V.
+DEFAULT_2160VP_PACKAGE,Pek Mata V x2160
+DEFAULT_2160VP_PACKAGE_DESC,Dapatkan 2160 Mata V.
+DEFAULT_4000VP_PACKAGE,"Pek Mata V x4,000"
+DEFAULT_4000VP_PACKAGE_DESC,"Dapatkan 4,000 Mata V."
+DEFAULT_40VP_PACKAGE_2X,Pek Mata V x40 2x
+DEFAULT_40VP_PACKAGE_2X_DESC,40 Mata V + 40 Bonus!#Bonus ditetapkan semula secara berkala.
+DEFAULT_200VP_PACKAGE_2X,Pek Mata V x200 2x
+DEFAULT_200VP_PACKAGE_2X_DESC,200 Mata V + 200 Bonus!#Bonus ditetapkan semula secara berkala.
+DEFAULT_420VP_PACKAGE_2X,Pek Mata V x420 2x
+DEFAULT_420VP_PACKAGE_2X_DESC,420 Mata V + 420 Bonus!#Bonus ditetapkan semula secara berkala.
+DEFAULT_1280VP_PACKAGE_2X,Pek Mata V x1280 2x
+DEFAULT_1280VP_PACKAGE_2X_DESC,1280 Mata V + 1280 Bonus!#Bonus ditetapkan semula secara berkala.
+DEFAULT_2160VP_PACKAGE_2X,Pek Mata V x2160 2x
+DEFAULT_2160VP_PACKAGE_2X_DESC,2160 Mata V + 2160 Bonus!#Bonus ditetapkan semula secara berkala.
+DEFAULT_4000VP_PACKAGE_2X,Pek Mata V x4000 2x
+DEFAULT_4000VP_PACKAGE_2X_DESC,4000 Mata V + 4000 Bonus!#Bonus ditetapkan semula secara berkala.
+상품(Product시트에 들어갈 것),
+GITAE_UNIFROM,Jersi Han Gitae
+GITAE_UNIFROM/DESC,Jersi lelaki pasukan bola tampar Universiti Cheongmyeong.#Diperbuat daripada fabrik khas berkekuatan tinggi yang tidak mudah koyak akibat geseran atau hentaman kuat.
+BACK_ELITE_WAIT_ROOM,Pusat Latihan Pasukan Kebangsaan
+BACK_ELITE_WAIT_ROOM/DESC,"Pusat latihan khas tempat pemain bola tampar terbaik Korea Selatan berkumpul.#Dilengkapi kemudahan profesional terbesar di negara ini dan sistem latihan tercanggih. Sebagai tempat mengasah pemain terbaik, pusat ini terkenal dengan latihan yang amat berat."
+BACK_ELITE_HALLWAY,Latar Koridor Gimnasium
+BACK_ELITE_HALLWAY/DESC,"Koridor gimnasium di Pusat Latihan Pasukan Kebangsaan.#Ketika Inho dan pasangannya dalam pasukan kebangsaan, mereka sering berjalan di sini sambil berbual tentang impian masing-masing."
+YOUTH_BALL,Bola Eksklusif NTC
+YOUTH_BALL/DES,Bola eksklusif Pusat Latihan Pasukan Kebangsaan yang dihasilkan oleh jenama bola tampar 'RISE'.
+GITAE_BALL,Bola Kegemaran Gitae
+GITAE_BALL/DES,"Bola tampar yang amat disayangi Han Gitae.#Katanya, dia sentiasa berlatih dengan bola ini pada hari perlawanan penting."
+YOUTH_UNIFORM_MALE,Jersi Lelaki Pasukan Kebangsaan Remaja
+YOUTH_UNIFORM_MALE/DES,Jersi lelaki rasmi pasukan kebangsaan remaja keluaran jenama bola tampar 'RISE'.#Sangat popular hingga laris terjual ketika musim kejohanan antarabangsa.
+YOUTH_UNIFORM_FEMALE,Jersi Wanita Pasukan Kebangsaan Remaja
+YOUTH_UNIFORM_FEMALE/DES,Jersi wanita rasmi pasukan kebangsaan remaja keluaran jenama bola tampar 'RISE'.#Sangat popular hingga laris terjual ketika musim kejohanan antarabangsa.
+JAEHYUN_UNIFORM,Jersi Jaehyun
+JAEHYUN_UNIFORM/DES,"Jersi lelaki rasmi pasukan bola tampar Sky High.#Pada hari pertama menerimanya, Jaehyun berdiri agak lama di hadapan cermin."
+JAEHYUN_SHOES,Kasut Jaehyun
+SEJIN_UNIFORM,Jersi Kang Sejin
+SEJIN_UNIFORM/DES,"Jersi lelaki rasmi pasukan bola tampar Sekolah Tinggi Cheonan.#Entah mengapa, Kang Sejin suka bergaya lebih daripada biasa apabila memakainya."
+SEJIN_SHOES,Kasut Kang Sejin
+YUNA_UNIFORM,Jersi Seo Yuna
+YUNA_UNIFORM/DES,Jersi wanita rasmi pasukan bola tampar Sekolah Tinggi Cheolwon.#Item kegemaran Seo Yuna. Dia memiliki 5 set yang sama dan memakainya secara bergilir.
+YUNA_SHOES,Kasut Seo Yuna
+BGM_COLEMAN_STORY_DESC,CHAPTER 13. #「Kamu tak faham. Kamu mula bermain pada usia muda.」
+BGM_NATIONAL_TRAINING_MATCH_DESC,CHAPTER 13. #「Saya mesti lakukan segala-galanya yang saya mampu!」
+BGM_TRAINING_CAMP_BUDDIES_DESC,CHAPTER 13. #「Tiada apa lagi yang saya mahukan selain menyertai pasukan kebangsaan!」
+PROFILE_FRAME_EV2609,Bingkai Peringkat Elit
+PROFILE_TITLE_ELITE_SPIKER,Pemain Elit
+PROFILE_STICKER_GLOBAL,Pelekat Global
+PROFILE_STICKER_GITAE,Pelekat Gitae
+PROFILE_STICKER_TROPHY,Pelekat Trofi Elit
+,
+,
+,
+,
+,
+,
+,
+,
+BEGINNER_RECRUIT/CAN_SCOUT,Pemain untuk Pemula boleh diperoleh!
+RECRUIT/HELP_TITLE,Rekrut Pemain
+RECRUIT/HELP_LINE_1,Anda boleh memperoleh pemain dengan menggunakan tiket pengambilan atau mata wang.
+RECRUIT/HELP_LINE_2,Pemain dalam pengambilan pemain acara boleh di-scout menggunakan Meter Pengambilan Acara dan Meter Pengambilan Pilihan.
+RECRUIT/HELP_LINE_3,Pemain dalam Pengambilan Pemain untuk Pemula boleh di-scout menggunakan Meter Pengambilan Pemula.
+RECRUIT/HELP_LINE_4,Tiket Rekrut Pemain Pilihan Acara akan luput apabila acara tamat.
+RECRUIT/SCOUT_NO_MORE,Tidak boleh scout lagi.
+RECRUIT/NOT_ENOUGH_GAUGE,Meter tidak mencukupi.
+RECRUIT/SCOUT_CONFIRM_EVENT_FIRST,{0} akan ditolak terlebih dahulu.
+RECRUIT/CURRENCY_NOT_ENOUGH_GO_SHOP,Mata wang tidak mencukupi. Adakah anda mahu pergi ke Kedai?
+RECRUIT/BUY_THEN_RECRUIT,Rekrut selepas pembelian
+COMMON/RECRUIT,Rekrut
+CONVERTED_GAUGE_AMOUNT,Jumlah Ditukar: {0}
+,
+COMMON/MAX_BUY_COUNT,Bilangan Pembelian Maksimum : {0}
+COMMON/TOTAL_BUY_DES,Anda akan membeli sejumlah {0} item.
+COMMON/EASY,Mudah
+COMMON/TOOHARD,Sangat Sukar
+,
+RECRUIT/SCOUT_RULE_OVER_ROUND,"Bahkan setelah ronde terakhir, kamu tetap bisa scout dengan meter yang sama."
+RECRUIT/SCOUT_ROUND_AFTER,Pusingan {0} dan seterusnya

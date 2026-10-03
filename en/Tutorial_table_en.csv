@@ -1,0 +1,300 @@
+﻿KEY,영어(en)
+TUTORIAL_MISSION/BASIC_SERVE,Perform a Basic Serve
+TUTORIAL_MISSION/BLOCKING,Perform a Block
+TUTORIAL_MISSION/FEINT,Perform a Feint
+TUTORIAL_MISSION/JUMP_FLOATER_SERVE,Perform a Jump Float Serve
+TUTORIAL_MISSION/MOVE_LEFT,Move Left
+TUTORIAL_MISSION/MOVE_RIGHT,Move Right
+TUTORIAL_MISSION/RECEIVE,Perform a Bump
+TUTORIAL_MISSION/SLIDING,Perform a Slide
+TUTORIAL_MISSION/SPIKE_SERVE,Perform a Spike Serve
+TUTORIAL_MISSION/SPIKE,Perform a Spike
+TUTORIAL_MISSION/PERFECT_BLOCKING,Perform a Perfect Block
+BLOCK_NET_FRONT_TIP,Blocking must be done at the front of the net!
+BLOCK_FASTER_TIP,Let’s try jumping a bit earlier!
+BLOCK_SLOWER_TIP,Let’s try jumping a bit later!
+SPIKE_TWICE_TIP,You have to press the spike button once more in the air!
+SPIKE_NEAR_TIP,You have to jump close to the ball!
+PRACTICE_MATCH_OKAY_TIP,"Since it's a practice match, the opponent's score won't increase!"
+MOVE_FAST_AFTER_SERVE_TIP,"After serving, quickly move inside the court!#(Move to the right)"
+SPIKE_NEAR_TIP_02,"To spike, you need to get close to the ball!"
+HOLD_RECEIVE_BUTTON,It's okay to keep holding the bump button!
+SPIKE_JUMP_FASTER_TIP,Too late! You need to jump earlier.
+SPIKE_JUMP_LATER_TIP,Too early! You need to jump later.
+GO_FRONT_NET_TIP,Move to the net and get ready to Block!
+SPIKE_PRESS_LONG_TIP,Hold the Spike button all the way!
+TUTORIAL_LEVEL_BASIC,Basic Tutorial
+FEINT_PRESS_AIR_TIP,Press the Feint button while in the air!
+TUTORIAL_BASIC_MOVEMENT,Basic Move
+TUTORIAL_MED_MOVEMENT,Standard Move
+TUTORIAL_HARD_MOVEMENT,Advanced Move
+TUTORIAL_BASIC_CONCEPT,Basic Concept
+,
+TUTORIAL/SLOWER_MOVE,Movement Speed Reduction
+TUTORIAL/SLOWER_MOVE_DES,"When the rally gets long, all players' movement speed decreases."
+TUTORIAL/MOVE,Move
+TUTORIAL/MOVE_DES,Try moving left and right
+TUTORIAL/SERVE,Serve
+TUTORIAL/SERVE_DES,Press (n1) to Serve!
+TUTORIAL/BLOCKING,Block
+TUTORIAL/BLOCKING_DES,Press and release (n1) in front of the net to Block!
+TUTORIAL/SCOREBOARD,View Scoreboard
+TUTORIAL/SCOREBOARD_DES1,You can check your team’s stamina and score at the top of the screen!
+TUTORIAL/SCOREBOARD_DES2,Stamina is consumed when defending against strong shots.
+TUTORIAL/SCOREBOARD_DES3,"If your stamina is too low, you’ll fail the Bump, so be careful!"
+TUTORIAL/JUMP_FLOATER_SERVE,Jump Float Serve
+TUTORIAL/JUMP_FLOATER_SERVE_DES,Hold (n1) to Serve!
+TUTORIAL/SPIKE,Spike
+TUTORIAL/SPIKE_DES,"Press (n1) to Jump, then (n2) to Spike!"
+TUTORIAL/RECEIVE,Bump
+TUTORIAL/RECEIVE_DES,Hold (n1) to Bump!
+TUTORIAL/FEINT,Feint
+TUTORIAL/FEINT_DES,"In the air, press (n1) to perform a Feint!"
+TUTORIAL/SPIKE_DES2,"After a Bump, time your Spike with the Setter’s Set!"
+TUTORIAL/SLIDING,Slide
+TUTORIAL/SLIDING_DES,Press (n1) to Slide!
+TUTORIAL/SPIKE_SERVE,Spike Serve
+TUTORIAL/SPIKE_SERVE_DES,"Hold (n1) to toss the ball, then press (n2) to Spike!"
+SPIKE_SERVE_TIP,The Serve Toss is too low! Hold it a bit longer.
+TUTORIAL_SKIP_QUESTION,Are you sure you want to skip the tutorial? You can always replay it later through the Tutorial Chapter.
+TUTORIAL/SHORT_SPIKE,Short Spike
+TUTORIAL/SHORT_SPIKE_DES2,You can use (n1) to spike the ball straight down.
+TUTORIAL/LONG_SPIKE_DES,"After the receive, try spiking with (n1)!"
+FEVER_TUTORIAL/01,The Snow Raid match has special rules.
+FEVER_TUTORIAL/02,"Each time you score, Fever builds up based on the rally length."
+FEVER_TUTORIAL/03,"When in Fever state, Body Temperature rises and the player’s stats increase."
+RECEIVE_TIMING_TUTORIAL/01,"The higher the accuracy, the less damage you take."
+TUTORIAL/SKILL,Skill
+TUTORIAL/SKILL_DES,Some {0}s have their own unique {1}.#You can check the current status of that {1} on the button with the {1} icon.
+TUTORIAL/SKILL_USE,Use Skill
+TUTORIAL/SKILL_USE_DES,You can interact with {0} and {1} by pressing their buttons directly.
+TUTORIAL/SKILL_ACTIVATE,Activate Skill
+TUTORIAL/SKILL_ACTIVATE_DES,You can activate {0} whenever you want by pressing its icon.#{1} remains active until you perform a {3} on the ball enhanced by {2}.
+TUTORIAL/SKILL_COOLDOWN,Cooldown
+TUTORIAL/SKILL_COOLDOWN_DES,Most {0}s cannot be used for a short time after their effects end.
+TUTORIAL/SKILL_COOLDOWN2_DES,Most {0}s have a {1} after their effects end.#You cannot activate {2} again during the {1}.
+TUTORIAL/SKILL_DURATION,Duration
+TUTORIAL/SKILL_DURATION_DES,{0} remains active for the specified {1} after pressing the icon.
+TUTORIAL/SKILL_STATUS_USING,In Effect
+TUTORIAL/SKILL_STATUS_AVAILABLE,Ready
+TUTORIAL/SKILL_STATUS_UNAVAILABLE,Unavailable
+TEMPERATURE_TUTORIAL/01,The player’s Body Temperature is displayed at the top left.
+TEMPERATURE_TUTORIAL/02,Body Temperature decreases at the end of each rally.
+TEMPERATURE_TUTORIAL/03,"When Body Temperature decreases, the player’s stats decrease."
+COUNTER_RECEIVE_TUTORIAL/01,Press the Bump button with the right timing.
+,
+,
+MOVE_TUTORIAL/01,"Today, let’s learn the basic volleyball moves together!"
+MOVE_TUTORIAL/02,"First things first, have you warmed up your body?"
+MOVE_TUTORIAL/03,You can move using the arrow keys. Try walking lightly around the court!
+,
+RECEIVE_TUTORIAL/01,Good! Have you loosened up a bit?
+RECEIVE_TUTORIAL/02,The first move we’ll learn is the receive.
+RECEIVE_TUTORIAL/03,The receive is the foundation of volleyball! It’s the key action that starts every play.
+RECEIVE_TUTORIAL/04,"I’ll toss the ball lightly, so why don’t you try a receive?"
+,
+JUMPSPIKE_TUTORIAL/01,"Good job! This time, let’s learn the spike move."
+JUMPSPIKE_TUTORIAL/02,A spike is an attack where you drive the ball into the opponent’s court.
+JUMPSPIKE_TUTORIAL/03,"It's a must-know move for volleyball,#but it's quite a difficult technique for beginners!"
+JUMPSPIKE_TUTORIAL/04,But trust me! I’ll make sure you’ll be able to spike.
+JUMPSPIKE_TUTORIAL/05,"First, since it’s hard to hit a moving ball right away,#let’s practice with a stationary one!"
+,
+RECEIVE_SPIKE_TUTORIAL/01,"Nice work! Have you gotten a bit of the feel for it? From here on, it’s the real thing."
+RECEIVE_SPIKE_TUTORIAL/02,"I’ll give you a light toss, so try to spike it with the right timing."
+RECEIVE_SPIKE_TUTORIAL/03,"Seeing a moving ball might make you nervous, but just swing calmly to my toss. You can do it!"
+,
+SERVE_TUTORIAL/01,"Amazing! At this level, you really have talent!"
+SERVE_TUTORIAL/02,"Now, let’s wrap up by learning the serve!"
+SERVE_TUTORIAL/03,A serve is the basic volleyball move of sending the ball over to the opponent's court#to start the game.
+SERVE_TUTORIAL/04,"In modern volleyball, the serve is a powerful weapon! The better the player, the wider the variety of serves they can execute."
+SERVE_TUTORIAL/05,But... it might be tough for a beginner to jump straight into advanced serves.
+SERVE_TUTORIAL/06,"First, let’s learn the most basic serve."
+SERVE_TUTORIAL/07,"Powerful serves are important, but let's focus on a stable serve first! I'll teach you the jump serve next time, so today let's just get a light feel for it."
+,
+PRACTICE_GO_TUTORIAL/01,That’s enough for the basic moves. Good work!
+PRACTICE_GO_TUTORIAL/02,"A real match might make you nervous, but just stay calm and do what you’ve learned!"
+,
+BLOCKING_TUTORIAL/01,Blocking is a move where you block the opponent's spike at the net.
+BLOCKING_TUTORIAL/02,"It can narrow the opponent’s attack course,#and even just touching it can greatly reduce its power, so you must learn it."
+BLOCKING_TUTORIAL/03,"I’ll hit one lightly, so why don’t you give it a try?"
+,
+RECEIVE_FEINT_TUTORIAL/01,Good job! Let’s move on to the next move right away.
+RECEIVE_FEINT_TUTORIAL/02,The move we’ll learn this time is the Feint!
+RECEIVE_FEINT_TUTORIAL/03,Not the paint in a bucket—Feint!
+RECEIVE_FEINT_TUTORIAL/04,"From the Spike posture, you lightly tip the ball over with your fingertips#to catch the opponent off guard."
+RECEIVE_FEINT_TUTORIAL/05,"It’s super effective when the opponent’s stamina is low, so make sure you know when to use it!"
+RECEIVE_FEINT_TUTORIAL/06,Let’s try it right now!
+,
+JUMP_FLOATER_TUTORIAL/01,Nice! Shall we move on to the final move?
+JUMP_FLOATER_TUTORIAL/02,Jump Float Serve!
+JUMP_FLOATER_TUTORIAL/03,It’s a Serve where you Jump and then hit a no-spin ball.
+JUMP_FLOATER_TUTORIAL/04,"Without spin, the ball's trajectory wavers, making it really tough for the opposing team to receive!"
+JUMP_FLOATER_TUTORIAL/05,"It doesn’t have strong scoring power,#but it can reduce the opponent’s stamina, so it’ll be very helpful!"
+JUMP_FLOATER_TUTORIAL/06,Shall we try it right away?
+,
+PRACTICE_GO_TUTORIAL_02/01,Nice job! I think that’s enough for today.
+PRACTICE_GO_TUTORIAL_02/02,"There are still some tough moves left, like spike serves and sliding, but I'll teach you those next time!"
+,
+SLIDING_TUTORIAL/01,The tournament is right around the corner! Playing the way we used to just won't be enough.
+SLIDING_TUTORIAL/02,Let’s learn a new technique together today!
+SLIDING_TUTORIAL/03,"The first move we’ll learn is the Slide!#You’ve sometimes missed defenses before because of low stamina, right?"
+SLIDING_TUTORIAL/04,The Slide is an important move that lets you save the ball#even when you’re low on stamina!
+SLIDING_TUTORIAL/05,"It needs more precise timing than a Bump,#but since it saves the ball without draining stamina, it’s super important!"
+SLIDING_TUTORIAL/06,"Let’s try it out! I’ll hit the ball lightly, so match the timing and Slide!"
+,
+SPIKE_SERVE_TUTORIAL/01,Alright! Now let’s move on to the toughest but most powerful Serve...
+SPIKE_SERVE_TUTORIAL/02,Let’s learn the Spike Serve!
+SPIKE_SERVE_TUTORIAL/03,"A Spike Serve is, as the name suggests, serving with a Spike."
+SPIKE_SERVE_TUTORIAL/04,"First, you need the right height on your Serve Toss,#and it’s important to hit at the right timing and point."
+SPIKE_SERVE_TUTORIAL/05,"It’s powerful and can drain a lot of the opponent’s stamina,#but the drawback is the high risk of conceding a point."
+SPIKE_SERVE_TUTORIAL/06,Shall we try it? Practice is the time to try tough Serves too!
+,
+PRACTICE_GO_TUTORIAL_03/01,Nice! That’s it for today!
+PRACTICE_GO_TUTORIAL_03/02,I think I’ve taught you all the moves I can for now.
+PRACTICE_GO_TUTORIAL_03/03,Now put what you've learned into practice and make it fully your own!
+,
+CASUAL_RECEIVE_TUTORIAL/03,"Today, let’s learn the basic volleyball moves together!"
+CASUAL_RECEIVE_TUTORIAL/04,"The first move we'll learn is the receive, also called the bump pass."
+CASUAL_RECEIVE_TUTORIAL/05,The pass is the foundation of volleyball! It’s the key action that starts every play.
+CASUAL_RECEIVE_TUTORIAL/06,"I’ll toss the ball lightly, so why don’t you try it?"
+,
+CASUAL_LONG_SPIKE_TUTORIAL/01,"Good job! This time, let’s learn the spike move."
+CASUAL_LONG_SPIKE_TUTORIAL/02,A spike is an attack where you drive the ball into the opponent’s court.
+CASUAL_LONG_SPIKE_TUTORIAL/03,"It's a must-know move for volleyball,#but it's quite a difficult technique for beginners!"
+CASUAL_LONG_SPIKE_TUTORIAL/04,"I’ll give you a light toss, so try to spike it with the right timing."
+CASUAL_LONG_SPIKE_TUTORIAL/05,"Seeing a moving ball might make you nervous, but just swing calmly to my toss. You can do it!"
+,
+CASUAL_SHORT_SPIKE_TUTORIAL/01,"Great! Don’t stop, keep going!"
+CASUAL_SHORT_SPIKE_TUTORIAL/02,"Just now, you hit a long spike since you were some distance from the net, right?"
+CASUAL_SHORT_SPIKE_TUTORIAL/03,"This time I’ll set the ball close to the net, so try spiking it straight down!"
+CASUAL_SHORT_SPIKE_TUTORIAL/04,"A downward spike is weak against blocks, so you need to choose your course wisely."
+CASUAL_SHORT_SPIKE_TUTORIAL/05,Let’s try it right away!
+,
+CASUAL_FEINT_TUTORIAL/01,The move we’ll learn this time is the Feint!
+CASUAL_FEINT_TUTORIAL/02,Not the paint in a bucket—Feint!
+CASUAL_FEINT_TUTORIAL/03,"From the Spike posture, you lightly tip the ball over with your fingertips#to catch the opponent off guard."
+CASUAL_FEINT_TUTORIAL/04,"It’s super effective when the opponent’s stamina is low, so make sure you know when to use it!"
+CASUAL_FEINT_TUTORIAL/05,Let’s try it right now!
+,
+CASUAL_BLOCK_TUTORIAL/01,The next move we’ll learn is blocking!
+CASUAL_BLOCK_TUTORIAL/02,Blocking is a move where you block the opponent's spike at the net.
+CASUAL_BLOCK_TUTORIAL/03,"You can block when you’re in the front row during rotation!#Ah, maybe that sounds a bit difficult?"
+CASUAL_BLOCK_TUTORIAL/04,"When it’s the opponent’s serve and our team scores a point,#we gain the right to serve and the players’ starting positions rotate."
+CASUAL_BLOCK_TUTORIAL/05,"At that time, the player in front of the net prepares to block!"
+CASUAL_BLOCK_TUTORIAL/06,"It can narrow the opponent’s attack course,#and even just touching it can greatly reduce its power, so you must learn it."
+CASUAL_BLOCK_TUTORIAL/07,"I’ll hit the ball lightly, so do you want to try it yourself?"
+,
+CASUAL_SLIDING_TUTORIAL/01,"This time, let’s learn the back row defense move: sliding!"
+CASUAL_SLIDING_TUTORIAL/02,The Slide is an important move that lets you save the ball#even when you’re low on stamina!
+CASUAL_SLIDING_TUTORIAL/03,"It needs more precise timing than a Bump,#but since it saves the ball without draining stamina, it’s super important!"
+CASUAL_SLIDING_TUTORIAL/04,"Let’s try it out! I’ll hit the ball lightly, so match the timing and Slide!"
+,
+CASUAL_SPIKE_SERVE_TUTORIAL/01,Alright! Now let’s move on to the toughest but most powerful Serve...
+CASUAL_SPIKE_SERVE_TUTORIAL/02,Let’s learn the Spike Serve!
+CASUAL_SPIKE_SERVE_TUTORIAL/03,"A Spike Serve is, as the name suggests, serving with a Spike."
+CASUAL_SPIKE_SERVE_TUTORIAL/04,"First, you need the right height on your Serve Toss,#and it’s important to hit at the right timing and point."
+CASUAL_SPIKE_SERVE_TUTORIAL/05,"It’s powerful and can drain a lot of the opponent’s stamina,#but the drawback is the high risk of conceding a point."
+CASUAL_SPIKE_SERVE_TUTORIAL/06,Shall we try it? Practice is the time to try tough Serves too!
+,
+CASUAL_END_TUTORIAL/01,The tournament is right around the corner! Playing the way we used to just won't be enough.
+CASUAL_END_TUTORIAL/02,"Wait! So you’ve been playing in Automatic Mode until now, huh?"
+CASUAL_END_TUTORIAL/03,"Automatic Mode assists with various actions, so it lets you enjoy the game easily and comfortably!"
+CASUAL_END_TUTORIAL/04,"However, since it doesn’t allow full freedom, the growth limit is clear."
+CASUAL_END_TUTORIAL/05,"Once you get used to it, I recommend switching to manual mode!"
+CASUAL_END_TUTORIAL/06,"Since the tutorial changes depending on the mode, if you switch to manual mode, make sure to go through it again!"
+CASUAL_END_TUTORIAL/07,"But I’ll be by your side to support you, so let’s do our best together!"
+,
+TUTORIAL/CONDITION_DES/01,"During the match, players may#fall into specific condition states depending on the situation."
+TUTORIAL/CONDITION_DES/02,"When in the Worked Up state, Attack and Speed increase, while Jump and Defense decrease.#It mainly occurs after a failed attack or being blocked."
+TUTORIAL/CONDITION_DES/03,"When in the Engaged state, overall stats increase.#It mainly occurs when successfully performing consecutive attacks, blocks, or serves."
+TUTORIAL/CONDITION_DES/04,"When in the Discouraged state, overall stats decrease.#It mainly occurs when failing in defense or attack."
+TUTORIAL/CONDITION_DES/05,"When in the Careless state, Defense and Speed decrease significantly.#It mainly occurs if the player does not touch the ball for a long time."
+FEVER_TUTORIAL/TITLE,Special Rule
+TUTORIAL/WS_DECRIPTION,"The WS is the team’s ace, responsible for leading the main attacks."
+TUTORIAL/SE_DECRIPTION,"The Se (Setter) sets the received ball, creating an opportunity for the spiker to attack."
+TUTORIAL/MB_DECRIPTION,The MB uses quick attacks to disrupt the opponent’s blocking and provides coverage for the WS’s attacks.
+TUTORIAL/POSITION_DECRIPTION,There are three positions on the team.
+TUTORIAL/LISIA_DESCRIPTION,Lisia’s sky serve drops quickly from a high point.#You must slide with the right timing.
+,
+BEACH_FEVER_TUTORIAL/01,The Beach Volleyball Raid match has special rules.
+HEAT_TUTORIAL/01,"The longer the match lasts on the hot beach, the more the players' body temperature rises."
+HEAT_TUTORIAL/02,"As the players' body temperature rises, their attack power and speed increase."
+HEAT_TUTORIAL/03,"However, jumping ability and defense decrease significantly."
+HEAT_TUTORIAL/04,"Therefore, if a player's body temperature gets too high, you need to substitute them."
+HEAT_TUTORIAL/05,A player's body temperature is displayed in the upper left corner.
+ITEM_TUTORIAL/01,Use the items granted every 3 points to play strategically.
+ITEM_TUTORIAL/02,"Relying too much on Fever will make body temperature rise quickly, so be careful."
+BEACH_RAID/HEAT,Heat
+TUTORIAL/UI/DES_01,You can progress with the story here.
+TUTORIAL/UI/DES_02,Reach a higher tier to unlock new modes.
+TUTORIAL/UI/DES_03,You can hone your skills here.
+TUTORIAL/UI/DES_04,You can recruit new players here.
+TUTORIAL/UI/DES_05,You can directly scout the player you want here.
+TUTORIAL/UI/DES_06,You can customize players or purchase volleyballs here.
+TUTORIAL/UI/DES_07,You can claim rewards here when you reach a new tier.
+TUTORIAL/UI/DES_08,Check the challenges for each tier.
+TUTORIAL/UI/DES_09,Complete challenges to earn rewards.#Complete all challenges to advance to the next tier.
+TUTORIAL/UI/DES_10,Select a player.
+TUTORIAL/UI/DES_11,You can check the player's stats.
+TUTORIAL/UI/DES_12,"When Condition activates, it temporarily strengthens or weakens the player.#The higher the player's Condition value, the more likely it is to activate."
+TUTORIAL/UI/DES_13,You can customize the player's appearance.
+TUTORIAL/UI/DES_14,Add players you're interested in to Favorites for quick access.
+TUTORIAL/UI/DES_15,You can immediately play the content recommended on this screen.
+TUTORIAL/UI/DES_16,"Great!#Now play matches freely, develop the players you want, and improve your skills!"
+TUTORIAL/NEW_PLAYER/DES_01,A new player is now available!
+TUTORIAL/NEW_PLAYER/DES_02,Go to the Player Management screen.
+TUTORIAL/NEW_PLAYER/DES_03,You can register a new player as a starter here.
+TUTORIAL/NEW_PLAYER/DES_04,A new setter has been registered!
+TUTORIAL/NEW_PLAYER/DES_05,"Now, let's try enhancing a player."
+TUTORIAL/NEW_PLAYER/DES_06,You can increase a player's level by increasing their stats.
+TUTORIAL/NEW_PLAYER/DES_07,Additional <item=EXPPOINT> is required to increase a player's level.
+TUTORIAL/NEW_PLAYER/DES_08,"The higher a player's rank, the more#<item=EXPPOINT> and <item=CREDIT> are required to level them up."
+TUTORIAL/NEW_PLAYER/DES_09,Uh-oh! It doesn't look like you can upgrade the player right now...
+TUTORIAL/NEW_PLAYER/DES_10,You can also register a player as a starter directly from here.
+TUTORIAL/NEW_PLAYER/DES_11,Now enjoy even more varied matches with your new players!
+,
+TUTORIAL_MB_MOVEMENT,Middle Blocker Training
+TUTORIAL_MISSION/QUICK,Complete a Quick Attack
+TUTORIAL_MISSION/FAKE_QUICK,Draw Roberto’s Block
+TUTORIAL/QUICK,Quick Attack
+TUTORIAL/QUICK_DES,"Jump before the setter sets the ball,#and the setter will set the middle blocker up for a quick attack."
+QUICK_TUTORIAL/01,"Quick attacks are the most basic skill for a middle blocker.#If you can't do this... well, you can hardly call yourself one, right?"
+QUICK_TUTORIAL/02,"The key is to jump before our setter sets the ball.#By the time the ball comes up, you should already be high enough to attack."
+QUICK_TUTORIAL/03,"Get the timing right, and the setter will put the ball right where you need it."
+QUICK_TUTORIAL/04,Just give it a try. Jump near me right before the set... and spike it!
+RECEIVE_QUICK_TUTORIAL/01,Oh~ Nice! That one looked pretty good.
+RECEIVE_QUICK_TUTORIAL/02,Shall we try it in a real-game situation this time?
+RECEIVE_QUICK_TUTORIAL/03,"Roberto will help you.#He'll adjust his play so you can learn the timing for quick attacks, so don't worry."
+RECEIVE_QUICK_TUTORIAL/04,"After receiving, run straight to the net.#Use what you've learned and execute a quick attack."
+FAKE_QUICK_TUTORIAL/01,"Good, good. Now you're starting to look the part."
+FAKE_QUICK_TUTORIAL/02,"Looks like you've got the timing down to some extent...#Roberto, try blocking for real now."
+FAKE_QUICK_TUTORIAL/03,"This time, he'll time his block against your quick attack.#It won't be as easy to get a clean hit this time, will it?"
+FAKE_QUICK_TUTORIAL/04,But here's the thing.#A middle blocker doesn't always have to hit the ball.#Confusing the opposing blockers is also part of the job.
+FAKE_QUICK_TUTORIAL/05,"Even if you only time your jump as if you're going for a quick attack, the opponents won't be able to ignore you."
+FAKE_QUICK_TUTORIAL/06,"This time, just jump without touching the ball.#Draw Roberto's block and create an opening for our wing spiker to score with a combination play."
+PRACTICE_GO_TUTORIAL_04/01,"Oh~ Excellent, excellent."
+PRACTICE_GO_TUTORIAL_04/02,"It's different from playing as a wing spiker, isn't it? So, think you can handle it?"
+PRACTICE_GO_TUTORIAL_04/03,"Now that you know what a quick attack is, let's learn the rest through continued practice."
+WRONG_ATTACK_POSITION_TIP,Jump within the glowing area.
+MIDAIR_AT_TOSS_TIP,You need to jump before the setter sets the ball.
+MIDAIR_AT_TOSS_TIP_THATS_OPEN,"That's an open attack, not a quick attack."
+MIDAIR_AT_TOSS_TIP_TOO_FAST,Try jumping just a little later.
+MIDAIR_AT_TOSS_TIP_TOO_FAR,"The farther you are from the net, the harder it is to perform a quick attack."
+ATTACK_BEFORE_TOSS_TIP,Time your attack with the setter's set.
+ATTACK_IN_COURT_TIP,You need to contact the ball farther in front of you.
+FAKE_JUMP_TIP,Jump at the right time for a quick attack.
+FAKE_QUICK_TIP,Land without hitting the ball.
+TOO_FAST_QUICK_TIP,Time your swing correctly.
+QUICK_TOSS_FAIL_TIP,You need to jump early so I can set you up for a Quick Attack.
+BLOCKING_BREAK_TIP,Aim for the weak spot and break through the block!
+,
+TUTORIAL/ELITE_RULE_UI_APPEAR_DES,"Each player has their own Stamina and Mental Strength.#Stamina is shown in yellow, while Mental Strength is shown in blue."
+TUTORIAL/ELITE_RULE_UI_DAMAGE_DES,"The player who receives the ball loses both Stamina and Mental Strength.#If they have no Stamina left, they will fail to defend."
+TUTORIAL/ELITE_RULE_DEFENSE_TIMING_DES,"Press the Slide or Receive button with the correct timing to reduce damage.#If you do not press a button, the player will defend based on a random outcome."
+TUTORIAL/ELITE_RULE_RECEIVE_DES,Receive with precise timing to send the ball up steadily.#A Perfect Receive creates a Free Ball.
+TUTORIAL/ELITE_RULE_SLIDING_DES,"Sliding covers a wide defensive area, but sends the ball up less steadily.#Defending with a Slide does not create a Free Ball."
+TUTORIAL/ELITE_RULE_FLOATER_SERVE_DES,Floater Serves and Hybrid Serves deal damage that ignores Defense.#Failing to defend with precise timing results in heavy damage.
+TUTORIAL/ELITE_RULE_MENTALITY_DES,"Mental Strength does not recover easily between rallies.#The lower a player's Mental Strength, the more Stamina they lose when defending."
+TUTORIAL/ELITE_RULE_EXHAUST_DES,"When Mental Strength is completely depleted, the player becomes Exhausted for a short time.#Mental Strength does not recover while the player is Exhausted."
+TUTORIAL/ELITE_RULE_FORMATION_DES,Players' defensive positions do not change when the serving team changes.#You can change their defensive positions during a timeout.
+TUTORIAL/RAID_TIP_06,Almost right!

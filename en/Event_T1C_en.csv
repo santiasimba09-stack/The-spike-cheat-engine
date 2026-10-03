@@ -1,0 +1,471 @@
+﻿KEY,영어(en)
+엘리트룰,
+ELITE_RULE,Elite Rule
+ELITE_RULE/DEFENSE,Elite Defense
+ELITE_RULE/DEFENSE/DES,"The Elite Rule requires precise defense.#The closer you time a Receive or Slide to the moment the player touches the ball, the more accurate it is. Accuracy determines whether you receive a PERFECT, GREAT, GOOD, or BAD rating.#The closer the rating is to PERFECT, the less damage your Individual Stamina and Mental take."
+ELITE_RULE/DEFENSE_PERFECT,PERFECT Defense
+ELITE_RULE/DEFENSE_PERFECT/DES,A Perfect Defense performed within the required frame window counters 100% of the opposing attack and nullifies special abilities.#A Perfect Receive delivers an A Pass and restores some Individual Stamina and Mental.#Receive: within 1 frame#Slide: within 3 frames
+ELITE_RULE/DEFENSE_GREAT,GREAT Defense
+ELITE_RULE/DEFENSE_GREAT/DES,"GREAT Defense counters 80% of the opposing attack.#If Individual Stamina is too low, the defense may fail even with a GREAT rating."
+ELITE_RULE/DEFENSE_GOOD,GOOD Defense
+ELITE_RULE/DEFENSE_BAD,BAD Defense
+ELITE_RULE/DEFENSE_BAD/DES,"Defending too late may result in a BAD rating. BAD Defense increases the damage to the defending player’s Individual Stamina and Mental, so it is best to avoid a BAD Receive rating.#When Sliding, you will not receive a BAD Defense rating."
+ELITE_RULE/RECEIVE_COMMAND,Receive Command
+ELITE_RULE/RECEIVE_COMMAND/DES,"Under the Elite Rule, press the Receive button to command when your teammates receive.#If no command is given before the receive window ends, teammates defend on their own at the last possible moment.#The defense timing gauge shows the accuracy of your commands or your teammates’ automatic decisions."
+ELITE_RULE/EXHAUSTION,Exhaustion
+ELITE_RULE/EXHAUSTION/DES,"Players who lose all of their Mental enter the Exhausted state.#While Exhausted, Individual Stamina and Mental do not recover.#Exhaustion can be removed by substituting the player or calling a timeout, and when it is removed, both Mental and Individual Stamina are fully recovered."
+ELITE_RULE/MENTALITY,Mental
+ELITE_RULE/MENTALITY/DES,"Each player has their own Mental. When it runs out, they become Exhausted.#Mental decreases in proportion to the Power of the opposing attack, but Defense can reduce the damage."
+ELITE_RULE/INDIVIDUAL_STAMINA,Individual Stamina
+ELITE_RULE/INDIVIDUAL_STAMINA/DES,"Each player has their own Stamina. When it is low, the ball will bounce far away even if they Receive or Slide to defend an opposing attack."
+RULE/ELITE_RECEIVE,Elite Receive
+RULE/MATCH_RULE,Match Rules
+RULE/INDIVIDUAL_STAMINA,Individual Stamina
+EV2609 이벤트 이후 삭제해도 되는 언어,
+EV2609,Elite Stage
+EV2609_DES,Special Elite Rules apply in Elite Stages.##Face a different opposing team each day and complete the Star Conditions to collect Stars. Only your highest Star record for that day's match will count toward your daily total.##You can earn a Daily Reward for your first win each day and keep challenging the same match to earn more Stars. Weekly Rewards are granted based on the total number of Stars collected throughout the week.
+EV2609_COIN,Elite Coin
+EV2609_COIN_DESC,Event currency obtained from Elite Stages.#Can be used in the Shop.
+EV2609_EXTRA_REWARD_TICKET,Extra Reward Ticket
+EV2609_EXTRA_REWARD_TICKET_DESC,"Use this to receive today's daily reward one additional time. Rewards are obtained by clearing a stage, and this ticket can be purchased once per day."
+EV2609_RECRUIT_GAUGE,Elite Recruitment Gauge
+EV2609_RECRUIT_GAUGE_DESC,A Recruitment Gauge available during the Elite Stage event. It is spent first when scouting Elite players and has no holding limit. It expires when the event ends.
+EV2609_PLAYER_RECRUIT_TICKET,Elite Pickup Player Recruitment Ticket
+EV2609_PLAYER_RECRUIT_TICKET_DESC,A recruitment ticket that can be used during the Elite Stage event.#Can be used to recruit event players.
+EV2609_RAID_SHOP_POPUP,"Exchange the designated currency for various currencies, recruitment tickets, and items."
+EV2609_POPUP_DESC,"Take on the Elite Stage! Meet Gitae, Yuna, and Sejin!"
+EV2609_POPUP_PLAY_TITLE,Elite Stage
+EV2609_POPUP_PLAY_DESC,Face a different team each day and win.
+EV2609_POPUP_PICKUP_TITLE,Elite Player Pickup Begins!
+EV2609_POPUP_PICKUP_DESC,Elite Stage exclusive player pickup and#package sales
+EV2609_LOGIN_BONUS,Elite Attendance Pass
+EV2609_POPUP_ATTENDANCE_DESC,Get exclusive items and Elite Coins!#Premium Pass and Royal Pass now available!
+DIFFICULTY_EXTREME,Extreme
+EV2609_UNLOCK_EXTRA_REWARD,Reset Rewards
+EV2609_CLEAR_RESULT,Clear Results
+EV2609_RESET_INFO,Resets daily at 00:00 (UTC).
+NO_CLEAR_RESULT,No clear records.
+EV2609_CLAIM_WEEKLY_FIRST,Weekly Reward Claim Required
+EV2609_NO_STAGE,There are no stages available today.
+EV2609_USE_REWARD_TICKET_DES,Use this to receive today's Daily Reward one more time.#The reward is granted upon clearing the stage.
+EV2609_ERROR_ALREADY_CLAIMED_WEEKLY_REWARD,There are no rewards available to claim.
+EV2609_ERROR_INVALID_EVENT,This event is invalid.
+EV2609_ERROR_NOT_STAGE_TODAY,This stage is not available today.
+EV2609_ERROR_DAILY_REWARD_AVAILABLE,The Daily Reward is still available.
+EV2609_ERROR_NOT_ENOUGH_PRODUCT,Not enough Extra Reward Tickets.
+EV2609_ERROR_MATCH_IN_PROGRESS,A match is currently in progress.
+EV2609_STAR_REQUIRE,or more
+EV2609_MISSION_MB_WIN,Win {0} matches while controlling a Middle Blocker
+EV2609_MISSION_BACK_ATTACK,Perform {0} Back attacks in matches you won
+EV2609_MISSION_SERVE_ACE,Get {0} Serve Aces in matches you won
+EV2609_MISSION_PERFECT_RECEIVE,Successfully make {0} Perfect Receives as the controlling player in matches you won
+EV2609_MISSION_MB_QUICK,Perform {0} quick attacks while controlling a Middle Blocker in matches you won
+EV2609_MISSION,Elite Stage Missions
+EV2609_MISSION_DES,These exclusive missions remain available throughout the Elite Event. All missions can be completed by playing Elite Stage matches.
+EV2609_MATCH_PERIOD_END,"The event has ended, and only reward claims are available. Go to the Rewards pop-up?"
+EV2609_REWARD_ONLY_ONCE,First Time Only
+EV2609_WEEKLY_REWARD,Weekly Rewards
+EV2609_WEEKLY_REWARD_LIST,Weekly Reward List
+EV2609_EXCHANGE_SHOP,Elite Coin Shop
+RECRUIT_ELITE_SEO_YUNA_TITLE,S Yuna Recruitment
+RECRUIT_ELITE_SEO_YUNA_DESC,"Recruit players including S-rank Wing Spiker Yuna, who joins through Elite Stage."
+RECRUIT_ELITE_HAN_GITAE_TITLE,S+ Gitae Recruitment
+RECRUIT_ELITE_HAN_GITAE_DESC,"Recruit players including S+-rank Middle Blocker Gitae, who joins through Elite Stage."
+RECRUIT_ELITE_KANG_SEJIN_TITLE,S Sejin Recruitment
+RECRUIT_ELITE_KANG_SEJIN_DESC,"Recruit players including S-rank Setter Sejin, who joins through Elite Stage."
+EV2609_PICKUP_WS,WS Yuna
+EV2609_PICKUP_MB,MB Gitae
+EV2609_PICKUP_SE,Se Sejin
+EV2609_LOGIN_BONUS_DESC,Log in during the event period to obtain various items and currencies.
+EV2609_SPECIALIZATION_BOX,Specialization Unlock Point Box
+EV2609_SPECIALIZATION_BOX_DES,Randomly obtain up to 2 of the 9 types of Specialization Unlock Points. This reward can be obtained once per day upon your first win of the day.
+,
+,
+,
+,
+,
+,
+,
+상시 편입 언어,
+RECRUIT/GAUGE_SCOUT_READY,Guaranteed in {0} more recruits!
+RECRUIT/SCOUT_CONFIRM_GAUGE,Spend {0} Gauge to scout?
+RECRUIT/SCOUT_CONFIRM_GAUGE_ONE,Spend {1} {0} to scout?
+RECRUIT/SCOUT_CONFIRM_GAUGE_TWO,Spend {1} {0} and {3} {2} to scout?
+RECRUIT/NO_SKIN_RECRUITING,No skins are currently available for recruitment!
+ALERT/PICKUP_GAUGE_HELD_CAP,Owned {0} / Limit {1}
+,
+ALERT/PICKUP_GAUGE_NO_MORE,You cannot obtain any more Pickup Recruitment Gauge.
+RECRUIT_GAUGE,Pickup Recruitment Gauge
+RECRUIT_GAUGE_DESC,Can be used to scout players. Recruiting with Pick-Up Player Recruit Tickets or V Points adds 1 Pickup Recruitment Gauge per player recruited.#You cannot hold more than 135 Pickup Recruitment Gauge.
+BEGINNER_RECRUIT_TICKET,Beginner Recruit Ticket
+BEGINNER_RECRUIT_TICKET_DESC,A Recruit Ticket to help beginners progress quickly.#Aim to recruit an S-rank player!
+BEGINNER_RECRUIT_GAUGE,Beginner Pickup Gauge
+BEGINNER_RECRUIT_GAUGE_DESC,"Can be used for Beginner Player Scouting. When recruiting with Beginner Recruitment Tickets, the Beginner Recruitment Gauge increases by 1 for each player recruited."
+BEGINNER_RECRUIT/SELECT_SCOUT_TARGET,Select a player to scout.
+ALERT/PICKUP_GAUGE_LIMIT,You cannot hold more than 135 Pickup Recruitment Gauge.#Continue recruiting?
+CONVERT,Convert
+SCOUT_POINT_CONVERSION,Convert Pickup Scout Points
+PICKUP_GAUGE_LIMIT_DES,You can hold up to 135 Pickup Recruitment Gauge.
+CAN_CONVERT_MORE_ONE,You must convert at least 1.
+MOVE_TO_GUIDE_PLAYER_DES,View the description for {0}?
+NO_MORE_SCOUT_POINT,You have no Pickup Scout Points.
+CHECK_SCOUT_POINT_AMOUNT,This amount cannot be converted.
+CALENDAR_BEFORE_FIRST_PURCHASE,Not started yet.
+RECRUIT/SCOUT_HELP_LINE_1,Scout lets you recruit a player for sure.
+RECRUIT/SCOUT_HELP_LINE_2,Use Recruit Gauge to scout.
+RECRUIT/SCOUT_HELP_LINE_3,"In Standard, Position, and Colosseum recruit, you can scout with Scout Points."
+RECRUIT/SCOUT_RULE_GAUGE_CAP,You can hold up to {0} Pickup Recruit Gauges.
+RECRUIT/SCOUT_RULE_PICKUP_CONVERT,Pickup Scout Points can be converted into Pickup Recruit Gauge.
+RECRUIT/SCOUT_RULE_BLOCK,You can't scout a player who is at 5 breakthroughs or if you have 5 Grit Fragments.
+,
+,
+BEGINNER_RECRUIT_DESC_1,Use 40 Recruit Tickets to guarantee 1 S-rank player!
+BEGINNER_RECRUIT_DESC_2,This product can be purchased in the shop.
+,
+BEGINNER_RECRUIT/RECENTLY_SELECTED,Recently Selected
+RECRUIT/TAB_BASIC,Basic Recruit
+RECRUIT/TAB_COLOSSEUM,Colosseum Player Recruitment
+RECRUIT/PICKUP_REMAIN,Ends in {0}
+RECRUIT/SCOUT_ROUND,Round {0}
+RECRUIT/SCOUT_NEXT_NEED,Recruitment Gauge required to scout: {0}
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,Scouting Recruitment Gauge Guide
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,Round
+RECRUIT/SCOUT_GAUGE_TABLE_COL_NEED,Required Recruitment Gauge
+CAN_RECRUIT_SCOUT,{0} available!
+RECRUIT/TAB_POSITION,Player Recruitment by Position
+RECRUIT/TAB_COLOSSEUM,Colosseum Player Recruitment
+RECRUIT_NORMAL,Basic Recruit
+RECRUIT_WS,Recruit Wing Spiker
+RECRUIT_MB,Recruit Middle Blocker
+RECRUIT_SE,Recruit Setter
+,
+RECRUIT/SCOUT_CONFIRM_TITLE,Scout {0}
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,Round
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,Scout
+RECRUIT/SCOUT_GAUGE_TABLE_DES,Scouting guarantees the recruitment of a player. You can scout players using Recruitment Gauge or Scout Points.
+RECRUIT/SCOUT_LONG_DES,Scouting with Recruitment Gauge reduces the gauge required for the next scout. # You can hold up to 135 Pickup Recruitment Gauge.
+RECRUIT/SCOUT_BLOCKED_AWAKEN,You cannot obtain any more.
+RECRUIT/BUY_TICKET_WITH_COIN_AND_RECRUIT,Buy {3} {2} with {1} {0} and recruit?
+CALENDAR_SCHEDULED,Scheduled
+CALENDAR_EXPIRED,Availability Ended
+CALENDAR_GLOBAL_BEFORE,Opening Soon
+CALENDAR_GLOBAL_AFTER,Closed
+CALENDAR_CONFIG_MISSING,Settings Update Required
+DIRECT_RECRUIT,Recruit Now
+CAN_RECRUIT,Recruitment Available
+EVENT_PICKUP_DES,· {0} is spent first when scouting players. It expires when the event ends.
+RECRUIT/NOT_ENUGH_GAUGE,Not enough Recruitment Gauge.
+BEGINNER_RECRUIT,Beginner Player Recruitment
+BEGINNER_RECRUIT_TITLE,Beginner Player Recruitment
+BEGINNER_RECRUIT_DESC,Use Beginner Recruit Tickets to guarantee an S-rank player.
+BEGINNER_RECRUIT/CONFIRM_SCOUT_TARGET,Select Player
+BEGINNER_RECRUIT/TIP_MINJUN/KEYWORD,High scoring
+BEGINNER_RECRUIT/TIP_MINJUN,Easy to use with high scoring - recommended for all content
+BEGINNER_RECRUIT/TIP_YOUNGSUB/KEYWORD,All-rounder
+BEGINNER_RECRUIT/TIP_YOUNGSUB,Steady strength that shines in all content
+BEGINNER_RECRUIT/TIP_ISABEL/KEYWORD,Counter-focused
+BEGINNER_RECRUIT/TIP_ISABEL,"Tough in normal play, but high ceiling for challenging content"
+BEGINNER_RECRUIT/TIP_ATIS/KEYWORD,Quick-Attack Specialist
+BEGINNER_RECRUIT/TIP_ATIS,Presses with superior athleticism and quick attacks - recommended for all content
+BEGINNER_RECRUIT/TIP_HANRA/KEYWORD,Defense stabilizer
+BEGINNER_RECRUIT/TIP_HANRA,Boosts stability with strong defense and defensive support - recommended for all content
+BEGINNER_RECRUIT/TIP_SANGHYEON/KEYWORD,Team enhancer
+BEGINNER_RECRUIT/TIP_SANGHYEON,Raises the whole team's stats to create defense and attack chances - recommended for all content
+BEGINNER_RECRUIT/TIP_LISIA/KEYWORD,Serve specialist
+BEGINNER_RECRUIT/TIP_LISIA,Threatens with serves that lift ally morale - recommended for all content
+BEGINNER_RECRUIT/TIP_ZERO/KEYWORD,Toss supporter
+BEGINNER_RECRUIT/TIP_ZERO,Powerful tosses that make allies shine - recommended for all content
+BEGINNER_RECRUIT/TIP_AHYEON/KEYWORD,Combo specialist
+BEGINNER_RECRUIT/TIP_AHYEON,Neutralizes foes through ally synergy - recommended for challenging content
+RECRUIT/SCOUT_MAXED,All scouts for this player have been completed.
+,
+,
+STAR_CONDITION/ALWAYS,Win the Match
+STAR_CONDITION/ONAIR_VIEWERS,Reach a peak of {0} viewers
+STAR_CONDITION/SPIKE_SCORE,Score {0} times with spikes
+STAR_CONDITION/BACK_ATTACK_SCORE,Score {0} times with Back-row Attacks
+STAR_CONDITION/QUICK_SCORE,Score {0} times with Quick Attacks
+STAR_CONDITION/LOSE_SCORE,Concede fewer than {0} points
+STAR_CONDITION/LOSE_SCORE_MANUAL,Concede fewer than {0} points in Manual Mode
+STAR_CONDITION/DIFFICULTY_EXTREME,Win on VERY HARD difficulty
+STAR_CONDITION/DIFFICULTY_HARD,Win on HARD difficulty
+STAR_CONDITION/WIN_SCORE_WITHOUT_AUTO,Win by at least {0} points in Manual Mode
+STAR_CONDITION/WIN_SCORE_WITHOUT_BEGINNER,Win by at least {0} points without Beginner Mode
+CONVERTED_GAUGE_AMOUNT,Total Converted: {0}
+COMMON/TOTAL,Total
+TUTORIAL_MB_MOVEMENT,Middle Blocker Training
+TUTORIAL_MISSION/QUICK,Complete a Quick Attack
+TUTORIAL_MISSION/FAKE_QUICK,Draw Roberto’s Block
+TUTORIAL/QUICK,Quick Attack
+TUTORIAL/QUICK_DES,"Jump before the setter sets the ball, and the setter will set the middle blocker up for a quick attack."
+QUICK_TUTORIAL/01,"Quick attacks are the most basic skill for a middle blocker.#If you can't do this... well, you can hardly call yourself one, right?"
+QUICK_TUTORIAL/02,"The key is to jump before our setter sets the ball.#By the time the ball comes up, you should already be high enough to attack."
+QUICK_TUTORIAL/03,"Get the timing right, and the setter will put the ball right where you need it."
+QUICK_TUTORIAL/04,Just give it a try. Jump near me right before the set... and spike it!
+RECEIVE_QUICK_TUTORIAL/01,Oh~ Nice! That one looked pretty good.
+RECEIVE_QUICK_TUTORIAL/02,Shall we try it in a real-game situation this time?
+RECEIVE_QUICK_TUTORIAL/03,"Roberto will help you.#He'll adjust his play so you can learn the timing for quick attacks, so don't worry."
+RECEIVE_QUICK_TUTORIAL/04,"After receiving, run straight to the net.#Use what you've learned and execute a quick attack."
+FAKE_QUICK_TUTORIAL/01,"Good, good. Now you're starting to look the part."
+FAKE_QUICK_TUTORIAL/02,"Looks like you've got the timing down to some extent...#Roberto, try blocking for real now."
+FAKE_QUICK_TUTORIAL/03,"This time, he'll time his block against your quick attack.#It won't be as easy to get a clean hit this time, will it?"
+FAKE_QUICK_TUTORIAL/04,But here's the thing.#A middle blocker doesn't always have to hit the ball.#Confusing the opposing blockers is also part of the job.
+FAKE_QUICK_TUTORIAL/05,"Even if you only time your jump as if you're going for a quick attack, the opponents won't be able to ignore you."
+FAKE_QUICK_TUTORIAL/06,"This time, just jump without touching the ball.#Draw Roberto's block and create an opening for our wing spiker to score with a combination play."
+PRACTICE_GO_TUTORIAL_04/01,"Oh~ Excellent, excellent."
+PRACTICE_GO_TUTORIAL_04/02,"It's different from playing as a wing spiker, isn't it? So, think you can handle it?"
+PRACTICE_GO_TUTORIAL_04/03,"Now that you know what a quick attack is, let's learn the rest through continued practice."
+WRONG_ATTACK_POSITION_TIP,Jump within the glowing area.
+MIDAIR_AT_TOSS_TIP,You need to jump before the setter sets the ball.
+MIDAIR_AT_TOSS_TIP_THATS_OPEN,"That's an open attack, not a quick attack."
+MIDAIR_AT_TOSS_TIP_TOO_FAST,Try jumping just a little later.
+MIDAIR_AT_TOSS_TIP_TOO_FAR,"The farther you are from the net, the harder it is to perform a quick attack."
+ATTACK_BEFORE_TOSS_TIP,Time your attack with the setter's set.
+ATTACK_IN_COURT_TIP,You need to contact the ball farther in front of you.
+FAKE_JUMP_TIP,Jump at the right time for a quick attack.
+FAKE_QUICK_TIP,Land without hitting the ball.
+TOO_FAST_QUICK_TIP,Time your swing correctly.
+QUICK_TOSS_FAIL_TIP,You need to jump early so I can set you up for a Quick Attack.
+BLOCKING_BREAK_TIP,Aim for the weak spot and break through the block!
+,
+,
+,
+SHOP/DOUBLE_BONUS,BONUS! +{0}VP
+SHOP/FIRST_PURCHASE_BONUS,Special Offer!
+COMMON/WEEKDAY_SUN,Sunday
+COMMON/WEEKDAY_MON,Monday
+COMMON/WEEKDAY_TUE,Tuesday
+COMMON/WEEKDAY_WED,Wednesday
+COMMON/WEEKDAY_THU,Thursday
+COMMON/WEEKDAY_FRI,Friday
+COMMON/WEEKDAY_SAT,Saturday
+BLOCKING_LIFE,Block Strength
+NAME/TEAM_NATIONAL_STUDENTS_1,U21 Training Team - A
+NAME/TEAM_NATIONAL_STUDENTS_2,U21 Training Team - B
+NAME/TEAM_NATIONAL_STUDENTS_3,U21 Training Team - All-Stars
+NAME/TEAM_NATIONAL_STUDENTS_4,U21 Training Team - C
+NAME/TEAM_NATIONAL_STUDENTS_5,U21 Training Team - D
+NAME/TEAM_NATIONAL_STUDENTS_6,U21 Training Team - E
+NAME/TEAM_NATIONAL_STUDENTS_7,U21 Training Team - F
+NAME/STAGE_13_01,Master and Disciple
+NAME/STAGE_13_02,Welcome News
+NAME/STAGE_13_03,First Day at Camp
+NAME/STAGE_13_04,Introductions
+NAME/STAGE_13_05,Harsh Reality
+NAME/STAGE_13_06,National Team Rookie
+NAME/STAGE_13_07,The One Who Chases
+NAME/STAGE_13_08,The Shape of Talent
+NAME/STAGE_13_09,Again and Again
+NAME/STAGE_13_10,One Chance
+NAME/STAGE_13_11,"Goodbye, Siwoo"
+NAME/CHAPTER_13,On My Way
+NAME/SEASON_03,Season 3
+PLAYER/HAN_GITAE/NICKNAME,Steel Middle Blocker
+PLAYER/HAN_GITAE/LINE,I was feeling stiff anyway. How about we loosen up a bit?
+PLAYER/HAN_GITAE/LINE_2,No holding back. Come at me with everything you've got.
+PLAYER/HAN_GITAE/GACHA/LINE,No holding back.<wait=100> Come at me with everything you've got.
+PLAYER/SEO_YUNA/NICKNAME,Adaptive Talent
+PLAYER/SEO_YUNA/LINE,I'll show you. I'm a lot stronger than I look!
+PLAYER/SEO_YUNA/GACHA/LINE,"Since fate brought us together,<break><wait=85><b>let's beat every last one of them!"
+PLAYER/SEO_YUNA/GACHA/LINE_2,Who needs talent when you can overcome it with hard work!
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM,Timeout Animation
+,
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM/DES,Plays illustration animations smoothly in high quality on the timeout screen. May affect performance.
+NAME/ELITE_MATCH_MON,All-Star
+NAME/ELITE_MATCH_TUE,Blue Steel
+NAME/ELITE_MATCH_WED,Valentia Spike
+NAME/ELITE_MATCH_THU,Sylphid Case
+NAME/ELITE_MATCH_FRI,Asheville Weasels
+NAME/ELITE_MATCH_SAT,Soft Metal
+NAME/ELITE_MATCH_SUN,Tempesta Rosa
+,
+,
+,
+,
+,
+NAME/ELITE_MATCH_DES,Defeat a different opposing team each day of the week and earn event rewards!
+TUTORIAL/ELITE_RULE_UI_APPEAR_DES,"Each player has their own Stamina and Mental Strength.#Stamina is shown in yellow, while Mental Strength is shown in blue."
+TUTORIAL/ELITE_RULE_UI_DAMAGE_DES,"The player who receives the ball loses both Stamina and Mental Strength.#If they have no Stamina left, they will fail to defend."
+TUTORIAL/ELITE_RULE_DEFENSE_TIMING_DES,"Press the Slide or Receive button with the correct timing to reduce damage.#If you do not press a button, the player will defend based on a random outcome."
+TUTORIAL/ELITE_RULE_RECEIVE_DES,Receive with precise timing to send the ball up steadily.#A Perfect Receive creates a Free Ball.
+TUTORIAL/ELITE_RULE_SLIDING_DES,"Sliding covers a wide defensive area, but sends the ball up less steadily.#Defending with a Slide does not create a Free Ball."
+TUTORIAL/ELITE_RULE_FLOATER_SERVE_DES,Floater Serves and Hybrid Serves deal damage that ignores Defense.#Failing to defend with precise timing results in heavy damage.
+TUTORIAL/ELITE_RULE_MENTALITY_DES,"Mental Strength does not recover easily between rallies.#The lower a player's Mental Strength, the more Stamina they lose when defending."
+TUTORIAL/ELITE_RULE_EXHAUST_DES,"When Mental Strength is completely depleted, the player becomes Exhausted for a short time.#Mental Strength does not recover while the player is Exhausted."
+TUTORIAL/ELITE_RULE_FORMATION_DES,Players' defensive positions do not change when the serving team changes.#You can change their defensive positions during a timeout.
+TUTORIAL/RAID_TIP_06,Almost right!
+STORYMODE_TIP_9,Elite Rules apply.
+MAP_NATIONAL,Soaring Gym
+,
+NAME LANG,
+IVAN_NAM,Ivan Nam
+SEONGJIN_PARK,Seongjin Park
+CHEI_YOO,Chei Yoo
+JINKYEONG_KIM,Jinkyeong Kim
+SEOHEE_PYEON,Seohee Pyeon
+JINHYUN_KIM,Jinhyun Kim
+MINSEO_JO,Minseo Jo
+JAEWON_LEE,Jaewon Lee
+MR_COACH,Coach
+,
+SPECIALIZATION/PRESET,Preset
+SPECIALIZATION/REFUND_ALERT,Refund specialization points?
+SPECIALIZATION/RESET_PRESET_ALERT,Reset preset {0}?
+SPECIALIZATION/PREREQUISITE_AP,Prerequisite AP {0}
+SPECIALIZATION/NO_EFFECT,No effect
+SPECIALIZATION/WEAKNESS,Weakness
+SPECIALIZATION/UNLOCK,Unlock
+SPECIALIZATION/DOWNGRADE,Downgrade
+SPECIALIZATION/UPGRADE,Upgrade
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_MIN,Cannot decrease further.
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_EXCEEDS_MAX,Already at max level.
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_OVERSPENT,Not enough AP. ({0}/{1})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH,Insufficient AP in the prerequisite specialization. ({0})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH/DEPENDENT,This breaks {0}'s prerequisite AP. ({1})
+SPECIALIZATION/ERROR/SPECIALIZATION_CORE_LIMIT_EXCEEDED,Core specialization limit exceeded.
+SPECIALIZATION/ERROR/SPECIALIZATION_IDENTITY_CORE_LIMIT_EXCEEDED,Only one Identity core can be active.
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_CHAIN_BLOCKED,Cannot pick the same stat weakness in a row.
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_BALANCE_BROKEN,Weakness balance is broken.
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_NOT_UNLOCKED,You must unlock the prerequisite specialization first.
+SPECIALIZATION/ERROR/NOT_ENOUGH_ITEM_AMOUNT,Not enough unlock points. ({0}/{1})
+SPECIALIZATION/POINT/WS/OFFENSE,WS offense unlock point
+SPECIALIZATION/POINT/WS/DEFENSE,WS defense unlock point
+SPECIALIZATION/POINT/WS/IDENTITY,WS identity unlock point
+SPECIALIZATION/POINT/MB/OFFENSE,MB offense unlock point
+SPECIALIZATION/POINT/MB/DEFENSE,MB defense unlock point
+SPECIALIZATION/POINT/MB/IDENTITY,MB identity unlock point
+SPECIALIZATION/POINT/SE/OFFENSE,SE offense unlock point
+SPECIALIZATION/POINT/SE/DEFENSE,SE defense unlock point
+SPECIALIZATION/POINT/SE/IDENTITY,SE identity unlock point
+SPECIALIZATION/POINT/WS/OFFENSE_DESC,Used to unlock Wing Spiker offense specializations.
+SPECIALIZATION/POINT/WS/DEFENSE_DESC,Used to unlock Wing Spiker defense specializations.
+SPECIALIZATION/POINT/WS/IDENTITY_DESC,Used to unlock Wing Spiker identity specializations.
+SPECIALIZATION/POINT/MB/OFFENSE_DESC,Used to unlock Middle Blocker offense specializations.
+SPECIALIZATION/POINT/MB/DEFENSE_DESC,Used to unlock Middle Blocker defense specializations.
+SPECIALIZATION/POINT/MB/IDENTITY_DESC,Used to unlock Middle Blocker identity specializations.
+SPECIALIZATION/POINT/SE/OFFENSE_DESC,Used to unlock Setter offense specializations.
+SPECIALIZATION/POINT/SE/DEFENSE_DESC,Used to unlock Setter defense specializations.
+SPECIALIZATION/POINT/SE/IDENTITY_DESC,Used to unlock Setter identity specializations.
+SPECIALIZATION/HELP/AP,"After unlocking a Specialization with Unlock Points, use the player’s AP to level it up and activate it.#You can freely recover spent AP by lowering its level, but unlocking a Specialization cannot be undone."
+SPECIALIZATION/HELP/AP_ALERT,"* Specialization effects and values may be adjusted in future updates.#If an effect or value is adjusted, all Unlock Points spent on that player's Specializations can be refunded."
+SPECIALIZATION/HELP/PRESET,You can save the AP allocation for each Specialization in a preset.#Changing presets does not affect which Specializations are unlocked.
+SPECIALIZATION/STATUS/LOCKED,Locked
+SPECIALIZATION/ACTIVATE,Activate
+SPECIALIZATION/DEACTIVATE,Deactivate
+SPECIALIZATION/TIER/GROWTH,Growth
+SPECIALIZATION/TIER/ENHANCEMENT,Enhancement
+SPECIALIZATION/TIER/TACTICAL,Tactical
+SPECIALIZATION/TIER/CORE,Core
+SPECIALIZATION/TIER/UNIQUE,Unique
+SPECIALIZATION,Specialization
+IAP,
+EV2609_GROWTH_PACKAGE,Growth Package
+EV2609_GROWTH_PACKAGE_DESC,Get tons of Credits and EXP to grow fast
+EV2609_WELCOME_ELITE_PACKAGE,Welcome Elite Package
+EV2609_WELCOME_ELITE_PACKAGE_DESC,Get Pick-Up Player Recruit Ticket x10 and a small amount of currency with this package.
+EV2609_PACKAGE_1,Elite Package 1
+EV2609_PACKAGE_1_DESC,Get Elite Coin x300 and V Points x360 with this package.
+EV2609_PACKAGE_2,Elite Package 2
+EV2609_PACKAGE_2_DESC,Get Elite Coin x860 and V Points x1270 with this package.
+EV2609_ELITE_PREMIUM_PACKAGE,Elite Premium Package
+EV2609_ELITE_PREMIUM_PACKAGE_DESC,Get Pick-Up Player Recruit Ticket x10 and plenty of currency with this package.
+EV2609_ELITE_ROYAL_PACKAGE,Elite Royal Package
+EV2609_ELITE_ROYAL_PACKAGE_DESC,Get Pick-Up Player Recruit Ticket x20 and plenty of currency with this package.
+EV2609_EXTREME_ROYAL_PACKAGE,Elite Extreme Royal Package
+EV2609_EXTREME_ROYAL_PACKAGE_DESC,Get Pick-Up Player Recruit Ticket x40 and a massive amount of currency with this package.
+EV2609_NORMAL_PASS,Normal Pass
+EV2609_NORMAL_PASS_DESC,Earn various uniforms and rewards from the Normal Pass.
+EV2609_PREMIUM_PASS,Premium Pass
+EV2609_PREMIUM_PASS_DESC,"Unlock the Premium Pass to get 3 extra days of event attendance, exclusive uniforms, and massive rewards."
+EV2609_ROYAL_PASS,Royal Pass
+EV2609_ROYAL_PASS_DESC,Unlock the Royal Pass to get 1 extra day of event attendance and massive rewards. Requires the Premium Pass.
+EV2609_PREMIUM_ROYAL_PASS,Premium + Royal Pass
+EV2609_PREMIUM_ROYAL_PASS_DESC,A bundle that unlocks both the Premium and Royal Passes at once.
+BEGINNER_PLAYER_RECRUIT_TICKET,Beginner Recruit Ticket
+BEGINNER_RECRUIT_PACKAGE,Beginner Recruit Ticket Pack
+BEGINNER_RECRUIT_PACKAGE_DESC,Obtain 40 Beginner Recruit Ticket(s).
+DEFAULT_40VP_PACKAGE,V Point x40 Pack
+DEFAULT_40VP_PACKAGE_DESC,Obtain 40 V Point(s).
+DEFAULT_200VP_PACKAGE,V Point x200 Pack
+DEFAULT_200VP_PACKAGE_DESC,Obtain 200 V Point(s).
+DEFAULT_420VP_PACKAGE,V Point x420 Pack
+DEFAULT_420VP_PACKAGE_DESC,Obtain 420 V Point(s).
+DEFAULT_1280VP_PACKAGE,V Point x1280 Pack
+DEFAULT_1280VP_PACKAGE_DESC,Obtain 1280 V Point(s).
+DEFAULT_2160VP_PACKAGE,V Point x2160 Pack
+DEFAULT_2160VP_PACKAGE_DESC,Obtain 2160 V Point(s).
+DEFAULT_4000VP_PACKAGE,"V Point x4,000 Pack"
+DEFAULT_4000VP_PACKAGE_DESC,"Obtain 4,000 V Point(s)."
+DEFAULT_40VP_PACKAGE_2X,V Point x40 2x Pack
+DEFAULT_40VP_PACKAGE_2X_DESC,40 V Points + 40 Bonus!#Bonus resets periodically.
+DEFAULT_200VP_PACKAGE_2X,V Point x200 2x Pack
+DEFAULT_200VP_PACKAGE_2X_DESC,200 V Points + 200 Bonus!#Bonus resets periodically.
+DEFAULT_420VP_PACKAGE_2X,V Point x420 2x Pack
+DEFAULT_420VP_PACKAGE_2X_DESC,420 V Points + 420 Bonus!#Bonus resets periodically.
+DEFAULT_1280VP_PACKAGE_2X,V Point x1280 2x Pack
+DEFAULT_1280VP_PACKAGE_2X_DESC,1280 V Points + 1280 Bonus!#Bonus resets periodically.
+DEFAULT_2160VP_PACKAGE_2X,V Point x2160 2x Pack
+DEFAULT_2160VP_PACKAGE_2X_DESC,2160 V Points + 2160 Bonus!#Bonus resets periodically.
+DEFAULT_4000VP_PACKAGE_2X,V Point x4000 2x Pack
+DEFAULT_4000VP_PACKAGE_2X_DESC,4000 V Points + 4000 Bonus!#Bonus resets periodically.
+상품(Product시트에 들어갈 것),
+GITAE_UNIFROM,Gitae Uniform
+GITAE_UNIFROM/DESC,The men’s uniform of the Cheongmyeong University volleyball team.#Made from a special high-strength fabric that resists tearing from friction and heavy impacts.
+BACK_ELITE_WAIT_ROOM,National Team Training Center
+BACK_ELITE_WAIT_ROOM/DESC,"A dedicated training center where South Korea’s top volleyball players gather.#It features the country’s largest professional facilities and cutting-edge training systems. As a place that hones the best players, it is notorious for its exceptionally intense training."
+BACK_ELITE_HALLWAY,Gym Hallway Background
+BACK_ELITE_HALLWAY/DESC,"The gym hallway at the National Team Training Center.#When Inho and his partner were on the national team, they would walk here and talk about their dreams."
+YOUTH_BALL,NTC Exclusive Ball
+YOUTH_BALL/DES,A ball made exclusively for the National Team Training Center by volleyball brand 'RISE'.
+GITAE_BALL,Gitae’s Favorite Ball
+GITAE_BALL/DES,A volleyball Gitae treasures.#He is said to always practice with this ball on the day of an important match.
+YOUTH_UNIFORM_MALE,Youth National Team Men’s Uniform
+YOUTH_UNIFORM_MALE/DES,"The official men’s uniform of the youth national team, made by volleyball brand 'RISE'.#So popular that it sells like hotcakes during international tournament season."
+YOUTH_UNIFORM_FEMALE,Youth National Team Women’s Uniform
+YOUTH_UNIFORM_FEMALE/DES,"The official women’s uniform of the youth national team, made by volleyball brand 'RISE'.#So popular that it sells like hotcakes during international tournament season."
+JAEHYUN_UNIFORM,Jaehyun Uniform
+JAEHYUN_UNIFORM/DES,"The official men’s uniform of the Sky High volleyball team.#On the day he first received it, Jaehyun stood in front of the mirror for quite a while."
+JAEHYUN_SHOES,Jaehyun Shoes
+SEJIN_UNIFORM,Sejin Uniform
+SEJIN_UNIFORM/DES,"The official men’s uniform of the Cheonan High volleyball team.#For some reason, Sejin is especially fond of striking poses when he wears it."
+SEJIN_SHOES,Sejin Shoes
+YUNA_UNIFORM,Yuna Uniform
+YUNA_UNIFORM/DES,The official women’s uniform of the Cheolwon High volleyball team.#Yuna’s favorite item. She owns 5 identical sets and wears them in rotation.
+YUNA_SHOES,Yuna Shoes
+BGM_COLEMAN_STORY_DESC,CHAPTER 13. #「You don't understand. You started playing at a young age.」
+BGM_NATIONAL_TRAINING_MATCH_DESC,CHAPTER 13. #「I have to do everything I can!」
+BGM_TRAINING_CAMP_BUDDIES_DESC,CHAPTER 13. #「There's nothing I want more than to be on the national team!」
+PROFILE_FRAME_EV2609,Elite Stage Frame
+PROFILE_TITLE_ELITE_SPIKER,Elite Player
+PROFILE_STICKER_GLOBAL,Global Sticker
+PROFILE_STICKER_GITAE,Gitae Sticker
+PROFILE_STICKER_TROPHY,Elite Trophy Sticker
+,
+,
+,
+,
+,
+,
+,
+,
+BEGINNER_RECRUIT/CAN_SCOUT,Beginner Player available!
+RECRUIT/HELP_TITLE,Recruit Player
+RECRUIT/HELP_LINE_1,You can acquire players by spending recruitment tickets or currency.
+RECRUIT/HELP_LINE_2,Players in Event Player Recruitment can be scouted using the Event Recruitment Gauge and Pickup Recruitment Gauge.
+RECRUIT/HELP_LINE_3,Players in Beginner Player Recruitment can be scouted using the Beginner Recruitment Gauge.
+RECRUIT/HELP_LINE_4,Event Pickup Player Recruitment Tickets expire when the event ends.
+RECRUIT/SCOUT_NO_MORE,You can't scout any further.
+RECRUIT/NOT_ENOUGH_GAUGE,Insufficient gauge.
+RECRUIT/SCOUT_CONFIRM_EVENT_FIRST,{0} will be deducted first.
+RECRUIT/CURRENCY_NOT_ENOUGH_GO_SHOP,Insufficient currency. Would you like to go to the Shop?
+RECRUIT/BUY_THEN_RECRUIT,Recruit after purchase
+COMMON/RECRUIT,Recruit
+CONVERTED_GAUGE_AMOUNT,Total Converted: {0}
+,
+COMMON/MAX_BUY_COUNT,Maximum Purchases : {0}
+COMMON/TOTAL_BUY_DES,You will purchase a total of {0} items.
+COMMON/EASY,EASY
+COMMON/TOOHARD,VERY HARD
+,
+RECRUIT/SCOUT_RULE_OVER_ROUND,You can continue scouting with the same gauge even after the final round.
+RECRUIT/SCOUT_ROUND_AFTER,Round {0} onward

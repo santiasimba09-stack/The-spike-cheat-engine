@@ -1,0 +1,44 @@
+﻿KEY,한국어(ko)
+NOT_EXIST_FILTERGROUP,필터그룹이 존재하지 않습니다.
+NOT_EXIST_ARENA_POINT_REWARD_LIST,아레나 포인트 보상 목록이 존재하지 않습니다.
+NOT_FOUND_ARENA_POINT_REWARD,현재 시즌에 해당하는 누적 포인트 보상이 없습니다.
+ALREADY_CLAIMED_ARENA_POINT_REWARD,이미 누적 포인트 보상을 수령한 상태입니다.
+NOT_EXIST_USER_TIER,유저 티어가 존재하지 않습니다.
+NOT_EXIST_USER_ATTENDANCE,출석 정보가 존재하지 않습니다.
+NOT_EXIST_ACHIEVEMENTLIST,업적정보를 불러오지 못했습니다.
+NOT_EXIST_TIERLIST,티어정보를 불러오지 못했습니다.
+NOT_ENOUGH_TIER_DIAMOND,다이아 이상 티어부터 아레나 컨텐츠 이용이 가능합니다.
+NOT_FOUND_USER_ARENA_ROUND,유저 아레나 라운드 정보를 찾을 수 없습니다.
+NOT_COMPLETE_ARENA,아레나를 완료하지 않은 상태입니다.
+NOT_COMPLETE_ROUND,라운드를 완료하지 않은 상태입니다.
+NOT_FAILED_ROUND,라운드를 실패한 상태가 아닙니다.
+NOT_DRAW_CARD,카드를 드로우하지 않은 상태입니다.
+INVALID_COST_PACKAGE,코스트 패키지가 유효하지 않습니다.
+NOT_EXIST_USER,존재하지 않는 유저입니다.
+NOT_ENOUGH_VPOINT,V포인트가 부족합니다.
+NOT_ENOUGH_FREEVPOINT,freeV포인트가 부족합니다.
+NOT_ENOUGH_PAIDVPOINT,paidV포인트가 부족합니다.
+NOT_ENOUGH_CREDIT,크레딧이 부족합니다.
+NOT_ENOUGH_EXPPOINT,경험치가 부족합니다.
+NOT_ENOUGH_BLUEFLAME,블루플레임이 부족합니다.
+NOT_EXIST_INVENTORY,인벤토리가 존재하지 않습니다.
+ITEM_NOT_FOUND,아이템이 존재하지 않습니다.
+NOT_ENOUGH_ITEM_AMOUNT,아이템 수량이 부족합니다.
+NOT_EXIST_AWAKEN_ITEM,각성 아이템 리스트가 존재하지 않습니다.
+NOT_EXIST_PRODUCT_LIST,상품 리스트가 존재하지 않습니다.
+NOT_EXIST_PLAYER_LIST,선수 리스트가 존재하지 않습니다.
+INVALID_PLAYER_ID,존재하지 않는 선수입니다.
+INVALID_AWAKEN_ITEM,존재하지 않는 각성 아이템입니다.
+INVALID_AWAKEN_COST_PRODUCT,존재하지 않는 각성 아이템 상품입니다.
+NOT_ENOUGH_USER_PLAYER,보유중인 선수 수가 부족합니다.
+NOT_ENOUGH_ABILITY_CARD,카드를 6장 뽑을 수 없습니다.
+NOT_AVAILABLE_RESET_TICKET,리셋 티켓을 사용할 수 없는 상태입니다.
+USER_PLAYER_LIST_NOT_FOUND,유저 선수 리스트가 존재하지 않습니다.
+ALREADY_SELECT_DIFFICULTY,난이도를 이미 선택한 상태입니다.
+NOT_SELECT_PLAYER_POOL,플레이어 풀을 선택하지 않은 상태입니다.
+NOT_SELECT_DIFFICULTY,난이도를 선택하지 않은 상태입니다
+NOT_START_ROUND,라운드를 시작하지 않은 상태입니다.
+DATA_HACKED,비정상적인 데이터 변경이 감지되었습니다.
+INVALID_STATUS,해당 요청을 수행할 수 없는 상태입니다.
+TIME_OVER,시간이 초과되었습니다.
+NOT_FOUND_USER_ARENA_ROUND,유저 아레나 라운드 정보를 찾을 수 없습니다.

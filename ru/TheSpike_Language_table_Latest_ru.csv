@@ -1,0 +1,2801 @@
+﻿KEY,러시아어(ru)
+GUIDE/TIP_77,Какая удача! Этот совет появляется с вероятностью 1 к 10 000. Сегодня вас точно ждёт что-то хорошее!
+GUIDE/TIP_01,V-очки позволяют набирать игроков.
+GUIDE/TIP_02,WS — это сокращение для доигровщика.
+GUIDE/TIP_03,MB — это сокращение для центрального блокирующего.
+GUIDE/TIP_04,Se — это сокращение для связующего.
+GUIDE/TIP_05,"Можно снизить параметры, потратив 20% жетонов, использованных на их повышение."
+GUIDE/TIP_06,Благодаря тайм-ауту можно сбросить все состояния.
+GUIDE/TIP_08,Связующий команды соперника имеет самый низкий приоритет при приёме планера в прыжке.
+GUIDE/TIP_09,Выключение режима новичка обеспечивает более детальный игровой процесс.
+GUIDE/TIP_10,"Если вы подряд теряете очки в определённой ситуации, попробуйте сменить расстановку во время тайм-аута."
+GUIDE/TIP_11,В игре «The Spike Cross» нет понятий передней и задней линий. Атаковать можно с любого места.
+GUIDE/TIP_12,"Если среднее значение скорости и защиты составляет не менее 120, ИИ точнее выбирает момент для блока."
+GUIDE/TIP_13,"Чем ниже уровень защиты, тем дальше улетает мяч после приёма в падении."
+GUIDE/TIP_14,"Если у команды соперника не осталось выносливости, обманный удар поможет легко набрать очко."
+GUIDE/TIP_15,"Чем лучше у команды получается приём в падении, тем слабее она к нападающим ударам по длинной траектории."
+GUIDE/TIP_16,"Сохраняйте игроков в «Избранном», чтобы видеть их отдельно от других спортсменов."
+GUIDE/TIP_17,За первое прохождение каждого этапа сюжетного режима с тремя звёздами можно получить V-очки.
+TIP/BLOCKING/ALERT_01,"Находясь на передней линии,#вы можете нажать «{n1}» и выставить блок под сеткой."
+TIP/BLOCKING/ALERT_02,"Когда противник собирается атаковать вас,#нажмите и отпустите «{n1}», чтобы выставить блок перед сеткой."
+TIP/BLOCKING/ALERT_03,"Если в ходе блока не удалось рассчитать правильное время для прыжка,#мяч вылетит тем дальше,#чем больше разница с силой атаки нападающего."
+TIP/DEUCE/ALERT_01,"Даже если необходимое число очков достигнуто,#в волейболе победа засчитывается только при отрыве на 2 очка."
+TIP/FAINT/ALERT_01,"Попробуйте использовать финт с помощью кнопки «{n1}» при нападающем ударе,#именно в тот момент, когда противник готовится поставить блок."
+TIP/HPCHECK/ALERT_01,При понижении энергии вверху экрана#игроки начинают хуже осуществлять прием.
+TIP/HPCHECK/ALERT_02,"Если энергии мало,#постарайтесь обеспечить защиту с помощью блока или приёма в падении."
+TIP/HPCHECK/ALERT_03,У игрока со слабой защитой#снимается больше энергии при приеме.
+TIP/FARSPIKE/ALERT_01,"Чем ближе мяч находится перед игроком, тем глубже угол нападающего удара.#В режиме новичка угол рассчитывается автоматически."
+TIP/WIN/ALERT_01,Поздравляем!#The Spike Cross рекомендует использовать ручной режим игры.#Давайте окунемся в море веселья?
+TIP/WIN/ALERT_02,"Поздравляем!#Если вы привыкли к тому, как делать нападающий удар,#рекомендуем выключить режим новичка в настройках."
+TIP/CONDITION/FOCUS,Полный фокус#Все показатели игрока в этом состоянии#значительно повышаются.
+TIP/CONDITION/ANGRY,"Взбудораженность#Состояние, при котором атака и скорость повышаются,#а защита и сила прыжка — снижаются."
+TIP/CONDITION/SAD,Без сил#Все показатели игрока в этом состоянии#значительно снижаются.
+TIP/CONDITION/CARELESS,"Беспечность#Состояние, при котором защита#и скорость игрока снижаются."
+TIP/BOSS/ALERT_01,Присутствие Ма Юнсока повышает вероятность вхождения всех игроков команды противника в состояние «Беспечность» на 150%.
+TIP/BOSS/ALERT_02,Навык Нам Чжэхёна «Твердая готовность» усиливает параметры игрока при понижении энергии команды.
+TIP/BOSS/ALERT_03,Навык Оазиса «Восход» усиливает параметры игрока при потере каждых 3-х очков
+TIP/BOSS/ALERT_04,"Несмотря на то, что Хан Сольхва — связующий, у него сильная атака.#Опасайтесь неожиданных нападающих ударов."
+TIP/BOSS/ALERT_05,Старшая школа искусств Санхёна делает упор на защиту и взаимодействие.#Их защита легко предугадывает нападающие удары в центр площадки.
+TIP/BOSS/ALERT_06,"«Непробиваемый блок» Ким Хисона#идеально блокирует все нападающие удары, при которых мяч касается его рук."
+TIP/BOSS/ALERT_07,Мяч при нападающем ударе Чо Минчжуна#в полете меняет траекторию из-за сильного кручения.
+NAME/TEAM_01,Старшая школа «Тэчжи»
+NAME/TEAM_02,Средняя школа «Дуиль»
+NAME/TEAM_03,Старшая школа «Чаган»
+NAME/TEAM_04,Старшая школа «Чжисан»
+NAME/TEAM_05,Старшая школа «Квантан»
+NAME/TEAM_06,Старшая школа «Минчжэ»
+NAME/TEAM_07,Старшая школа «Чаган»
+NAME/TEAM_08,Старшая школа «Кынюк»
+NAME/TEAM_09,Сэнд Сёрферс
+NAME/TEAM_10,Старшая школа «Ханыль»
+NAME/TEAM_11,Сан Рисиверс
+NAME/TEAM_12,Клуб «Тэян» (запас)
+NAME/TEAM_13,Пальм Нападающий ударс
+NAME/TEAM_14,Клуб «Тэян»
+NAME/TEAM_15,Старшая школа «Гоин»
+NAME/TEAM_16,Старшая школа «Чонни»
+NAME/TEAM_17,Старшая школа «Чанховон»
+NAME/TEAM_18,Старшая школа «Ханун»
+NAME/TEAM_19,Старшая школа «Донпэ»
+NAME/TEAM_20,Старшая школа «Хвахак»
+NAME/TEAM_21,Старшая школа «Бундан»
+NAME/TEAM_22,Старшая школа «Чочжи»
+NAME/TEAM_23,Старшая школа «Тэпун»
+NAME/TEAM_24,Старшая школа «Бёльбит»
+NAME/TEAM_25,Выпускники старшей школы искусств
+NAME/TEAM_26,Старшая школа «Ёчжон»
+NAME/TEAM_27,Старшая школа «Ванболь»
+NAME/TEAM_28,Старшая школа «Ханбит»
+NAME/TEAM_29,Старшая школа «Бихэн»
+NAME/TEAM_30,Старшая школа «Шинсок»
+NAME/TEAM_31,Желтая пантера
+NAME/TEAM_32,Валентия Нападающий ударс
+NAME/TEAM_33,Обучение
+NAME/TEAM_34,Старшая школа «Чольбёк»
+NAME/TEAM_35,Фиолетовый цветок
+NAME/TEAM_36,Желтое копье
+NAME/TEAM_37,Красный щит
+NAME/TEAM_38,Зеленый Леон
+NAME/TEAM_39,Синяя Лансия
+NAME/TEAM_40,Первоклассные игроки
+NAME/TEAM_41,Алмазная старшая школа «Шинсок»
+NAME/TEAM_42,Алмазная старшая школа «Бёльбит»
+NAME/TEAM_43,Алмазная старшая школа «Ванболь»
+NAME/TEAM_44,Алмазная старшая школа «Чонни»
+NAME/TEAM_45,Алмазная старшая школа «Тэпун»
+NAME/TEAM_46,Алмазная старшая школа «Бихэн»
+NAME/TEAM_47,Валентия Нападающий ударс
+NAME/TEAM_48,Синяя плеть
+NAME/TEAM_49,Красная палка
+NAME/TEAM_50,Синий звонок
+NAME/TEAM_51,Ноу-нейм
+NAME/TEAM_52,Арматура
+NAME/TEAM_53,Желтый пистолет
+NAME/TEAM_54,Красный меч
+NAME/TEAM_55,Волейбольный клуб «Синее небо»
+NAME/TEAM_56,Желтая пушка
+NAME/TEAM_57,Клуб мастеров «Тэян»
+NAME/TEAM_58,Колизей мастеров
+INGAME/CHANGE_PLAYER,Замена
+INGAME/CHANGE,Замена
+INGAME/GAME_START,Начать игру
+INGAME/CHANGE_CONTROL_PLAYER,Сменить управляемого игрока
+INGAME/ROTATION,Расстановка
+COMMON/SHOP,Магазин
+COMMON/TUTORIAL,Обучение
+COMMON/TRAINING,Практика
+COMMON/NEXT,Далее
+COMMON/STORY,Сюжет
+COMMON/GUIDE,Игровой гид
+COMMON/ATTENDANCE,Вход в игру
+COMMON/TOURNAMENT,Турнир
+COMMON/COLOSSEUM,Волейбольный колизей
+COMMON/STRENGTH,Атака
+COMMON/DEFENSE,Защита
+COMMON/SPEED,Скорость
+COMMON/JUMP,Сила прыжка
+COMMON/BRONZE,Бронзовый
+COMMON/SILVER,Серебряный
+COMMON/GOLD,Золотой
+COMMON/DIAMOND,Алмазный
+COMMON/MASTER,Мастер
+COMMON/WORLD,Мировой
+COMMON/PLAYER,Игрок
+COMMON/CLOSE,Закрыть
+COMMON/CANCEL,Отмена
+COMMON/PROGRESS,ОК
+COMMON/NAME,Имя
+COMMON/HEIGHT,Рост
+COMMON/RANK,Ранг
+INGAME/PRESET_ADD,Добавить пресет
+INGAME/PRESET_MANAGEMENT,Управление пресетами
+INGAME/SET_CURRENT_PRESET,Установить как текущий пресет
+INGAME/CURRENT_PRESET,Текущий пресет
+INGAME/PRESET_RECENT_USE,Недавно использованный контент
+INGAME/PRESET,Пресет
+HELP/FORMATION/DES,"С помощью пресетов вы можете настроить комбинацию стартовых игроков вашей волейбольной команды.#При использовании одного пресета другой пресет становится запасными игроками, которых можно мгновенно заменить во время матча."
+INGAME/CONDITION,Состояние
+HELP/CONDITION/DES,Показывает изменение состояния игрока во время игры.#В зависимости от характера у каждого игрока разная вероятность изменения состояния.#По прошествии времени игрок возвращается к обычному состоянию.#При использовании тайм-аута все состояния сбрасываются.
+INGAME/ANGRY,Взбудораженность
+HELP/CONDITION/ANGRY/DES,"Увеличивает атаку и скорость, однако уменьшает защиту и силу прыжка.#Условия для возникновения: эйс, неудачная атака."
+INGAME/CARELESS,Беспечность
+HELP/CONDITION/CARELESS/DES,"Значительно снижает скорость и защиту.#Условия возникновения: игрок не касается мяча 5 и более раз подряд. Чем дольше нет касаний, тем выше вероятность."
+INGAME/FOCUS,Полный фокус
+HELP/CONDITION/FOCUS/DES,"Значительно повышает все параметры.#Условия для возникновения: эйс, набор очков, успешный точный блок."
+INGAME/SAD,Без сил
+HELP/CONDITION/SAD/DES,Уменьшает все параметры.#Условия для возникновения: неудачная атака.
+HELP/TOURNAMENT/DES,Турнир — это площадка для проведения матчей с командами по уровням.
+COMMON/POSITION,Позиции
+HELP/POSITION/WS/TITLE,Доигровщик
+HELP/POSITION/WS/DES,"Главная атакующая позиция в команде.#Чтобы преодолевать блок и набирать очки, необходимы высокие атака и сила прыжка."
+HELP/POSITION/MB/TITLE,Центральный блокирующий
+HELP/POSITION/MB/DES,"Многофункциональный игрок, который может защищать, ставить блок и атаковать."
+HELP/POSITION/SE/TITLE,Связующий
+HELP/POSITION/SE/DES,"Выполняет передачу вторым касанием.#Характер связующего определяет траекторию передач, поэтому выбирайте игрока, подходящего вашей команде и удобного для вас."
+HELP/STATUS/TITLE,Параметры
+HELP/STATUS/STRENGTH/DES,"Определяет мощь нападающего удара игрока.#Чем выше атака, тем ниже скорость мяча после его блока."
+HELP/STATUS/DEFENSE/DES,"Определяет потери выносливости при приёме.#Чем выше защита, тем ниже скорость мяча после приёма в падении."
+HELP/STATUS/SPEED/DES,"Определяет скорость перемещения игрока. #Если среднее значение скорости и защиты достигает определённого уровня, ИИ точнее выбирает момент для блока."
+HELP/STATUS/JUMP/DES,Влияет на прыжок игрока.##Блокирующий прыжок / Атакующий прыжок
+INGAME/SERVE,Подача
+HELP/SERVE/DES,Существует множество видов подач. Ниже представлена детальная информация о трех самых распространенных из них.
+INGAME/SERVE/NORMAL,Базовая подача
+HELP/SERVE/NORMAL/DES,"Очень простая подача, которую сопернику также легко принять.#Соперники воспринимают её как шанс-бол, и их связующий старается не принимать её."
+INGAME/SERVE/JUMP_FLOATER,Планирующая подача
+HELP/SERVE/JUMP_FLOATER/DES,"Относительно простая подача, которая отлично подходит для поиска брешей в обороне соперника. #Соперники не воспринимают ее как шанс-бол, но связующий команды соперника старается не принимать ее."
+INGAME/SERVE/SPIKE,Силовая подача
+HELP/SERVE/SPIKE/DES,"Сложная подача, но в случае успеха она позволяет начать розыгрыш, значительно снизив выносливость команды соперника. #В зависимости от силы удара связующий команды соперника может принять этот мяч."
+COMMON/TIER,Ранг
+HELP/TIERORACHIEVEMENT/DES,За выполнение определенного числа испытаний на повышение ранга выдаются щедрые награды.#Очки для повышения ранга можно заработать в ходе волейбольных матчей.
+COMMON/ACHIEVEMENT,Испытания
+COMMON/ALERT,Предупреждение
+COMMON/YES,Да
+COMMON/NO,Нет
+INGAME/COLOSSEUM/ALERT,Все текущие матчи в Колизее будут сброшены.#Продолжить?
+COMMON/ENTER,Войти
+COMMON/DEDICATED_SHOP,Спецмагазин
+COMMON/CARD_COLLECTION,Коллекция карт
+INGAME/COLOSSEUM/ALERT_02,"Нет ни одного Колизея, куда можно войти."
+COMMON/CHECK,ОК
+COMMON/NOTICE,Уведомление
+INGAME/TEAM/ALERT,В матче 2 на 2 нельзя менять расстановку.
+INGAME/SKIP,Пропустить
+INGAME/TRAINING_SPIKE,Практика нападающего удара
+INGAME/TRAINING_DEFENSE,Практика защитной техники
+INGAME/TRAINING_SERVE,Практика подачи
+INGAME/GAME_PLAY,Игра
+INGAME/REPLAY,Еще раз
+INGAME/GO_BACK,Главный экран
+INGAME/MY_TIER,Мой ранг
+COMMON/COMPLETE,Завершено
+INGAME/RECEIVE_REWARD,Получить
+INGAME/TOP_RATED,ТОП {n1}%
+COMMON/POINT,Очки
+INGAME/UNLOCK_LEFT,До открытия
+ACHIEVEMENT/RATE,Прогресс испытаний
+ACHIEVEMENT/CONDITION,Условия
+ACHIEVEMENT/SATISFY,Набрать необходимое количество очков ранга
+ACHIEVEMENT/UPGRADE,Повышение
+INGAME/REWARD,Награда
+INGAME/REWARD/ALERT,Сначала заберите награду за предыдущий ранг.
+INGAME/PROGRESSING,В процессе
+INGAME/CHALLENGE,Испытания
+INGAME/BLOCKING,Блок
+INGAME/GAME_START_02,Начало игры
+NAME/STAGE/HEAL,Этап восстановления
+INGAME/LEFT_LIFE,Жизни
+INGAME/FINAL_REWARD,Итог. награда
+INGAME/MAYOONSEOK/LINE_01,"Давай, покажи мне ошибочку!"
+INGAME/MAYOONSEOK/LINE_02,"Давай, ошибись!"
+INGAME/MAYOONSEOK/LINE_03,"Провались, провались, провались!"
+INGAME/MAYOONSEOK/LINE_04,"Ма Юнсок, отстань!"
+INGAME/ACHIEVEMENT/ALERT,Повышайте ранг после завершения испытаний!
+CARD/ATTACK,Атака
+CARD/DEFENSE,Защита
+CARD/TOTAL,Всего
+CARD/ATTACK/ATTACK_TRY,Попытка атаки
+CARD/ATTACK/ATTACK_SCORE,Очки за атаку
+CARD/ATTACK/SERVE_TRY,Попытка подачи
+CARD/ATTACK/SERVE_SCORE,Очки за подачу
+CARD/ATTACK/HIT,Попадание в белый круг
+CARD/ATTACK/CAREFUAL_ATTACK,Осмотрительная атака
+CARD/ATTACK/ATTACK_ACE,Лучшие очки за атаку
+CARD/ATTACK/SERVE_ACE,Лучшие очки за подачу
+CARD/ATTACK/HIT_ACE,Лучшее попадание в цель
+CARD/DEFENSE/BLOCKING_TRY,Попытка блока
+CARD/DEFENSE/BLOCKING_SUCCESS,Удачный блок
+CARD/DEFENSE/BLOCKING_SCORE,Очки за блок
+CARD/DEFENSE/SLIDING_TRY,Попытка приёма в падении
+CARD/DEFENSE/SLIDING_SUCCESS,Удачный приём в падении
+CARD/DEFENSE/CAREFUL_BLOCKING,Осмотрительный блок
+CARD/DEFENSE/CAREFUL_SLIDING,Осмотрительный приём в падении
+CARD/DEFENSE/BLOCKING_ACE,Лучшие очки за блок
+CARD/TOTAL/PLAY_TIME,Время игры
+CARD/TOTAL/MANUAL_MODE,Ручной режим
+CARD/TOTAL/PERFECT_VICTORY,Идеальная победа
+CARD/TOTAL/AUDIANCE,Число зрителей
+CARD/TOTAL/TOTAL_SCORE,Всего очков
+CARD/TOTAL/SCORE_GAP,Разница
+INGAME/PRACTICE_GAME,Тренировочный матч
+INGAME/SCORE,Счет
+INGAME/DEUCE,Равный счет
+INGAME/EVENT_STORE,Магазин события
+INGAME/RECRUIT/TOUCHSCREEN,Набор
+INGAME/EXPLANATION,Пояснения
+INGAME/RECRUIT/WS,Набор WS
+INGAME/RECRUIT/MB,Набор MB
+INGAME/RECRUIT/SE,Набор Se
+INGAME/RECRUIT/RANDOM,Случайный набор игроков по всем позициям.
+INGAME/RECRUIT/1,Набор 1 игрока
+INGAME/RECRUIT/10,Набор 10 игроков
+INGAME/PLAYER/ALERT_01,"Выберите игрока, которого хотите заменить"
+INGAME/PROBLEM_OCCUR,Ошибка
+INGAME/PROBLEM_OCCUR/REASON,Работа не была завершена по следующим причинам.
+INGAME/PROBLEM_OCCUR/NO_REASON,Работа не завершена: неизвестная ошибка.
+INGAME/PROBLEM_OCCUR/INQUIRY,Обратитесь в техническую поддержку при повторном возникновении ошибки.
+INGAME/TIER_NOT_ENOUGH/ALERT,Недостаточный ранг
+INGAME/ACCESS_RESTRICTION_CONTENT,Доступно только с ранга {n1} и выше.
+INGAME/GAIN,Получить
+INGAME/DAY,{n1}-й день
+INGAME/ATTENDANCE/CHECK,Вход в игру
+INGAME/UPDATE_TIME_LEFT,До обновления: {n1} ч. {n2} мин. {n3} сек.
+INGAME/RECRUIT_PLAYER,Набор игроков
+INGAME/SCOUT_PLAYER,Скаут игроков
+SHOP/BUY,Покупка
+SHOP/APPLY_01,Применить
+SHOP/APPLY_02,Применить
+SHOP/MOVE/ALERT,Перейти в меню управления игроками?
+SHOP/MOVE,Перейти
+INGAME/COSTUME,Экипировка
+SHOP/BUY/ALERT,Купить выбранный предмет?#({n1})
+SHOP/ONLY_BUY,Куплено
+SHOP/BUY_COMPLETE,Куплено
+ACHIEVEMENT/TITLE_01,Вход в магазин
+ACHIEVEMENT/DES_01,Зайдите в магазин валют.
+ACHIEVEMENT/TITLE_02,Улучшение игроков
+ACHIEVEMENT/DES_02,Улучшите игроков.
+ACHIEVEMENT/TITLE_03,Набор игроков
+ACHIEVEMENT/DES_03,Наберите игроков.
+ACHIEVEMENT/TITLE_04,Победа в соревновании
+ACHIEVEMENT/DES_04,Победите в соревновании.
+ACHIEVEMENT/TITLE_05,Последний удар
+ACHIEVEMENT/DES_05,На 10-м этапе 1-й главы наберите последние очки с помощью нападающего удара.
+ACHIEVEMENT/TITLE_06,Усиление игроков II
+ACHIEVEMENT/DES_06,Улучшите общие показатели параметров игрока до 500 или выше.
+ACHIEVEMENT/TITLE_07,Победа в турнире
+ACHIEVEMENT/DES_07,Одержите победу в турнире.
+ACHIEVEMENT/TITLE_08,Идеальная победа
+ACHIEVEMENT/DES_08,На 7-м этапе 2-й главы одержите победу с отрывом в 5 очков.
+ACHIEVEMENT/TITLE_09,Победа в ручном режиме
+ACHIEVEMENT/DES_09,На 8-м этапе 3-й главы одержите победу в ручном режиме.
+ACHIEVEMENT/TITLE_10,Невероятное шоу
+ACHIEVEMENT/DES_10,"В Вызове суперзвезд, этап 7, одержите победу после получения 15 очков."
+ACHIEVEMENT/TITLE_11,Фантастический эйс
+ACHIEVEMENT/DES_11,Наберите очки двумя эйсами подряд при равном счете в Турнире.
+ACHIEVEMENT/TITLE_12,Победа в очном поединке
+ACHIEVEMENT/DES_12,Победите школу «Чольбёк» на Турнире без использования финта.
+ACHIEVEMENT/TITLE_13,Закат
+ACHIEVEMENT/DES_13,Заставьте Оазис в турнире перейти в состояние «Закат».
+ACHIEVEMENT/TITLE_14,Полный фокус
+ACHIEVEMENT/DES_14,Заставьте Бэк Шиу прийти в состояние «Полный истинный фокус».
+ACHIEVEMENT/TITLE_15,С быстротой молнии
+ACHIEVEMENT/DES_15,Увеличьте скорость игрока до 155.
+ACHIEVEMENT/TITLE_16,Непробиваемая оборона
+ACHIEVEMENT/DES_16,"На 4-м этапе 5-й главы наберите очки, выставляя 5 блоков подряд."
+ACHIEVEMENT/TITLE_17,Снайпер
+ACHIEVEMENT/DES_17,На 8-м этапе 2-й главы направьте 3 нападающих удара подряд в игрока в состоянии «Без сил».
+ACHIEVEMENT/TITLE_18,Непревзойденный талант
+ACHIEVEMENT/DES_18,На 8-м этапе 5-й главы одержите победу с отрывом в 10 очков.
+ACHIEVEMENT/TITLE_19,Тигр
+ACHIEVEMENT/DES_19,"На 8-м этапе 2-й главы победите, хотя бы раз приведя каждого игрока команды соперника в состояние «Без сил»."
+ACHIEVEMENT/TITLE_20,Плоды стараний
+ACHIEVEMENT/DES_20,"Пройдите 8-й этап 6-й главы, используя игроков ранга C+ и ниже, без тайм-аута и замены игроков."
+ACHIEVEMENT/TITLE_21,Замедлитель реакции
+ACHIEVEMENT/DES_21,"На 4-м этапе Вызова суперзвезд одержите победу, не приводя Аён в состояние «Химическая реакция»."
+ACHIEVEMENT/TITLE_22,Король турнира
+ACHIEVEMENT/DES_22,Победите в 100 матчах турнира алмазного уровня и выше.
+ACHIEVEMENT/TITLE_23,Разрушение готовности
+ACHIEVEMENT/DES_23,"На 8-м этапе 5-й главы одержите победу, не приводя Нам Чжэхёна в состояние «Твердая готовность»."
+ACHIEVEMENT/TITLE_24,Без маски
+ACHIEVEMENT/DES_24,На 7-м этапе 4-й главы не дайте Сольхва К. сделать ни одной передачи за весь матч.
+ACHIEVEMENT/TITLE_25,Отражение атаки
+ACHIEVEMENT/DES_25,На 8-м этапе 6-й главы отразите нападающий удар Нисикавы с помощью такой же техники.
+ACHIEVEMENT/TITLE_26,Король посещений
+ACHIEVEMENT/DES_26,Заберите награду за все 25 дней входа в игру.
+ACHIEVEMENT/TITLE_27,Разрыв небес
+ACHIEVEMENT/DES_27,Одержите победу над школой «Ханыль» в турнирном матче без потери очков.
+COMMON/ACCOUNT,Аккаунт
+SETTING/UID_COPY/ALERT,ID пользователя скопирован.
+SETTING/LINK_SUCCESS,Привязано
+SETTING/LINK_TRY,Привязать
+SETTING/ACCOUNT_LINKING,Идет привязка...
+SETTING/LINK_COMPLETE,Привязка завершена.
+SETTING/LINK_UNABLE,Аккаунт уже привязан к другой учетной записи.
+SETTING/UNACTIVE,Деактивация
+COMMON/WITHDRAW,Удаление аккаунта
+COMMON/LOGOUT,Выход
+SETTING/SOUND,Звук
+SETTING/SOUND/BGM,Фоновая музыка
+SETTING/SOUND/BGM/DES,Настройте громкость фоновой музыки.
+SETTING/PLAY,Игра
+SETTING/PLAY/BEGINNER_MOD,Режим новичка
+SETTING/PLAY/AUTO_MOD,Автопилот
+SETTING/PLAY/RUNNING_START,Разбег
+SETTING/PLAY/BEGINNER_MOD/DES,"Во время прыжка для атаки персонаж автоматически перемещается в точку удара, а направление удара также корректируется."
+SETTING/PLAY/AUTO_MOD/DES,"Более удобный режим игры, позволяющий автоматически перемещаться и прыгать."
+SETTING/PLAY/RUNNING_START/DES,"Дважды нажмите кнопку нападающего удара, чтобы выполнить прыжок с разбега."
+SETTING/PREFERENCE,Настройки
+SETTING/PREFERENCE/SCREEN_SHAKING,Дрожание экрана
+SETTING/PREFERENCE/SCREEN_SHAKING/DES,Активизирует эффект дрожания экрана во время игры.
+SETTING/PREFERENCE/SLOW_MOTION,Замедленный режим
+SETTING/PREFERENCE/SLOW_MOTION/DES,Активизирует замедленный режим.
+SETTING/PREFERENCE/SPECIAL_EFFECT,Особые эффекты
+SETTING/PREFERENCE/SPECIAL_EFFECT/DES,Активизирует особые эффекты игрока в ходе матча.
+SETTING/PREFERENCE/BUTTON_LAYOUT,Расположение кнопок
+SETTING/PREFERENCE/BUTTON_LAYOUT/DES,Пользователь может выбрать расположение кнопок.
+SETTING/PREFERENCE/BUTTON_LAYOUT/USER,Выбор пользователя
+SETTING/LANGUAGE,Язык
+SETTING/CHANGE_LANGUAGE,Язык будет изменен.
+ACHIEVEMENT/FAIL,Неудача при достижении
+SHOP/PROCESSING_REQUEST,Обработка запроса
+SHOP/CURRENCY_NOT_ENOUGH/ALERT,Недостаточно валюты.
+INGAME/CURRENT/TIER,Текущий ранг
+INGAME/GAME_READY,Подготовка к игре
+SHOP/CURRENCY_NOT_ENOUGH,Недостаточно валюты.
+SHOP/GROWTH,Развитие
+SHOP/CHANGE_STAT/ALERT,Для изменения параметра будет потрачена следующая валюта.#Продолжить?
+INGAME/RELEASE,Исключение
+INGAME/FOR_MAIN,В основной состав
+INGAME/MAIN,Основной состав
+INGAME/CLEAR,Снять
+INGAME/DECORATE,Украсить
+INGAME/NUMBER_OF_SELECTED,Выбрано игроков: {n1}
+COMMON/DELETE,Удалить
+INGAME/OUT/DES,"Выберите игрока, которого хотите исключить."
+INGAME/DELETE_FIXED/ALERT,"Нельзя удалить игроков, сохраненных в «Избранном»."
+INGAME/DELETE_MAIN/ALERT,Нельзя удалить игрока основного состава.
+SHOP/BASIC,Общее
+SHOP/WEEKLY_ONLY,Еженедельный
+SHOP/MONTHLY_ONLY,Ежемесячный
+SHOP/WEEKLY_MONTHLY,Еженедельный & Ежемесячный
+INGAME/HACK/ALERT_02,Матч не удалось завершить из-за обнаруженного изменения игровых данных.
+INGAME/HACK/ALERT_01,Обнаружено недопустимое изменение игровых данных. Возвращаемся на главный экран.
+SHOP/CURRENCY_NOT_ENOUGH/ALERT_02,Не удалось приобрести товар: недостаточно валюты.#{n1}
+INGAME/INFO_FAIL/ALERT,Ошибка при попытке загрузить данные.#Обратитесь в службу поддержки при повторном появлении.
+INGAME/HACK/STAGE/ALERT,Обнаружено изменение данных этапа.
+INGAME/SELECT_CHANGE/ALERT,"Выберите игрока, которого хотите заменить."
+INGAME/NO_INFO_PLAYER/ALERT,Нет информации о данном игроке.
+INGAME//DISABLE_CHANGE/ALERT,Нельзя поменять на этого игрока.
+INGAME/LOGIN,Вход
+INGAME/LOGIN_FAIL,Ошибка при входе
+INGAME/ERROR,Ошибка
+INGAME/LOGIN/APPLE,Вход через Apple
+INGAME/LOGIN/GOOGLE,Вход через Google
+INGAME/RETRY,Попробовать снова
+INGAME/DUPLICATE_ACCOUNT,Аккаунт уже существует.
+INGAME/BANNED_ACCOUNT,Заблокированный аккаунт
+INGAME/MAIL,Почта
+INGAME/MAIL/NEW,Непрочитанные
+INGAME/MAIL/CHECK,Прочитанные
+INGAME/WIN,Победа
+INGAME/EXIT,Выход
+COMMON/SETTING,Настройки
+COMMON/CONTROL_SETTING,Настройки управления
+COMMON/CHAPTER,CHAPTER
+COMMON/MONEY/CREDIT,Жетон
+COMMON/MONEY/BLUEFLAME,Синее пламя
+COMMON/MONEY/VPOINT,V-очки
+COMMON/MONEY/EXP,EXP
+COMMON/MONEY,Валюта
+COMMON/WORD/RECEIVE,Прием
+COMMON/WORD/SPIKE,Нападающий удар
+COMMON/WORD/JUMP,Прыжок
+COMMON/WORD/SLIDING,Приём в падении
+COMMON/WORD/FOURHIT,Четыре удара
+COMMON/WORD/CHANCE_BALL,Шанс-бол
+INGAME/TOUCHOUT,Тач-аут
+COMMON/BUTTON/SHIELD,Защита
+COMMON/TIER_POINT,Очки ранга
+COMMON/TOTAL_STATUS,Итого параметров
+INGAME/PROBABILITY_TABLE,Таблица вероятности
+COMMON/COLOSSEUM_02,Колизей
+COMMON/STORY_MOD,Сюжетный режим
+COMMON/SCORE,Очки
+INGAME/FAVORITE,Избранное
+INGAME/TOUCHSCREEN,Коснитесь экрана.
+INGAME/LOG,Журнал
+INGAME/COLOSSEUM/CANTPLAY,Недоступно
+INGAME/COLOSSEUM/PLAYING,Идет...
+INGAME/COLOSSEUM/CANPLAY,Доступно
+INGAME/CONFIRMED,Подтвердить
+INGAME/AWAKE,Прорыв
+INGAME/FINAL_REWARD/DES,"Награда выдается за прохождение финального этапа.# Чтобы увеличить вознаграждение, сразитесь с промежуточным боссом или выберите карту способностей."
+COMMON/PLAYER_DES,Описание игрока
+INGAME/SOME_INFO_FAIL/ALERT,Сбой в загрузке данных.
+COMMON/GAME,Матч
+PAY/WAITING,Ожидание оплаты...
+PAY/FAIL/ALERT,Оплата не прошла.
+COMMON/SUCCESS,Успех
+COMMON/FAIL,Провал
+INGAME/LEFT_LIFE/DES,"Запас жизней общий для всех матчей. Когда он достигает 0, вы проигрываете.#Осталось жизней: {n1}."
+INGAME/MY_SKILL_CARD,Карты способностей
+INGAME/TOURNAMENT_WIN,Победа в турнире!
+INGAME/RE_CHALLENGE,Еще раз
+INGAME/TABLE_RESET,Сброс программы соревнований
+INGAME/STAGE_FETCH_ERROR/ALERT,Этап не загружается.
+COLOSSEUM/CARD/NAME_01,Раскрытый потенциал 1
+COLOSSEUM/CARD/NAME_02,Раскрытый потенциал 2
+COLOSSEUM/CARD/NAME_03,А если так?
+COLOSSEUM/CARD/NAME_04,Слабая попытка
+COLOSSEUM/CARD/NAME_05,Сохраняя спокойствие
+COLOSSEUM/CARD/NAME_06,Блестящий рост 1
+COLOSSEUM/CARD/NAME_07,Блестящий рост 2
+COLOSSEUM/CARD/NAME_08,Блестящий рост 3
+COLOSSEUM/CARD/NAME_09,Спасительный оазис
+COLOSSEUM/CARD/DES_09,Во время атаки позволяет сделать угол нападающего удара еще глубже.
+COLOSSEUM/CARD/NAME_10,Восход
+COLOSSEUM/CARD/DES_10,После победы в игре дает {STR} +{n1} и {JMP} +{n2}.
+COLOSSEUM/CARD/NAME_11,Полдень
+COLOSSEUM/CARD/DES_11,"После победы в следующей игре удаляет все карты способностей, включая собственную."
+COLOSSEUM/CARD/NAME_11A,Закат
+COLOSSEUM/CARD/DES_11A,"Кажется, все силы уже потрачены."
+COLOSSEUM/CARD/NAME_12,Несгибаемая сила
+COLOSSEUM/CARD/DES_12,"Если у противника больше жизней, то на каждую единицу разницы дает {STR} +{n1} и {DEF} +{n2}."
+COLOSSEUM/CARD/NAME_13,Обманный удар с верхним вращением
+COLOSSEUM/CARD/DES_13,Во время финта увеличивает скорость падения мяча.
+COLOSSEUM/CARD/NAME_14,Раскат грома
+COLOSSEUM/CARD/DES_14,Атакующий прыжок можно выполнять не чаще раза в {n1} сек.#{n2} м и выше: мощь нападающего удара повышается.
+COLOSSEUM/CARD/NAME_15,Мощь
+COLOSSEUM/CARD/DES_15,Дает мячу отскочить на {n1}% быстрее при успешном блоке от любого игрока.
+COLOSSEUM/CARD/NAME_16,Скрытый свет
+COLOSSEUM/CARD/DES_16,Удаляет все карты способностей с усилениями и даёт {STR}+{n1} за каждую удалённую карту.
+COLOSSEUM/CARD/DES_16A,Жертвует картой способностей и дает силу атаки.
+COLOSSEUM/CARD/NAME_17,Испытание судьбы
+COLOSSEUM/CARD/DES_17,При атаке во время шанс-бола с {n1}% вероятностью дает взрывной удар. С {n2}% вероятностью делает финт.
+COLOSSEUM/CARD/NAME_18,Скачок веры
+COLOSSEUM/CARD/DES_18,"Если выполнить атакующий прыжок до передачи товарища по команде, мощь нападающего удара повышается до приземления."
+COLOSSEUM/CARD/NAME_19,Минута славы
+COLOSSEUM/CARD/DES_19,"Дает всем игрокам, включая противников, {STR} +{n1}, {DEF} +{n2}, {SPD} +{n3} и {JMP} +{n4}."
+COLOSSEUM/CARD/NAME_20,Немеркнущая звезда
+COLOSSEUM/CARD/DES_20,"Игрок не перекатывается после приёма. Приём в падении расходует {n1}% выносливости, но игрок встаёт на {n2}% быстрее."
+COLOSSEUM/CARD/NAME_21,Вызов суперзвезд
+COLOSSEUM/CARD/DES_21,Дает всем игрокам команды противника {DEF} +{n1} и {SPD} +{n2}.
+COLOSSEUM/CARD/NAME_22,Непробиваемый блок
+COLOSSEUM/CARD/DES_22,При блокировании с {n1}% вероятностью ставит непробиваемый блок.
+COLOSSEUM/CARD/NAME_23,Мертвая хватка
+COLOSSEUM/CARD/DES_23,Во время приёма в падении замедляет подъем на {n1}%.
+COLOSSEUM/CARD/NAME_24,Отбойная волна
+COLOSSEUM/CARD/DES_24,"В воздухе теряет {n1}% {SPD}, {n2}% из которых преобразуются в {STR}."
+COLOSSEUM/CARD/NAME_25,Удар метеора
+COLOSSEUM/CARD/DES_25,Усиливает нападающий удар через блокирующий прыжок.
+COLOSSEUM/CARD/NAME_26,Подавление
+COLOSSEUM/CARD/DES_26,При силовой подаче с {n1}% вероятностью блокирует связующего команды противника.
+COLOSSEUM/CARD/NAME_49,Твердая готовность
+COLOSSEUM/CARD/DES_49,"Если энергия команды ниже {n1}%, дает {STR} +{n2} и {JMP} +{n3}."
+COLOSSEUM/CARD/NAME_50,Второй вихрь
+COLOSSEUM/CARD/DES_50,"Если в начале игры осталось меньше {n1} ед. жизни, то восстанавливает {n2}."
+COLOSSEUM/CARD/NAME_56,Мультивзмах
+COLOSSEUM/CARD/DES_56,Позволяет 2 раза взмахнуть в воздухе. Во время второго взмаха усиливает нападающий удар.
+COLOSSEUM/CARD/NAME_57,Смертельный поединок
+COLOSSEUM/CARD/DES_57,Больше не восстанавливает жизни. В начале игры фиксирует этот показатель на {n1}.
+COLOSSEUM/CARD/NAME_58,Воздушный поток
+COLOSSEUM/CARD/DES_58,"Ослабляет нападающий удар, сделанный рядом с сеткой. Чем дальше от нее, тем удар сильнее."
+COLOSSEUM/CARD/NAME_FATIGUE,Упадок сил
+COLOSSEUM/CARD/NAME_HESITATION,Нерешимость
+COLOSSEUM/CARD/DES_HESITATION,Восстанавливает жизни на {n1} в начале игры.
+COLOSSEUM/CARD/NAME_SHORTBREAK,Короткий перерыв
+COLOSSEUM/CARD/NAME_LONGBREAK,Длинный перерыв
+COLOSSEUM/CARD/NAME_BREAK,Перерыв
+COLOSSEUM/CARD/DES_BREAK,Восстанавливает жизнь на {n1}.
+COLOSSEUM/CARD/NAME_ENEMYBUFF,Усиливающийся противник
+COLOSSEUM/CARD/DES_ENEMYBUFF,Делает всех противников сильнее.
+INGAME/DATEN,Высота удара
+INGAME/CHANCE,Шанс
+INGAME/OUT,Аут
+INGAME/MISS,Промах
+INGAME/QUICKNESS,Реакция
+INGAME/SCORE_LOST,Осталось жизней
+INGAME/RULE_VIOLATION,Нарушение правил
+INGAME/ACHIEVEMENT/COMPLETE,Испытание завершено
+LEE_YOUNGSEOB/NICKNAME,Лучший нападающий
+,
+ISABEL/NICKNAME,Королева Колизея
+HAEUN/LINE,"Ахаха! Неужели вы и правда думаете, что сможете нас победить?"
+JIHOON/LINE,"Отлично, начинаем!! Просто доверьтесь мне и следуйте за мной!"
+CONDITION/RELAX,Легкость
+CONDITION/CHOLERIC,Вспыльчивость
+CONDITION/CALM,Спокойствие
+CONDITION/PASSIONATE,Задор
+CONDITION/EMOTIONLESS,Безразличие
+CONDITION/COWARD,Боязливость
+CONDITION/VERY_CHOLERIC,Ярость
+CONDITION/VERY_COWARD,Трусость
+CONDITION/IMMERSIVE,Концентрация
+CONDITION/OPTIMISTIC,Оптимизм
+CONDITION/SENSITIVE,Обидчивость
+CONDITION/INDIFFERENT,Равнодушие
+CONDITION/COMPOSED,Мягкость
+CONDITION/LITTLE_SENSITIVE,Чувствительность
+PLAYSTYLE/BOLD,Смелый
+PLAYSTYLE/SAFE,Безопасный
+PLAYSTYLE/CAUTIOUS,Осмотрительный
+PLAYSTYLE/QUICK_ATTACK_LOVER,Безбашенная атака
+PLAYSTYLE/THOUGHTFUL_QUICK_ATTACK,Серьезная скорость
+PLAYSTYLE/HIGH_AND_HIGHER,Выше и только выше
+PLAYSTYLE/AGGRESSIVE,Агрессивный
+PLAYSTYLE/ARROGANT,Высокомерный
+PLAYSTYLE/BALANCED,Баланс
+PLAYSTYLE/EXPERIMENTAL,Пытливость
+PLAYSTYLE/RECKLESS,Безрассудство
+INGAME/CONTINUE/ALERT,Хотите продолжить?
+SETTING/BUTTON/SLIDE,Приём в падении
+COMMON/OLD_DATA,Прошлые записи
+COMMON/LOGOUT/ALERT,Точно хотите выйти?
+SETTING/GRAPHIC,Графика
+SHOP/WEARING,Надето
+SHOP/COLOSSEUM_RECRUIT,Магазин игроков (Колизей)
+COMMON/LATEST,Новинка
+TIP/LOSE/ALERT_01,Во время блока Ким Хисона попробуйте сделать финт и разрушить блок.
+TIP/LOSE/ALERT_02,"Во время блока Ким Хисона попробуйте сделать финт или изменить время атакующего прыжка, чтобы разрушить блок."
+SETTING/BUTTON/VIEW,Угол обзора
+SETTING/BUTTON/ALPHA,Прозрачность кнопок
+SETTING/BUTTON/SCALE,Размер кнопок
+SETTING/BUTTON/RESET,Сбросить
+SETTING/BUTTON/SAVE,Сохранить
+TUTORIAL/TRAINING/DES_01,"Атакуй все подлетающие мячи! Когда потеряешь все 5 жизней, тренировка закончится!"
+TUTORIAL/TRAINING/DES_02,"Блокируй все мячи, которые посылает тебе оппонент для практики. Потратишь 3 жизни — и конец!"
+TUTORIAL/TRAINING/DES_03,"Принимай все мячи, которые атакует твой партнёр по тренировке! Когда потеряешь все 5 жизней, тренировка закончится!"
+TUTORIAL/TRAINING/DES_04,Свободно подавай мяч! Потратишь 5 жизней — и конец!
+TUTORIAL/TRAINING/NO_BEGINNER,"Включен режим новичка. Если вы хотите регулировать угол нападающего удара,#то отключите этот режим в настройках."
+INGAME/TIMEOUT,Тайм-аут
+COMMON/SKILL/DURATION,Длительность
+COMMON/SKILL/COOLDOWN,Ожидание
+INGAME/REROLL,Реролл
+INGAME/WAITING,Ожидание
+INGAME/PLAYER_COLLECTION,Коллекция игроков
+INGAME/HELP,Помощь
+INGAME/COLOSSEUM_SHOP,Магазин Колизея
+INGAME/PAUSE,Пауза
+INGAME/TOTAL_TIER_POINT,Очки всех рангов: +{n1}
+INGAME/AWAKEN/RANK,Фрагмент силы: {n2} {n1} ранга
+INGAME/AWAKEN/NORMAL,{n1}: фрагмент силы
+INGAME/AWAKEN_ITEM,Фрагмент силы
+COLOSSEUM_VOUCHER,Доп. билет в Колизей
+COMMON/CLICK,Нажать!
+INGAME/SCOUT_POINT,Очки скаута
+SHOP/COLOSSEUM_TICKET,Билет в Колизей
+ALERT/USE_ITEM,Использовать [{n1}]?
+ALERT/NO_MORE_REWARD,Все доступные награды получены.
+ALERT/CHECKING,"Сервер на профилактике. Пожалуйста, дождитесь окончания технических работ."
+ALERT/NETWORK,Неустойчивое соединение.
+ALERT/NETWORK_CHECK,Проверьте подключение к сети.
+ALERT/ALREADY_LINK_ACCOUNT,Аккаунт уже привязан.
+ALERT/GAMECENTER_RETRY,Активируйте Game Center и перезапустите игру.
+ALERT/DONT_KNOW_LINK_FAIL,Не удалось привязать аккаунт. Причина не установлена.
+ALERT/DISABLED_GOOGLE_LOGIN,Не выполнен вход в Google.
+ALERT/TOO_MUCH_LOGIN_TRY,Много попыток входа
+ALERT/LOADING,Идет загрузка...
+ALERT/PLEASE_WAIT,"Пожалуйста, подождите."
+INGAME/COLOSSEUM/ALERT_03,"В текущем режиме четвертая опция — это бонус для тех, кто приобрел [{n1}].#Перейти к покупкам?"
+INGAME/COLOSSEUM/ALERT_04,Сегодня нельзя войти в Колизей.
+COMMON/HOME,Домой
+COMMON/PLAYER_MANAGEMENT,Управление игроками
+SKILLDOLPA_JAEHYUN,"Параметры увеличиваются, пропорционально эффективности навыка."
+SKILLDOLPA_ISABEL,Объем накапливаемой силы растет в зависимости от эффективности навыка.
+SKILLDOLPA_LISIA,Увеличивается шанс успешной подачи в зависимости от эффективности навыка.
+SKILLDOLPA_ROBERTO,Шкала роста быстро увеличивается в зависимости от эффективности навыка.
+SKILLDOLPA_AYEON,Повышается доп. атака с химической реакцией в зависимости от эффективности навыка.
+SKILLDOLPA_NISIKAWA,Становится мощнее пропорционально эффективности навыка.
+SKILLDOLPA_OASIS,"Параметры увеличиваются, пропорционально эффективности навыка."
+SKILLDOLPA_MINJUN,Кручение мяча усиливается пропорционально эффективности навыка.
+SKILLDOLPA_YOONSEOK,Падение мяча в финте ускоряется пропорционально эффективности навыка.
+SKILLDOLPA_QUESTION,"Эффективность навыка#показывает, насколько усилится навык игрока после прорыва."
+COMMON/CANT_ENTER,Вход закрыт
+IAP_RECOMMENDED,Лучшее
+COMMON/SHOP/PURCHASED,В наличии
+COMMON/PLAYER_SCOUT_DES_00,Сразу приглашает игрока.
+COMMON/PLAYER_SCOUT_DES_01,"Если игрок уже есть в наличии, то выдаются фрагменты силы."
+COMMON/PLAYER_SCOUT_DES_02,Для каждого игрока можно выполнить до 5 прорывов.
+INGAME/EXPIRE_TIME_LEFT,До окончания осталось
+MAIL_MESSAGE_SUPPORT_0,"Доброго времени суток! Спасибо, что играете в The Spike Cross. #Ваш запрос был успешно обработан."
+MAIL_MESSAGE_SUPPORT_1,"Доброго времени суток! Спасибо, что играете в The Spike Cross.# Мы ознакомились с Вашим запросом, но пока затрудняемся его обработать. Приносим извинения за неудобства."
+PLAYSTYLE/ONEPOINT,Игрок одного очка
+chat_serveace,Захватывающий эйс на подаче!!
+chat_in,Мяч едва попал в площадку!!
+chat_mess,Досадный промах~
+chat_serveace2,Супер эйс на подаче без касания!
+chat_block1,Супер мощный блок!
+chat_direct1,Абсолютно чистый прямой удар!
+chat_spike1,Молниеносный атакующий удар!
+chat_serveace3,Эйс на подаче без касания~
+chat_serveace4,Крутая подача~
+chat_block2,Мощный блок!
+chat_direct2,Чистый прямой удар!
+chat_spike2,Быстрый атакующий удар!
+chat_block3,Крутой блок!
+chat_direct3,Крутой прямой удар
+chat_spike3,Крутой атакующий удар!
+chat_direct4,Неудачный прямой удар
+chat_spike4,Восхитительный атакующий удар
+chat_mess2,Не вовремя сыграно
+chat_faint,Неплохой отвлекающий прием!
+chat_dump,Удачный обманный пас!
+chat_mess3,"Ошибка, сбивающая темп"
+chat_serveace5,Фантастический эйс на подаче
+chat_spike5,Хороший атакующий удар
+chat_save,Замечательное отражение удара
+chat_threeball,"Трехходовка, которая надоедает"
+chat_supersave,Супер отражение удара!
+chat_slide,Отличное приём в падении
+INGAME/COLOSSEUM/HELP,К боссам Колизея можно попасть только в определённые дни недели. При смене дня оставшиеся попытки получения наград и весь прогресс сбрасываются.
+INGAME/COLOSSEUM/REWARD_LEFT,Оставшиеся попытки получения наград
+INGAME/RESET_TIME_LEFT,До сброса
+GUIDE/COLOSSEUM/SHOP,"В наборе игроков для Колизея появляются спортсмены, предназначенные для этого типа контента.# Они никак не отличаются по силе от обычных игроков, поэтому свободно составляйте команду из тех, кто вам больше нравится."
+TOURNAMENT/LEFT_BRACKET_RESET,Сброс оставшейся турнирной таблицы
+INGAME/DELETE_FIXED/ALERT,"Нельзя удалить игроков, сохраненных в «Избранном»."
+INGAME/OLD_DATA/TOUR,Статистика игр в турнирном режиме до обновления Cross.
+INGAME/OLD_DATA/STORY,"Общее количество звёзд, полученных в каждой главе до обновления Cross."
+INGAME/OLD_DATA/ACHIEVEMENT,"Количество испытаний, пройденных до обновления Cross."
+INGAME/WIN_TIME,Число побед
+INGAME/TROPHY_TIME,Число трофеев
+INGAME/PLAY_TIME,Кол-во игр
+INGAME/OLD_DATA_REWARD,Награда за конвертацию данных
+OLD_DATA/WS_STORY,История#доигровщика
+OLD_DATA/SUMMER_STORY,Летние истории
+OLD_DATA/SUPERSTAR_CHALLENGE,Вызов для суперзвезды
+OLD_DATA/ROAD_TO_PRO,Путь к профи
+COMMON/OK,ОК
+INGAME/ONEPOINT/TIP,«Игроки одного очка» остаются без сил после потери баллов. Советуем их заменить.
+INGAME/AUTOPLAY_DES,"Легкий режим, где мало свободного управления. Перемещение и атакующий прыжок выполняются автоматически."
+INGAME/MANUALPLAY_DES,"Сложный режим, где много свободного управления. Игрок контролирует многие движения спортсменов."
+INGAME/PLAYMODE_DES,Режим игры можно изменить в любое время в настройках.
+INGAME/PLAYMODE_TITLE,Выберите режим игры.
+ACHIEVEMENT/ALERT,Пройти испытаний ({n1}): {n2} и более
+COMMON/WEEKLY_1,Пн/Чт/Вс
+COMMON/WEEKLY_2,Вт/Пт/Вс
+COMMON/WEEKLY_3,Ср/Сб/Вс
+enter_preset_name,"Пожалуйста, введите новое имя пресета."
+enter_school_name,Введите название школы на свое усмотрение.
+enter_player_name,Введите имя игрока на свое усмотрение.
+alert:cannnotusename,Это имя использовать нельзя.
+needUpdate,"Пожалуйста, обновитесь до новой версии."
+nowVersion,Текущая версия
+newVersion,Новая версия
+COMMON/HOW_TO_GET,Способ получения
+alert_message5,"Нельзя играть в тренировочном режиме, когда включен авторежим."
+INGAME/PLAY_VIDEO,Просмотр видео
+INGAME/VIDEO_AD,Реклама
+CARD/TOTAL/OASIS,Пламенная победа
+INGAME/DETAIL,Подробнее
+TIP/BOSS/ALERT_08,"Лисиа выполняет мощную подачу, которую трудно принять.#Попробуйте остановить её приёмом в падении в нужный момент."
+TIP/BOSS/ALERT_09,"Мяч, принятый Аён, после передачи товарища по команде позволяет выполнить взрывной нападающий удар.#Старайтесь не давать Аён принимать мяч."
+TIP/BOSS/ALERT_10,"Если Ямадера принимает мяч, характеристики противника, коснувшегося мяча последним, значительно снижаются."
+COMMON/SUNSOO,Игроки
+ACCOUNT_DELETE_MESSAGE_4,Удаление аккаунта занимает 30 дней. После удаления запись нельзя вернуть.
+ACCOUNT_DELETE_MESSAGE_5,Аккаунт ожидает удаления. Желаете отменить?
+ACCOUNT_DELETE_MESSAGE_6,До окончательного удаления: {n1} д.
+alert_message_quit,Действительно выйти из игры?
+INGAME/COMMON/NO_END,Ошибка при завершении соревнования. #Проверьте соединение и попробуйте снова.
+INGAME/COMMON/REALLY,Данные о соревновании не сохранены. Все равно продолжить?
+INGAME/COMMON/SEEMORE,Больше
+account_delete_message_1,"Введите (v), чтобы удалить свою учетную запись."
+alert:input_invalid_char,Содержит недопустимые символы.
+HEAD,Волосы
+NOTI_SERVICE_MAINTEIN_LEFT_MIN,Обслуживание начнется через {n1} минут.
+NOTI_SERVICE_MAINTEIN_LEFT_SEC,Обслуживание начнется через {n1} секунд.
+UI/NO_ADSTOSEE,Нет рекламы для просмотра. Повторите попытку позже.
+COMMON/ACHIEVEMENT_DES_1,Этот вызов можно выполнить даже без Бэк Шиу.
+ACHIEVEMENT/TITLE_32,Настоящий ас
+ACHIEVEMENT/DES_32,"На 8-м этапе Вызова суперзвёзд победите, отдав сопернику менее 3 очков и набрав не менее 10 очков только своими нападающими и обманными ударами."
+GUIDE/TIP_18,Очки скаута можно получить через набор игроков и продажу фрагментов силы.
+GUIDE/TIP_19,Фрагменты силы выдаются при повторном найме одного и того же игрока.#Их можно использовать для разных игроков с одинаковыми позицией и рангом.#У игроков ранга S- и выше есть собственные фрагменты силы.
+COMMON/TIER_REWARD,Награда за повышение ранга
+INGAME/RECRUIT/RANDOM_WS,Случайный набор игроков позиции WS.
+INGAME/RECRUIT/RANDOM_MB,Случайный набор игроков позиции MB.
+INGAME/RECRUIT/RANDOM_SE,Случайный набор игроков позиции Se.
+INGAME/RECRUIT/RANDOM_COLO,Случайный набор игроков и ресурсов Колизея.
+COLOSSEUM_VOUCHER_DESC,"Билет, который позволяет повторно войти в Колизей."
+COMMON/ORIGIN_LOGIN,Обычный способ входа
+COMMON/VICTORY,ПОБЕДА
+PLAYSTYLE/ANOMALOUS,Изменчивый
+PLAYSTYLE/CHALLENGING,Провокационный
+COMMON/DONTSHOWTODAY,Больше не показывать
+INGAME/ENTER_RESET,Использовать купон
+COMMON/EVENT_SHOP_DESC,Магазин работает только во время акции.
+COLOSSEUM/CARD/DES_64,"Когда связующий вашей команды выполняет передачу шанс-бола, с вероятностью {n1}% на случайном сопернике ненадолго появляется метка. Если попасть нападающим ударом в отмеченного соперника, его защита обязательно провалится."
+COLOSSEUM/CARD/NAME_65,Подъем
+COLOSSEUM/CARD/DES_65,"Если принимает мяч, не упав, то получает {STR} +{n1} и {JMP} +{n2}."
+COLOSSEUM/CARD/NAME_66,Подмога
+COLOSSEUM/CARD/DES_66,"Во время подачи противника создает каплю в случайном месте. У игрока, оказавшегося внутри нее, резко усиливается защита."
+COLOSSEUM/CARD/DES_67,"Чем ниже высота съема, тем сильнее нападающий удар. (Предельная мощь на {n1} м)"
+COMMON/HARD_LEVEL,Сложность
+TIP/BOSS/ALERT_12,"Когда Содам теряет очки, с определенной вероятностью все члены команды переходят в состояние «Полный фокус»."
+TIP/BOSS/ALERT_13,"Если дважды подряд принять нападающий удар Хонши,#защита обязательно провалится."
+TIP/BOSS/MOOYOUNG,"Опека Муёна защищает игрока с наименьшим показателем защиты, #увеличивая его защиту и радиус защиты."
+TIP/BOSS/ALERT_15,"Рюхён концентрирует в воздухе энергию и наносит атакующий удар.#Чтобы правильно подгадать время, обратите внимание на высоту паса и время прыжка Рюхёна."
+TIP/BOSS/ALERT_17,"Защитная техника Халлы намного лучше, чем у других игроков.#Попробуйте найти слабые места и использовать их в атаке."
+TIP/ALERT_CUSTOM,"Если ключевые параметры матча будут изменены через пользовательские настройки, это может привести к увеличению количества ошибок у некоторых игроков или к нарушению нормального хода игры."
+INGAME/CTM/LEFT_TIME,Осталось
+BUY_LIMIT,Покупка доступна {0} р.
+HONGSI_TALK,"Фух, обман сработал..."
+COMMON/NOEVENT,Событие не проводится.
+COMMON/GETALLREWARD,Получить все
+COMMON/FREE,Бесплатно
+CTM_ATTENDANCE,Пропуск за вход во время события
+COMMON/EVENT_DURATION,Пропуск за вход действует только во время события.
+COMMON/PREMIUM,Премиум
+INGAME/SCOUT_PLAYER_DESC,Позволяет пригласить понравившихся игроков.
+INGAME/RECRUIT_PLAYER_DESC,Позволяет набирать игроков и показывает их характеристики.
+COMMON/SHOP_DESC,"Позволяет купить и поменять спортсменам прическу, одежду, обувь и мяч."
+COMMON/COLOSSEOSHOP_DESC,Позволяет купить предметы и игроков для Колизея.
+INGAME/EVENT_SCOUT_POINT,Очки скаута (событие)
+COMMON/MATCH_PREVIEW,Обзор предстоящего матча
+COMMON/SEONRIM_NAME,Старшая школа «Соллим»
+COMMON/ATTENDACE_JUMP,Вход заранее
+COMMON/ATTENDACE_DES,Общий
+INGAME/SETTING_PROMOTION1,Как улучшить Ли Ёнсоба?
+INGAME/SETTING_PROMOTION2,Изабель vs Нам Чжэхён#Твой выбор?!
+INGAME/SETTING_PROMOTION3,Советы по испытаниям!
+INGAME/SETTING_PROMOTION4,Обменивайтесь мнениями#в сообществе!
+INGAME/SETTING_PROMOTION5,Продолжить в официальном#аккаунте разработчиков!
+COMMON/BASIC,Обычный
+COMMON/EVENT,Событие
+COMMON/TIMEOUT/MAX_SCORE,Максимальный счёт
+COMMON/TIMEOUT/BALL_SIZE,Размер мяча
+COMMON/TIMEOUT/BALL_GRAVITY,Гравитация мяча
+COMMON/TIMEOUT/BALL_OPACITY,Непрозрачность мяча
+COMMON/TIMEOUT/NET_HEIGHT,Высота сетки
+COMMON/TIMEOUT/BGM,Фоновая музыка
+COMMON/TIMEOUT/MULTI_SWING,Мульти-удар
+ACHIEVEMENT/TITLE_33,Центральный блокирующий тоже интересен.
+ACHIEVEMENT/DES_33,"Выиграйте 10 матчей турнира, управляя центральным блокирующим."
+ACHIEVEMENT/TITLE_34,Тренировка низкого блока
+ACHIEVEMENT/DES_34,"Победите, заблокировав Халлу 5 раз и более на 7-м этапе 7-й главы."
+ACHIEVEMENT/TITLE_35,"Несомненно, лучший игрок"
+ACHIEVEMENT/DES_35,"Пройдите 7-й этап 7-й главы, используя игроков ранга C+ и ниже, без тайм-аута и замены игроков."
+SETTING/PREFERENCE/BALL_EFFECT,Эффект следа мяча
+SETTING/PREFERENCE/BALL_EFFECT/DES,Настройка отображения эффекта следа мяча.
+SETTING/PREFERENCE/SPECIAL_EFFECT/DES2,Показывает все особые эффекты персонажей во время матча без упрощения.
+COMMON/SOFT_TRAIL,Мягкий след
+COMMON/NORMAL_TRAIL,Обычный след
+COMMON/NO_TRAIL,Не показывать
+GUIDE/TERM,Термины
+GUIDE/CURRENCY_ITEM,Магазин
+GUIDE/TEAM_SETUP,Сочетания игроков
+GUIDE/CREDIT_DES,Требуется для изменения параметров игрока. Выдается за победы в играх и практику (кроме тренировочных матчей).
+GUIDE/VPOINT_DES,"Требуется для набора игроков. Выдается в турнирах, за прохождение испытаний и в качестве награды за повышение ранга."
+GUIDE/EXP_DES,Требуется для улучшения игроков. Выдается за победу в большинстве матчей.
+GUIDE/BLUEFLAME_DES,Требуется для набора игроков Колизея и покупки кастомных предметов. Выдается в Колизее.
+GUIDE/SCOUTPOINT_DES,Требуется для приглашения спортсменов. Выдается за набор уже имеющихся игроков и продажу фрагментов силы волейболистов A-ранга и выше.
+GUIDE/AWAKEN_DES,Валюта для прорыва игроков нужных позиции и ранга. У игроков ранга S есть собственные фрагменты силы. Выдаётся при найме уже имеющегося игрока.
+GUIDE/COLOSSEUM_TICKET_DES,Позволяет провести ещё один матч в Волейбольном Колизее после использования всех ежедневных попыток.
+COMMON/WISHLIST,Список желаний
+COMMON/EXIT,Выйти
+WISHLIST/ALERT1,Список желаний не сохранен.#Точно хотите выйти?
+WISHLIST/ALERT2,Хотите удалить список желаний?
+WISHLIST/NOTICE1,"Список желаний отключен.#Выбранные игроки появляются с общей вероятностью 1,75%."
+WISHLIST/NOTICE2,"Игроки появляются с общей вероятностью 1,75%."
+COMMON/EDIT,Изменить
+WISHLIST/NOTICE3,Выберите 6 игроков для списка желаний.
+COMMON/CONFIRM,Подтвердить
+WISHLIST/ALERT3,На данную позицию уже все выбраны.
+WISHLIST/ALERT4,Игрок уже выбран.
+WISHLIST/ALERT5,Режим редактирования сейчас выключен.
+COMMON/ALLPLAYER,Все игроки
+EVENT/SNOWRAID,Снежный бой
+EVENT/SNOWFIGHT,Игра в снежки
+EVENT/CAN_ENTER_LEFT_TIME,Вход через {n1}ч {n2}мин
+EVENT/TIME/DAY_HOUR,{0}д {1}ч
+EVENT/TIME/HOUR_MINUTE,{1}ч {2}мин
+EVENT/TIME/MINUTE_SECOND,{2}мин {3}с
+GUIDE/EVENT_SCOUTPOINT_DES,Требуется для приглашения игроков события.#Выдается по 1 оч. за их найм.#После завершения акции превращается в очки скаута.
+CARD/ATTACK/SNOW_ATTACK,Число атак
+CARD/ATTACK/SNOW_HIT,Попадания
+CARD/ATTACK/SNOW_FEVER,Урон от накала
+CARD/ATTACK/SNOW_GOKSA,Точность пушечного броска
+CARD/ATTACK/SNOW_CRITICAL,Число крит. ударов
+CARD/DEFENSE/SNOW_HURT,Пропущено
+CARD/DEFENSE/SNOW_DAMAGE,Полученный урон
+CARD/DEFENSE/SNOW_SLIDING,Число приёмов в падении
+CARD/DEFENSE/SNOW_COUNTER,Число контрударов
+CARD/DEFENSE/SNOW_PUNISH,Число наказаний
+SKILLNAME_SARAH,Критический пас
+CHARDES_SARAH2,"Тренер юношеской волейбольной команды «Роквелл», профессиональная спортсменка из США. Изначально стояла на позиции доигровщицы, но как профессионал, может отлично играть на любом месте. Ради Шиу на время перешла к связующим, но возможно когда-нибудь вернется в нападение."
+SKILLDES_SARAH,"При пасе вокруг мяча появляется круг, показывающий идеальный момент для нападающего удара. Если ударить в момент соприкосновения круга с мячом, атака будет намного мощнее.#С низкой вероятностью атакует сама."
+CHARDES_SARAH,"Со Сара входит в топ-5 нападающих мира. Известна своей исключительной скоростью на корте. Может профессионально играть на любой позиции. Ради Шиу на время перешла к связующим, но возможно когда-нибудь вернется в нападение."
+CHARDES_BIRTH_SARAH,
+CHARDES_NUMBER_SARAH,
+CHARDES_MOTTO_SARAH,"Как бы сильно ты ни бил, это всего лишь одно очко."
+SKILLNAME_MIKE,Шина
+SKILLDES_MIKE,"Пока игрок носит шину, его скорость и сила прыжка снижены.#Когда от приёмов накопится достаточно ударной нагрузки, шина снимается, а скорость и сила прыжка значительно возрастают."
+CHARDES_MIKE,"Брат-близнец Дейва, вместе с ним управляет горным домиком. Любит тренироваться с мешками песка на лодыжках, но недавно поменял их на настоящие кандалы."
+CHARDES_BIRTH_MIKE,
+CHARDES_NUMBER_MIKE,
+CHARDES_MOTTO_MIKE,
+SKILLNAME_DAVE,Разминка
+SKILLDES_DAVE,"Когда стоит спокойно, начинает отжиматься.# С каждым отжиманием становится физически сильнее и больше."
+CHARDES_DAVE,В прошлом — профессиональный волейболист. Сейчас управляет небольшим горным домиком.
+CHARDES_BIRTH_DAVE,
+CHARDES_NUMBER_DAVE,
+CHARDES_MOTTO_DAVE,
+SKILLNAME_CLYDE,Наби
+SKILLDES_CLYDE,Появляется Наби — любимая кошка Клайда. Животное бегает по корту и меняет состояние игроков с «без сил» на «полный фокус».
+CHARDES_CLYDE,"Главный центральный блокирующий команды юношеской волейбольной команды «Роквелл». Подает большие надежды. Хоть и не такой богатый как Таня, но из обеспеченной семьи."
+CHARDES_BIRTH_CLYDE,
+CHARDES_NUMBER_CLYDE,
+CHARDES_MOTTO_CLYDE,
+SKILLNAME_TANIA,Скоростной пас
+SKILLDES_TANIA,"Выполняет скоростные пасы.#При переходе в атаку с паса Тани: чем быстрее падает мяч, тем сильнее будет удар.#(Сложный персонаж, не рекомендуется новичкам.)"
+CHARDES_TANIA,"Вторая дочь председателя корпорации «Уилтон». Обладает выдающимся талантом и мастерством, но из-за упрямства делает слишком быстрые пасы, что портит отношения с другими игроками."
+CHARDES_BIRTH_TANIA,
+CHARDES_NUMBER_TANIA,
+CHARDES_MOTTO_TANIA,
+SNOWRAID/STARTING,Основной состав
+SNOWRAID/SUBSTITUE,Запасной состав
+SNOWRAID/PRESET_GUIDE,Выбранные здесь игроки основного состава не влияют на пресет.
+TUTORIAL/SNOWRAID/TIP_01,"Если сразу атаковать мяч, летящий со стороны соперника,#нападающий удар будет мощнее."
+TUTORIAL/SNOWRAID/TIP_02,"Мячи, сразу доступные для нападающего удара, светятся.#Остерегайтесь атаки противника."
+TUTORIAL/SNOWRAID/TIP_03,При приёме в падении блокируется 50% урона#независимо от точности.
+TUTORIAL/SNOWRAID/TIP_04,При идеальном приёме не теряется энергия#и активируется «полный фокус».
+TUTORIAL/SNOWRAID/TIP_05,"В состоянии накала все параметры повышаются.#Частично восстанавливает параметры, сниженные холодом."
+TUTORIAL/SNOWRAID/ITEM,Каждые 3 очка новый предмет поможет противостоять лютому морозу.
+TUTORIAL/RAID_TIP_01,Слишком быстро!
+TUTORIAL/RAID_TIP_02,Немного быстро!
+TUTORIAL/RAID_TIP_03,Немного медленно!
+TUTORIAL/RAID_TIP_04,Слишком медленно!
+TUTORIAL/RAID_TIP_05,В самый раз!
+COMMON/SKIP,Пропустить
+COMMON/BACK,Назад
+SNOWRAID/ADDITIONAL_STAT,Доп. параметр
+SNOWRAID/ADDITIONAL_STAT_DESC,"Постоянный бонус к параметрам, действующий до конца рейдового матча."
+SNOWRAID/COLD_PROTECTION,Защита от холода
+SNOWRAID/COLD_PROTECTION_DESC,"[Защита от холода] снижает потери параметров из-за мороза.#Чем выше процент защиты, тем слабее воздействие холода."
+SNOWRAID/FEVER_EFFICIENCY,Эффективность накала
+SNOWRAID/FEVER_EFFICIENCY_DESC,"Определяет величину дополнительных параметров в режиме накала:#чем выше эффективность, тем больше параметров можно получить."
+SNOWRAID/FEVER_POINT,Порог очков накала
+SNOWRAID/FEVER_POINT_DESC,"Количество очков, необходимое для активации накала."
+SNOWRAID/FEVER_TIME,Длительность накала
+SNOWRAID/FEVER_TIME_DESC,Показывает сколько длится накал после активации.
+SNOWRAID/CARD/PLAYER_CHANGE_NAME,Смена игроков
+SNOWRAID/CARD/PLAYER_CHANGE_DESC,Заменяет всех спортсменов на площадке.
+SNOWRAID/CARD/BLANKET_NAME,Плед
+SNOWRAID/CARD/GLOVES_NAME,Меховые перчатки
+SNOWRAID/CARD/SOCKS_NAME,Толстые носки
+SNOWRAID/CARD/COCOA_NAME,Тёплое какао
+SNOWRAID/CARD/HOT_POTATO_NAME,Горячая картошка
+SNOWRAID/CARD/SWEET_CAKE_NAME,Сладкий торт
+SNOWRAID/CARD/DAVES_COOKIE_NAME,Печенье Дейва
+SNOWRAID/CARD/MIKES_GIFT_NAME,Подарок Майка
+SNOWRAID/CARD/WINTER_UNIFORM_NAME,Зимняя
+COMMON/LEFT_REWARD,Оставшиеся награды
+SKILLDES_AYEON2,"После первого приёма Аён последующая передача позволяет выполнить мощный нападающий удар.#Удар с химической реакцией летит ещё быстрее, а взрыв резко снижает выносливость соперника."
+COLOSSEUM/CARD/NAME_68,Прямой удар
+COLOSSEUM/CARD/DES_68,"Повышает вероятность отскока мяча на сторону вашей команды.#Если сразу атаковать мяч, которого последним коснулся соперник, нападающий удар усиливается."
+COLOSSEUM/CARD/NAME_69,Тренировка
+COLOSSEUM/CARD/DES_69,"Первый удар и блок в каждом розыгрыше дают {STR}+{n1}, {DEF}+{n2}, рост +{n3}см.#(Эффект сохраняется до конца матча.)"
+COLOSSEUM/CARD/NAME_70,Наби II
+COLOSSEUM/CARD/DES_70,"Периодически призывает кошку, которая переводит союзников из состояния «Без сил» в «Полный фокус»."
+COLOSSEUM/CARD/NAME_71,Снежная буря
+COLOSSEUM/CARD/DES_71,"Оставляет снежную бурю в месте приёма мяча. Пока вы стоите в буре, защита и прыжок фиксируются на уровне 170."
+COMMON/WORD/SPIN_SHOT,Крученый бросок
+COMMON/WORD/STRAIGHT_SHOT,Прямой бросок
+SNOWRAID/TEMP/MESSAGE_01,Игроки начинают ощущать холод.
+SNOWRAID/TEMP/MESSAGE_02,Холод влияет на игровые показатели.
+SNOWRAID/TEMP/MESSAGE_03,Холод снижает параметры игроков.
+SNOWRAID/TEMP/MESSAGE_04,Параметры игроков сильно снижены.#Нормальные движения невозможны.
+SNOWRAID/TEMP/MESSAGE_05,Игроки испытывают сильный дискомфорт.#Необходима замена.
+SNOWRAID/TEMP/MESSAGE_06,Игроки достигли предела своих возможностей.
+SNOWRAID/TEMP/MESSAGE_07,Тела игроков словно мороженое...!
+CARD_PACK_COLOSSEO,Набор с картами Колизея
+CARD_PACK_DESC,Добавляет новые карты способностей в режиме Колизея.
+CARD_PACK_COLOSSEO_DESC,Открывает 4-й слот карты способностей в режиме Колизея.
+CARD_PACK_SNOWVB,Набор с картами Снежного волейбола
+INGAME/SETUP/NAME_01,Контратака ранга D
+INGAME/SETUP/NAME_02,Равнодушие
+INGAME/SETUP/NAME_03,"Мал, да удал"
+INGAME/SETUP/NAME_04,Младший за старшим
+INGAME/SETUP/NAME_05,Первоклассные игроки
+INGAME/SETUP/NAME_07,Партнёр школы «Соллим»
+INGAME/SETUP/NAME_08,Под раскаленным солнцем
+INGAME/SETUP/NAME_09,Слава прошлого
+INGAME/SETUP/NAME_10,Двойная королева
+TIP/BOSS/ALERT_18,"Если выполнить нападающий удар против Майка, #то его шины спадут. #Когда они исчезают, #он становится намного сильнее."
+TIP/BOSS/ALERT_19,"Дейв непрерывно отжимается, когда стоит на месте.#Чем больше отжиманий, тем сильнее он становится."
+TIP/BOSS/ALERT_20,Кошка Клайда меняет состояние «без сил» на «полный фокус».
+TIP/BOSS/ALERT_21,Пасы Тани быстрее обычных.
+INGAME/SETUP/DESC_04,На {0}% повышает скорость отжиманий Дейва
+INGAME/SETUP/DESC_07,На {0}% повышает скорость накопления заряда Рюхёна
+INGAME/SETUP/DESC_08,Очки активации «Оазис Полдень» изменены на 9
+INGAME/SETUP/DESC_09,Увеличивает скорость вставания после приёма в падении Атиса
+INGAME/SETUP/DESC_10,Увеличивает максимальную выносливость вашей команды на {0}
+NAME/TEAM_60,Майк и Дейв
+NAME/TEAM_61,Роквелл
+NAME/TEAM_62,Дейв с товарищами
+NAME/TEAM_63,Команда студентов
+SKILLDOLPA_DAVE,Скорость отжиманий увеличивается в зависимости от эффективности навыка.
+SKILLDOLPA_TANIA,Падение мяча ускоряется в зависимости от эффективности навыка.
+CHARDES_BIRTH,День рождения
+CHARDES_NUMBER,Номер
+CHARDES_MOTTO,Девиз
+MIKE_DAVE/LINE_01,Ах...! Как же не терпится снова выложиться на полную!
+MIKE_DAVE/LINE_02,"Согласен!!! Сколько бы лет ни прошло, волейбол всегда приносит радость!"
+MIKE_DAVE/LINE_03,"Пойдем, Дейв?"
+MIKE_DAVE/LINE_04,"Погнали, Майк!"
+MIKE_DAVE/LINE_05,Нееееет!!
+CLYDE/LINE,"Наби, не составишь компанию?"
+GUIDE/ALL_TEAM_SETUP,Комбинации всех игроков
+RATE_DES_01,Вам нравится The Spike Cross? Расскажите нам!
+RATE_DES_02,Благодарим за вашу оценку! Хотите оставить отзыв в магазине?
+RATE_DES_03,В магазин
+RATE_DES_04,В следующий раз
+RATE_DES_05,"Спасибо за ваш отзыв. Мы сделаем все возможное, чтобы игра становилась только лучше."
+RATE_DES_06,Отправить отзыв
+COMMON/MONTH_DAY,{n2} {n1}
+COMMON/MONTH_1,январь
+COMMON/MONTH_2,февраль
+COMMON/MONTH_3,март
+COMMON/MONTH_4,апрель
+COMMON/MONTH_5,май
+COMMON/MONTH_6,июнь
+COMMON/MONTH_7,июль
+COMMON/MONTH_8,август
+COMMON/MONTH_9,сентябрь
+COMMON/MONTH_10,октябрь
+COMMON/MONTH_11,ноябрь
+COMMON/MONTH_12,декабрь
+REVIEW/TOO_DIFFICULT,Слишком сложно
+REVIEW/DONTLIKE_GRAPHICS,Некрасивая графика
+REVIEW/TOO_MANY_BUGS,Много ошибок и неполадок
+REVIEW/GAME_IS_SLOW,Игра очень медленная
+REVIEW/NO_CONTENTS,Мало контента
+COMMON/EVENT_ATTENDANCE,Вход во время события
+SHOP/DAILY_LIMITED,Ежедневно: {0} раз(а)
+SHOP/WEEKLY_LIMITED,Еженедельно: {0} раз(а)
+SHOP/MONTHLY_LIMITED,Ежемесячно: {0} раз(а)
+BOSS/TITLE_NAME,Пятерка лучших нападающих мира
+SARAH_SCENE/TEXT1,< Валентия Нападающий ударс vs Эшвилл Уизелс >#Тренировка атак перед матчем
+SARAH_SCENE/TEXT2,Вот это удар! За него можно получить 2 очка?
+SARAH_SCENE/TEXT3,Про слезы после прошлого поражения — это правда?
+SNOWRAID/DUPLICATE_PLAYERS,Матч возможен только при уникальных игроках в команде.
+TIP/RECEIVE_RECOMMEND,"Если нажать на кнопку чуть попозже,#можно с большей точностью принять мяч."
+HELP/ABILITY_CARD,"Карты способностей дают игрокам особые характеристики и дополнительные параметры.#Эффект действует только на спортсменов, которыми вы лично управляете."
+COMMON/PAY,Оплата
+MOTHER,Мать
+FATHER,Отец
+25/01/07 추가,
+DAILY_MISSION,Ежедневные задания
+DAILY_MISSION/TITLE_01,Войти в игру
+DAILY_MISSION/TITLE_02,[{n}]: победить 1 раз
+DAILY_MISSION/TITLE_03,[{n1}] или [{n2}]: победить 2 раза
+DAILY_MISSION/TITLE_04,[{n1}]: получить {n2} оч. и более
+DAILY_MISSION/TITLE_05,{n1}: {n2} раз(а) успешно
+DAILY_MISSION/TITLE_06,Победить 1 раз с выключенной настройкой [{n}]
+DAILY_MISSION/TITLE_07,"Победить 1 раз, играя за центр. блокирующего"
+DAILY_MISSION/TITLE_08,[{n}]: победить босса 1 раз
+INGAME/LEFT_REWARD_NUMBER,Остававшиеся награды:#{0} раз(а)
+TOURNAMENT/ALERT/DAILY_REWARD,Ежедневная награда турнира
+GUIDE/BONUS_NEW,Награда турнира выдается каждый день за первую победу.
+INGAME/TOTAL_ADD_REWARD,Накопленная награда
+INGAME/WIN_LEFT_TO_REWARD,До след. награды осталось {0} раз(а).
+INGAME/TOURNAMENT_WIN_NUMBER_REWARD,Награда за число побед в турнире
+COMMON/COUNT,{0} раз(а)
+INGAME/RECEIVE_REWARD_COMPLETE,Получено
+INGAME/RECEIVE_REWARD_AVAIL,Доступно
+COMMON/NEXT_REWARD,Следующая награда
+COMMON/NOT_ACHIEVED,Не доступно
+TOURNAMENT/GUIDE/TOTAL_REWARD,Награда выдается за определенное количество накопленных побед в турнире.
+DAILY_MISSION/REWARD,Выполните 4 ежедневных задания и получите награды за очки.
+COMMON/MISSION,Задания
+DAILY_MISSION/RECEIVE_REWARD_COMPLETE,Получено
+DAILY_MISSION/RECEIVE,Получить
+DAILY_MISSION/MOVE,Перейти
+COMMON/CONGRATULATIONS,Поздравляем!
+COMMON/RECEIVED_ALL_REWARD,Все награды получены.
+COMMON/INTRODUCE,Описание
+COMMON/SKILL,Характеристики
+COMMON/COMBINATION,Комбинации
+COMMON/NO_FAVORITE_PLAYERS,Нет сохранений в «Избранном».
+PLAYER/DEFAULT/SKIN/DEFAULT,Стандарт
+PLAYER/NISHIKAWA/SKIN/HIGHSCHOOL,Школьные годы
+PLAYER/ISABEL/SKIN/WEDDING,Свадебное платье
+PLAYER/JAEHYUN/SKIN/TRAINING,Тренировка
+PLAYER/NISHIKAWA/SKIN/BLACKHAIR,Чёрный гром
+COMMON/WEEKLY_MISSION,Задания {n}-й недели
+INGAME/SKIN,Облик
+INGAME/SKIN_DES,"Изменяет внешний вид, движения и особые эффекты игрока."
+NAME/TEAM_64,Сомён
+NAME/TEAM_65,Команда из параллельного мира
+PLAYER/NISHIKAWA/HIGHSCHOOL,"Внешний вид Нисикавы в школьные годы.#До того, как прийти в волейбол был обладателем холодного характера.#Он отказывался ходить в школу по семейным причинам и вместо этого слонялся по дворам с целью помочь ребятам, которых обижают.#Несмотря на добрые дела, Нисикаву часто неправильно понимали из-за его грозного взгляда и холодного выражения лица."
+PLAYER/ISABEL/WEDDING,Изабель в свадебном платье в своих мечтах.#Подходящий для нее нападающий пока не появился.
+PLAYER/JAEHYUN/TRAINING,Образ Нам Чжэхёна на тренировках с Эн Эн.#Наставник настоятельно требует принимать шоколадное молоко каждый день.
+PLAYER/NISHIKAWA/HIGHSCHOOL/DES,Мы здесь не просто в мячик играем...
+PLAYER/ISABEL/WEDDING/DES,Мне нравится твой нападающий удар!
+PLAYER/JAEHYUN/TRAINING/DES,Через тернии к звездам!
+PLAYER/ELLIO/DES,Я покажу тебе самую красивую игру.
+COMMON/INFO,Информация
+COMMON/AWAKEN_ACHIEVE,Прорыв {0} достигнут!
+SHOP/EXISTING_SKIN,У вас уже есть этот облик.
+SHOP/RECEIVE_PLAYER_SKIN,Немедленно получите облик игрока.
+SHOP/LIMITEDSKINPOINT,Очки ограниченного облика
+COMMON/SHOP/NOEXISTPLAYER,Не имеется
+SHOP/UNIFORM,Униформа
+SHOP/UNIFORM/DES,"Форма, которую можно надеть в меню экипировки."
+SHOP/BALL,Мяч
+SHOP/BALL/DES,"Мяч, который можно выбрать в меню экипировки."
+SHOP/SHOES,Обувь
+SHOP/SHOES/DES,"Обувь, которую можно надеть в меню экипировки."
+ALERT_HIGHRANK_DELETE,Выбран игрок высокого ранга. #Вы действительно хотите его отпустить?
+BANNED_ACCOUNT_NOTICE,"Учётная запись, в которую вы сейчас вошли, была заблокирована за нарушение, включающее использование нелегальных программ или читов.#По любым вопросам обращайтесь на support@suncyan.com."
+API/PROBLEM_OCCUR/DATA,Некоторые данные не удалось загрузить с сервера.
+INGAME/AWAKEN_ITEM_LIST,Список фрагментов силы
+COMMON/SELECT_FILTER,Выбрать
+COMMON/GRIT_FRAG_STORE/TITLE,Обмен фрагментов силы
+COMMON/ITEM_CHANGE_BEFORE,Предмет для обмена
+COMMON/ITEM_CHANGE_AFTER,Получаемый предмет
+COMMON/ITEM_CHANGE,Обмен выбранного
+COMMON/FILTER/ALL_RANK,Все ранги
+COMMON/FILTER/ALL_POSITION,Все позиции
+COMMON/FILTER/SELECT_UNIT,Выбрать количество
+COMMON/FILTER/SELECT_UNIT/ONE,По {n} шт.
+COMMON/FILTER/SELECT_UNIT/ALL,Макс.
+COMMON/FILTER/ALERT/POSITION,"Пожалуйста, выберите хотя бы одну позицию"
+COMMON/FILTER/ALERT/RANK,"Пожалуйста, выберите хотя бы один ранг"
+COMMON/FILTER/ALERT/CHANGE,Выбранные осколки будут обменены на валюту.#Продолжить?
+COMMON/FILTER/ALERT/CHANGE_SRANK,Вы выбрали фрагменты высокого ранга.#Продолжить?
+COMMON/ALL,Все
+DIFFICULTY_RAID_HARD,Сложно
+DIFFICULTY_RAID_TOOHARD,Очень сложно
+COMMON/RAID/DIAMOND/TITLE,Юношеская команда Роквелла
+COMMON/RAID/DIAMOND/DES,"Матч с перспективными игроками юношеской команды «Роквелл» — Таней и Клайдом!#Остерегайтесь кошки Наби, снимающей состояние «Без сил», и быстрых передач Тани!"
+COMMON/RAID/MASTER/TITLE,Братья Дейв и Майк
+COMMON/RAID/MASTER/DES,"Самые сильные братья — Дейв и Майк, управляющие горным домиком! Прошло 10 лет после ухода, но их мышцы стали только мощнее! Опасайтесь их усиливающейся мощи!"
+HELP/SNOWRAID_2/DES,"Особый матч по волейболу в заснеженных горах!#До 15 очков, и каждые 3 очка Сара приносит предмет, чтобы выжить в холоде."
+ALERT_SHOP_EXPIRED,Магазин больше недоступен.
+VESSENCE_SHOP,Обмен V Essence
+VESSENCE_SHOP/LIMITED,Ограниченный обмен
+VESSENCE_SHOP/24,Обычный обмен
+VESSENCE_SHOP/ALERT1,Вы можете обменять V Essence на различные предметы и билеты набора.
+VESSENCE_SHOP/ALERT2,Ограниченный обмен обновляется регулярно.
+VESSENCE,V Essence
+VESSENCE/DES,"Валюта, которую можно получить через особый контент, такой как Снежный бой. Обменивается на различные предметы, принесённые кошкой Клайда."
+NORMAL_PLAYER_RECRUIT_TICKET,Обычный билет набора игрока
+POSITION_PLAYER_RECRUIT_TICKET,Билет набора по позициям
+SNOWRAID/TEMP,Температура тела
+SNOWRAID/TEMP/DES,"Температура тела игроков на холоде. Чем ниже температура, тем ниже все параметры,#поэтому во время матча необходимо вовремя менять игроков. Температура отображается в левом верхнем углу экрана."
+SNOWRAID/FEVER,Накал
+SNOWRAID/FEVER/DES,"На холоде во время долгого розыгрыша в центре экрана накапливаются очки накала. Победа в розыгрыше позволяет их забрать. Накопив достаточно очков, команда входит в состояние накала: параметры временно повышаются, а температура тела восстанавливается."
+SNOWRAID/COUNTER_RECEIVE,Контр-приём
+SNOWRAID/COUNTER_RECEIVE/DES,"В суровых условиях «Снежного боя» требуется более точный приём. Чем ближе нажатие кнопки приёма к моменту касания мяча игроком, тем выше точность. Можно получить оценку PERFECT, GOOD или BAD."
+SNOWRAID/PERFECT_RECEIVE,Идеальный приём
+SNOWRAID/GOOD_RECEIVE,Хороший приём
+SNOWRAID/BAD_RECEIVE,Плохой приём
+SNOWRAID/SLIDING,Приём в падении
+SNOWRAID/INSTRUCT_RECEIVE,Команда на приём
+SNOWRAID/GIFT_BOX,Подарок
+SNOWRAID/PERFECT_RECEIVE/DES,"При выполнении идеального приема с точностью в пределах 3 кадров игрок ненадолго переходит в состояние потока, на 100% нейтрализуя атаку соперника и аннулируя его особые способности. Это решающая защита, позволяющая доминировать в розыгрыше даже без выносливости."
+SNOWRAID/GOOD_RECEIVE/DES,"Прием GOOD нейтрализует 70% атаки соперника. При недостатке выносливости даже при оценке GOOD мяч может улететь далеко, приведя к неудаче."
+SNOWRAID/BAD_RECEIVE/DES,"Прием BAD нейтрализует 30% атаки соперника. Так как выносливость при этом сильно расходуется, лучше избегать оценок BAD."
+SNOWRAID/SLIDING/DES,При приёме в падении блокируется 50% урона#независимо от точности.
+SNOWRAID/INSTRUCT_RECEIVE/DES,"В «Снежном бое» можно управлять моментом приёма товарищей по команде. Если не нажать кнопку, союзник примет мяч самостоятельно в последний момент. Такой приём эффективнее BAD, но хуже GOOD. Появление шкалы времени означает, что приём выполнен по вашей команде."
+SNOWRAID/GIFT_BOX/DES,Дейв и Майк спрятали для детей подарки в разных уголках заснеженных гор. После победы с вероятностью 20% можно найти подарочную коробку со случайной наградой.
+COMMON/ENTER_COUNT,Количество входов
+COMMON/OWN_AMOUNT,Количество во владении
+COMMON/PROBABILITY,Вероятность
+SNOWRAID/GIFT_BOX_ABBR,Подарок
+SHOP/HAIR/DES,"Причёска, которую можно выбрать в меню экипировки."
+ILLUST_VIEW_MODE,Облик
+NISHIKAWA_CARD_PACK,Пакет карточек Нисикавы
+NORMAL_PLAYER_RECRUIT_TICKET_DESC,Вы можете нанять игроков в разделе «Обычный» магазина найма.
+POSITION_PLAYER_RECRUIT_TICKET_DESC,Вы можете нанять игроков в разделе «Позиция» магазина найма.
+BLACKTHUNDER_CARD_PACK,Пакет «Чёрный гром»
+0422 ~ PTL Update,
+NAME/TEAM_66,Амаретти Нападающий ударс
+NAME/TEAM_67,Канноли Тайгерс
+NAME/TEAM_68,Чёрный Тирамису
+NAME/TEAM_69,Бискотти Блокеры
+NAME/TEAM_70,Торроне Титаны
+NAME/TEAM_71,Пиццелле Свифтс
+NAME/TEAM_72,Инферно Неро
+NAME/TEAM_73,Темпеста Роза
+NAME/TEAM_74,Импровизированная команда Изабель
+NAME/TEAM_75,Бьютифул Гласс
+NAME/TEAM_76,Грибной Кофе
+NAME/TEAM_77,Роскошное Вино
+NAME/TEAM_78,Свежая Травка
+NAME/TEAM_79,Импровизированная команда Аён
+PIGGYBANK_BALL,Мяч-копилка
+PIGGYBANK_BALL/DES,"Жёлтый мяч в виде копилки, подаренный ребёнку одним из членов <Совета 15> в Лиге Фантом. С виду игрушка, на деле — роскошный предмет из элитных материалов. #「От колыбели до могилы — всё у нас должно быть особенным」."
+LEAGUE,Лига
+LEAGUE_DES,"В лиге 10 уровней, каждый с 5 этапами. Чтобы перейти выше, накапливайте очки лиги. Соперники становятся сильнее. При поражении или нехватке очков начнёте лигу заново."
+LEAGUE_NUM,Лига {0}
+LEAGUE_CLEAR_CONDITION_SENTENCE,"Наберите {0} очков лиги, чтобы пройти лигу."
+LEAGUE_PREVLEVEL_ENTER_SENTENCE,"Завершите предыдущую лигу, чтобы войти."
+POINTS,Очки лиги
+LEAGUE_RESTART,Перезапустить лигу
+LEAGUE_PREVLEVEL_REWARD_ALERT,За повторное прохождение уровня награда лиги не выдаётся.
+LEAGUE_PREVLEVEL_SELECT_ALERT,Выберите уровень для повторной игры.
+CLEAR_LEVEL_NUM,Пройдено {0} уровней
+LEAGUE_RESET,Сбросить лигу
+LEAGUE_NUM_CLEAR_REWARD,Награда за прохождение лиги {0}
+LEAGUE_CLEAR_UNAVAIL,Невозможно пройти лигу
+LEAGUE_TOTAL_POINT_INSUFF_SENTENCE,"Недостаточно очков лиги. Даже если выиграете все оставшиеся матчи, перейти в следующую лигу невозможно.#Продолжить?"
+LEAGUE_TOTAL_POINT_INSUFF_SENTENCE2,Недостаточно очков лиги для перехода в следующую лигу.#Вы можете сбросить и попробовать снова.
+TIP/SLIDING_ALERT_01,"Защищаясь от мощного нападающего удара,#выполняйте приём в падении в нужный момент."
+TIP/RAUL_ALERT_01,Нападающий удар Рауля невозможно остановить блоком.#Предугадайте место падения мяча и выполните приём в падении.
+TIP/HYBRID_SERVE_ALERT_02,При приёме гибридной подачи в падении#мяч отлетает далеко. Защищайтесь кнопкой приёма.
+TIP/JENNY_ALERT_01,"Дженни становится сильнее каждый раз, когда бьёт с новой рекордной для себя высоты."
+PHANTOM_LEAGUE_TIP_0,Блок соперника крепкий.
+PHANTOM_LEAGUE_TIP_1,Соперник бьёт дальние атаки.
+PHANTOM_LEAGUE_TIP_2,Действуют правила контрприёма из «Снежного боя».
+PHANTOM_LEAGUE_TIP_3,Приём нужно проводить вовремя.
+PHANTOM_LEAGUE_TIP_4,При приёме в падении вы тоже получаете урон.
+PHANTOM_LEAGUE_TIP_5,Соперник бьёт короткие атаки.
+PHANTOM_LEAGUE_TIP_6,Соперник умело использует финты.
+PHANTOM_LEAGUE_TIP_7,Соперник использует финты с топспином.
+PHANTOM_LEAGUE_TIP_8,Блок соперника очень крепкий.
+PHANTOM_LEAGUE_TIP_9,Последний приём соперника летит высоко.
+PHANTOM_LEAGUE_TIP_10,Долгие розыгрыши снижают точность защиты.
+PHANTOM_LEAGUE_TIP_11,Соперник использует гибридную подачу.
+PHANTOM_LEAGUE_TIP_12,Приём в падении против гибридной подачи заканчивается неудачей.
+PHANTOM_LEAGUE_TIP_13,Соперник хорошо использует приём в падении.
+PHANTOM_LEAGUE_TIP_14,Прыжок блока всех игроков снижен.
+PHANTOM_LEAGUE_TIP_15,Время отката приёма в падении снижено.
+PHANTOM_LEAGUE_TIP_16,Точность приёма в падении снижена.
+PHANTOM_LEAGUE_TIP_17,Подготовка к блокированию ускорена.
+PHANTOM_LEAGUE_TIP_18,Прыжок блока всех игроков повышен.
+PHANTOM_LEAGUE_TIP_19,Выносливость всех игроков увеличена.
+PHANTOM_LEAGUE_TIP_20,"Ротация команды, проигравшей подряд, изменяется."
+BASIC,Базовый
+PHANTOM_TIP_NO_NEXT_LEAGUE,"Если пропустить {n}+ очков, вы не пройдёте в следующую лигу."
+PHANTOM_TIP_NO_NEXT_LEAGUE2,Недостаточно очков лиги для перехода на следующий уровень
+PHANTOM_TIP_WIN_POINT,Очки лиги = [наши очки − очки соперника] (при победе)
+PLAYER/JENNY_FIRST_SHOW,"Бэк Шиу, я ни за что тебе не проиграю."
+COLOSSEUM/CARD/NAME_72,Акробатика
+COLOSSEUM/CARD/DES_72,"Чем ближе угол нападающего удара к вертикали, тем выше его мощь."
+COLOSSEUM/CARD/NAME_73,Икар
+COLOSSEUM/CARD/DES_73,"Чем ближе к сетке, тем ниже траектория. Чем дальше — тем выше."
+COLOSSEUM/CARD/NAME_74,Супер Юнсок
+COLOSSEUM/CARD/DES_74,Все мои атаки игнорируют блок.
+COLOSSEUM/CARD/NAME_75,Контратака
+COLOSSEUM/CARD/DES_75,"При удачном приёме нападающего удара активируется состояние {n1}. Чем больше выносливости у команды, тем дольше длится."
+MINIMUM_NEED_TIER,Требуемый ранг
+LEAGUE_LEFT_POSSIBLE_POINT,Макс. очков лиги за оставшиеся матчи: {0}
+MAXSCORE_MATCH,Матч на {0} очков
+LEAGUE_MISSION_REWARD_CONDTION,"Завершите миссию, чтобы получить награду."
+LEAGUE_CLEAR_UNAVAIL_QUESTION,Лигу всё ещё можно пройти!#Перезапустить?
+RESULT,Результат
+NEEDED_POINT,Требуемые очки лиги
+ACHIEVED_POINT,Набранные очки лиги
+LEAGUE_NUM_CLEAR,Лига {0} пройдена
+LEAGUE_NUM_CLEAR_FAILED,Лигу {0} не удалось пройти
+LEAGUE_POINT_ACHIEVED,Требуемые очки лиги набраны.
+LEAGUE_POINT_NOT_ACHIEVED,Недостаточно очков лиги.
+IN_PROGRESS_LEAGUE,Текущая лига
+CARD_PACK_PTL,Пакет карт Фантом Лиги
+CORONA_SPLENDENTE_UNIFORM,Корона Спленденте
+CORONA_SPLENDENTE_UNIFORM/DES,"Форма другого игрока уровня 4, бывшей звезды Лиги Фантом до появления Рауля. Несмотря на годы с момента его ухода, фанаты до сих пор приходят на арену в этой форме."
+BDF(05.29~),
+CTM_CARD_PACK,Набор карт: Настоящее мастерство
+SVB_CARD_PACK,Набор с картами Снежного волейбола
+PLAYER/RYUHYUN/SKIN/CHIEF_DISCIPLE,Главный Ученик
+PLAYER/HANRA/SKIN/YUMMI,Кондитерша
+PLAYER/AYEON/SKIN/AYEONSTEIN,Аёнштейн
+BLUE_DRAGON_FESTIVAL,Фестиваль Лазурного Дракона
+BLUE_DRAGON_FESTIVAL_DESC,"В период Фестиваля Лазурного Дракона проходите фестивальные матчи каждый день, чтобы получить Фестивальные монеты! Обменивайте Фестивальные монеты на новых игроков и разнообразные предметы."
+BLUE_DRAGON_FESTIVAL_COIN,Фестивальные монеты
+BLUE_DRAGON_FESTIVAL_COIN_DESC,"Валюта, доступная во время Фестиваля Лазурного Дракона.#Позволяет нанимать игроков события.#Исчезает после окончания события."
+BDF_EXCHANGE_SHOP,Магазин фестивальных монет
+BDFCOIN_SHOP/ALERT1,Обменивайте фестивальные монеты на эксклюзивные предметы!
+ENTER_IMMEDIATELY,Войти сейчас
+SKIN_SCOUT_POINT,Очки скаута (скины)
+MUSIC,Музыка
+BACKGROUND,Фон
+MAINSCREEN_EDIT,Настройка главного экрана
+NOT_DISPLAYED,Не отображается
+BACKGROUND_DESC,В меню «Украшение» на главном экране можно изменить фоновое изображение.
+BGM_DESC,В меню «Украшение» на главном экране можно изменить фоновую музыку.
+BDF_STORY,История фестиваля
+RESET_PROGRESS,Сброс прогресса
+COMPLETE_REWARD_CLAIM,Награда получена
+PROGRESS_STATUS,Прогресс
+PLAYER/HANRA/BREAD/DES,"Смущаюсь, но... мне правда нравятся сладости."
+PLAYER/AYEON/AYEONSTEINS/DES,Ты бы хотел(а) стать моим другом?
+GPGS_ERROR_0,"Не удалось найти доступный аккаунт. Пожалуйста, войдите в Google хотя бы один раз на этом устройстве и перезапустите игру."
+REWARD_INFO_TEXT,Щёлкните по предмету для деталей
+COMMON/DECORATE,Украшение
+6/30~ KMK,
+HELP/ABILITY_CARD_INFO,"Выберите карту способности, чтобы посмотреть детали!"
+COMMON/ABILITY_CARD,Карта способности
+HELP/LEFT_LIFE/DES,Жизни общие на все матчи. При 0 жизнях — поражение.
+PHANTOM_LEAGUE_RULE_TITLE,Дополнительные правила
+PHANTOM_LEAGUE_RULE_DES,"В матчах лиги действуют разные доп. правила, которые сильно влияют на игру. #Они показываются в начале матча."
+LEAGUE_DES_2,"Режим высокой сложности: сыграй 5 матчей подряд и набери очки, чтобы пройти. #Завоюй лигу и продвигайся выше!"
+KINGMAKER,Кингмейкер
+PURCHASE_ALL_PASS,Купить все пропуски
+DIFFICULTY_EASY,Лёгкий
+DIFFICULTY_NORMAL,Обычный
+DIFFICULTY_HARD,Сложный
+ADD_ENTRY,Доп. вход
+SELECT_NEXT_CARD,Выбрать следующую карту
+SELECTED_CARD,Выбранная карта
+RESET,Сброс
+ADD_PURCHASE,Доп. покупка
+DIFFICULTY_ENTER_GAME,Выберите сложность для входа
+CHANGE,Изменить
+CHOOSE_DIFFICULTY,Выберите сложность!
+DAILY_REWARD_CLAIMED,Ежедневная награда получена!
+CHOSEN_DIFFICULTY,Выбранная сложность
+CAN_ENTER_COUNT,Кол-во входов
+EVENT/TIME/DAY,{0}д
+EVENT/TIME/HOUR,{1}ч
+EVENT/TIME/MINUTE,{2}мин
+EVENT/TIME/SECOND,{3}с
+ENTER_SILVER,Доступно с серебряного ранга и выше
+RESET_EVENT,Возврат на главный экран из-за нестабильного сетевого соединения или сброса события.
+TIMEOUT/ALLOC_CONTROLLER,Выберите игрока для управления и нажмите «Подтвердить».
+ALERT/NO_PLAYER_ALLOCATED,Игрок не выбран.
+BUY_AFTER_SOLAR_PASS,Доступно после покупки Солнечного пропуска
+NAME/TEAM_80,Импровизированная команда Аён
+NAME/TEAM_81,Серебряная звезда
+NAME/TEAM_82,Солнечная искра
+NAME/TEAM_83,Тренировочная команда
+TIMEOUT/SECOND_PLAYERS,Запасные игроки
+TIMEOUT/CUSTOM,Кастом
+TIMEOUT/FIRST_TEAM,Основной состав
+TIMEOUT/SECOND_TEAM,Запасной состав
+LUCAS/NICKNAME,Сан Спайкер
+LUCAS/LINE,Не волнуйся. Я ещё ни разу не выходил на площадку с мыслью о поражении.
+HARI/LINE,Увянь здесь. Для меня.
+TIMEOUT/STRONGER_DIRECT_SPIKE,Усиление силы прямого нападающего удара
+TIMEOUT/SUPER_SLIDE,Неуязвимость при приёме в падении
+NAME/TEAM_84,Грин Прайд
+NAME/TEAM_85,Блу Чариот
+NAME/TEAM_86,Ред Рампарт
+NAME/TEAM_87,Йеллоу Барраж
+NAME/TEAM_88,Аркобалено
+NAME/TEAM_89,Сильвер Белл
+TIP/HARI_ALERT_01,"Когда Хари принимает мяч, семя сажается на последнего игрока, коснувшегося мяча.#Когда Хари активирует свою способность, семя взрывается, временно останавливая движение этого игрока."
+TIP/LUCAS_ALERT_01,"Лукас в прыжке устремляется вперёд и пытается выполнить нападающий удар.#В состоянии «Вспышка» его атаки становятся куда сильнее обычного, так что будьте осторожны."
+TIP/RAUL_ALERT_02,Силовая атака Рауля с укороченным разбегом может быть заблокирована.
+SHOP/BUY/ALERT2,Купить выбранный предмет?
+INGAME/TABLE_RESET/ALERT2,Все текущие игры турнира будут сброшены.
+INGAME/TABLE_RESET/REMAINS,Попыток сброса осталось: x {n1}
+UI/EXIT_WITHOUT_SAVE,Выйти без сохранения изменений?
+COMMON/NONE,Нет
+COMMON/TOHOME,На главную
+COMMON/GOBACK,Назад
+COMMON/PREVIOUS_SCREEN,Предыдущий экран
+COMMON/SELECT,Выбрать
+INGAME/MOVE,Движение
+LAYOUT_KEY/LEFT_HAND,Левая рука
+LAYOUT_KEY/BASIC,Базовый
+LAYOUT_KEY/CUSTOM,Пользовательский
+LAYOUT_DES/TOUCH_BUTTON_PLEASE,"Пожалуйста, нажмите кнопку, которую хотите настроить."
+LAYOUT_DES/CUSTOM_MODE_CHANGE,При настройке кнопок включится пользовательский режим.
+TIMEOUT/LOSER_ROTATION,Ротация при потере очка
+INGAME/SPIKE/SHORT,Короткий нападающий удар
+INGAME/SPIKE/FEINT,Финт
+CLEAR,Пройдено
+INGAME/TEAM_HP,Выносливость команды
+INGAME/BALANCE_MODE,Режим баланса
+130M_ATTENDANCE,Бонус за вход в честь 130 млн загрузок
+130M_ATTENDANCE_REWARD,Награда за вход в честь 130 млн загрузок
+EVENT_THANKYOU,Мы и дальше будем радовать вас ещё лучшей игрой.
+KEYBOARD,Клавиатура
+GAMEPAD,Геймпад
+KEYBOARD_CUSTOMIZE_DES,Настроить управление клавиатурой.
+GAMEPAD_CUSTOMIZE_DES,Настроить управление геймпадом.
+FIELD_OF_VIEW_DES,Настроить угол обзора на экране игры.
+ADVANCED_GRAPHIC,Продвинутая графика
+MOVE_LEFT,Двигаться влево
+MOVE_RIGHT,Двигаться вправо
+TOGGLE_SKILL_MODE,Переключить режим навыков
+TOGGLE_CHANGEPLAYER_MODE,Переключить режим замены игрока
+GAME_CONTROL,Управление игрой
+PRESS_KEY_TO_ASSIGN,Нажмите клавишу для назначения.
+UNASSIGNED_CONTROLS_WARNING,Для некоторых действий ещё не назначены клавиши!
+GAMEPAD_NOT_CONNECTED,Геймпад не подключён или соединение потеряно.
+CELEBRATE_130M_DOWNLOAD,Отметим 130M+ загрузок!
+COMMON/SCREEN_TRANSITION,Смена экрана
+COMMON/TOUCH_TO_START,"Коснитесь, чтобы начать"
+COMMON/PRESS_ANY_KEY,"Нажмите любую клавишу, чтобы начать"
+START,Начать
+COMMON/CONTROLLER_SETTING,Настройки контроллера
+MOVE_UP,Движение вверх
+MOVE_DOWN,Движение вниз
+09/01 ~ SMM,
+SMM_COIN_DESC,"Нанимайте особых игроков за летние монеты, полученные в режимах «Водная битва» и «Рейд: пляжный волейбол».#Эта валюта исчезает после окончания события."
+SUMMER_MEMORIES_DESC,"«Летние воспоминания» — событие со знакомыми героями и освежающими матчами, которые помогут прогнать жару!#Количество доступных наград сбрасывается ежедневно. В матчи события можно входить независимо от наличия наград."
+WATER_FIGHT_DESC,"Особый матч на пляже против разных соперников. Истощите здоровье противника, чтобы победить, и получите Летние монеты."
+BEACH_VOLLEYBALL_RAID_DESC,"Особый матч по пляжному волейболу под палящим солнцем.#Игра идёт до 15 очков, и каждые 3 очка Сара приносит предмет, помогающий пережить жару."
+SMM_COIN,Летняя монета
+SUMMER_MEMORIES,Летние воспоминания
+WATER_FIGHT,Водная битва
+BEACH_VOLLEYBALL_RAID,Рейд: пляжный волейбол
+COMMON/DISPLAY,Дисплей
+COMMON/SCREEN_MODE,Режим экрана
+COMMON/WINDOW_MODE,Оконный режим
+COMMON/FULLSCREEN,Полный экран
+COMMON/BORDERLESS,Безрамочный режим
+COMMON/RESOLUTION,Разрешение
+ETC/FULLSCREEN_MAX_RESOLUTION,В полноэкранном режиме применяется максимальное разрешение устройства.
+GRAPHICS/EXPERIMENTAL_EFFECT,Экспериментальные графические эффекты
+GRAPHICS/EXPERIMENTAL_EFFECT_DESC,"Применяет фильтры и визуальные эффекты к экрану игры для более живой графики. Рекомендуется отключить, если сильно влияет на производительность."
+GRAPHICS/POST_PROCESS_SCALE,Масштаб рендеринга постобработки
+GRAPHICS/POST_PROCESS_SCALE_DESC,Настраивает масштаб разрешения для постобработки.
+GRAPHICS/SLOW_MOTION,Эффект замедленного движения
+GRAPHICS/SLOW_MOTION_DESC,Включает спецэффекты при активном замедленном движении.
+GRAPHICS/MOTION_BLUR,Размытие в движении
+GRAPHICS/MOTION_BLUR_DESC,Применяет эффект размытия при быстром движении камеры.
+GRAPHICS/SPIKE_EFFECT,Эффект нападающего удара
+GRAPHICS/SPIKE_EFFECT_DESC,Включает особые эффекты при мощном нападающем ударе игрока.
+GRAPHICS/ENVIRONMENT_DETAIL,Детализация окружения
+GRAPHICS/ENVIRONMENT_DETAIL_DESC,"Включает детализированные эффекты окружения, такие как освещение, тени и отражения. Может повлиять на производительность."
+GRAPHICS/REFRACTION_EFFECT,Эффект преломления
+GRAPHICS/REFRACTION_EFFECT_DESC,Включает эффекты преломления и волн на экране.
+COMMON/CONNECT,Подключить
+COMMON/CONNECT_OTHER_PAD,Подключить другой геймпад
+COMMON/NO_PAD_CONNECTED,Геймпад не подключён
+COMMON/PAD_CONNECTED,Подключено
+COMMON/PRESS_ANY_BUTTON_TO_CONNECT,"Нажмите любую кнопку на геймпаде, чтобы подключить."
+COMMON/SELECT_INPUT_DEVICE,"Пожалуйста, выберите устройство ввода для использования."
+COMMON/KEYBOARD_ALREADY_CONNECTED,Клавиатура уже подключена к другому игроку.
+COMMON/PAD_ALREADY_REGISTERED,Уже зарегистрированный геймпад нельзя зарегистрировать снова.
+COMMON/NORMAL,Обычный
+COMMON/SPLIT_1,Разделение 1
+COMMON/SPLIT_2,Разделение 2
+SYSTEM/INDIVIDUAL_CONTROL_NOT_SAVE,Настройки управления отдельных игроков не сохраняются.
+COMMON/CHAGE_TO_SINGLEPLAY,Переключиться в одиночный режим
+COMMON/CHAGE_TO_MULTIPLAY,Переключиться в многопользовательский режим
+SYSTEM/NO_INPUT_DEVICE,Устройство ввода отсутствует
+SYSTEM/KEYBOARD_SPLIT,Разделить клавиатуру
+SYSTEM/KEYBOARD_MODE_LOCKED,"Клавиатура уже подключена к игроку, поэтому режим нельзя изменить."
+SYSTEM/DELETE_INPUT_DEVICE,Удалить существующее устройство ввода
+INGAME/POSITION/NAME_SE,Связующий
+INGAME/POSITION/NAME_MB,Центральный блокирующий
+INGAME/POSITION/NAME_WS,Доигровщик
+COMMON/CLICK_TO_CONTINUE,"Кликните, чтобы продолжить"
+TIMEOUT/ALERT/SAME_TEAM,"Игроки обеих команд одинаковы, поэтому команды нельзя поменять местами."
+TIMEOUT/ALERT/NO_COMBI,Нет бонуса за комбинацию
+TIMEOUT/ALERT/NO_COMBI_DES,Эта команда не получает бонусных эффектов от комбинации игроков.
+SUMMER_MEMORIES_VOUCHER,Билет на дополнительную награду
+SUMMER_MEMORIES_VOUCHER_DESC,Позволяет ещё раз получить сегодняшнюю ежедневную награду за прохождение этапа. Купить билет можно раз в день.
+STEAM_ERROR_CONNECT,Не удалось подключиться к Steam.
+STEAM_ERROR_CLIENT,"Закройте игру, проверьте состояние клиента Steam и перезапустите игру."
+STEAM_ERROR_UNAUTHORIZED,Неавторизованный клиент. Проверьте клиент в Steam и перезапустите игру.
+STEAM_RECOMMEND_OVERLAY_TITLE,Проверьте настройки Steam Overlay
+STEAM_RECOMMEND_OVERLAY_MESSAGE,"Пожалуйста, включите опцию Overlay в настройках Steam и перезапустите игровой клиент."
+EXTRA_REWARD_TICKET_INFO,"Все сегодняшние награды получены.##Если использовать билет дополнительной награды, дневной лимит сбросится.##Вы можете продолжать играть матчи."
+SMM_EXCHANGE_SHOP,Магазин монет летних воспоминаний
+LOGIN_BONUS,Пропуск за вход
+COMMON/HARD,Сложно
+SMM_EXCHANGE_SHOP,Магазин монет
+TUTORIAL/FIGHT/TALK_01_A,"Эй, парень! Ты ведь помнишь особые правила снежной битвы в нашем лагере?"
+TUTORIAL/FIGHT/TALK_01_B,"Эй, парень! Ты ведь помнишь особые правила... нет, правила водной битвы в нашем лагере?"
+TUTORIAL/FIGHT/TALK_02,"…Охо! Судя по выражению, ты совсем не помнишь. Похоже, мне придётся помочь."
+TUTORIAL/FIGHT/TALK_03,"Для начала попробуй подвигаться по площадке, как обычно."
+TUTORIAL/FIGHT/TALK_04,"Накопив очки атаки таким образом, ты сможешь атаковать соперника в соответствии с накопленным количеством!"
+TUTORIAL/FIGHT/TALK_05,"А теперь подпрыгни высоко, как при нападающем ударе, и атакуй соперника."
+TUTORIAL/FIGHT/TALK_06,"Отлично, хорошо бросаешь. Обрати внимание: траектория атаки меняется в зависимости от того, какую кнопку ты нажмёшь в воздухе."
+TUTORIAL/FIGHT/TALK_07,А теперь расскажу тебе о более мощном способе атаки.
+TUTORIAL/FIGHT/TALK_08,"Если продолжать атаковать в воздухе, иногда срабатывает эффект CRITICAL, усиливая атаку!"
+TUTORIAL/FIGHT/TALK_09,"Если CRITICAL-атака сработает, она нанесёт больший урон и немного восстановит очки атаки."
+TUTORIAL/FIGHT/TALK_10,"Или на земле можно удержать и отпустить кнопку приёма, чтобы выполнить миномётную атаку.#Миномётная атака всегда имеет эффект CRITICAL."
+TUTORIAL/FIGHT/TALK_11,Попробуешь? Подойдёт любой вариант.
+TUTORIAL/FIGHT/TALK_12,Браво! Превосходно!
+TUTORIAL/FIGHT/TALK_13,"Кроме того, миномётная атака оставляет зону помех в месте падения."
+TUTORIAL/FIGHT/TALK_14,В зоне помех скорость снижается и нельзя прыгать — опасно!
+TUTORIAL/FIGHT/TALK_15,Но приёмом в падении можно легко убрать зону помех. Попробуй.
+TUTORIAL/FIGHT/TALK_16,"Хорошо, хорошо. Ты всё лучше, но соперник тоже не промах."
+TUTORIAL/FIGHT/TALK_17,Иногда противник загорается золотым — будь настороже.#Это сигнал к применению мощной особой атаки.
+TUTORIAL/FIGHT/TALK_18,"Пока противник выполняет специальную атаку, он становится крепче и его нельзя остановить никакими средствами."
+TUTORIAL/FIGHT/TALK_19,Но после окончания специальной атаки раскрывается слабое место — бей в этот момент!
+TUTORIAL/FIGHT/TALK_20,"Ха-ха-ха! Атакуя слабое место, ты восстанавливаешь очки атаки и накапливаешь очки накала."
+TUTORIAL/FIGHT/TALK_21,"…Охо! Похоже, ты не знаешь, что такое очки накала?"
+TUTORIAL/FIGHT/TALK_22,"Эти очки нужны для входа в режим накала.#Их можно получить, атакуя слабые места врага или касаясь пузырьков накала на площадке."
+TUTORIAL/FIGHT/TALK_23,Не болтай — давай проверим на деле.
+TUTORIAL/FIGHT/TALK_24,"Ха-ха-ха!! Похоже, у тебя полно энергии!"
+TUTORIAL/FIGHT/TALK_25,"Ну что же, давай попробуем в реальном бою?"
+TUTORIAL/FIGHT/DES_01,"Двигайся по площадке, чтобы собирать очки атаки"
+TUTORIAL/FIGHT/DES_02,"Прыгай и атакуй в воздухе, чтобы поразить соперника"
+TUTORIAL/FIGHT/DES_03,Попади по противнику усиленной воздушной атакой или миномётной атакой.
+TUTORIAL/FIGHT/DES_04,Уберите зону помех приёмом в падении
+TUTORIAL/FIGHT/DES_05,Ищи момент и бей по слабым местам
+TUTORIAL/FIGHT/DES_06,"Соберите пузырьки накала, чтобы войти в режим накала"
+TUTORIAL/FIGHT/DES_07,А теперь яростно атакуйте противника!
+TUTORIAL/FIGHT/TIP_01,"Во время движения по земле очки атаки заряжаются.#Чем быстрее движешься, тем быстрее заряжаются."
+TUTORIAL/FIGHT/TIP_02,"После прыжка можно двигаться в воздухе влево-вправо, меняя точку атаки."
+TUTORIAL/FIGHT/TIP_03,Атаки с эффектом CRITICAL наносят более сильный удар при попадании и восстанавливают очки атаки.
+TUTORIAL/FIGHT/TIP_04,"Во время приёма в падении ты неуязвим.#Кроме того, он убирает все зоны помех, которых ты касаешься."
+TUTORIAL/FIGHT/TIP_05,"Когда враг завершит особую атаку, бей в появившееся окно по слабому месту — это нанесёт сильный удар и восстановит очки атаки."
+TUTORIAL/FIGHT/TIP_06,"В режиме накала параметры значительно повышаются, а зоны помех на вас не действуют."
+COMMON/WORD/GOKSA,Миномёт
+INVALID_SESSION_MESSAGE_TITLE,Вход выполнен с другого устройства
+INVALID_SESSION_MESSAGE_MESSAGE,"Ваш аккаунт был использован для входа на новом устройстве. Если это были не вы, немедленно измените пароль на привязанной платформе."
+PLAYER/SARA/SKIN/WATERSPLASH,Водные брызги
+PLAYER/JENNY/SKIN/STRAWHAT,Соломенная шляпа
+PLAYER/DAVE/SKIN/DIVER,Дайвер
+PLAYER/NN/SKIN/SURFER,Серфер
+OPTION/GRAPHIC_WARNING,"Экспериментальные графические настройки могут вызвать снижение производительности или графические ошибки на некоторых устройствах. Если возникнут проблемы, отключите эту опцию."
+BEACHRAID/TEMP/MESSAGE_01,Игроки начинают чувствовать жару.
+BEACHRAID/TEMP/MESSAGE_02,Жара влияет на игру игроков.
+BEACHRAID/TEMP/MESSAGE_03,Жара сильно снижает прыжковую способность и защиту игроков.
+BEACHRAID/TEMP/MESSAGE_04,Необходимы замены для перегревающихся игроков.
+BEACHRAID/TEMP/MESSAGE_05,Из-за жары все игроки начинают танцевать..!
+BEACHRAID/CARD/TUNA,Тунец Дейва
+BEACHRAID/CARD/SUNCREAM,Солнцезащитный крем
+BEACHRAID/CARD/WATERGUN,Водный пистолет
+BEACHRAID/CARD/JUICE,Крем-сода
+BEACHRAID/CARD/ICE_DESSERT,Ледяной десерт
+BEACHRAID/CARD/ICECREAM,Мороженое
+BEACHRAID/CARD/SUNGLASS,Солнечные очки
+BEACHRAID/CARD/COCONUT,Кокосовый напиток
+BEACHRAID/CARD/FAN,Веер
+TOTAL_CURRENCY,Всего ресурсов
+TODAY_CAN_GET,Доступно сегодня
+SMM_TREASURE_CHEST,Сундук с сокровищами
+SMM_TREASURE_CHEST_DESC,"Дейв делится сокровищами, которые достал со дна моря.#В последнем матче, завершающем получение дневных наград, с определённой вероятностью можно получить сундук с сокровищами."
+PLAYER/JENNY_SUMMER_SHOW,"Хватит отдыхать, ну что ж, начинаем."
+PLAYER/DAVE_SUMMER_SHOW,Гармония художественных мускулов и прекрасного пляжного волейбола… Отлично!!
+PLAYER/DAVE_SUMMER_NICKNAME,Элегантный Зверь
+NAME/TEAM_90,Команда NN
+NAME/TEAM_91,Команда Дженни
+INGAME/SETUP/NAME_11,Клубнично-шоколадное молоко
+INGAME/SETUP/NAME_12,Красавица и Чудовище
+ALERT_RAID_SETTING_RESET,Изменения будут сброшены.
+ALERT/GO_BACK_EVENT_MAIN_SCREEN,Вернуться на главный экран события?
+NAME/TEAM_92,Клубнично-шоколадное молоко
+NAME/TEAM_93,Красавица и Чудовище
+OPEN_DES,Просмотреть описание
+WATER_FIGHT_EASY,"На летнем пляже разворачивается освежающая Водная битва! Будьте осторожны — отвлечётесь, и получите удар водяным шариком!"
+WATER_FIGHT_HARD,"На летнем пляже разворачивается освежающая Водная битва! Будьте осторожны — отвлечётесь, и получите удар водяным шариком!"
+BEACH_VOLLEYBALL_RAID_HARD,"Турнир по пляжному волейболу начался.# Если повезёт, можно даже получить сюрприз от Дейва?!"
+BEACH_VOLLEYBALL_RAID_TOOHARD,"Турнир по пляжному волейболу начался.# Если повезёт, можно даже получить сюрприз от Дейва?!"
+MATCH_INFO,Информация о матче
+UPDATE_ANNOUNCE_STEAM,"Пожалуйста, обновите «The Spike: Cross» до последней версии в вашей библиотеке Steam."
+PC_DENIED_BUTTON_LAYOUT_DESC,"Чтобы настроить расположение кнопок, щёлкните по кнопке мышью."
+MOBILE_DENIED_BUTTON_LAYOUT_DESC,"Чтобы настроить расположение кнопок, коснитесь кнопки."
+GAME,Игра
+UI/KEY_DELETE,Удалить ввод
+UI/EDIT_INPUT,Изм.
+UI/CLEAR,Очист.
+UI/REGISTER_NEW_KEY,Назначить новую клавишу
+SETTINGS/SWAP_CONFIRM_CANCEL,Переключить Подтверждение/Отмену
+NAME/TEAM_94,Хлопковый цветок
+NAME/TEAM_95,Аутсайдер
+NAME/TEAM_96,Дикий Колизей
+NAME/TEAM_97,Красавицы и чудовища
+NAME/TEAM_98,Сон Юнсока
+NAME/TEAM_99,Минус-трио
+NAME/TEAM_100,Двойная королева
+NAME/TEAM_101,Двойной квик
+NAME/TEAM_102,Дофамин
+COMMON/NO_TIP,Особые правила не применяются.
+PHANTOM_LEAGUE_TIP_21,Выносливость обеих команд сильно снижается.
+PHANTOM_LEAGUE_TIP_22,Скорость всех игроков сильно снижается.
+PHANTOM_LEAGUE_TIP_23,Защита и зона защиты команды соперника усиливаются.
+PHANTOM_LEAGUE_TIP_24,Шанс и эффект состояний у всех игроков повышаются.
+PHANTOM_LEAGUE_TIP_25,Выносливость команды соперника повышается.
+PHANTOM_LEAGUE_TIP_26,Ма Юнсок становится сильнее.
+COMMON/COMBINATION_APPLY,Применить комбинацию
+COMMON/WORD/DOUBLECONTACT,Двойное касание
+COMMON/WORD/OUTOFBOUND,Мяч вне площадки
+COMMON/ARCHIVE,Архив
+COMMON/STORY_ARCHIVE,Архив историй
+COMMON/STORY_ARCHIVE_DES,Вы можете свободно пересматривать уже пройденные истории.
+LOGINSCREEN_PROGRESS_STEAM_USER_TICKET_RETRY,Выдача пользовательского билета Steam
+LOGINSCREEN_PROGRESS_STEAM_USER_TICKET_FAILED,Не удалось выдать пользовательский билет Steam
+LOGINSCREEN_PROGRESS_STEAM_CONNECTED,Подключение к Steam завершено
+LOGINSCREEN_PROGRESS_LANG_LOAD_COMPLETE,Файл языка загружен
+LOGINSCREEN_PROGRESS_LOADING_AUTH,Получение данных аутентификации
+LOGINSCREEN_PROGRESS_ACCESS_SUNCYAN,Подключение к SUNCYAN
+LOGINSCREEN_PROGRESS_SUCCEED,Вход выполнен успешно!
+LOGINSCREEN_PROGRESS_LOADING_DATA,Загрузка необходимых данных
+LOGINSCREEN_PROGRESS_BUNDLE_LOADING,Загрузка необходимых данных пакета
+LOGINSCREEN_PROGRESS_BUNDLE_COMPLETE,Загрузка данных пакета завершена
+LOGINSCREEN_PROGRESS_ERROR_HASH,"Проверка целостности не удалась. Пожалуйста, переустановите игру."
+COMMON/CONTROL_DES,Описание геймплея
+COMMON/FIRST_CLEAR,Первое прохождение
+COMMON/FIRST_PERFECT,Первое прохождение с 3 звёздами
+LEAGUE_NOT_OPEN_YET,Эта лига ещё не проводится.
+LEAGUE_LEFT_TIME,{n1} до начала
+ALERT/STORY_NO_MORE,Доступных для проигрывания историй больше нет.
+ALERT/STORY_LAST,Это последняя история.
+ALERT/STORY_NOT_PLAYED,Эта история ещё не была сыграна.
+COMMON/LOCKED,Заблокировано
+ALERT/DIAL_NOT_SELECT,"Пожалуйста, выберите историю."
+ALERT/DIAL_END,Это последняя реплика.
+STORYMODE_TIP_0,"Предоставляет информацию, полезную для матча."
+STORYMODE_TIP_1,Применяется правило «Контр-приём».
+STORYMODE_TIP_2,При приёме в падении вы тоже получаете урон.
+STORYMODE_TIP_3,Сила прыжка и скорость немного снижаются.
+STORYMODE_TIP_4,Результат матча зависит от количества зрителей.
+STORYMODE_TIP_5,Вы должны играть за указанного игрока.
+STORYMODE_TIP_6,Победитель определяется в снежной битве.
+STORYMODE_TIP_7,Действуют правила «Снежного боя».
+COMMON/NO_ENEMY_DATA,Нет данных о сопернике
+,
+COMMON/STORY_REPLAY,Повтор истории
+ALERT/PREV_CONTENT_NOT_CLEAR,Продолжить можно после прохождения контента ниже.
+11/06~ 할로윈,
+PLAYER/SOHEE/SKIN/VAMPIRE,Вампир
+HALLOWEEN,Хэллоуин
+COMMON/DONTSHOWAGAIN,Больше не показывать
+HALLOWEEN_EVENT,Хеллоуин-вечеринка!
+EVENT_UNTIL_MESSAGE,Закончится через {n1}
+JACK_O_LANTERN_BALL,Мяч Джека-фонаря
+JACK_O_LANTERN_BALL/DES,Ямадера сделал мяч для детей на свой вкус. Все дети расплакались.
+BLACK_SPIDER_BALL,Мяч Чёрного Паука
+BLACK_SPIDER_BALL/DES,Слишком долго играли в старом зале — теперь он весь в паутине.
+DULLAHAN_HAIR,Прическа Дуллахана
+DULLAHAN_HAIR/DES,"Говорят, если тренироваться допоздна в школе Сомён, на трибунах можно почувствовать чьё-то присутствие. Это ведь просто слухи?"
+HALLOWEEN_EVENT_REWARD_POPUP_DES,Не пропусти эксклюзивные предметы и награды события!
+MOVE_TO_REWARD,Перейти к наградам!
+HALOWEEN_SOHEE_SAYS_1,Кошелёк или жизнь!
+HALOWEEN_SOHEE_SAYS_2,Счастливого Хэллоуина!
+HALOWEEN_SOHEE_SAYS_3,"…Я, кажется, опоздала?.."
+HALOWEEN_SOHEE_SAYS_4,"Это странно, да?.."
+HALOWEEN_SOHEE_SAYS_5,Хонши показала мне эту позу
+HALOWEEN_SOHEE_SAYS_6,Эййй~
+HALOWEEN_SOHEE_SAYS_7,…Почему ты не выключаешь экран?..
+HALOWEEN_SOHEE_SAYS_8,…Становится как-то неловко…
+HALOWEEN_SOHEE_SAYS_9,"Это ... та самая ""пасхалка""?"
+NAME/TEAM_106,
+HELP_DEUCE,Дьюс
+HELP_DEUCE_DESCRIPTION,"Дьюс возникает, когда обе команды имеют одинаковое количество очков до достижения установленного победного балла, и для победы одна команда должна опередить другую на 2 очка. В игре счёт может достигать максимум 50."
+HELP_SLIDING_BASIC,Приём в падении
+HELP_SLIDING_BASIC_DESCRIPTION,"Приём в падении позволяет принимать мяч без затрат Выносливости.#Обеспечивает стабильную защиту, но требует точного выбора момента и предсказания точки приземления мяча.#Однако если показатель пробивания приёма в падении у соперника составляет 30 или выше, мяч сильно отскочит даже при выполнении приёма в падении.#Снизить этот эффект помогут Защита и защита при приёме в падении."
+HELP_SLIDING_RESISTANCE,Защита при приёме в падении
+HELP_SLIDING_RESISTANCE_DESCRIPTION,"Защита при приёме в падении снижает эффект пробивания приёма в падении противника.#По мере продолжения розыгрыша защита при приёме в падении уменьшается, усиливая эффект пробивания приёма в падении соперника."
+HELP_SLIDING_ENDURANCE,Выносливость приёма в падении
+HELP_SLIDING_ENDURANCE_DESCRIPTION,"Чем выше выносливость приёма в падении, тем медленнее снижается защита при приёме в падении во время розыгрыша."
+HELP_SLIDING_PENETRATION,Пробивание приёма в падении
+HELP_SLIDING_PENETRATION_DESCRIPTION,"Чем выше пробивание приёма в падении, тем дальше отскакивает мяч при приёме в падении, затрудняя защиту."
+HELP_BLOCKING_RESISTANCE,Защита при блоке
+HELP_BLOCKING_RESISTANCE_DESCRIPTION,"Защита при блоке компенсирует пробивание блока соперника. Чем она выше, тем сильнее снижается мощность мяча после смягчающего блока.#Чем дольше длится розыгрыш, тем ниже защита при блоке. Это действует так, словно пробивание блока при нападающем ударе соперника увеличилось на величину этого снижения."
+HELP_BLOCKING_ENDURANCE,Выносливость блока
+HELP_BLOCKING_ENDURANCE_DESCRIPTION,"Чем выше выносливость блока, тем медленнее снижается защита при блоке по мере затягивания розыгрыша."
+HELP_BLOCKING_PENETRATION,Пробивание блока
+HELP_BLOCKING_PENETRATION_DESCRIPTION,"Чем выше пробивание блока, тем быстрее мяч отскакивает после смягчающего блока и тем сложнее его принять."
+11/1~ 비스트스파이커,
+BEAST_SPIKER,Зверь-Спайкер
+BEAST_SPIKER_DESC,"В период ивента «Зверь-Спайкер» вы можете участвовать в Битве фракций и получать Монеты Зверя. Используйте Монеты Зверя, чтобы обменивать товары в магазине и рекрутировать игроков «Зверь-Спайкер»."
+END,Конец
+RESET_IN,Сброс через {n1}
+ABILITY/CARD/NAME_76,Высокий небесный нападающий удар
+ABILITY/CARD/DES_76,При высоте удара не ниже {n1} м мощь мяча повышается на {n2}
+ABILITY/CARD/NAME_77,Блокирующий Бастер
+ABILITY/CARD/DES_77,Анимация зарядки Рюхёна применяется при выполнении нападающего удара.#Не применяется к игрокам с особой техникой удара.
+ABILITY/CARD/DES_77_1,При полной зарядке пробивает блок
+ABILITY/CARD/NAME_78,Воскресенье
+ABILITY/CARD/NAME_79,Берсерк
+ABILITY/CARD/DES_79,За каждый удар — {STR} +{n1}# (до {STR} +{n2})
+ABILITY/CARD/NAME_80,Чувствительное состояние
+ABILITY/CARD/DES_80,Эффективность характеристик в состоянии {n1} увеличивается в {n2} раза
+ABILITY/CARD/NAME_81,Критический удар
+ABILITY/CARD/DES_81,При точном нападающем ударе с вероятностью {n1}% временно даёт {STR} +{n2}
+ABILITY/CARD/NAME_82,Джокер
+ABILITY/CARD/DES_82,"В начале каждого розыгрыша {STR} и {JMP} временно увеличиваются на случайные значения#{STR} {n1}~{n2}, {JMP} {n3}~{n4}"
+ABILITY/CARD/NAME_83,Сердце Леона
+ABILITY/CARD/DES_83,При нападающем ударе вне корта сила удара увеличивается на {n1}%
+ABILITY/CARD/NAME_84,Несгибаемая воля
+ABILITY/CARD/DES_84,При контр-приёме урон от оценок MISSED и BAD уменьшается на {n1}%
+ABILITY/CARD/NAME_85,Суперприём в падении
+ABILITY/CARD/DES_85,Уменьшает урон при приёме в падении на {n1}%#Увеличивает скорость подъёма после приёма в падении на {n2}%
+ABILITY/CARD/DES_86,Скорость подготовки к блоку повышается на {n1}%#При блоке с вероятностью {n2}% срабатывает «Непробиваемый блок»
+ABILITY/CARD/NAME_87,Здоровое тело
+ABILITY/CARD/DES_87,Постоянно увеличивает максимальную выносливость команды на {n1}
+ABILITY/CARD/NAME_88,Король-Брат
+ABILITY/CARD/DES_88,Рост увеличивается на {n1} см
+ABILITY/CARD/NAME_89,Удачный приём
+ABILITY/CARD/DES_89,При приёме есть {n1}% шанс активировать Идеальный Приём
+ABILITY/CARD/NAME_90,Лечащий приём
+ABILITY/CARD/DES_90,При идеальном приёме восстанавливает {n1} выносливости
+ABILITY/CARD/DES_91,Увеличивает скорость движения в воздухе на {n1}%
+ABILITY/CARD/DES_92,Дистанция приёма в падении увеличивается на {n1}%
+NAME/TEAM_103,Синие Копья
+NAME/TEAM_104,Вечные звёзды
+NAME/TEAM_105,Фантомные Волны
+MASTERY,Мастерство
+MAX_MASTERY_ACHIEVED,Максимальное мастерство достигнуто!
+CURRENTLY_MAX_MASTERY,Вы достигли текущего максимально доступного уровня мастерства.
+MASTERY_ACHIEVEMENT_ANNOUNCE,"Завершите все испытания, чтобы получить награды за мастерство."
+CAN_CLAIM_MASTERY,Вы можете получить награды за мастерство!
+MASTERY_REWARD,Награда за достижение «{0}»
+MASTERY_REWARD_LOAD_ERROR,Ошибка! Не удалось загрузить данные мастерства игрока.
+MASTERY/UNKNOWN,Несуществующее мастерство
+MASTERY/ROOKIE,Новичок
+MASTERY/VETERAN,Ветеран
+MASTERY/ELITE,Элита
+MASTERY/LEGEND,Легенда
+MASTERY/CHAMPION,Чемпион
+MASTERY_ACH/SnowRaidScore,Набирать очки в «Снежном бое»
+MASTERY_ACH/ColosseumScore,Набирать очки в Колизее
+MASTERY_ACH/TournamentScore,Набирать очки в турнире
+CAMP,Фракция
+SELECT_CAMP_TITLE,Выбрать фракцию
+CAMP_BATTLE,Битва фракций
+CAMP_BATTLE_HISTORY,История
+ROUND,Раунд
+CAMP_MY,Моя фракция
+CAMP_WIN,Победившая фракция
+CAMP_LOSE,Проигравшая фракция
+CAMP_CONTRIBUTION_POINT,Статус очков фракции
+CONTRIBUTION_POINT,Вклад
+REWARD_WIN,Награда за победу
+REWARD_LOSE,Награда за поражение
+CAMP_EXPIRED,Завершено
+ROUND_NOT_WORKING_YET,Раунд до начала
+ROUND_WORKING,Раунд {0} в процессе
+CAMP_WEEK,Битва фракций — Раунд {0}
+BSP_VOUCHER,Билет дополнительного вклада
+BSP_VOUCHER_DESC,Использование увеличивает дневной лимит вклада на 10 очков. Повышенный лимит сбрасывается на следующий день. Покупка доступна один раз в день.
+DAILY_CONTRIBUTION_POINT,Ежедневный вклад
+DAILY_CONTRIBUTION_POINT_REWARD,Награда за ежедневный вклад
+DAILY_CONTRIBUTION_POINT_REWARD_DES,Награда за ежедневный вклад выдается за каждые 10 очков вклада. #Использование «Дополнительного билета вклада» увеличивает дневной лимит на 10.
+PLAY_REWARD,Награда за матч
+PLAY_REWARD_DES,Эта награда выдаётся сразу после победы в матче.
+SHOW_CARD_DETAIL_INFO,Просмотреть детали
+BSP_CARD_DRAW_DES,"При входе во фракцию вы можете выбирать по 2 раунд-скилла в день в течение одного раунда, всего до 10 выборов за раунд. При выборе повторных скиллов их уровень повышается, и эффект сохраняется на весь раунд."
+LEVEL,Уровень
+SELECT_CAMP,Вы хотите выбрать фракцию «{0}»?
+CAMP_SIWOO,Белые Штормы
+CAMP_RAUL,Инферно Неро
+CAMP_NOT_JOIN,Не участвовал
+NOT_ENOUGH_CONTRIBUTION_POINT,"Награду нельзя получить, так как вы не достигли минимального личного вклада."
+PLEASE_SELECT_CAMP,"Пожалуйста, выберите фракцию."
+PLEASE_SELECT_CARD,"Пожалуйста, выберите раунд-скилл."
+EXTRA_POINT_TICKET_INFO,Использование билета дополнительного вклада увеличивает дневной лимит вклада на 10 очков.##Даже без его использования вы можете продолжать играть.
+USE,Использовать
+CAMP_CARD_COLLECTION,Архив раунд-скиллов
+INGAME_DIAL_RAUL_SITUATION_01,.... ....
+INGAME_DIAL_RAUL_SITUATION_02,"…Это было неплохо. Потенциал у тебя есть, признаю."
+INGAME_DIAL_RAUL_SITUATION_03,Но на этом развлечения заканчиваются.
+CAMP_BATTLE_NOW_STAT,Статус Фракционных битв
+CAMP_BATTLE_INFO,Информация о Фракционных битвах
+INGAME/SETUP/NAME_13,Единство атаки и защиты
+INGAME/SETUP/DESC_05,Скорость зарядки Рауля увеличивается на {0}%.
+INGAME/SETUP/NAME_14,Драконий Цветок
+INGAME/SETUP/NAME_15,Стабильная сила
+INGAME/SETUP/NAME_16,Дикий Колизей
+INGAME/SETUP/NAME_17,Затмение
+INGAME/SETUP/NAME_18,Душа Спартанца
+INGAME/SETUP/NAME_19,Волновой Райд
+INGAME/SETUP/NAME_20,Искра Бездны
+MY_ROUND_SKILL,Мои раунд-скиллы
+CAMP_SIWOO_DESC,Белые Штормы проведут матч против Инферно Неро.
+CAMP_RAUL_DESC,Инферно Неро проведёт матч против Белых Штормов.
+COMMON/BOTTOM,Низ
+COMMON/MIDDLE,Центр
+COMMON/TOP,Верх
+SCORING_UI,Интерфейс очков
+SCORING_UI/DES,"Настроить UI, отображаемый при наборе очков."
+SCORING_MASTERY_UI,Интерфейс мастерства при наборе очков
+SCORING_MASTERY_UI/DES,Показывает особые эффекты набора очков для игроков с мастерством.
+SCORED_ALERT,Очко
+SCORED_ALERT2,{0} набрал очко
+SCORE_CATEGORY,Очки
+SETTING/PREFERENCE/SPIKE_CINEMATIC,Кинематографика при нападающем ударе
+SETTING/PREFERENCE/SPIKE_CINEMATIC/DES,Включает мгновенные переходы камеры и замедленное движение во время нападающего удара.
+NO_ENOUGH_CONTRIBUTION,Недостаточный личный вклад
+SIF/LINE,Ты сильный. Но его сила в разы больше.
+SIF/NICKNAME,Лучший связующий Фантом Лиги
+CLAIRE/LINE,"Извини, но наш уровень — небо и земля."
+CLAIRE/NICKNAME,Номер 2 Фантом Лиги
+NEED_POINT,Для получения еженедельной награды требуется не менее {0} очков вклада за раунд.
+NOT_YET,Перед началом
+INGAME_DIAL_ALLSTAR_SITUATION_01,Х-хэк… хх… д-дых… не могу…
+INGAME_DIAL_ALLSTAR_SITUATION_02,Шиу! Ты весь побледнел…
+INGAME_DIAL_ALLSTAR_SITUATION_03,Бэк Шиу!!
+INGAME_DIAL_ALLSTAR_SITUATION_04,…Это гипервентиляция! Он слишком перенапрягся?
+INGAME_DIAL_ALLSTAR_SITUATION_05,"С самого начала я чувствовал, что что-то не так.. #Зеро! Нужно немедленно заменить Бэк Шиу!"
+INGAME_DIAL_ALLSTAR_SITUATION_06,"Я как раз развлекался. Что это за позор, Бэк Шиу?"
+INGAME_DIAL_ALLSTAR_SITUATION_07,"…Ладно, плевать. От такого недоноска, как ты, я ничего и не ждал."
+INGAME_DIAL_ALLSTAR_SITUATION_08,"Хлам, не приносящий команде пользы, — вон с корта."
+INGAME_DIAL_ALLSTAR_SITUATION_09,"И смотри, как вашу команду разнесут в куски."
+INGAME_DIAL_ALLSTAR_SITUATION_10,Ноги такие тяжёлые…
+INGAME_DIAL_ALLSTAR_SITUATION_11,Неужели это и правда мой предел?
+INGAME_DIAL_ALLSTAR_SITUATION_12,Но я не могу пасть здесь…
+UNDERDOG_BONUS,Бонус Андердога
+UNDERDOG_BONUS_DES_4,Бонус Андердога становится активным после {0}-го дня Раунда.
+UNDERDOG_BONUS_DES,"В зависимости от разницы очков фракций, команда с меньшим количеством очков может получить бонус андердога."
+UNDERDOG_BONUS_DES_1,"При получении вклада количество очков фракции, начисляемых вашей фракции, увеличивается."
+UNDERDOG_BONUS_DES_2,"Статус Бонуса андердога обновляется в соответствии с результатами, публикуемыми каждый час."
+UNDERDOG_BONUS_DES_3,Разница очков фракции менее {0}%p: применяется вклад x{1}.
+UNDERDOG_BONUS_DES_5,Разница очков фракции {0}%p и более: применяется вклад x{1}.
+BUY_AFTER_PREMIUM_PASS,Доступно после покупки премиум-пропуска.
+BSPCOIN_SHOP/ALERT1,Обменивай монеты Зверя на эксклюзивные товары события!
+BSP_EXCHANGE_SHOP,Магазин монет Зверя
+BSP_COIN,Монета Зверя
+BSP_COIN_DESC,"Валюта, доступная во время события «Зверь-Спайкер».#Позволяет нанимать игроков события.#Исчезает после окончания события."
+BEAST_PLAYER_RECRUIT_TICKET,Билет набора игрока «Зверь-Спайкер»
+BEAST_PLAYER_RECRUIT_TICKET_DESC,"Билет набора, который можно использовать во время события. #Позволяет набирать игроков события. #После окончания события будет превращён в обычный билет набора игрока."
+CAMP_INTRO_DES_1,"Занавес поднят над Матчем Всех Звёзд Фантомной Лиги.#Белые Штормы стремительно несутся к чемпионству, сокрушая легендарных соперников одного за другим.#А навстречу им выходит абсолютный гигант — Инферно Неро, ведомый Раулем, одним из пяти лучших нападающих мира.#Именно сейчас начинается матч, который решит судьбу обеих команд.##Теперь решение зависит только от тебя.#За какую команду ты выйдешь на площадку?"
+WEEK,{0}-я неделя
+MASTERY_ACH_ALERT,В зачёт испытания идут только выигранные матчи.
+CHECK_CAMP_INFO,Хотите просмотреть информацию о Фракционных битвах?
+ALERT/WEEK_RESET,Текущий раунд завершен.
+NOW_APPLIED,Эффект применяется
+CAMP_BATTLE/PERCENTAGE_HIDED,Ожидает публикации
+CAMP_BATTLE/PERCENTAGE_NOTLOADED,Ожидание обновления данных…
+CAMP_BATTLE/PERCENTAGE_LEFTTIME,До публикации очков фракций: {0}
+CAMP_BATTLE/ROUND_LEFTTIME,До окончания раунда: {0}
+CAMP_BATTLE/CHOOSE_CAMP,Выберите фракцию.
+CAMP_BATTLE/SEE_RECORD,Посмотреть записи
+,
+CAMP_BATTLE_DES,"Событие «Битва фракций» — это еженедельный соревновательный режим, где каждую неделю начинается новый раунд.#Когда начинается раунд, вы выбираете фракцию и участвуете в её матчах на этой неделе.##Во время раунда вы можете играть каждый день,#и ежедневно выбирать 2 раунд-скилла, чтобы усилить управляемого игрока.#За один раунд можно получить до 10 раунд-скиллов.##За день можно заработать до 10 очков вклада.#С дополнительным билетом вклад можно увеличить до 20 очков в день.#Каждые 10 очков дают вам установленную награду.##В конце раунда,#сравниваются фракционные очки обеих сторон, и побеждает фракция с большим количеством очков.#Победившая фракция получает дополнительную награду."
+CAMP_BATTLE/CHOOSE_CAMP,Выбрать «{0}»
+CAMP_POINT_UPDATE,Статус очков фракции обновляется каждый час.
+MASTERY/ACHIEVED,«{0}» выполнено!
+BSP_LOGIN_BONUS,Бонус за вход «Зверь-Спайкер»
+PARTICIPATING,Участвует
+UNDERDOG,Аутсайдер
+ALERT/PLZ_LOAD_AGAIN,"Не удалось загрузить данные с сервера.#Пожалуйста, попробуйте снова."
+ALERT/GO_BACK_SCREEN,Вы хотите вернуться на предыдущий экран?
+INGAME/MY_ROUND_SKILLS,Мои навыки раунда
+CAMP_WAIT_3MIN,"Пожалуйста, подождите. Обновляются данные наград."
+WHATS_ROUND_SKILL,Что такое навыки раунда?
+ROUND_SKILL_INFO,"Выберите навык раунда, чтобы посмотреть детали!"
+TIME_DAY,{0}д
+TIME_HOUR,{0}ч
+TIME_MINUTE,{0}м
+TIME_SECOND,{0}с
+TIME_MONTH,{0} мес.
+SYSTEM/ERROR_VERSION,"Эта версия ({0}) недоступна. Пожалуйста, обновите игру."
+COMMON/ROUND_SKILL_FACTION_ONLY,Появляется только если вы принадлежите фракции {0}.
+UI/HIDE_REMOTE,Скрыть панель
+UI/VIEW_MODE,Режим просмотра
+UI/CHAT_LOG,История диалогов
+UI/NO_CHAT_LOG,История диалогов пуста.
+12/10~ 윈터 홀리데이,
+XMAS,Зимние каникулы
+UI/SKIN_INFO,В меню управления игроками можно сменить облик. Некоторые эффекты и характеристики могут отличаться.
+PLAYER/LISIA/SKIN/RUDOLPH,Рудольф
+PLAYER/LISIA/SKIN/RUDOLPH/DES,"Лисиа бежала с подарочной коробкой и заметила в витрине магазина аксессуаров ободок с рогами Рудольфа. Она тут же купила и надела его. В научных кругах принято считать, что в этот момент её милота удвоилась."
+SKIN_NEED_PLAYER,"Чтобы использовать скин игрока, вы должны владеть этим игроком."
+NAME/TEAM_106,Фантом Джуниор
+NAME/TEAM_107,Команда Элеганс
+NAME/TEAM_108,Команда Протезиони
+NAME/TEAM_109,Фестиваль Синего Дракона
+NAME/TEAM_110,Крошечный Кактус
+PHANTOM_LEAGUE_TIP_27,Атака и сила прыжка всех игроков увеличиваются.
+LISIA_SKIN_SKYSERVE_DESC,*Вообще-то подавать двумя руками нельзя. Но кто осмелится спорить с Лисиа и её лучезарной улыбкой?
+PRODUCT/EXCLUDE_HAIR_SHOES,Причёска и обувь не включены.
+12/25~ 타이거아이즈,
+TIGER_EYES_VOUCHER_DESC_3,У вас нет дополнительных билетов для входа. Хотите купить?
+TIGER_EYES_VOUCHER_DESC_4,Нет доступных дополнительных билетов для входа.
+KMK_CHANGE_DIFFICULTY_DES,Выбранная сложность: {0}#Хотите выбрать её?
+KMK_CHANGE_DIFFICULTY_RESET_STAGE,"Выбранная сложность: {0}#Смена сложности сохранит первые две выбранные карты, но сбросит прогресс этапа.#Хотите изменить?"
+KMK_ENTER_GAME_TICKET_DES,Купите дополнительный билет для входа и получите награду после победы в матче!
+KMK_SELECT_DIFFICULTY_DES,Текущая сложность
+KMK_SELECT_CARD_COMPLETE_DES,Выбор карты завершён для этапа {0}
+KMK_PLAYING_DES_2,Этап в процессе
+KMK_PLAYING_DES,Этап в процессе — карта зафиксирована
+KMK_STAGE_1_TITLE,Лёгкий челлендж
+KMK_STAGE_2_TITLE,Обычный челлендж
+KMK_STAGE_3_TITLE,Сложный челлендж
+KMK_SELECT_CARD_TITLE,Выберите 2 карты.
+KMK_SELECT_CARD_DES,После подтверждения карты начнётся матч с выбранными картами.
+CARD_CONFIRM,Подтвердить карты
+CARD_STOP,STOP
+KMK_NO_SELECT_DIFFICULTY_DES,Можно войти после выбора уровня сложности.
+KMK_NO_SELECT_CARD_DES,Карты не выбраны.#Выберите карты и побеждайте!
+SELECTING_CARD,Выбор карт для этапа {0}
+SELECT_CARD_COMPLETE,Выбор карт завершён для этапа {0}
+ENTER_STAGE,Вход в матч этапа {0}
+WIN_STAGE,Победа в матче этапа {0}
+,
+COLOSSEUM/CARD/NAME_93,Прорыв предела
+COLOSSEUM/CARD/DES_93,"После прыжка теряется {n1}% оставшейся выносливости команды, и это значение преобразуется в {STR} на время этого розыгрыша."
+COLOSSEUM/CARD/NAME_94,Шанс-приём
+COLOSSEUM/CARD/DES_94,"После приёма, если другой союзник выполняет второе касание, восстанавливается {n1} выносливости и создаётся Шанс-бол."
+COLOSSEUM/CARD/NAME_95,Красный спрайт
+COLOSSEUM/CARD/DES_95,{JMP} фиксируется на {n1}.
+COLOSSEUM/CARD/NAME_96,Чайная пауза
+COLOSSEUM/CARD/DES_96,Все эффекты восстановления выносливости команды увеличены на {n1}%.
+COMMON/SHOP_OR_CHANGE_SOMETIMES,Иногда можно получить в обменнике или магазине.
+COMMON/NO_MATCH_REWARD,Награды за матч отсутствуют.
+COIN_SHOP,Магазин монет
+TIGER_EYES,Тайгер Айз
+TIGER_EYES_DESC,"Каждый день вы можете проходить события на сложности лёгкая / обычная / сложная.#Все матчи проходят по системе до 12 очков, каждая сложность состоит из 2 этапов.#Перед началом матча карты навыков выбираются через рулетку.#На каждом этапе вы получаете 2 карты Колизея, всего 4 карты.#При смене сложности выбранные карты сохраняются, а во втором этапе используются все 4 карты."
+TIGER_COIN,Монета тигра
+TIGER_COIN_DESC,"Валюта, доступная во время события «Тайгер Айз».#Позволяет нанимать игроков события с повышенным шансом.#Исчезает после окончания события."
+PICKUP_PLAYER_RECRUIT_TICKET,Билет набора избранного игрока
+PICKUP_PLAYER_RECRUIT_TICKET_DESC,Вы можете нанимать игроков в разделе «Повышенный шанс» магазина найма.
+EV2601_NORMAL_PASS,Обычный пропуск «Тайгер Айз»
+EV2601_NORMAL_PASS_DESC,С помощью пропуска можно получить различные предметы и валюту.
+EV2601_PREMIUM_PASS,Премиум-пропуск «Тайгер Айз»
+EV2601_PREMIUM_PASS_DESC,"Открывает премиум-пропуск, который продлевает событие входа на 3 дня и позволяет получить эксклюзивную форму и большое количество валюты."
+EV2601_ROYAL_PASS,Королевский пропуск «Тайгер Айз»
+EV2601_ROYAL_PASS_DESC,"Открывает королевский пропуск, который продлевает событие входа на 1 день и позволяет получить большое количество валюты. Доступен после покупки премиум-пропуска."
+EV2601_PREMIUM_ROYAL_PASS,Премиум + Королевский пропуск «Тайгер Айз»
+EV2601_PREMIUM_ROYAL_PASS_DESC,"Набор, открывающий премиум-пропуск и королевский пропуск одновременно."
+TIGER_EYES_VOUCHER,Дополнительный пропуск «Тайгер Айз»
+TIGER_EYES_VOUCHER_DESC,Позволяет войти в матч и получить награду за прохождение ещё раз.
+NAME/TEAM_110,Загадочная команда
+RECRUIT_TIGER_EYES_NISHIKAWA_TITLE,Набор Нисикавы «Чёрный гром»
+RECRUIT_TIGER_EYES_NISHIKAWA_FIRST,"Набор, в котором можно получить разных игроков, включая Нисикаву и его облик «Чёрный гром»."
+RECRUIT_TIGER_EYES_HONGSI_TITLE,Набор Хонши «Горничная»
+RECRUIT_TIGER_EYES_HONGSI_FIRST,"Набор, в котором можно получить разных игроков, включая Хонши и её облик «Горничная»."
+RECRUIT_TIGER_EYES_ISABEL_TITLE,Набор Изабель «Свадебное платье»
+RECRUIT_TIGER_EYES_ISABEL_FIRST,"Набор, в котором можно получить разных игроков, включая скин «Свадебное платье» для Изабель и саму Изабель."
+RECRUIT_TIGER_EYES_JAEHYUN_TITLE,Набор Нам Чжэхёна «Тренировка»
+RECRUIT_TIGER_EYES_JAEHYUN_FIRST,"Набор, в котором можно получить разных игроков, включая Нам Чжэхёна и его облик «Тренировка»."
+TIGEREYESCOIN_SHOP/ALERT1,Обменивайте лимитированные товары во время события «Тайгер Айз»!
+TIGER_EYES_EXCHANGE_SHOP,Магазин «Тайгер Айз»
+PLAYER/HONGSI/SKIN/MAID,Горничная
+TIGER_EYES_LOGIN_BONUS,Пропуск входа «Тайгер Айз»
+TIP/BOSS/ALERT_22,"Когда Изабель принимает нападающий удар, восстанавливается выносливость команды, а характеристики увеличиваются пропорционально силе удара."
+ZOOM_IN,Увеличить
+ZOOM_OUT,Уменьшить
+PLAYER/HONGSI/MAID/PICKUP,Милости просим!
+EVENT_STORY,Сюжет события
+EVENT_DETAIL_INFO,Подробности события
+NO_DAILY_TICEKT_TO_BUY,Вы превысили дневной лимит покупок и не можете купить.
+TIGER_EYES_SIMPLE_INFO,"В течение события ежедневно проходите матчи события, чтобы получать монеты Tiger!#С их помощью можно получить новых игроков и различные предметы.#Матчи события состоят из 2 этапов.#Перед началом этапа выберите карты способностей для использования в матче."
+NAME/TEAM_111,Зелёный охотник
+NAME/TEAM_112,Синий кит
+NAME/TEAM_113,Чёрный медведь
+PLAYER/NISHIKAWA/BLACK_THUNDER/DES,Сильный? Тогда докажи.
+NORMAL_SCOUT_DES,Очки скаута можно получить через обычный набор игроков.#В рамках этого набора можно получить {0} очков скаута.
+PICKUP_PLAYER_SCOUT_POINT,Очки скаута набора с повышенным шансом
+PICKUP_PLAYER_SCOUT_POINT_DES_LEGACY,За очки скаута набора с повышенным шансом можно гарантированно нанять нужного игрока из этого набора.#Очки выдаются за найм игроков в наборе с повышенным шансом.
+EVENT_SKIN_SCOUT_POINT,Очки скаута скина события
+EVENT_SKIN_SCOUT_POINT_DES,С помощью очков скаута скина события вы можете гарантированно получить скин нужного игрока события.#Эта валюта исчезнет после окончания периода события.
+DAILY_ENTER_DONE,Награды за сегодня уже получены. Требуется дополнительный билет для входа.
+USE_2,Использовать
+CAN_NOT_BUY,Покупка недоступна
+SETTING/PREFERENCE/CAMERA_MOVEMENT,Движение камеры
+SETTING/PREFERENCE/CAMERA_MOVEMENT/DES,Настройте стиль движения камеры.
+CAMERA_STYLE/OPPONENT_TEAM,Фокус на команде соперника
+SETTING/CAMERA_STYLE,Камера
+SETTING/EFFECT,Режиссура
+01/23~ 한라의 신년맞이 출석 업데이트(02.13),
+INVENTORY,Инвентарь
+SORT_ORDER,Сортировка
+GROUP_BY_TYPE,Группа
+DATE_DESC,По дате
+NAME_ASC,Имя
+AMOUNT_DESC,Кол-во
+RANK_DESC,Ранг
+PLAYER_CUSTOMIZING,Настройка игрока
+MAINSCREEN_CUSTOMIZING,Настройка главного экрана
+PLAYER_SKIN,Облик игрока
+CARD_PACK,Набор карт
+ITEM,Предмет
+CONSUMABLE,Расходники
+ALERT/CONTENTS_RESET,Данные текущего контента были обновлены. Возврат на главный экран.
+SIGNATURE_ILLUST,Фирменная иллюстрация
+ALERT/DONT_KNOW_ERROR,Не удалось загрузить данные из-за неизвестной ошибки.
+EMPTY_INVENTORY,У вас нет этого предмета.
+INVENTORY_BALL,Скин волейбольного мяча
+SETTING/PREFERENCE/FRAME_RATE,Частота кадров матча
+COMMON/FRAME_RATE,Частота кадров
+GAMEPAD_INPUT_DISABLED,Ввод текста с геймпада недоступен.
+SETTING/PLAY/HAPTIC_INTENSITY,Интенсивность вибрации
+SETTING/PLAY/HAPTIC_INTENSITY/DES,Регулирует силу вибрации устройства.
+LUNAR_NEW_YEAR,Ежедневный вход Халлы к Лунному Новому году
+LUNAR_NEW_YEAR_LOGIN_PASS,Событие ежедневного входа Халлы к Лунному Новому году
+PRODUCT/EXCLUDE_UNIFORM_SHOES,Форма и обувь не включены.
+CHECK_IN_DAY_COMPLETE,Отметка за {0} день выполнена
+USAGE_PERIOD_EXPIRED,Срок использования истёк.
+SETTING/PREFERENCE/FRAME_RATE/DES,Настройте частоту кадров в матче. Для устройств с низкой производительностью рекомендуется 60 fps или ниже.
+SETTING/PREFERENCE/VARIABLE_FRAME_RATE,Разрешить переменную частоту кадров
+SETTING/PREFERENCE/VARIABLE_FRAME_RATE/DES,"Если не удаётся стабильно поддерживать целевую частоту кадров или наблюдаются просадки fps, рекомендуется включить эту опцию."
+WARNING/VARIABLE_FRAME_RATE_DES_01,"Частота кадров ограничена настройками устройства (например, режимом энергосбережения) и зафиксирована на уровне {0} fps."
+WARNING/VARIABLE_FRAME_RATE_DES_02,Проверьте режим энергосбережения/оптимизацию батареи/настройки частоты обновления.
+WARNING/VARIABLE_FRAME_RATE_DES_03,Частота кадров нестабильна. Рекомендуется снизить целевую частоту кадров или включить переменную частоту кадров.
+WARNING/VARIABLE_FRAME_RATE_DES_04,Частота кадров нестабильна и будет изменена на фиксированную. Проверьте настройки VSync.
+COMMON/POPUP/GUIDE,Вы можете изменить указанные выше значения и проверить прогнозируемые показатели по этапам внизу.
+COMMON/HIGHEST,Наивысший
+02/19~ 제로투원 업데이트(02.23),
+PLAYER/ZERO/SKIN/STREET_ARTIST,Стрит-артист
+PLAYER/ZERO/SKIN/STREET_ARTIST/DES,"«Подожди~ Сейчас снимаю~!»#Однажды, ломая голову над развитием Лиги Фантомов, он внезапно оказался втянутым в хаос — младшая сестра ворвалась без предупреждения. Не успев ничего спросить, он уже был вытащен на улицу… чтобы снимать короткое видео вместе?!"
+GRAFFITI_BALL,Король граффити
+GRAFFITI_BALL/DES,"Мяч, который Серена принесла для съёмки короткого видео. В нём чувствуется её любовь к яркому стилю."
+ZERO_TO_ONE_PASS_LOGIN_BONUS,Ивент входа Zero to One
+EV2603_PREMIUM_PASS,Премиум-пропуск Zero to One
+EV2603_PREMIUM_PASS_DESC,"Пропуск входа на событие продлевается на 3 дня и открывает Премиум-пропуск, где можно получить скин «Стрит-артист Зеро» и множество наград."
+EV2603_NORMAL_PASS,Обычный пропуск Zero to One
+EV2603_NORMAL_PASS_DESC,"Обычный пропуск: завершайте вход в игру в течение периода, чтобы получать разные предметы и валюту."
+EV2603_PREMIUM_PASS_2,Zero to One#Премиум-пропуск
+EV2603_NORMAL_PASS_2,Zero to One#Обычный пропуск
+ZERO_TO_ONE_PASS,Пропуск Zero to One
+STREET_ARTIST_UNIFORM,Уличная одежда «Граффити-идол»
+STREET_ARTIST_UNIFORM/DES,"Наряд Зеро, идеально оформленный в стиле граффити благодаря прикосновению Серены. Пусть в нём чувствуется вкус младшей сестры, но для будущей «Знаменитости корта» нет наряда, который он не смог бы носить. #Ну что ж, к съёмке всё готово. Осталось лишь блеснуть своим талантом!"
+STREET_ARTIST_SHOES,Ботинки «Кикфлип»
+STREET_ARTIST_SHOES/DES,
+BGM_SANGHYEON_ON_AIR2_DESC,"CHAPTER 4. #「А что же тогда волейбол, если не бизнес?」"
+BGM_BAD_SANGHYEON2_DESC,"CHAPTER 4. #「Ради сияющих капель пота, ради блистательного мгновения!」"
+PLAYER/LUCAS/PICKUP,Смотри. Я возьму этот сет!
+PLAYER/ZERO/PICKUP,Я сделаю тебя суперзвездой.
+02/23~ 윈드스파이커(03.26),
+APPLY_COSTUME_SHOP,Можно применить в магазине оформления
+APPLY_PLAYER_DETAIL,Можно применить на экране сведений об игроке
+CATEGORY,Категория
+CUSTOMIZE_UNIFROM,Индивидуальная форма игрока
+CUSTOMIZE_HAIR,Индивидуальная прическа игрока
+CUSTOMIZE_SHOES,Индивидуальная обувь игрока
+CUSTOMIZE_BALL,Индивидуальный волейбольный мяч
+CUSTOMIZE_PLAYER_SKIN,Скин игрока
+USAGE_PERIOD,Срок действия
+UNLIMITED,Бессрочно
+NOW_APPLYING,Применено
+CLEAR_APPLYING,Снять
+CONTROL_PLAYER,Управляемый игрок
+FEVER_POINT,Очки накала
+NAME/TEAM_114,Запасной состав «Блэк Лайонс»
+NAME/TEAM_115,«Эшвилл Уизелс»
+CLAIM_ACHIEVE_REWARD,Получить награду за достижение
+ACHIEVE_REWARD,Награда за достижение
+EV2604,Ивент «Ветряной спайкер»
+EV2604_DESC,"5-недельная миссия от Сары и «Эшвилл Уизелс»! Выполняйте 7 миссий каждую неделю, чтобы зарабатывать Ветряные монеты.# Выполните 5 еженедельных миссий, чтобы получить бонусные Ветряные монеты!"
+WEEKLY_MISSION,Еженедельная миссия
+INGAME/SETUP/NAME_21,Король скорости
+INGAME/SETUP/NAME_22,Ультрамарин
+INGAME/SETUP/NAME_23,Ландыш
+INGAME/SETUP/NAME_24,Ас центральной зоны
+SARA_WS/LINE_PICKUP,Прикрою сзади.
+SARA_WS/CHAPTER12_7,У Рауля нет шансов против меня в его нынешнем состоянии.
+IRIS/NICKNAME,Добрый тиран
+IRIS/LINE_SHOW,"Фух, хорошо, что я вчера сделала маникюр..."
+YURI/NICKNAME,Нарушитель спокойствия
+YURI/LINE_SHOW,"Эй, не робей. Будет неинтересно, если я выиграю просто так."
+RAUL/LINE_SHOW,"Заткнись, новичок. Я тебя раздавлю."
+WIND_SPIKER_LOGIN_BONUS,Пропуск входа «Ветряной спайкер»
+EV2604_MISSION_1,{0}: победить в турнире {1} раз
+EV2604_MISSION_2,Только в победных матчах: достигните суммарной скорости нападающего удара {0} км/ч
+EV2604_MISSION_3,Только в победных матчах: наберите {0} суммарных очков без касания
+INGAME/DELETE_MAIN/CONTENTS_ALERT,"Игроков, участвующих в другом контенте, нельзя освободить."
+NIGHTMARE_ARENA,Арена кошмаров
+ARENA,Арена
+TIME_LIMIT_REACHED,Время вышло
+RECRUIT_WIND_SPIKER_SARA_TITLE,Наем Сары
+RECRUIT_WIND_SPIKER_SARA_FIRST,"Наймите различных игроков, включая Сару."
+RECRUIT_WIND_SPIKER_IRIS_TITLE,Наем Айрис
+RECRUIT_WIND_SPIKER_IRIS_FIRST,"Наймите различных игроков, включая Айрис."
+RECRUIT_WIND_SPIKER_YURI_TITLE,Набор Юрия
+RECRUIT_WIND_SPIKER_YURI_FIRST,"Набор, в котором можно получить разных игроков, включая Юрия."
+CLEAR_EVERY_MATCH,Завершите все матчи в пределах лимита времени и выиграйте <color={0}>Раунд</color>!
+CLEARED_ALL_STAGES,Вы прошли все этапы!
+TOTAL_POINTS,Всего очков
+ARENA/NEXT_MATCH_SEN,"Пока вы не перешли к следующему раунду и время не истекло, можно заново проходить предыдущие этапы."
+ARENA_CARD_DRAW_ADDITIONAL,Выбор Осколка сна +1
+ARENA_CARD_DRAW_ADDITIONAL_DESC,В начале первого раунда Арены кошмаров получите бонусный выбор Осколка сна
+ARENA_CARD_PROBABILITY_UPGRADE,Шанс активации Осколка сна +10%
+ARENA_CARD_PROBABILITY_UPGRADE_DESC,Шанс активации Осколка сна увеличен на 10% на Арене кошмаров
+ROUND_RESET_TICKET,Билет сброса раунда
+ROUND_RESET_TICKET_DESC,В «Кошмарной арене» можно переиграть раунд.
+ROUND_TIME_EXTENSION_TICKET,Билет продления времени раунда
+ROUND_TIME_EXTENSION_TICKET_DESC,В «Кошмарной арене» можно продлить время раунда.
+ARENA_POINT,Очки арены
+ARENA_POINT_DESC,"Очки, получаемые при прохождении Арены. Количество очков увеличивается в зависимости от ранга и сложности, а награды можно получить по мере накопления очков."
+WEEKLY_BLUEFLAME_GET,Еженедельное получение «Синее пламя»
+EXCHANGE_SHOP,Обменник
+ARENA_POINT_SHOP,Магазин обмена очков арены
+BLUEFLAME_SHOP,Магазин обмена «Синее пламя»
+EV2604_ACHIEVEMENT_CLAIM_AFTER_WEEKLY,Сначала получите награду за еженедельную миссию и попробуйте снова.
+EV2604_ACHIEVEMENT_CLAIM_CONFIRM,Получить награду за достижение?
+EV2604_EXCHANGE_SHOP,Обмен монет ветра
+EV2604COIN_SHOP/ALERT1,Обменивайте валюту на эксклюзивные товары события «Ветряной спайкер»!
+BLUEFLAME_SHOP/ALERT1,"Обменивайте синее пламя, полученное в Колизее и на Арене кошмаров, на различные товары!"
+ARENA_SHOP/ALERT1,Обменивайте очки арены на разнообразные товары!
+NAME/TEAM_116,Выпускники старшей школы «Бундан»
+EV2604_COIN,Монета ветра
+EV2604_COIN_DESC,"Валюта события, доступная во время события Ветряной спайкер.#Используется для набора игроков события.#Исчезает после окончания события."
+NAME/TEAM_117,Команда Колизея
+DREAM_SHARD,Осколок сна
+ARENA_RULE,Правила арены
+ARENA_RULE_DES_1,"Последовательно проводится 3 раунда, каждый состоит из 3 обычных матчей и 1 боя с боссом.#После начала раунда необходимо выиграть все матчи за 15 минут, а итоговый ранг определяется по сумме очков.#Во время раунда сохраняется ротация предыдущего матча.#После победы над боссом можно выбирать любой матч и переигрывать до окончания времени."
+CANNOT_CHANGE_DIFFICULTY,После начала вы не сможете изменить выбор до завершения испытания.
+ARENA_REWARD,Награды Арены
+ROUND_REWARD,Награды раунда
+ARENA_PLAYER_LIST,Список участвующих игроков
+CHOOSE_ARENA_PLAYER,Выберите игрока для регистрации.
+LOAD_FROM_PRESET,Загрузить пресет
+MY_DREAM_SHARD,Полученный осколок сна
+ROUND_RANK,Ранг раунда
+NOW_TEAM,Текущая команда
+DIFFICULTY_MULTIPLIER,Множитель сложности
+RANK_MULTIPLIER,Множитель ранга
+ROUND_END,Раунд завершен
+CHALLENGE_WITH_THIS_DREAM_SHARD,Осколок сна: {0}##Выбрать этот осколок сна?
+CHALLENGE_WITH_THIS_DIFFICULTY,Выбранная сложность: {0}##Начать испытание на этой сложности?
+ALERT/ARENA_EXTEND_TIME,"Использовать билет, чтобы продлить время раунда?"
+GIVE_UP,Сдаться
+EXTEND_TIME,Продлить время
+ALERT/ARENA_RESET_ROUND,Продолжить с момента последнего пройденного раунда?
+CONTINUE,Продолжить
+NEW_GAME,Начать заново
+ARENA_COMPLETE,Арена пройдена
+ARENA_PAGE_STATUS_ROUND_COMPLETED,Раунд завершён
+ARENA_REGISTER_PLAYER_POOL_CONFIRM,Зарегистрировать этих игроков как кандидатов на Арену?#Вы не сможете изменить их до завершения Арены.
+COMING_SOON,Скоро
+GO_TO_NEXT_ROUND,Бросить вызов следующему раунду
+EV2604_FILTER_EXPIRED_REENTER,Миссия {0}-й недели началась.#Повторно войдите с главного экрана.
+EVENT_ENDED,Событие завершено.
+PICKUP_EXPIRE_AT,Набор доступен до {0}
+PICKUP_SALE_START,Набор доступен с {0}
+DREAM_SHARD_DES,"Каждый фрагмент имеет свой эффект, усиливающий команду. В начале каждого этапа можно выбрать 1 из 3 вариантов. При получении одинаковых фрагментов сна их уровень повышается, а эффект усиливается."
+ALERT/ARENA_TIME_OVER,"Время ограничения истекло, повторно пройти этап нельзя."
+UNIT_AFFIX/MAX_USE_COUNT,{0} раз
+UNIT_AFFIX/CONDITION_TIME,{0} секунд
+MAP_PRACTICE,Школьный спортзал
+MAP_PROVINCIAL,Арена регионального турнира
+MAP_BEACH,Summer Splash
+MAP_TOURNAMENT,Арена национального турнира
+MAP_SUPERSTAR,Вызов суперзвезд
+MAP_COLOSSEO,Волейбольный колизей
+MAP_NISHIKAWA,Площадка «Валентия Нападающий ударс»
+MAP_MURIM,Старшая школа «Соллим»
+MAP_ROCKWELL,Спортзал зимнего лагеря «Роквелл»
+MAP_SNOW,"Место, где много снега"
+MAP_BLIZZARD,Зимний лагерь «Роквелл»
+MAP_CITY,Тёмный город
+MAP_PHANTOM,Фантом Лига
+MAP_BLUE_DRAGON_FESTIVAL,Фестиваль Лазурного Дракона
+MAP_KING_MAKER,Фантом Лига (старая)
+MAP_ARENA,Арена кошмаров
+MAP_PHANTOM_STAGE,Концертный зал Лиги Фантом
+MAP_CHROMAKEY,Хромакей
+WEEKLY_ARENA_POINT,Еженедельные награды арены
+WEEKLY_ARENA_POINT_DES,Награды сразу после завершения арены
+ARENA_FAIL_TIME,"Вы провалили испытание, не пройдя все этапы <color={0}>Раунда</color> за отведённое время."
+ARENA_NEED_ROUND_COMPLETE,Время истекло. Завершите <color={0}>Раунд</color> и получите награду.
+ARENA_ASK_ROUND_COMPLETE,Завершить раунд и получить награду?
+ARENA_ASK_ROUND_START,Начать следующий раунд?
+ARENA_PLAYER_RANDOM_SELECT,Случайно
+APPLIED_TARGETS,Применяется к {0} нашей команды
+TERMS,Согласиться с условиями использования SUNCYAN
+PRIVACY,Согласиться на обработку персональных данных
+AGREE_ALL,Согласиться со всем
+NEED_AGREEMENT,Требуется согласие с условиями.
+CHECK_DETAIL_REWARD,Просмотреть подробности награды
+EV2605_BANNER_TITLE,Событие к 8-й годовщине!
+EV2605_BANNER_DESC,"Сыграйте против группы «Фантомс», неожиданно появившейся в турнире, и получите ограниченные награды за победу после матча."
+NAME/TEAM_118,Фантомс
+PHANTOM_STAMP,Печать «Фантомс»
+PHANTOM_STAMP_DESC,"Предмет, который можно получить, выиграв матч турнира, в котором во время события 8-й годовщины вторгаются «Фантомс». В зависимости от количества собранных штампов можно получить различные награды."
+PHANTOM_BAND_ENTER_CONFIRM_DES,"Команда «Фантомс» вторглась! Сразиться с командой «Фантомс»? #В этом матче вы получаете 1 карту способности Колизея за каждые 2 набранных очка. (Макс. 5) #При победе вы можете получить случайную награду вместе со штампом. ##Если выбрать «Обычный турнир», матч пройдет как турнирная игра."
+TOURNAMENT_NORMAL,Обычный турнир
+EV2605,Концерт «Фантомс» к 8-й годовщине
+EV2605_DESC,Во время турнирных матчей с некоторой вероятностью могут вмешаться Фантомс!#Победите Фантомов и получите Печать «Фантомс» и случайную награду.
+EV2605_DESC_2,"· Печать «Фантомс» и награды выдаются только за победу.#· В день можно получить до 3 печатей «Фантомс». Получив 3, Фантомс больше не будут вмешиваться сегодня."
+NOW_STAMP,Накопленные штампы
+PHANTOMS_ENCOUNTER,Вторжение «Фантомс»!
+PLAYER/ELLIO/SKIN/8TH,Звезда на бис
+PLAYER/ELLIO/SKIN/8TH/DES,"Если бы он выбрал музыку вместо волейбола, возможно, он стоял бы на сцене.#Гениальный музыкант, купающийся в ярком свете софитов и свободно владеющий сценой. …Разве это не подходит ему больше?"
+PLAYER/ELLIO/SKIN/8TH/PICKUP_LINE,Моё выступление тебя не разочарует.
+COMMON/PRESS_HOLD_OPEN,Нажмите и удерживайте
+COMMON/SWIPE_OPEN,Проведите
+COMMON/CHEERING,Звук поддержки
+SETTING/SOUND/CHEER_SERVE,Звук поддержки при подаче
+SETTING/SOUND/CHEER_SERVE/DES,Устанавливает звук поддержки при подаче.
+SETTING/SOUND/CHEER_RALLY,Звук поддержки во время розыгрыша
+SETTING/SOUND/CHEER_RALLY/DES,Устанавливает звук поддержки во время розыгрыша.
+SETTING/SOUND/CHEER_RALLY_END,Звук поддержки в конце розыгрыша
+SETTING/SOUND/CHEER_RALLY_END/DES,Устанавливает звук поддержки в конце розыгрыша.
+RECRUIT_MIDNIGHT_HARI_TITLE,Набор игрока «Полуночная Хари»
+RECRUIT_MIDNIGHT_HARI_FIRST,"Набор, в котором можно получить разных игроков, включая Хари и её облик «Полночь»."
+RECRUIT_MIDNIGHT_HARI_FIRST_VPOINT,"Набор за V-очки и билеты набора игроков с повышенным шансом, в котором можно получить разных игроков, включая Хари и её облик «Полночь»."
+RECRUIT_MIDNIGHT_HARI_FIRST_PHANTOMS_RECRUIT_TICKET,"Набор за билеты набора «Фантомс» с повышенным шансом, в котором можно получить разных игроков, включая Хари и её облик «Полночь»."
+RECRUIT_SHOOTING_STAR_JENNY_TITLE,Набор игрока «Падающая Звезда Дженни»
+RECRUIT_SHOOTING_STAR_JENNY_FIRST,"Набор, в котором можно получить разных игроков, включая скин «Падающая Звезда» для Дженни и саму Дженни."
+RECRUIT_SHOOTING_STAR_JENNY_FIRST_VPOINT,"Набор, в котором можно получить разных игроков, включая скин «Падающая Звезда» для Дженни и саму Дженни, используя V-очки и Билет набора избранного игрока."
+RECRUIT_SHOOTING_STAR_JENNY_FIRST_PHANTOMS_RECRUIT_TICKET,"Набор, в котором можно получить разных игроков, включая скин «Падающая Звезда» для Дженни и саму Дженни, используя Билет набора избранного игрока «Фантомс»."
+8TH_ANNIVERSARY_LOGIN_BONUS,Посещение в честь 8-летия
+EV2605_NORMAL_PASS,Пропуск за вход в честь 8-й годовщины
+EV2605_NORMAL_PASS_DESC,Получите билеты набора «Фантомс» с повышенным шансом и эксклюзивную форму.
+PLAYER/JENNY/SKIN/SHOOTING_STAR,Падающая Звезда
+PLAYER/JENNY/SKIN/SHOOTING_STAR/DES,"Что было бы, если бы стрела судьбы отклонилась совсем немного? В параллельном мире Дженни, возможно, держала бы в руках не волейбольный мяч, а микрофон, а вместо холодного взгляда сияла бы яркой улыбкой.#Дженни исполняет свои песни, написанные бессонными ночами, перед огромной толпой зрителей. ...Настоящая звезда будет сиять где угодно!"
+PLAYER/HARI/SKIN/MIDNIGHT,Полночь
+PLAYER/HARI/SKIN/MIDNIGHT/DES,"Хари из параллельного мира. Она всё так же кажется холодной и безэмоциональной, но в момент выступления становится страстнее всех.#Когда она полностью погружается в музыку и играет в идеальной гармонии с участниками группы, на её губах иногда появляется лёгкая улыбка... И именно эта мимолётная улыбка заставляет фанатов влюбляться в неё."
+PHANTOM_BAND_PLAYER_RECRUIT_TICKET,Билет набора избранного игрока «Фантомс»
+PHANTOM_BAND_PLAYER_RECRUIT_TICKET_DESC,"Билет набора, доступный во время события «Фантомс».#Позволяет нанимать игроков в наборе «Фантомс» с повышенным шансом. Исчезает после окончания события."
+PHANTOM_BAND_SKIN_SCOUT_POINT,Очки скаута «Фантомс» (скины)
+PHANTOM_BAND_SKIN_SCOUT_POINT_DESC,С помощью очков скаута «Фантомс» (скины) можно гарантированно получить желаемый скин игрока «Фантомс».#Эта валюта исчезнет после окончания события.
+GET_PHANTOMS_SKIN_SCOUT_POINT_DESC,Очки скаута «Фантомс» (скины) можно получить через набор избранного игрока.#Через этот набор можно получить {0} очков скаута «Фантомс» (скины).
+8HT_ANNIV_EVENT_POPUP_DESC,"Ознакомьтесь с подарками в честь 8-й годовщины, наполненными благодарностью, и лимитированными наборами!"
+8HT_ANNIV_EVENT_POPUP_PHANTOMS_DESC,Группа «Фантомс» неожиданно появилась на турнире!
+8HT_ANNIV_EVENT_POPUP_ATTENDANCE_DESC,Билеты набора эксклюзивных игроков с повышенным шансом#и различные подарки!
+PHANTOMS_PICKUP,Набор «Фантомс» с повышенным шансом
+PHANTOMS,Фантомс
+8HT_ANNIV_EVENT_POPUP_IAP_TITLE,Открыт набор «Фантомс» с повышенным шансом!
+8HT_ANNIV_EVENT_POPUP_IAP_DESC,Подборка лимитированных скинов игроков «Фантомс»#Продажа пакетов
+PLAYER/HARI/MIDNIGHT/GACHA,…Добро пожаловать. Эта сцена подготовлена только для тебя.
+PLAYER/JENNY/SHOOTINGSTAR/GACHA,Какую песню ты хочешь услышать больше всего? Просто скажи!
+PHANTOMS_LIMITED_SKIN,Лимитированный облик Фантомс
+웨스턴 26.05.22,
+PLAYER/RYUHYUN/SKIN/RED_HOOD,Алый Плащ
+PLAYER/RYUHYUN/SKIN/RED_HOOD/DES,"Одинокий шериф, живущий в маленьком приграничном городке и скрывающий свое покрытое тайной прошлое. Человек с неизвестной личностью, он раскрывает свои выдающиеся способности только при уничтожении гнусных злодеев."
+PLAYER/SIF/SKIN/BOUNTY_HUNTER,Охотник за головами
+PLAYER/SIF/SKIN/BOUNTY_HUNTER/DES,"Если есть бандит, угрожающий покою городка, рекомендуется без колебаний нанять ее. Еще до захода солнца вы увидите жалкий вид бандита, которого уводят крепко связанным веревками."
+PLAYER/CLAIRE/SKIN/GOD_FATHER,Крестный отец
+PLAYER/CLAIRE/SKIN/GOD_FATHER/DES,"Темный лидер, подчинивший себе бесчисленное количество преступников и предателей. Даже бандиты, дикие как мустанги, не смеют произносить его имя вслух. Его слово — закон подворотен, и никто не может оспорить его приговор."
+EV2606,Вестерн
+EV2606_VOUCHER_DESC_3,У вас нет дополнительных билетов для входа. Хотите купить?
+EV2606_VOUCHER_DESC_4,Нет доступных дополнительных билетов для входа.
+EV2606_DESC,"Каждый день вы можете проходить события на сложности лёгкая / сложная.#Все матчи проходят по системе до 12 очков, каждая сложность состоит из 2 этапов.#Перед началом матча карты навыков выбираются через рулетку.#На каждом этапе вы получаете 2 карты Колизея, всего 4 карты.#При смене сложности выбранные карты сохраняются, а во втором этапе используются все 4 карты."
+EV2606_VOUCHER,Дополнительный билет «Вестерн»
+EV2606_VOUCHER_DESC,Позволяет войти в матч и получить награду за прохождение ещё раз.
+EV2606_SIMPLE_INFO,"Во время события каждый день проходите матчи события, чтобы получать вестерн-монеты! За вестерн-монеты можно получить новых игроков и различные предметы. #Матч события состоит из 2 этапов. Перед началом этапа выберите карты способностей для использования в матче."
+EV2606_EXCHANGE_SHOP,Магазин вестерн-монет
+RECRUIT_RED_HOOD_RYUHYUN_TITLE,Наем игрока: Рюхён «Алый Плащ»
+RECRUIT_RED_HOOD_RYUHYUN_FIRST,"Наем игроков, где можно получить различных игроков, включая облик Рюхёна «Алый Плащ» и самого игрока Рюхёна."
+RECRUIT_RED_HOOD_RYUHYUN_FIRST_VPOINT,"Наем игроков, где можно получить различных игроков, включая облик Рюхёна «Алый Плащ» и самого игрока Рюхёна, используя V-очки и билеты особого найма."
+RECRUIT_RED_HOOD_RYUHYUN_FIRST_COIN,"Наем игроков, где можно получить различных игроков, включая облик Рюхёна «Алый Плащ» и самого игрока Рюхёна, используя вестерн-монеты."
+RECRUIT_BOUNTY_HUNTER_SIF_TITLE,Наем игрока: Сиф «Охотник за головами»
+RECRUIT_BOUNTY_HUNTER_SIF_FIRST,"Наем игроков, где можно получить различных игроков, включая облик Сиф «Охотник за головами» и саму Сиф."
+RECRUIT_BOUNTY_HUNTER_SIF_FIRST_VPOINT,"Наем игроков, где можно получить различных игроков, включая облик Сиф «Охотник за головами» и саму Сиф, используя V-очки и билеты особого найма."
+RECRUIT_BOUNTY_HUNTER_SIF_FIRST_COIN,"Наем игроков, где можно получить различных игроков, включая облик Сиф «Охотник за головами» и саму Сиф, используя вестерн-монеты."
+RECRUIT_GODFATHER_CLAIRE_TITLE,Наем игрока: Клэр «Крестный отец»
+RECRUIT_GODFATHER_CLAIRE_FIRST,"Наем игроков, где можно получить различных игроков, включая облик Клэра «Крестный отец» и самого Клэра."
+RECRUIT_GODFATHER_CLAIRE_FIRST_VPOINT,"Наем игроков, где можно получить различных игроков, включая облик Клэра «Крестный отец» и самого Клэра, используя V-очки и билеты особого найма."
+RECRUIT_GODFATHER_CLAIRE_FIRST_COIN,"Наем игроков, где можно получить различных игроков, включая облик Клэра «Крестный отец» и самого Клэра, используя вестерн-монеты."
+WESTERN_PICKUP,Набор «Вестерн» с повышенным шансом
+WESTERN_LIMITED_SKIN,Лимитированный вестерн-облик
+ERROR_STAGE_ENTRY_FAILED,"Не удалось войти в матч. Пожалуйста, попробуйте еще раз."
+EV2606_COIN,Вестерн-монета
+EV2606_COIN_DESC,"Валюта события, которую можно использовать во время события «Вестерн». #Позволяет совершать особый наем игроков события. #Исчезнет после окончания события."
+EV2606_LOGIN_BONUS,Пропуск за вход «Вестерн»
+WESTERN_SKIN_SCOUT_POINT,Очки скаута вестерн-обликов
+WESTERN_SKIN_SCOUT_POINT_DESC,С помощью очков скаута вестерн-обликов можно гарантированно получить облик желаемого вестерн-игрока. #Эта валюта исчезнет после окончания события.
+GET_WESTERN_SKIN_SCOUT_POINT_DESC,Очки скаута вестерн-обликов можно получить за особый наем игроков. #За этот наем игроков можно получить {0} очк. скаута вестерн-обликов.
+MAP_WESTERN,Дикая пустошь
+SIGNATURE_MOTION,Фирменное движение
+NAME/TEAM_119,Банда Фантомов
+NAME/TEAM_120,Охотник за головами
+NAME/TEAM_121,Бандиты
+SIGNATURE_MOTION/SKIN_UNIFORM_ONLY,"Пожалуйста, наденьте базовую форму перед тем, как попробовать."
+DISABLED,Отключено
+MY_DREAM_SHARD_STATUS,"Это статус получения осколков сна, появляющихся в этом испытании."
+DREAM_SHARD_NOT_OWNED,У вас нет этого осколка сна.
+DECK,Колода
+PLAYER/RYUHYUN/REDHOOD/GACHA,"Раз уж ступил на мою территорию, будь готов к последствиям."
+PLAYER/CLAIRE/GODFATHER/GACHA,"Я сделаю предложение, от которого невозможно отказаться."
+PLAYER/SIF/BOUNTYHUNTER/GACHA,"Похоже, сегодня ночью награда будет весьма щедрой?"
+EV2606_POPUP_DESC,"Встречайте Рюхёна, Сиф и Клэра на просторах диких земель Вестерна!"
+INGAME/MOVE_2,Перейти
+EV2606_POPUP_PLAY_TITLE,Матч события «Вестерн»!
+EV2606_POPUP_PLAY_DESC,Побеждайте в матчах и забирайте вестерн-монеты!
+EV2606_POPUP_PICLKUP_TITLE,Особый наем игроков «Вестерн» открыт!
+EV2606_POPUP_PICLKUP_DESC,Особый наем лимитированных обликов игроков «Вестерн» и #продажа наборов
+EV2606_POPUP_ATTENDANCE_TITLE,Пропуск за вход «Вестерн»!
+EV2606_POPUP_ATTENDANCE_DESC,Лимитированные предметы и вестерн-монеты в подарок! #Премиум-пропуск и Королевский пропуск открыты!
+NOW_CARD,Статус карт
+SETTING/SOUND/SPATIAL_AUDIO,Пространственный звук
+SETTING/SOUND/SPATIAL_AUDIO/DES,Включает направленность и объемность звука.
+SETTING/SOUND/SPATIAL_AUDIO/OFF,Выкл.
+SETTING/SOUND/SPATIAL_AUDIO/NORMAL,Обычный
+SETTING/SOUND/SPATIAL_AUDIO/STRONG,Сильный
+SETTING/SOUND/Voice/DES,Настройте громкость голосовых реплик.
+SETTING/SOUND/UI/DES,"Настройте громкость звуков интерфейса, таких как кнопки и меню."
+SETTING/SOUND/InGame/DES,"Настройте громкость эффектов, воспроизводимых во время матча."
+SETTING/SOUND/Skill/DES,Настройте громкость звуков навыков игроков и специальных эффектов.
+SETTING/SOUND/Voice,Голос
+SETTING/SOUND/UI,Звуки интерфейса
+SETTING/SOUND/InGame,Эффекты матча
+SETTING/SOUND/Skill,Звуки навыков
+COMMON/TRIAL,Пробная
+SETTING/SOUND/ENVIRONMENTAL_SOUND,Звуки окружения
+SETTING/SOUND/ENVIRONMENTAL_SOUND/DES,Включает звуковые эффекты в зависимости от окружения.
+DREAM_SHARD_MIN_USE,Необходимо составить колоду как минимум из {0} {1}.
+CHOOSE_DREAM_SHARD,Выберите осколки сна для использования.
+PLAYER_SUBSTITUTION_BONUS,Бонус замены
+GET_ONE_DREAM_SHARD,Получить только один Осколок сна
+GET_TWO_DREAM_SHARD,Сделайте замену и получите дополнительный Осколок сна
+CURRENT_REPLACE_COUNT,Всего: {0}
+UPGRADE_BONUS,Бонус усиления
+DECK_CHANGED_CONFIRM,Состав колоды изменён. Сохранить изменения?
+DECK_IN_USE_ARENA,"Колоды, используемые в Арене, нельзя редактировать."
+ALERT/ARENA_ROSTER_1,Необходимо зарегистрировать 5 игроков на каждую позицию.
+ALERT/ARENA_ROSTER_2,Необходимо зарегистрировать как минимум одного имеющегося игрока на каждую позицию.
+PROFILE/PURCHASE_ITEM/ALERT,Этот предмет профиля нельзя купить.
+PROFILE/BACKGROUND/DES,Фон для украшения вашего профиля.
+PROFILE/FRAME/DES,Рамка для украшения вашего профиля.
+PROFILE/TITLE/DES,Титул для украшения вашего профиля.
+PROFILE/STICKER/DES,Стикер для украшения вашего профиля.
+PROFILE/INFO/S_PLAYER/HEADER,Статус сбора игроков
+PROFILE/INFO/S_PLAYER/BODY,Игроки ранга S- и выше
+PROFILE/INFO/PLAY_HISTORY/HEADER,История игр
+PROFILE/INFO/PLAY_HISTORY/STORY,Прогресс сюжета
+PROFILE/INFO/PLAY_HISTORY/LEAGUE,Лучший рекорд лиги
+PROFILE/INFO/PLAY_HISTORY/TOURNAMENT,Всего побед в турнирах
+PROFILE/INFO/PLAY_HISTORY/ARENA,Макс. сложность арены
+PROFILE/INFO/ACHIEVEMENT/HEADER,Статус достижений
+PROFILE/INFO/ACHIEVEMENT/BODY,Прогресс достижений
+PROFILE/INFO/REPRESENTATIVE,Главный игрок
+PROFILE/ILLUST_ACTIVE,Активировать иллюстрацию
+PROFILE/TAB/FRAME,Рамка
+PROFILE/TAB/TITLE,Титул
+PROFILE/TAB/STICKER,Стикер
+PROFILE/SORT_ORDER/OWNED,В наличии
+PROFILE/SAVE_CHANGES/DESC,Есть несохраненные изменения. Сохранить?
+PROFILE/SAVE_CHANGES/SAVE,Сохранить
+ARENA_FREE_REROLL_ADDITIONAL,Реролл Осколка сна +1
+ARENA_FREE_REROLL_ADDITIONAL_DESC,В начале каждого раунда Арены кошмаров вы получаете 1 бесплатный реролл Осколка сна.
+PROFILE/PLAYER_ILLUST,Иллюстрация игрока
+PROFILE/CHANGE_PROFILE,Редактировать профиль
+PROFILE/CHANGE_REPRESENTATIVE,Сменить главного игрока
+PROFILE/INFO_OPTION_TITLE,Выбрать элементы
+PROFILE/CHANGE_NICKNAME,Изменить никнейм
+DREAM_SHARD_DESC,Этот Осколок сна можно использовать при создании колоды Кошмарной Арены.
+PROFILE_CUSTOMIZING,Украшение профиля
+PROFILE_STICKER_ROTATE,Повернуть
+PROFILE_STICKER_RESIZE,Меньше / Больше
+PROFILE/INFO_OPTION_TIER_WARNING,Неразблокированный из-за недостаточного ранга контент не отображается.
+PROFILE/STICKER_MAX_COUNT/ALERT,Можно разместить до 10 стикеров.
+ADD_TO_DECK,Добавить в колоду
+REMOVE_FROM_DECK,Убрать из колоды
+EDIT_DECK,Редактировать колоду
+DREAM_DECK/TITLE,Редактировать колоду Осколков сна
+DREAM_DECK/DES,"Соберите колоду, заранее выбрав Осколки сна, которые будут появляться в качестве вариантов усиления во время испытания."
+PROFILE_STICKER_DESELECT,Отменить выбор
+PRESET/INVALID_NAME,"Запрещены неподобающие слова и специальные символы, кроме подчёркивания.#Слова, состоящие только из корейских согласных или гласных, также не допускаются."
+PROFILE/NICKNAME_INVALID/ALERT,"Никнейм содержит недопустимые слова. Пожалуйста, измените его."
+ARENA/TIP,"Это игровой режим, в котором вы составляете список кандидатов из своих игроков и гостевых игроков, случайным образом формируете команды и проводите серию матчей.#Меняйте игроков по ходу матчей, собирайте Осколки сна и усиливайте свою команду.#Завершите все 3 раунда с ограничением по времени, чтобы пройти испытание."
+ARENA_GUEST/TITLE,Гость сезона Арены
+ARENA_GUEST/DES,"В Арене можно использовать назначенных гостевых игроков независимо от того, есть ли они у вас.#Список гостевых игроков периодически меняется, и в этот момент прогресс Арены будет сброшен."
+ALERT/ARENA_CONTINUE,"Если вы выберете продолжить, вы не сможете изменить список кандидатов игроков и колоду Осколков сна.#Продолжить?"
+PROFILE/NICKNAME/ADJECTIVE1,Страстный
+PROFILE/NICKNAME/ADJECTIVE2,Быстрый
+PROFILE/NICKNAME/ADJECTIVE3,Мощный
+PROFILE/NICKNAME/ADJECTIVE4,Спокойный
+PROFILE/NICKNAME/ADJECTIVE5,Огненный
+PROFILE/NICKNAME/ADJECTIVE6,Опытный
+PROFILE/NICKNAME/ADJECTIVE7,Острый
+PROFILE/NICKNAME/ADJECTIVE8,Непобедимый
+PROFILE/NICKNAME/ADJECTIVE9,Уверенный
+PROFILE/NICKNAME/ADJECTIVE10,Неудержимый
+PROFILE/NICKNAME/ADJECTIVE11,Гениальный
+PROFILE/NICKNAME/ADJECTIVE12,Надежный
+PROFILE/NICKNAME/ADJECTIVE13,Летящий
+PROFILE/NICKNAME/ADJECTIVE14,Гибкий
+PROFILE/NICKNAME/ADJECTIVE15,Точный
+PROFILE/NICKNAME/ADJECTIVE16,Жесткий
+PROFILE/NICKNAME/ADJECTIVE17,Гигантский
+PROFILE/NICKNAME/ADJECTIVE18,Сияющий
+PROFILE/NICKNAME/ADJECTIVE19,Идеальный
+PROFILE/NICKNAME/ADJECTIVE20,Удачливый
+PROFILE/NICKNAME/NOUN1,Стажер
+PROFILE/NICKNAME/NOUN2,Новичок
+PROFILE/NICKNAME/NOUN3,Ас
+PROFILE/NICKNAME/NOUN4,Капитан
+PROFILE/NICKNAME/NOUN5,Универсал
+PROFILE/NICKNAME/NOUN6,Нападающий
+PROFILE/NICKNAME/NOUN7,Подающий
+PROFILE/NICKNAME/NOUN8,Связующий
+PROFILE/NICKNAME/NOUN9,Либеро
+PROFILE/NICKNAME/NOUN10,Блокирующий
+PROFILE/NICKNAME/NOUN11,Атакующий
+PROFILE/NICKNAME/NOUN12,Защитник
+PROFILE/NICKNAME/NOUN13,Лидер
+PROFILE/NICKNAME/NOUN14,Чемпион
+PROFILE/NICKNAME/NOUN15,Звезда
+PROFILE/NICKNAME/NOUN16,Герой
+PROFILE/NICKNAME/NOUN17,Надежда команды
+PROFILE/NICKNAME/NOUN18,Прыгун
+PROFILE/NICKNAME/NOUN19,Плеймейкер
+PROFILE/NICKNAME/NOUN20,Игрок
+PROFILE/NICKNAME_PLACEHOLDER,Введите никнейм.
+INGAME/DELETE_MAIN/PROFILE_ALERT,"Игроков, зарегистрированных в профиле, нельзя отпустить."
+PROFILE/INFO_TITLE,Внимание
+LEVEL_AFFIX,Уровень {0}
+,
+balance_factor_block_jump_weight,Множитель прыжка при блоке
+balance_factor_spike_jump_weight,Множитель прыжка при ударе
+balance_factor_swing_delay_weight,Множитель задержки замаха
+balance_factor_hit_feint_speed_weight,Множитель скорости финта
+balance_factor_slide_fail_speed_weight,Множитель скорости неудачного приёма в падении
+balance_factor_sliding_distance_weight,Множитель дистанции приёма в падении
+balance_factor_hit_feint_lppower_weight,Множитель силы слабой атаки финтом
+balance_factor_receive_fail_speed_weight,Множитель скорости неудачного приёма
+balance_factor_block_charging_speed_weight,Множитель скорости зарядки блока
+balance_factor_slide_fail_direction_weight,Множитель направления неудачного приёма в падении
+balance_factor_receive_fail_direction_weight,Множитель направления неудачного приёма
+balance_factor_blitz_spin_direction_weight,Множитель направления молниеносного вращения
+balance_factor_sliding_penetration,
+balance_factor_swing_range,Множитель дальности замаха
+balance_real_jump_length,Фактическая дистанция прыжка
+balance_sliding_resistance,
+balance_blocking_resistance,Защита при блоке
+balance_slow_time,Длительность замедления
+balance_slow_value,Множитель замедления
+balance_factor_strength_add_weight,Прирост атаки
+balance_factor_defense_add_weight,Прирост защиты
+balance_factor_speed_add_weight,Прирост скорости
+balance_factor_jump_add_weight,Прирост силы прыжка
+balance_factor_height_add_weight,Прирост роста
+balance_factor_ball_speed_add_weight,Прирост силы мяча
+balance_factor_stamina_decrease,Снижение выносливости
+balance_factor_ball_horizontal_speed_add_weight,Прирост горизонтальной силы мяча
+skill_effect,Эффект прорыва
+max_team_hp,Максимальная выносливость вашей команды
+max_enemy_hp,Максимальная выносливость соперника
+ball_gravity,Гравитация мяча
+available_legacy_sliding,Использовать существующее приём в падении
+SAME_AS_BEFORE,Как раньше
+MAINTENANCE,Техобслуживание
+INFO,Информация
+ANNOUNCEMENT,Новости
+PATCH,Патч
+URGENT,Срочно
+UPDATE,Обновление
+PROMOTION,Акция
+NEW_ANNOUNCEMENT,Ознакомьтесь с последним объявлением!
+NO_ANNOUNCEMENT,"Выберите объявление,#чтобы увидеть подробности."
+NO_ANNOUNCEMENT_02,Нет объявлений.
+NO_ANNOUNCEMENT_03,Следите за новостями!
+BALANCE_MODE_DES,"Режим баланса — это пользовательский игровой режим, в котором вы можете играть с изменённым балансом некоторых игроков и характеристик. Поскольку изменения баланса отличаются в зависимости от версии, пожалуйста, ознакомьтесь с изменениями для каждой версии."
+BALANCE_MODE_COMMON,Общее
+BALANCE_MODE_GAME_SETTING,Настройки матча
+NO_BALANCE_MODE_DATA,Нет данных режима баланса.
+MODE_COLLECTION,Коллекция режимов
+GET_EV2607_SKIN_SCOUT_POINT_DESC,Очки скаута скина «Разминка» можно получить через набор избранных игроков.#В этом наборе игроков можно получить {0} очков скаута скина «Разминка».
+RECRUIT_DIVER_DAVE_TITLE,Набор игрока Дейв: Дайвер
+RECRUIT_DIVER_DAVE_TITLE_FIRST_VPOINT,"Это набор игроков, в котором можно получить разных игроков, включая скин «Дейв: Дайвер» и игрока Дейва."
+WARMINGUP_SKIN_SCOUT_POINT,Очко скаута скина «Разминка»
+WARMINGUP_SKIN_SCOUT_POINT_DESC,С помощью очков скаута скина «Разминка» можно гарантированно получить скин нужного игрока «Разминка».#Эта валюта исчезнет после окончания события.
+WARMINGUP_PLAYER_RECRUIT_TICKET,Билет набора избранного игрока «Разминка»
+WARMINGUP_PLAYER_RECRUIT_TICKET_DESC,"Билет набора, который можно использовать во время события.#Позволяет набирать игроков события."
+EV2607_PICKUP,Набор «Разминка»
+EV2607,Разминка Дейва
+EV2607_DESC,Дейв вернулся вместе с Сарой и Аён! Во время события можно получить игроков и скины через лимитированный набор игроков.
+WARMINGUP_LIMITED_SKIN,Лимитированный скин «Разминка»
+ANNOUNCEMENT_LIST_LOAD_FAILED,Не удалось загрузить список объявлений.
+LIST,Список
+ANNOUNCEMENT_RETRY,Попробуйте еще раз.
+INGAME/OLD_DATA/STORY_REMAKE,"Общее количество звезд, полученных в каждой главе до обновления ремейка истории."
+COMMON/TOUCH,Коснитесь!
+SUMMER TRAINING,
+BEST_RECORD,Личный рекорд
+NEW_BEST_RECORD,Установлен новый личный рекорд!
+NAME/TEAM_122,Коралловый рубин
+NAME/TEAM_123,Фиолетовый сапфир
+CAMP_HANRA,Команда «Коралловый рубин»
+CAMP_VIOLA,Команда «Фиолетовый сапфир»
+EV2608,Летняя тренировка
+EV2608_DESC,"«Летняя тренировка» — это соревновательное событие фракций с еженедельными раундами. Вносите вклад во фракцию, собирая очки кокоса в матчах битвы фракций и адской тренировке Дейва."
+EV2608_MISSION_MATCH_5000,[{0}]: получить не менее {1} очков кокоса за один матч
+EV2608_MISSION_TOTAL_80000,Наберите в сумме {0} или более очков кокоса
+EV2608_MISSION_DSRUN_1M,[{0}]: набрать в сумме {1} очков
+EV2608_MISSION_DSRUN_BEST_100K,[{0}]: установить рекорд в {1} очков
+EV2608_MISSION_JOIN_4W_OR_WIN,Участвуйте 4 недели подряд или одержите 1 победу
+PROFILE_STICKER_VIOLA,Стикер «Виолла»
+PROFILE_STICKER_HANRA,Стикер «Халла»
+PROFILE_TITLE_BELOVED_DISCIPLE_OF_DAVE,Любимый ученик Дейва
+PROFILE_FRAME_SAND_CASTLE,Песочный замок
+PROFILE_BG_SPARKLED_BEACH,Сверкающий пляж
+EV2608_COCONUT_POINT,Очки кокоса
+EV2608_COCONUT_POINT_DESC,"Очки, которые можно получить в матчах фракций и «Адской тренировке Дейва».#Соберите 5 000 кокосовых очков, чтобы получить ежедневную награду. Полученные очки засчитываются в общий вклад вашей фракции.#Кокосовые очки сбрасываются ежедневно.#Максимальный вклад — 50 000 очков в день."
+EV2608_COIN,Пальмовая монета
+EV2608_COIN_DESC,"Валюта события, получаемая в «Летней тренировке».#Можно использовать для обмена в магазине события."
+EV2608_MISSION,Миссия летней тренировки
+EV2608_MISSION_DES,"Задания события «Летняя тренировка».#Выполняйте задания, чтобы получать награды."
+EV2608_MODE_SELECT_TITLE,Выбор режима летней тренировки
+EV2608_MODE_SELECT_GUIDE,"Пожалуйста, выберите режим тренировки. Вы можете получать очки независимо от режима."
+EV2608_MODE_CAMP_TITLE,Битва фракций
+EV2608_MODE_CAMP_DES,"Проводите матчи, комбинируя игроков, улучшенных с помощью навыков раунда."
+EV2608_MODE_SPIKERUN_TITLE,Адская тренировка Дейва
+EV2608_MODE_SPIKERUN_DES,Выдержите суровую пляжную тренировку Дейва и получите очки в качестве награды.
+EV2608_MODE_SELECT,Выбрать режим
+EV2608_LOGIN_BONUS,Пропуск за вход «Летняя тренировка»
+,
+,
+EV2608_EXTRA_REWARD_TICKET,Билет дополнительной награды
+EV2608_EXTRA_REWARD_TICKET_DESC,"Предмет, открывающий заблокированные уровни наград. Открытые уровни сбрасываются на следующий день.#Лимит вклада во фракцию (50 000) не меняется. Можно продолжать играть."
+EV2608_SPIKERUN_NO_REWARD,Нет награды за матч
+EV2608_SPIKERUN_START,Начать тренировку!
+EV2608_PLAY_DES,Командный матч
+EV2608_TEAM_DAILY_CONTRIBUTION,Вклад в команду за сегодня
+EV2608_PERSONAL_COCONUT,Личные кокосы
+EV2608_DAILY_REWARD,Ежедневная награда
+EV2608_DAILY_REWARD_CLAIM_CONFIRM,Хотите получить награду?
+EV2608_EXTRA_REWARD_TICKET_USE_INFO,Билет на дополнительную награду открывает заблокированные уровни наград. Открытые уровни сбрасываются на следующий день.##Лимит вклада во фракцию (50 000) не меняется. Можно продолжать играть.
+EV2608_TEAM_CONTRIB_MAX_INFO,"Сегодняшний вклад фракции достиг максимума (50 000).##Вы можете продолжать играть в матчи, а личные очки кокоса продолжат накапливаться.##Заблокированные награды можно разблокировать с помощью билета дополнительной награды."
+EV2608_CAMP_UNAVAILABLE,"В этой фракции много участников. Пожалуйста, выберите другую фракцию."
+EV2608_MODE_SPIKERUN_DES_DETAIL,"«Адская тренировка Дейва» — это мини-игра, в которой вы бежите по пляжу, уворачиваясь от препятствий и выполняя нападающие удары.#В ней нет навыков раунда и наград за матч, а за итоговый счет вы получаете очки кокоса и кредиты.#Итоговый счет конвертируется в очки кокоса и засчитывается в пользу вашей фракции. В день можно внести максимум 50 000 очков в пользу фракции."
+EV2608_CAMP_INTRO_DES_1,"Летняя тренировка Дейва, начинается «Летняя тренировка».#«Коралловый рубин» — команда, подавляющая соперников страстью и пробивной силой.#«Фиолетовый сапфир» — команда, кующая победы благодаря спокойному взаимодействию и обороне.##Выберите одну команду и пройдите тренировку Дейва.#В составе какой команды вы выйдете на площадку?"
+CAMP_HANRA_DESC,"Команда «Коралловый рубин», известная своей страстью и пробивной силой."
+CAMP_VIOLA_DESC,"Команда «Фиолетовый сапфир», стремящаяся к победе за счет спокойного взаимодействия и обороны."
+EV2608_CAMP_BATTLE_DES,"Битва фракций «Летней тренировки» — соревновательное событие с новым раундом каждую неделю.#В начале раунда выберите фракцию «Коралловый рубин» или «Фиолетовый сапфир». До конца раунда сменить её нельзя.##Очки кокоса можно собирать в двух режимах.##1. Матчи битвы фракций#Во время раунда можно играть каждый день#и ежедневно выбирать до 2 навыков раунда для усиления управляемого игрока.#За раунд можно получить до 10 навыков.##Сумма скоростей нападающих ударов управляемого игрока в выигранном матче выдаётся в виде очков кокоса.#За матч можно получить до 5 000 очков.##2. Адская тренировка Дейва#Мини-игра, в которой нужно бежать по пляжу, уворачиваясь от препятствий.#Навыков раунда и наград за матч здесь нет. Очки кокоса выдаются в зависимости от результата забега.##Очки кокоса засчитываются во вклад фракции, до 50 000 очков в день.#В конце раунда очки кокоса за этот раунд сбрасываются.#Собрав 5 000 очков кокоса за день, можно получить ежедневную награду.#Заблокированные уровни наград открываются билетом на дополнительную награду. Открытые уровни сбрасываются на следующий день.#Даже после достижения лимита вклада можно продолжать играть и накапливать очки кокоса.##В конце раунда#побеждает фракция с большим суммарным вкладом.#Победившая фракция получает дополнительные награды. Чтобы получить награду за раунд, нужно набрать не менее 25 000 очков личного вклада за неделю."
+MINIGAME/PAUSE,Пауза
+MINIGAME/CONTINUE,Продолжить
+MINIGAME/GIVE_UP,Сдаться
+MINIGAME/SPIKE,Нападающий удар
+MINIGAME/SLIDE,Приём в падении
+MINIGAME/JUMP,Прыжок
+MINIGAME/SCORE,Счет
+MINIGAME/TAP_INDICATOR,Нажмите!
+STORYMODE_TIP_8,Этап без матчей.
+EV2608_EXCHANGE_SHOP,Магазин пальмовых монет
+SUMMER_SKIN_SCOUT_POINT,Очки скаута летних обликов
+SUMMER_SKIN_SCOUT_POINT_DESC,Очки скаута летних обликов позволяют гарантированно получить нужный облик игрока «Летней тренировки».#Эта валюта исчезает после окончания события.
+EV2608_PICKUP,Пикап «Летняя тренировка»
+RECRUIT_SUMMER_TRAINING_LUCAS_TITLE,Набор игрока Лукаса «Летняя тренировка»
+RECRUIT_SUMMER_TRAINING_LUCAS_FIRST,"Набор игроков, в котором можно нанять различных игроков, включая облик Лукаса «Летняя тренировка» и самого игрока Лукаса."
+RECRUIT_SUMMER_TRAINING_LUCAS_FIRST_VPOINT,"Набор игроков, в котором с помощью очков V и билетов набора пикап-игроков можно нанять различных игроков, включая облик Лукаса «Летняя тренировка» и самого игрока Лукаса."
+RECRUIT_SUMMER_TRAINING_LUCAS_FIRST_COIN,"Набор игроков, в котором с помощью пальмовых монет можно нанять различных игроков, включая облик Лукаса «Летняя тренировка» и самого игрока Лукаса."
+RECRUIT_SUMMER_TRAINING_HANRA_TITLE,Набор игрока Халлы «Летняя тренировка»
+RECRUIT_SUMMER_TRAINING_HANRA_FIRST,"Набор игроков, в котором можно нанять различных игроков, включая облик Халлы «Летняя тренировка» и самого игрока Халлу."
+RECRUIT_SUMMER_TRAINING_HANRA_FIRST_VPOINT,"Набор игроков, в котором с помощью очков V и билетов набора пикап-игроков можно нанять различных игроков, включая облик Халлы «Летняя тренировка» и самого игрока Халлу."
+RECRUIT_SUMMER_TRAINING_HANRA_FIRST_COIN,"Набор игроков, в котором с помощью пальмовых монет можно нанять различных игроков, включая облик Халлы «Летняя тренировка» и самого игрока Халлу."
+RECRUIT_SUMMER_TRAINING_VIOLA_TITLE,Набор игрока Виоллы «Летняя тренировка»
+RECRUIT_SUMMER_TRAINING_VIOLA_FIRST,"Набор игроков, в котором можно нанять различных игроков, включая облик Виоллы «Летняя тренировка» и самого игрока Виоллу."
+RECRUIT_SUMMER_TRAINING_VIOLA_FIRST_VPOINT,"Набор игроков, в котором с помощью очков V и билетов набора пикап-игроков можно нанять различных игроков, включая облик Виоллы «Летняя тренировка» и самого игрока Виоллу."
+RECRUIT_SUMMER_TRAINING_VIOLA_FIRST_COIN,"Набор игроков, в котором с помощью пальмовых монет можно нанять различных игроков, включая облик Виоллы «Летняя тренировка» и самого игрока Виоллу."
+GET_EV2608_SKIN_SCOUT_POINT_DESC,Очки скаута летних обликов выдаются за найм игроков в наборе с повышенным шансом.#В этом наборе можно получить {0} очков скаута летних обликов.
+PLAYER/LUCAS/SKIN/SUMMER_TRAINING,Летняя тренировка
+PLAYER/LUCAS/SKIN/SUMMER_TRAINING/DES,"Забыв ненадолго о мыслях, туманивших разум, Лукас решил попробовать поиграть в пляжный волейбол, которым в детстве увлекался вместе с семьей. Из-за отсутствия сноровки он все еще иногда ошибается... но стоит раздаться крикам болельщиков, как Лукас не уступит никому."
+PLAYER/HANRA/SKIN/SUMMER_TRAINING,Летняя тренировка
+PLAYER/HANRA/SKIN/SUMMER_TRAINING/DES,"Отправившись на пляж во время летних каникул, Халла поначалу не проявляла особого интереса к пляжному волейболу. Однако, услышав, что это тоже поможет расширить кругозор, она кивнула и взяла волейбольный мяч. Выкладываться на полную во всем, за что решила взяться — таков ее стиль."
+PLAYER/VIOLA/SKIN/SUMMER_TRAINING,Летняя тренировка
+PLAYER/VIOLA/SKIN/SUMMER_TRAINING/DES,"Весело резвясь под палящим солнцем, она и не заметила, как полностью поддалась очарованию пляжного волейбола. Выполнив отличный прием, она тайком оглядывалась по сторонам, надеясь, что Изабель похвалит ее."
+ABILITY/CARD/NAME_160,Фиолетовый сапфир
+ABILITY/CARD/DES_160,Время перезарядки Активного навыка всех союзных игроков уменьшается на {n1}% быстрее
+ABILITY/CARD/NAME_161,Коралловый рубин
+ABILITY/CARD/DES_161,Длительность Активного навыка всех союзных игроков увеличивается на {n1}%
+EV2608_POPUP_DESC,"Тренировка на горячем пляже! Познакомьтесь с Лукасом, Халлой и Виоллой!"
+EV2608_POPUP_PLAY_TITLE,Летняя тренировка!
+EV2608_POPUP_PLAY_DESC,Побеждайте в матчах и вносите вклад во фракцию.
+EV2608_POPUP_PICLKUP_TITLE,Открыт пикап игроков «Летняя тренировка»!
+EV2608_POPUP_PICLKUP_DESC,Пикап ограниченных обликов игроков «Летняя тренировка» и#продажа наборов
+EV2608_POPUP_ATTENDANCE_DESC,Ограниченные предметы и пальмовые монеты в подарок!#Премиум-пропуск и Королевский пропуск открыты!
+EV2608_CAMP_UNAVAILABLE_2,В данный момент эту фракцию нельзя выбрать.
+PLAY_MODE,Режим тренировки
+EV2608_ROUND_ENDING_SOON_WARN,"До окончания раунда осталось совсем немного времени.##За матчи, завершенные после окончания раунда, очки кокоса не начисляются."
+SUMMER_TRAINING_LIMITED_SKIN,Лимитированный скин «Летняя тренировка»
+EV2608_SHOP/ALERT1,Обменивайте пальмовые монеты на лимитированные товары события!
+CAMP_BATTLE/NEED_DATA_REFRESH,Не удалось загрузить данные фракции. Обновляем данные.
+CAMP_NOT_FOUND,Фракция не найдена.
+NOT_IN_RANGE_CAMP_BATTLE,Битва фракций сейчас не проводится.
+ALREADY_SELECT_CAMP,Вы уже выбрали фракцию.
+리그&선물상자 26.08.26,
+COMMON/COMBINATIOIN_APPLY/WS_LOCKED,Игрока на позиции WS нельзя заменить. Заменить игроков только на других позициях?
+COMMON/COMBINATIOIN_APPLY/MB_LOCKED,Игрока на позиции MB нельзя заменить. Заменить игроков только на других позициях?
+COMMON/COMBINATIOIN_APPLY/SE_LOCKED,Игрока на позиции SE нельзя заменить. Заменить игроков только на других позициях?
+COMMON/COMBINATION_APPLY/SELECT_TEAM,К какой команде применить изменения?
+COMMON/COMBINATION_APPLY/NO_PLAYER,"У вас нет игроков, необходимых для этой комбинации."
+COMMON/COMBINATION_APPLY/LEFT,Применить к левой команде
+COMMON/COMBINATION_APLLY/RIGHT,Применить к правой команде
+INGAME/COLOSSEUM/SKIP_ALL_DIALOGUE,Режим фокуса
+INGAME/COLOSSEUM/SKIP_ALL_DIALOGUE/DES_ON,Пропустить все диалоги и анимации карт способностей.
+INGAME/COLOSSEUM/SKIP_ALL_DIALOGUE/DES_OFF,Показать все диалоги и анимации карт способностей.
+COMMON/LOAD,Загрузить
+INGAME/FORMATION,Расстановка защиты
+SETTING/BASIC_SOUND,Основные звуки
+SETTING/ALL_SOUND,Общая громкость
+SETTING/ALL_SOUND/DES,Настройка общей громкости.
+SETTING/INGAME_SOUND,Игровые звуки
+SETTING/ENVIRONMENT_SOUND,Звуки окружающей среды
+SETTING/PLAY/DYNAMIC_JOYSTICK,Динамический джойстик
+SETTING/PLAY/DYNAMIC_JOYSTICK/DES,При касании заданной области джойстика он появляется в месте касания.
+CURRENT,Текущая
+ALERT/STAGE_CANNOT_CHANGE_SOMETHING,На этом этапе нельзя изменить {0}.
+WEEKLY_GIFT_BOX,Еженедельный подарок
+WEEKLY_GIFT_BOX/REWARD_LEFT,Доступные награды
+WEEKLY_GIFT_BOX/REWARD_LEFT_UNIT,раз(а) осталось
+WEEKLY_GIFT_BOX/RULE,"{3} с определённым шансом появляется при победе в финальном матче {0} или {1}, либо при прохождении раунда {2}."
+LIMIT_DAILY,Дневной лимит
+LIMIT_WEEKLY,Недельный лимит
+WEEKLY_GIFT_BOX/WARNING,"При достижении {0} или {1} вы не сможете получить {2}, пока лимит не обновится."
+WEEKLY_GIFT_BOX/LIMIT_RESET,Лимиты наград обновляются ежедневно/еженедельно в {0} (UTC).
+APPLIED_TARGETS_EXCEPT,"Применяется к игрокам нашей команды, кроме {0}"
+COMMON/OBTAINABLE,Можно получить
+COMMON/UNOBTAINABLE,Нельзя получить
+WEEKLY_BLUEFLAME_GET_DETAIL,"{2} можно получить, победив в финальном матче {0} или проходя каждый раунд {1}.#При достижении {3} вы больше не сможете получать {2} этим способом."
+WEEKLY_ARENA_POINT_DETAIL,Каждую неделю при первом прохождении финального раунда {0} можно получить бонусные {1}.
+PHANTOM_LEAGUE_TIP_28,Рост всех игроков увеличивается.
+PHANTOM_LEAGUE_TIP_29,Высота сетки на площадке увеличивается.
+엘리트 스테이지 & 시즌3 & 신규 모집,
+엘리트룰,
+ELITE_RULE,Элитные правила
+ELITE_RULE/DEFENSE,Элитная защита
+ELITE_RULE/DEFENSE/DES,"В элитных правилах требуется точная защита.#Чем ближе момент приёма или приёма в падении к касанию мяча, тем выше точность. В зависимости от точности можно получить оценку PERFECT, GREAT, GOOD или BAD.#Чем ближе оценка к PERFECT, тем меньше урон личной выносливости и силе духа."
+ELITE_RULE/DEFENSE_PERFECT,Защита PERFECT
+ELITE_RULE/DEFENSE_PERFECT/DES,"Идеальная защита, выполненная в пределах заданного числа кадров, нейтрализует 100% атаки соперника и отменяет действие особых способностей.#Идеальный приём даёт пас A и восстанавливает часть личной выносливости и силы духа.#Приём: в пределах 1 кадра#Приём в падении: в пределах 3 кадров"
+ELITE_RULE/DEFENSE_GREAT,Защита GREAT
+ELITE_RULE/DEFENSE_GREAT/DES,"Защита GREAT нейтрализует 80% атаки соперника.#Если личной выносливости недостаточно, защита может не удаться даже при оценке GREAT."
+ELITE_RULE/DEFENSE_GOOD,Защита GOOD
+ELITE_RULE/DEFENSE_BAD,Защита BAD
+ELITE_RULE/DEFENSE_BAD/DES,"Если выполнить защиту слишком поздно, можно получить оценку BAD. Защита BAD увеличивает урон личной выносливости и силе духа защищавшегося игрока, поэтому лучше избегать оценки BAD при приеме.#При приёме в падении оценка защиты BAD не выдается."
+ELITE_RULE/RECEIVE_COMMAND,Команда на приём
+ELITE_RULE/RECEIVE_COMMAND/DES,"По элитным правилам кнопка приёма позволяет задавать момент приёма для товарищей по команде.#Если до конца доступного для приёма времени команда не поступит, товарищ самостоятельно выполнит защиту в последний момент.#Шкала времени защиты показывает точность команды на приём или самостоятельного действия товарища."
+ELITE_RULE/EXHAUSTION,Истощение
+ELITE_RULE/EXHAUSTION/DES,"Игрок, полностью потерявший силу духа, входит в состояние истощения.#В состоянии истощения личная выносливость и сила духа не восстанавливаются.#Истощение можно снять заменой игрока или тайм-аутом. При этом сила духа и личная выносливость полностью восстанавливаются."
+ELITE_RULE/MENTALITY,Сила духа
+ELITE_RULE/MENTALITY/DES,"У каждого игрока свой запас силы духа. Когда он исчерпан, наступает истощение.#Сила духа убывает пропорционально мощи атаки соперника, но защита позволяет уменьшить урон."
+ELITE_RULE/INDIVIDUAL_STAMINA,Личная выносливость
+ELITE_RULE/INDIVIDUAL_STAMINA/DES,У каждого игрока свой запас выносливости. При низкой выносливости мяч отлетает далеко даже при защите от атаки соперника с помощью приёма или приёма в падении.
+RULE/ELITE_RECEIVE,Элитный приём
+RULE/MATCH_RULE,Правила матча
+RULE/INDIVIDUAL_STAMINA,Личная выносливость
+특화노드,
+SPECIALIZATION/PRESET,Пресет
+SPECIALIZATION/REFUND_ALERT,Вернуть очки специализации?
+SPECIALIZATION/RESET_PRESET_ALERT,Сбросить пресет {0}?
+SPECIALIZATION/PREREQUISITE_AP,Уровень предш. специализации {0}
+SPECIALIZATION/NO_EFFECT,Нет эффекта
+SPECIALIZATION/WEAKNESS,Ослабление
+SPECIALIZATION/UNLOCK,Открыть
+SPECIALIZATION/DOWNGRADE,Понизить
+SPECIALIZATION/UPGRADE,Повысить
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_MIN,Нельзя понизить дальше.
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_EXCEEDS_MAX,Уже максимальный уровень.
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_OVERSPENT,Недостаточно AP. ({0}/{1})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH,Недостаточный уровень предшествующей специализации. ({0})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH/DEPENDENT,Это нарушит требование к уровню предшествующей специализации для {0}. ({1})
+SPECIALIZATION/ERROR/SPECIALIZATION_CORE_LIMIT_EXCEEDED,Превышен лимит активных ключевых специализаций.
+SPECIALIZATION/ERROR/SPECIALIZATION_IDENTITY_CORE_LIMIT_EXCEEDED,Можно активировать только 1 ключевую специализацию индивидуальности.
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_CHAIN_BLOCKED,Нельзя выбирать ослабление одной характеристики подряд.
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_BALANCE_BROKEN,Нарушен баланс ветки ослабления.
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_NOT_UNLOCKED,Сначала необходимо открыть предшествующую специализацию.
+SPECIALIZATION/ERROR/NOT_ENOUGH_ITEM_AMOUNT,Недостаточно очков открытия. ({0}/{1})
+SPECIALIZATION/POINT/WS/OFFENSE,Очки открытия атаки WS
+SPECIALIZATION/POINT/WS/DEFENSE,Очки открытия защиты WS
+SPECIALIZATION/POINT/WS/IDENTITY,Очки открытия индивидуальности WS
+SPECIALIZATION/POINT/MB/OFFENSE,Очки открытия атаки MB
+SPECIALIZATION/POINT/MB/DEFENSE,Очки открытия защиты MB
+SPECIALIZATION/POINT/MB/IDENTITY,Очки открытия индивидуальности MB
+SPECIALIZATION/POINT/SE/OFFENSE,Очки открытия атаки SE
+SPECIALIZATION/POINT/SE/DEFENSE,Очки открытия защиты SE
+SPECIALIZATION/POINT/SE/IDENTITY,Очки открытия индивидуальности SE
+SPECIALIZATION/POINT/WS/OFFENSE_DESC,Используются для открытия атакующих специализаций WS.
+SPECIALIZATION/POINT/WS/DEFENSE_DESC,Используются для открытия защитных специализаций WS.
+SPECIALIZATION/POINT/WS/IDENTITY_DESC,Используются для открытия специализаций индивидуальности WS.
+SPECIALIZATION/POINT/MB/OFFENSE_DESC,Используются для открытия атакующих специализаций MB.
+SPECIALIZATION/POINT/MB/DEFENSE_DESC,Используются для открытия защитных специализаций MB.
+SPECIALIZATION/POINT/MB/IDENTITY_DESC,Используются для открытия специализаций индивидуальности MB.
+SPECIALIZATION/POINT/SE/OFFENSE_DESC,Используются для открытия атакующих специализаций SE.
+SPECIALIZATION/POINT/SE/DEFENSE_DESC,Используются для открытия защитных специализаций SE.
+SPECIALIZATION/POINT/SE/IDENTITY_DESC,Используются для открытия специализаций индивидуальности SE.
+SPECIALIZATION/HELP/AP,"Открыв специализацию за очки открытия, можно повысить её уровень за AP игрока и активировать её.#Потраченные AP можно свободно вернуть, понизив уровень, но отменить открытие специализации нельзя."
+SPECIALIZATION/HELP/AP_ALERT,"* Эффекты и значения специализаций могут быть изменены в будущих обновлениях.#Если эффект или значение будет изменено, можно вернуть все очки открытия, потраченные на специализации этого игрока."
+SPECIALIZATION/HELP/PRESET,Распределение AP по специализациям можно сохранить в пресете.#При смене пресета открытые специализации остаются открытыми.
+SPECIALIZATION/STATUS/LOCKED,Заблокировано
+SPECIALIZATION/ACTIVATE,Активировать
+SPECIALIZATION/DEACTIVATE,Деактивировать
+SPECIALIZATION/TIER/GROWTH,Развитие
+SPECIALIZATION/TIER/ENHANCEMENT,Усиление
+SPECIALIZATION/TIER/TACTICAL,Тактика
+SPECIALIZATION/TIER/CORE,Ядро
+SPECIALIZATION/TIER/UNIQUE,Уникальность
+SPECIALIZATION,Специализация
+모집 등,
+RECRUIT/GAUGE_SCOUT_READY,Гарантированное получение ещё через {0} наймов!
+RECRUIT/SCOUT_CONFIRM_GAUGE,Потратить {0} единиц шкалы на скаутинг?
+RECRUIT/SCOUT_CONFIRM_GAUGE_ONE,Потратить {0} в количестве {1} на скаутинг?
+RECRUIT/SCOUT_CONFIRM_GAUGE_TWO,Потратить {0} в количестве {1} и {2} в количестве {3} на скаутинг?
+RECRUIT/NO_SKIN_RECRUITING,"Сейчас нет скинов, доступных для набора!"
+ALERT/PICKUP_GAUGE_HELD_CAP,В наличии {0} / Лимит {1}
+ALERT/PICKUP_GAUGE_NO_MORE,Больше нельзя получить единицы шкалы рекрутинга с повышенным шансом.
+RECRUIT_GAUGE,Шкала рекрутинга с повышенным шансом
+RECRUIT_GAUGE_DESC,Можно использовать для скаутинга игроков. При наборе за билеты набора избранного игрока или V-поинты каждый 1 нанятый игрок добавляет 1 единицу шкалы рекрутинга с повышенным шансом.#Нельзя хранить более 135 единиц этой шкалы.
+BEGINNER_RECRUIT_TICKET,Билет найма для новичков
+BEGINNER_RECRUIT_TICKET_DESC,"Билет найма, помогающий новичкам быстрее развиваться.#Попробуйте нанять игрока ранга S!"
+BEGINNER_RECRUIT_GAUGE,Шкала набора для новичков
+BEGINNER_RECRUIT_GAUGE_DESC,Можно использовать в скаутинге игроков для новичков. При рекрутинге с помощью билетов новичка шкала рекрутинга новичка увеличивается на 1 за каждого нанятого игрока.
+BEGINNER_RECRUIT/SELECT_SCOUT_TARGET,Выберите игрока для скаутинга.
+ALERT/PICKUP_GAUGE_LIMIT,Нельзя хранить более 135 единиц шкалы рекрутинга с повышенным шансом.#Продолжить набор?
+CONVERT,Преобразовать
+SCOUT_POINT_CONVERSION,Обмен очков пикап-скаута
+PICKUP_GAUGE_LIMIT_DES,Можно хранить до 135 единиц шкалы рекрутинга с повышенным шансом.
+CAN_CONVERT_MORE_ONE,Для преобразования требуется минимум 1.
+MOVE_TO_GUIDE_PLAYER_DES,Посмотреть описание игрока {0}?
+NO_MORE_SCOUT_POINT,Нет очков пикап-скаута.
+CHECK_SCOUT_POINT_AMOUNT,Нельзя преобразовать это количество.
+CALENDAR_BEFORE_FIRST_PURCHASE,Ещё не началось.
+RECRUIT/SCOUT_HELP_LINE_1,Скаут позволяет гарантированно получить игрока.
+RECRUIT/SCOUT_HELP_LINE_2,Для скаутинга можно расходовать единицы шкалы набора.
+RECRUIT/SCOUT_HELP_LINE_3,"В обычном наборе, наборе по позициям и наборе Колизея для скаутинга используются очки скаута."
+RECRUIT/SCOUT_RULE_GAUGE_CAP,Можно хранить до {0} единиц шкалы набора с повышенным шансом.
+RECRUIT/SCOUT_RULE_PICKUP_CONVERT,Очки скаута набора с повышенным шансом можно обменять на единицы шкалы этого набора.
+RECRUIT/SCOUT_RULE_BLOCK,"Нельзя нанять игрока через скаутинг, если у него 5 прорывов или у вас есть 5 его фрагментов силы."
+BEGINNER_RECRUIT_DESC_1,"Используйте 40 билетов найма, чтобы гарантированно получить 1 игрока ранга S!"
+BEGINNER_RECRUIT_DESC_2,Этот товар можно купить в магазине.
+BEGINNER_RECRUIT/RECENTLY_SELECTED,Недавно выбрано
+RECRUIT/TAB_BASIC,Обычный набор
+RECRUIT/TAB_COLOSSEUM,Набор игроков Колизея
+RECRUIT/PICKUP_REMAIN,До окончания: {0}
+RECRUIT/SCOUT_ROUND,Попытка {0}
+RECRUIT/SCOUT_NEXT_NEED,Для скаутинга нужно единиц шкалы рекрутинга: {0}
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,Справка по шкале рекрутинга для скаутинга
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,Попытка
+RECRUIT/SCOUT_GAUGE_TABLE_COL_NEED,Необходимая шкала рекрутинга
+CAN_RECRUIT_SCOUT,Можно получить {0}!
+RECRUIT/TAB_POSITION,Набор игроков по позициям
+RECRUIT/TAB_COLOSSEUM,Набор игроков Колизея
+RECRUIT_NORMAL,Обычный набор
+RECRUIT_WS,Набор доигровщика
+RECRUIT_MB,Набор центрального блокирующего
+RECRUIT_SE,Набор связующего
+RECRUIT/SCOUT_CONFIRM_TITLE,Скаутинг: {0}
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,Попытка
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,Скаутинг
+RECRUIT/SCOUT_GAUGE_TABLE_DES,Скаутинг гарантирует получение игрока. Для скаутинга можно использовать шкалу рекрутинга или очки скаута.
+RECRUIT/SCOUT_LONG_DES,При скаутинге за шкалу рекрутинга её стоимость для следующего скаутинга уменьшается. # Можно хранить до 135 единиц шкалы рекрутинга с повышенным шансом.
+RECRUIT/SCOUT_BLOCKED_AWAKEN,Больше получить нельзя.
+RECRUIT/BUY_TICKET_WITH_COIN_AND_RECRUIT,Купить {2} в количестве {3} за {0} в количестве {1} и начать набор?
+CALENDAR_SCHEDULED,Запланировано
+CALENDAR_EXPIRED,Срок использования истёк
+CALENDAR_GLOBAL_BEFORE,Скоро открытие
+CALENDAR_GLOBAL_AFTER,Работа завершена
+CALENDAR_CONFIG_MISSING,Требуется обновление настроек
+DIRECT_RECRUIT,Нанять сейчас
+CAN_RECRUIT,Набор доступен
+EVENT_PICKUP_DES,· При скаутинге игроков {0} расходуется в первую очередь. Исчезает после окончания события.
+RECRUIT/NOT_ENUGH_GAUGE,Недостаточно шкалы рекрутинга.
+BEGINNER_RECRUIT,Набор игроков для новичков
+BEGINNER_RECRUIT_TITLE,Набор игроков для новичков
+BEGINNER_RECRUIT_DESC,Билеты найма для новичков позволяют гарантированно получить игрока ранга S.
+BEGINNER_RECRUIT/CONFIRM_SCOUT_TARGET,Выбор игрока
+BEGINNER_RECRUIT/TIP_MINJUN/KEYWORD,Высокая результативность
+BEGINNER_RECRUIT/TIP_MINJUN,Прост в освоении и результативен  -  рекомендован для всего контента
+BEGINNER_RECRUIT/TIP_YOUNGSUB/KEYWORD,Универсальный тип
+BEGINNER_RECRUIT/TIP_YOUNGSUB,Стабильная сила  -  силён во всём контенте
+BEGINNER_RECRUIT/TIP_ISABEL/KEYWORD,Специалист по контратакам
+BEGINNER_RECRUIT/TIP_ISABEL,"Сложен в освоении, но обладает высоким потенциалом и хорошо подходит для сложного контента"
+BEGINNER_RECRUIT/TIP_ATIS/KEYWORD,Тип прессинга быстрой атакой
+BEGINNER_RECRUIT/TIP_ATIS,Давит атлетизмом и быстрыми атаками  -  рекомендован для всего контента
+BEGINNER_RECRUIT/TIP_HANRA/KEYWORD,Тип стабильной защиты
+BEGINNER_RECRUIT/TIP_HANRA,Усиливает стабильность защитой и поддержкой  -  рекомендован для всего контента
+BEGINNER_RECRUIT/TIP_SANGHYEON/KEYWORD,Тип усиления команды
+BEGINNER_RECRUIT/TIP_SANGHYEON,Поднимает статы всей команды и создаёт шансы  -  рекомендован для всего контента
+BEGINNER_RECRUIT/TIP_LISIA/KEYWORD,Специалист по подачам
+BEGINNER_RECRUIT/TIP_LISIA,Угрожает подачей и поднимает мораль  -  рекомендован для всего контента
+BEGINNER_RECRUIT/TIP_ZERO/KEYWORD,Тип поддержки пасом
+BEGINNER_RECRUIT/TIP_ZERO,Помогает союзникам раскрыться благодаря мощным передачам  -  рекомендован для всего контента
+BEGINNER_RECRUIT/TIP_AHYEON/KEYWORD,Тип связок
+BEGINNER_RECRUIT/TIP_AHYEON,Нейтрализует врагов связкой с союзниками  -  для сложного контента
+RECRUIT/SCOUT_MAXED,Скаутинг этого игрока полностью завершён.
+STAR_CONDITION/ALWAYS,Победа
+STAR_CONDITION/ONAIR_VIEWERS,Число зрителей: от {0} чел.
+STAR_CONDITION/SPIKE_SCORE,Набрать очки атакой {0} раз
+STAR_CONDITION/BACK_ATTACK_SCORE,Набрать очки атакой с задней линии {0} раз
+STAR_CONDITION/QUICK_SCORE,Набрать очки быстрой атакой {0} раз
+STAR_CONDITION/LOSE_SCORE,Потерять менее {0} очков
+STAR_CONDITION/LOSE_SCORE_MANUAL,Потерять менее {0} очков в ручном режиме
+STAR_CONDITION/DIFFICULTY_EXTREME,Победить на сложности «Очень сложно»
+STAR_CONDITION/DIFFICULTY_HARD,Победить на сложности «Сложно»
+STAR_CONDITION/WIN_SCORE_WITHOUT_AUTO,Победить с преимуществом не менее {0} очков в ручном режиме
+STAR_CONDITION/WIN_SCORE_WITHOUT_BEGINNER,Победить с преимуществом не менее {0} очков без режима новичка
+CONVERTED_GAUGE_AMOUNT,Всего преобразовано: {0}
+COMMON/TOTAL,Всего
+SHOP/DOUBLE_BONUS,BONUS! +{0}VP
+SHOP/FIRST_PURCHASE_BONUS,Специальное предложение!
+COMMON/WEEKDAY_SUN,Воскресенье
+COMMON/WEEKDAY_MON,Понедельник
+COMMON/WEEKDAY_TUE,Вторник
+COMMON/WEEKDAY_WED,Среда
+COMMON/WEEKDAY_THU,Четверг
+COMMON/WEEKDAY_FRI,Пятница
+COMMON/WEEKDAY_SAT,Суббота
+BLOCKING_LIFE,Прочность блока
+PLAYER/HAN_GITAE/NICKNAME,Стальной центральный блокирующий
+PLAYER/HAN_GITAE/LINE,"Я как раз немного затёк. Ну что, разомнёмся?"
+PLAYER/HAN_GITAE/LINE_2,Никаких поблажек. Нападай в полную силу!
+PLAYER/HAN_GITAE/GACHA/LINE,Никаких поблажек.<wait=100> Нападай в полную силу!
+PLAYER/SEO_YUNA/NICKNAME,Гений адаптации
+PLAYER/SEO_YUNA/LINE,"Я тебе покажу. Я куда сильнее, чем кажусь!"
+PLAYER/SEO_YUNA/GACHA/LINE,"Раз уж судьба свела нас вместе,<break><wait=85><b>давайте победим их всех до единого!"
+PLAYER/SEO_YUNA/GACHA/LINE_2,"Подумаешь, талант! Его можно превзойти упорным трудом!"
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM,Анимация тайм-аута
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM/DES,Плавное воспроизведение анимаций иллюстраций в высоком качестве на экране тайм-аута. Может влиять на производительность.
+NAME/ELITE_MATCH_DES,Побеждайте разные команды соперников в зависимости от дня недели и получайте награды события!
+STORYMODE_TIP_9,Применяются элитные правила.
+MAP_NATIONAL,Спортзал «Взлёт»
+BEGINNER_RECRUIT/CAN_SCOUT,Можно получить игрока для новичков!
+RECRUIT/HELP_TITLE,Набор игроков
+RECRUIT/HELP_LINE_1,"Можно получить игроков, потратив билеты набора или валюту."
+RECRUIT/HELP_LINE_2,Игроков из набора игроков события можно скаутить с помощью шкалы набора события и шкалы рекрутинга с повышенным шансом.
+RECRUIT/HELP_LINE_3,Игроков из набора игроков для новичков можно скаутить с помощью шкалы набора для новичков.
+RECRUIT/HELP_LINE_4,Билеты найма избранных игроков события сгорают после его окончания.
+RECRUIT/SCOUT_NO_MORE,Больше нельзя скаутить.
+RECRUIT/NOT_ENOUGH_GAUGE,Недостаточно единиц шкалы.
+RECRUIT/SCOUT_CONFIRM_EVENT_FIRST,Сначала списывается {0}.
+RECRUIT/CURRENCY_NOT_ENOUGH_GO_SHOP,Недостаточно валюты. Перейти в Магазин?
+RECRUIT/BUY_THEN_RECRUIT,Нанять после покупки
+COMMON/RECRUIT,Набор
+CONVERTED_GAUGE_AMOUNT,Всего преобразовано: {0}
+COMMON/MAX_BUY_COUNT,Максимальное количество покупок : {0}
+COMMON/TOTAL_BUY_DES,Вы купите предметы в количестве {0} шт.
+COMMON/EASY,Легко
+COMMON/TOOHARD,Очень сложно
+RECRUIT/SCOUT_RULE_OVER_ROUND,Даже после последнего раунда вы можете продолжать скаутинг с той же шкалой.
+RECRUIT/SCOUT_ROUND_AFTER,С попытки {0}
+FEVER_MODE,Режим лихорадки
+COMMON/WORD/PERFECT_RECEIVE,Идеальный прием
+COMMON/WORD/SPIKE_JUMP,Прыжок для удара
+PICKUP_PLAYER_SCOUT_POINT_DES,"Преобразуйте очки скаутинга избранных игроков в прогресс шкалы их найма, чтобы гарантированно нанять избранного игрока."
+SCOUT_POINT_CONVERSION,Обмен очков скаута набора с повышенным шансом
+NO_MORE_SCOUT_POINT,Нет очков скаута набора с повышенным шансом.
+RECRUIT/SCOUT_RULE_PICKUP_CONVERT,Очки скаута набора с повышенным шансом можно обменять на единицы шкалы этого набора.
+TIMEOUT/ALERT/NO_CHANCES,Тайм-аутов не осталось.
+RECRUIT/SCOUT_GAUGE_TABLE_ROUND_OR_MORE,{0} и более
+RECRUIT/SCOUT_ROUND_AFTER,С попытки {0}
+SPECIALIZATION/ALERT/LOAD_FAILED,Не удалось загрузить узлы специализации. Попробуйте ещё раз.
+SETTING/PREFERENCE/SPECIALIZATION_FX,Эффект экрана узла специализации
+SETTING/PREFERENCE/SPECIALIZATION_FX/DES,Включает фоновый эффект на экране узла специализации. Может влиять на производительность.
+EV2609 이벤트 이후 삭제해도 되는 언어,
+EV2609,Элитный этап
+EV2609_DES,"На элитных этапах действуют особые элитные правила.##Каждый день сражайтесь с новой командой соперников, выполняйте условия получения звёзд и собирайте их. В ежедневный результат засчитывается только лучший результат по звёздам, достигнутый в матче этого дня.##За первую победу каждого дня можно получить ежедневную награду. Вы также можете продолжать проходить тот же матч, чтобы заработать больше звёзд. Еженедельные награды выдаются в зависимости от общего количества звёзд, собранных за неделю."
+EV2609_COIN,Элитная монета
+EV2609_COIN_DESC,"Ивентовая валюта, которую можно получить на элитных этапах.#Можно использовать в магазине."
+EV2609_EXTRA_REWARD_TICKET,Билет на дополнительную награду
+EV2609_EXTRA_REWARD_TICKET_DESC,При использовании позволяет получить сегодняшнюю ежедневную награду ещё один раз. Награда выдаётся за прохождение этапа. Купить билет можно один раз в день.
+EV2609_RECRUIT_GAUGE,Шкала элитного рекрутинга
+EV2609_RECRUIT_GAUGE_DESC,"Шкала рекрутинга, доступная во время события элитных этапов. При скаутинге элитных игроков расходуется в первую очередь, лимита накопления нет. Исчезает после окончания события."
+EV2609_PLAYER_RECRUIT_TICKET,Билет набора элитных игроков с повышенным шансом
+EV2609_PLAYER_RECRUIT_TICKET_DESC,"Билет найма, который можно использовать во время события «Элитный этап».#Позволяет нанимать ивентовых игроков."
+EV2609_RAID_SHOP_POPUP,"Здесь можно обменять указанную валюту на различные виды валюты, билеты найма и предметы."
+EV2609_POPUP_DESC,"Бросьте вызов элитному этапу! Встречайте Хан Гитхэ, Со Юну и Кан Седжина!"
+EV2609_POPUP_PLAY_TITLE,Элитный этап
+EV2609_POPUP_PLAY_DESC,"Побеждайте команды, меняющиеся каждый день."
+EV2609_POPUP_PICKUP_TITLE,Начался набор элитных игроков с повышенным шансом!
+EV2609_POPUP_PICKUP_DESC,Набор эксклюзивных игроков элитных этапов с повышенным шансом и#продажа наборов
+EV2609_LOGIN_BONUS,Элитный пропуск за вход
+EV2609_POPUP_ATTENDANCE_DESC,Получайте эксклюзивные предметы и элитные монеты!#Премиальный и королевский пропуски уже доступны!
+DIFFICULTY_EXTREME,Экстрим
+EV2609_UNLOCK_EXTRA_REWARD,Сброс наград
+EV2609_CLEAR_RESULT,Результаты прохождения
+EV2609_RESET_INFO,Сбрасывается ежедневно в 00:00 (UTC).
+NO_CLEAR_RESULT,Нет результатов прохождения.
+EV2609_CLAIM_WEEKLY_FIRST,Необходимо получить еженедельную награду
+EV2609_NO_STAGE,Сегодня нет доступных этапов.
+EV2609_USE_REWARD_TICKET_DES,"Используйте, чтобы ещё раз получить сегодняшнюю ежедневную награду.#Награда выдаётся после прохождения этапа."
+EV2609_ERROR_ALREADY_CLAIMED_WEEKLY_REWARD,Нет доступных наград.
+EV2609_ERROR_INVALID_EVENT,Это событие недействительно.
+EV2609_ERROR_NOT_STAGE_TODAY,Этот этап сегодня недоступен.
+EV2609_ERROR_DAILY_REWARD_AVAILABLE,Ежедневная награда всё ещё доступна.
+EV2609_ERROR_NOT_ENOUGH_PRODUCT,Недостаточно билетов на дополнительную награду.
+EV2609_ERROR_MATCH_IN_PROGRESS,Матч уже идёт.
+EV2609_STAR_REQUIRE,или больше
+EV2609_MISSION_MB_WIN,"Победить {0} раз в выигранных матчах, управляя центральным блокирующим"
+EV2609_MISSION_BACK_ATTACK,Успешно выполнить атаку с задней линии {0} раз в выигранных матчах
+EV2609_MISSION_SERVE_ACE,Сделать {0} эйсов с подачи в выигранных матчах
+EV2609_MISSION_PERFECT_RECEIVE,"Успешно выполните {0} идеальных приёмов, управляя игроком, в выигранных матчах."
+EV2609_MISSION_MB_QUICK,"Выполнить {0} быстрых атак в выигранных матчах, управляя центральным блокирующим"
+EV2609_MISSION,Задания элитного этапа
+EV2609_MISSION_DES,Эти особые задания доступны на протяжении всего элитного события. Все задания можно выполнить в матчах элитного этапа.
+EV2609_MATCH_PERIOD_END,Событие завершено. Теперь можно только получить награды. Перейти к окну наград?
+EV2609_REWARD_ONLY_ONCE,Только в первый раз
+EV2609_WEEKLY_REWARD,Еженедельные награды
+EV2609_WEEKLY_REWARD_LIST,Список еженедельных наград
+EV2609_EXCHANGE_SHOP,Магазин элитных монет
+RECRUIT_ELITE_SEO_YUNA_TITLE,Набор Со Юны ранга S
+RECRUIT_ELITE_SEO_YUNA_DESC,"Можно нанять игроков, в том числе доигровщицу Со Юну ранга S, появившуюся на элитных этапах."
+RECRUIT_ELITE_HAN_GITAE_TITLE,Набор Хан Гитхэ ранга S+
+RECRUIT_ELITE_HAN_GITAE_DESC,"Можно нанять игроков, в том числе центрального блокирующего Хан Гитхэ ранга S+, появившегося на элитных этапах."
+RECRUIT_ELITE_KANG_SEJIN_TITLE,Набор Кан Седжина ранга S
+RECRUIT_ELITE_KANG_SEJIN_DESC,"Можно нанять игроков, в том числе связующего Кан Седжина ранга S, появившегося на элитных этапах."
+EV2609_PICKUP_WS,WS Со Юна
+EV2609_PICKUP_MB,MB Хан Гитхэ
+EV2609_PICKUP_SE,Se Кан Седжин
+EV2609_LOGIN_BONUS_DESC,"Заходите в игру в указанный срок, чтобы получать различные предметы и валюту."
+EV2609_SPECIALIZATION_BOX,Ящик очков открытия специализаций
+EV2609_SPECIALIZATION_BOX_DES,Можно случайным образом получить до 2 из 9 видов очков открытия специализаций. Эту награду можно получить один раз в день за первую победу.
+PRACTICE/ALERT/SELECT_SUBSTITUTE_PLAYERS,Выберите запасных игроков.
+,
+STAR_CONDITION/ENEMY_MB_BLOCK_STRENGTH_ZERO,Полностью исчерпать Прочность блока команды соперника
+ALERT/NEW_MODE_UNLOCK,Открыт новый режим
+ALERT/NEW_STORY_UNLOCK,Открыта новая история

@@ -1,0 +1,1193 @@
+﻿KEY,러시아어(ru)
+선수 특성,
+SKILL/SKILL_DURATION,{COMMON/SKILL/DURATION} : [DOL.SKILL_TIME.DURATION_TIME]
+SKILL/SKILL_TIME,"{COMMON/SKILL/DURATION} : [DOL.SKILL_TIME.DURATION_TIME], {COMMON/SKILL/COOLDOWN} : [DOL.SKILL_TIME.DELAY_TIME]"
+SKILL/MAX_NOTEN,Максимальный {DATEN}: [DOL.MAX_NOTEN]
+SKILL/BLINK_BALL_BLACK_THUNDER/TITLE,След черной молнии
+SKILL/BLINK_BALL_BLACK_THUNDER/DES,Во время {@TOSS_SERVE} изменяется цвет {TRAIL} у {BALL}.
+SKILL/BLINK_BALL_BLACK_THUNDER/DOLPA,
+SKILL/BLINK_BALL_RAINBOW/TITLE,След радуги
+SKILL/BLINK_BALL_RAINBOW/DES,Во время {@TOSS_SERVE} меняется цвет {TRAIL} {BALL}.
+SKILL/BLINK_BALL_RAINBOW/DOLPA,
+SKILL/BLINK_BALL_THUNDER/TITLE,Электрический след
+SKILL/BLINK_BALL_THUNDER/DES,Во время {@TOSS_SERVE} меняется цвет {TRAIL} {BALL}.
+SKILL/BLINK_BALL_THUNDER/DOLPA,
+SKILL/HIGH_VERTICAL_SERVE_TOSS/TITLE,Высокий подброс для подачи
+SKILL/HIGH_VERTICAL_SERVE_TOSS/DES,Выполняет более высокий {@TOSS_SERVE} с почти вертикальной траекторией.
+SKILL/HIGH_VERTICAL_SERVE_TOSS/DOLPA,
+SKILL/OASIS_SERVE_TOSS/TITLE,Подброс Оазиса для подачи
+SKILL/OASIS_SERVE_TOSS/DES,При выполнении {@TOSS_SERVE} активируется эффект солнца.
+SKILL/OASIS_SERVE_TOSS/DOLPA,
+SKILL/YONGSUB_SERVE_TOSS/TITLE,Подброс Ли Ёнсоба для подачи
+SKILL/YONGSUB_SERVE_TOSS/DES,Подбрасывает {@TOSS_SERVE} выше.
+SKILL/YONGSUB_SERVE_TOSS/DOLPA,
+SKILL/ABSOLUTE_BLOCK/TITLE,Непробиваемый блок
+SKILL/ABSOLUTE_BLOCK/DES,"Пока {SKILL} {ACTIVATE}, всегда срабатывает {@BLOCK_KILL} против любой {ATTACK}, коснувшейся {@BLOCKING}."
+SKILL/ABSOLUTE_BLOCK/DOLPA,
+SKILL/ARMOR/TITLE,Экипировка
+SKILL/ARMOR/DES,"В зависимости от {ACCURACY} действия {@BLOCKING} происходит {CHARGE} шкалы {GAUGE}. Накопленный {CHARGE} шкалы {GAUGE} повышает {STRENGTH}, {SPEED} и {JUMP}.#Даже при низкой {ACCURACY} действия {BLOCKING} гарантируется {@BLOCK_SOFT}."
+SKILL/ARMOR/DOLPA_DES,"Максимальный объём {CHARGE} {GAUGE} за один {BLOCKING}: [CALC.MAX_CHARGED, PER]"
+SKILL/ARMOR/SLIDER_DES,"{STATUS} : {STRENGTH} +[CALC.STRENGTH], {SPEED} +[CALC.SPEED], {JUMP} +[CALC.JUMP]"
+SKILL/HEALING_TOSS/TITLE,Целительный пас
+SKILL/HEALING_TOSS/DES,"При {@TOSS} с вероятностью [VAL.PROBABILITY, PER] восстанавливает {STAMINA} команды {TEAM}. #\[{ELITE_RULE}\] Восстанавливается {STAMINA}. Получатель — {PLAYER_TEAM_ALLY}, у которого {RULE/INDIVIDUAL_STAMINA} ниже всего."
+SKILL/HEALING_TOSS/DOLPA_DES,Восстановление {STAMINA}: [CALC.STAMINA]
+SKILL/BLITZ_SPIN/TITLE,Молниеносное вращение
+SKILL/BLITZ_SPIN/DES,"Увеличивает {@BALL_POWER_VERTICAL} и {@BALL_SPIN} у {BALL} после {@SPIKE}, из-за чего его {TRAJECTORY} изгибается."
+SKILL/BLITZ_SPIN/DOLPA_DES,"{BALL_POWER_VERTICAL} : +[CALC.BALL_SPEED_VERTICAL], {BALL_SPIN} : +[CALC.BALL_SPIN]"
+SKILL/BLUE_DRAGON/TITLE,Синий дракон
+SKILL/BLUE_DRAGON/DES,"В состоянии {ON_GROUND} происходит {CHARGE} шкалы {GAUGE}. В состоянии {MID_AIR} действие {HOLD} кнопки {BUTTON_SPIKE} расходует {GAUGE} и позволяет накапливать {ENERGY}.#Чем больше {ENERGY}, тем выше {@BALL_POWER} и {@BALL_SPIN} мяча {BALL}. При максимуме {ENERGY} действие {SPIKE} получает {@SLIDING_KILLER_EFFECT}. Если продолжить накапливать {ENERGY} сверх максимума, {BALL} улетит далеко."
+SKILL/BLUE_DRAGON/DOLPA_DES,"Скорость {CHARGE} {GAUGE}: +[CALC.GAUGE_FILL_SPEED, PER_UNCAPPED] #Базовый {CHARGE} : [CALC.MIN_CHARGED, PER]"
+SKILL/BLUE_DRAGON/SLIDER_DES,"{BALL_POWER} : [CALC.BALL_POWER, PER_SIGN], {BALL_SPIN} : +[CALC.BALL_SPIN] , {SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]"
+SKILL/CAT/TITLE,Наби
+SKILL/CAT/DES,"Любимая кошка Клайда появляется вместе с ним.#Кошка бегает по {COURT} и переводит {PLAYER_TEAM_ALLY} из {@SAD} в {@FOCUS}.#{STAMINA_MAX_TEAM_ALLY} увеличивается на [VAL.STAMINA, PER]."
+SKILL/CAT/DOLPA,
+SKILL/CHANCE_BALL/TITLE,Реакция на шанс-бол
+SKILL/CHANCE_BALL/DES,При {SPIKE} по {@FREE_BALL} {@BALL_POWER} мяча {BALL} увеличивается на [CALC.BALL_POWER].
+SKILL/CHANCE_BALL/DOLPA,
+SKILL/CHARGE/TITLE,Заряд
+SKILL/CHARGE/DES,"Нажмите {BUTTON_SPIKE}, чтобы разбежаться: во время разбега происходит {CHARGE} шкалы {GAUGE}. Нажмите {BUTTON_SPIKE} ещё раз, чтобы прыгнуть. Значение {JUMP} зависит от {GAUGE}."
+SKILL/CHARGE/DOLPA,
+SKILL/CHARGE/DETAIL_DES,
+SKILL/CHARGE_JENNY/DETAIL_DES,
+SKILL/CHEMICAL_HIT/TITLE,Химическая реакция
+SKILL/CHEMICAL_HIT/DES,"Если {PLAYER} команды {TEAM} выполняет {@TOSS} для {BALL}, который этот {PLAYER} принял с помощью {@RECEIVE}, срабатывает {SKILL/CHEMICAL_HIT/TITLE}. Если {PLAYER} этой {TEAM} выполняет {ATTACK} по {BALL}, на котором сработал {SKILL/CHEMICAL_HIT/TITLE}, {@BALL_POWER} и {@BALL_SPIN} {BALL} увеличиваются. {PLAYER}, выполнивший {DEFEND} этого {BALL}, проваливает {DEFEND}, а {STAMINA} защищавшейся {TEAM} уменьшается на [VAL.STAMINA]. #\[{ELITE_RULE}\] Когда {PLAYER_TEAM_ENEMY} принимает этот {BALL} и применяется {DEFEND}, его {RULE/INDIVIDUAL_STAMINA} уменьшается."
+SKILL/CHEMICAL_HIT/DOLPA_DES,"{BALL_POWER} : +[CALC.BALL_POWER, PER], {BALL_SPIN} : +[VAL.BALL_SPIN, PER], {SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]"
+SKILL/CHEMICAL_HIT/DETAIL_DES,
+SKILL/TIMEBOMB/TITLE,Бомба с таймером
+SKILL/TIMEBOMB/DES,
+SKILL/TIMEBOMB/DOLPA,
+SKILL/CRITICAL_TOSS/TITLE,Критический пас
+SKILL/CRITICAL_TOSS/DES,"При {@TOSS} вокруг {BALL} появляется круг, показывающий тайминг. Если выполнить {@SPIKE} в момент соприкосновения {BALL} с кругом, {@BALL_POWER} {BALL} увеличится."
+SKILL/CRITICAL_TOSS/DOLPA_DES,{BALL_POWER} : +[CALC.BALL_POWER]
+SKILL/CRITICAL_TOSS/DETAIL_DES,
+SKILL/DEEP_SPIKE/TITLE,Вертикальный удар
+SKILL/DEEP_SPIKE/DES,"Когда расстояние до {NET} меньше [VAL.DISTANCE, DIST], выполняет {@SPIKE} под почти вертикальным углом."
+SKILL/DEEP_SPIKE/DOLPA,
+SKILL/DETERMINATION/TITLE,Твердая готовность
+SKILL/DETERMINATION/DES,"Когда {STAMINA} команды {TEAM} составляет [VAL.STAMINA, PER] или меньше, {STRENGTH} и {JUMP} увеличиваются. #\[{ELITE_RULE}\] Активируется, когда собственная {RULE/INDIVIDUAL_STAMINA} или {MENTAL} составляет [VAL.STAMINA, PER] или меньше."
+SKILL/DETERMINATION/DOLPA_DES,"{STRENGTH} : +[CALC.STRENGTH, PER], {JUMP} : +[CALC.JUMP, PER]"
+SKILL/DETERMINATION/DETAIL_DES,
+SKILL/DIRECT_SPIKE/TITLE,Прямой удар
+SKILL/DIRECT_SPIKE/DES,"Немедленно выполняет {@SPIKE} по {BALL}, прилетевшему от {TEAM_ENEMY}."
+SKILL/DIRECT_SPIKE/DOLPA,
+SKILL/DOUBLE_SPIKE/TITLE,Двойной удар
+SKILL/DOUBLE_SPIKE/DES,"В состоянии {MID_AIR} можно выполнить два {@SWING}. При {@SPIKE} вторым {SWING}, если {DATEN} ниже 4 м, {@BALL_POWER} {BALL} увеличивается на [CALC.BALL_POWER, PER]."
+SKILL/DOUBLE_SPIKE/DOLPA,
+SKILL/FAR_PASS_FEINT/TITLE,Пас-финт в уязвимую зону
+SKILL/FAR_PASS_FEINT/DES,"Если {PLAYER_TEAM_ENEMY} находятся в пределах [VAL.DISTANCE, DIST] от {NET}, выполняет дальний {@PASS_FEINT} в заднюю зону."
+SKILL/FAR_PASS_FEINT/DOLPA,
+SKILL/FEINT_WHEN_OPPONENT_HP_LOW/TITLE,Финт в уязвимую зону
+SKILL/FEINT_WHEN_OPPONENT_HP_LOW/DES,"Когда {STAMINA} команды {TEAM_ENEMY} ≤ 20, с вероятностью [VAL.PROBABILITY, PER] выполняет {@FEINT}."
+SKILL/FEINT_WHEN_WINNING/TITLE,Финт превосходства
+SKILL/FEINT_WHEN_WINNING/DES,"Выполняет {@FEINT}, когда {SCORE} команды {TEAM} равен или выше, чем {SCORE} команды {TEAM_ENEMY}."
+SKILL/FEINT_WHEN_WINNING/DOLPA,
+SKILL/FRANTIC/TITLE,Безрассудность
+SKILL/FRANTIC/DES,"Если {@WS} находится примерно в [VAL.DISTANCE, DIST] или дальше от {NET}, выполняет для {WS} передачу {@TOSS} далеко от {NET}.#{SKILL} можно включать и выключать (ON/OFF)."
+SKILL/FARNTIC/DOLPA,
+SKILL/HIDDEN_BRILLIANCE/TITLE,Скрытый свет
+SKILL/HIDDEN_BRILLIANCE/DES,"Даже без особых способностей он — лучший школьный {WS}, способный доминировать на {COURT} благодаря выдающейся физической силе."
+SKILL/HIDDEN_BRILLIANCE/DOLPA,
+SKILL/HIGHLIGHT/TITLE,Минута славы
+SKILL/HIGHLIGHT/DES,"Пока для {SKILL} действует {ACTIVATE}, у всех {PLAYER} команды {TEAM} повышаются {STATUS}.#{STRENGTH} +[VAL.STRENGTH], {SPEED} +[VAL.SPEED], {DEFENSE} +[VAL.DEFENSE], {JUMP} +[VAL.JUMP]."
+SKILL/HIGHLIGHT/DOLPA,
+SKILL/HIGH_THIRD_RECEIVE/TITLE,Высокая третья передача
+SKILL/HIGH_THIRD_RECEIVE/DES,"При третьем {TOUCH}, если отправить {BALL} без {ATTACK}, мяч поднимается высоко."
+SKILL/HIGH_THIRD_RECEIVE/DOLPA,
+SKILL/LIGHT_OF_HOPE/TITLE,Свет надежды
+SKILL/LIGHT_OF_HOPE/DES,"Каждый раз, когда {TEAM} получает {POINT_LOSS}, с определённой вероятностью все {PLAYER} этой {TEAM} переходят в состояние {@FOCUS}."
+SKILL/LIGHT_OF_HOPE/DOLPA_DES,"Шанс {FOCUS}: [CALC.FOCUS_PROB, PER]"
+SKILL/LIGHT_OF_HOPE/DETAIL_DES,
+SKILL/LOCK/TITLE,Захват
+SKILL/LOCK/DES,"При {@RECEIVE} атаки {ATTACK}, не остановленной {@BLOCKING}, атакующий {PLAYER_TEAM_ENEMY}, выполнивший {ATTACK}, ненадолго получает {SKILL/LOCK/TITLE}.#В состоянии {SKILL/LOCK/TITLE} нельзя использовать {SLIDING}, а {SPEED} и {JUMP} снижаются."
+SKILL/LOCK/DOLPA_DES,"Цель {SKILL/LOCK/TITLE}: {JUMP}: -[CALC.JUMP, PER], {SPEED}: -[CALC.SPEED, PER]"
+SKILL/LOCK/DETAIL_DES,На {PLAYER_TEAM_ENEMY} со сниженным {STATUS} накладывается {@DEBUFF} уровня [VAL.DEBUFF_LEVEL].
+SKILL/NOON_SUNRISE/TITLE,Восход солнца
+SKILL/NOON_SUNRISE/DES,"До наступления полудня за каждые [VAL.SCORE_STEP] очков, набранных {TEAM_ENEMY}, увеличиваются {STRENGTH}, {SPEED} и {JUMP}. {STATUS} увеличивается только до достижения 15 очков."
+SKILL/NOON_SUNRISE/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {SPEED} : +[CALC.SPEED], {JUMP} : +[CALC.JUMP]"
+SKILL/NOON/TITLE,Полдень
+SKILL/NOON/DES,"С Полдня (15 очков) до Заката {STRENGTH} фиксируется на уровне [VAL.STRENGTH_FIXED], {SPEED} — [VAL.SPEED], а {JUMP} — [VAL.JUMP_FIXED]."
+SKILL/NOON_SUNSET/TITLE,Закат
+SKILL/NOON_SUNSET/DES,"С Заката (21 очко) {STRENGTH} фиксируется на уровне [VAL.STRENGTH_FIXED], {SPEED} — [VAL.SPEED], а {JUMP} — [VAL.JUMP_FIXED]."
+SKILL/PARRY/TITLE,Отражение атаки
+SKILL/PARRY/DES,"При {@RECEIVE} мяча {BALL} после {@SPIKE} от {PLAYER_TEAM_ENEMY} происходит {CHARGE} шкалы {GAUGE} пропорционально {@BALL_POWER} мяча {BALL}. Чем больше {CHARGE} шкалы {GAUGE}, тем выше {STRENGTH} и {JUMP}.#После {SPIKE} накопленный {CHARGE} шкалы {GAUGE} исчезает."
+SKILL/PARRY/DOLPA_DES,Максимум {GAUGE}: [CALC.MAX_CHARGED]
+SKILL/PARRY/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {JUMP} : +[CALC.JUMP]"
+SKILL/PRIDE/TITLE,Гордость
+SKILL/PRIDE/DES,"При {@SPIKE} примерно в 6 м или дальше от {NET} значение {@BALL_POWER_HORIZONTAL} мяча {BALL} растёт пропорционально расстоянию.#При {SPIKE} в 7,5 м или дальше от {NET} срабатывает {@SLIDING_KILLER_EFFECT}.#Напротив, при {SPIKE} примерно в 3 м или ближе к {NET} значение {BALL_POWER_HORIZONTAL} мяча {BALL} снижается."
+SKILL/PRIDE/DOLPA,
+SKILL/PRIDE/SLIDER_DES,"{BALL_POWER_HORIZONTAL} : [CALC.BALL_POWER, PER_SIGN] , {SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]"
+SKILL/PROTECTION/TITLE,Спасение
+SKILL/PROTECTION/DES,"При {@RECEIVE} создаются капли, повышающие {DEFENSE} {PLAYER} команды {TEAM_ALLY}, содержащегося в каплях."
+SKILL/PROTECTION/DOLPA_DES,"{DEFENSE} : +[CALC.DEFENSE], {BALL_POWER} : -[CALC.BALL_POWER, PER_DIFF]"
+SKILL/PROTECTION/DETAIL_DES,
+SKILL/SE_MB_SWAP/TITLE,Смена связующего
+SKILL/SE_MB_SWAP/DES,"Если {@SE} {@RECEIVE}, {@MB} выполняет роль {SE}."
+SKILL/SE_MB_SWAP/DOLPA,
+SKILL/RIP_CURRENT/TITLE,Отбойная волна
+SKILL/RIP_CURRENT/DES,"После {SLIDING} медленно встаёт, но обладает превосходными физическими данными."
+SKILL/RIP_CURRENT/DOLPA,
+SKILL/SERVE_READY_MOTION_A/TITLE,Ритуал подачи А
+SKILL/SERVE_READY_MOTION_A/DES,Выполняет особый ритуал перед {SERVE}.
+SKILL/SERVE_READY_MOTION_A/DOLPA,
+SKILL/SERVE_READY_MOTION_B/TITLE,Ритуал подачи B
+SKILL/SERVE_READY_MOTION_C/TITLE,Ритуал подачи C
+SKILL/SERVE_READY_MOTION_D/TITLE,Ритуал подачи D
+SKILL/SERVE_READY_MOTION_E/TITLE,Ритуал подачи E
+SKILL/SERVE_READY_MOTION_F/TITLE,Ритуал подачи F
+SKILL/SHARP_SPIKE/TITLE,Пробивной удар
+SKILL/SHARP_SPIKE/DES,Снижается {@BALL_SPIN} {BALL} и выполняется почти вертикальный {@SPIKE}.
+SKILL/SHARP_SPIKE/DOLPA,
+SKILL/SKY_SERVE/TITLE,Небесная подача
+SKILL/SKY_SERVE/DES,"С определённой вероятностью выполняется мощный {SERVE}, поднимающий мяч высоко в небо. {PLAYER_TEAM_ENEMY}, который {@RECEIVE} {SERVE_SKY}, находится в состоянии {@SAD} во время {RALLY}. Чем больше подряд успешных {SERVE_SKY}, тем ниже шанс успеха."
+SKILL/SKY_SERVE/SLIDER_DES,Вероятность успеха в зависимости от количества {SERVE}: [CALC.SERVE_SUCCESS_BY_COUNT]%
+SKILL/SLOW_TOSS/TITLE,Медленный пас
+SKILL/SLOW_TOSS/DES,"Снижает {@BALL_SPIN} {BALL}, выполняя стабильный и медленно падающий {@TOSS}."
+SKILL/SLOW_TOSS/DOLPA,
+SKILL/SNIPE/TITLE,Снайп
+SKILL/SNIPE/DES,"Пытается выполнить {SKILL/SNIPE/TITLE} непосредственно перед {TOSS}. Если в выбранной точке находится {PLAYER}, выполняется очень быстрый {@TOSS}. Если рядом с выбранной точкой нет {PLAYER}, выполняется другой {TOSS}."
+SKILL/SNIPE/DOLPA,
+SKILL/SNOW_FLAKE_TWO_ATTACK/TITLE,Двойная снежная атака
+SKILL/SNOW_FLAKE_TWO_ATTACK/DES,"Выполняет {@SPIKE} с эффектом снежинки, увеличивая {@BALL_SPIN} {BALL} на [VAL.BALL_SPIN, PER] и {@BALL_POWER} на [VAL.BALL_POWER, PER]."
+SKILL/SNOW_FLAKE_TWO_ATTACK/DOLPA,
+SKILL/SOLID_BLOCKING/TITLE,Крепкий блок
+SKILL/SOLID_BLOCKING/DES,Увеличивается {ACCURACY} тайминга прыжка {@BLOCKING} неконтролируемых {PLAYER}.
+SKILL/SOLID_BLOCKING/DOLPA,
+SKILL/SPEED_TOSS/TITLE,Скоростной пас
+SKILL/SPEED_TOSS/DES,"Выполняет быстро падающую передачу {@TOSS}.#При {@SPIKE} после {SKILL/SPEED_TOSS/TITLE} чем выше {@BALL_POWER_VERTICAL} мяча {BALL} после {TOSS}, тем выше {@BALL_POWER} мяча {BALL}.#(Высокая сложность: не рекомендуется новичкам.)"
+SKILL/SPEED_TOSS/DOLPA,
+SKILL/STABLE_TOSS/TITLE,Стабильный пас
+SKILL/STABLE_TOSS/DES,"Пока {SKILL} находится в состоянии {ACTIVATE}, выполняет стабильный {@TOSS} со сниженной {@BALL_POWER} и {@BALL_SPIN} {BALL}.#При выполнении {TOSS}, пока {SKILL} находится в состоянии {ACTIVATE}, немедленно восстанавливает {STAMINA} команды {TEAM} на [VAL.STAMINA]. #\[{ELITE_RULE}\] Восстанавливается {STAMINA}. Получатель — {PLAYER_TEAM_ALLY}, у которого {RULE/INDIVIDUAL_STAMINA} ниже всего."
+SKILL/STABLE_TOSS/DOLPA,
+SKILL/SUNFLOWER/TITLE,Подсолнух
+SKILL/SUNFLOWER/DES,Во время {ACTIVATE} {SKILL} выполняется {@TOSS} в сторону {@WS}.#{SKILL} можно включать и выключать (ON/OFF).
+SKILL/SUNFLOWER/DOLPA,
+SKILL/SUNHEART/TITLE,Солнечная душа
+SKILL/SUNHEART/DES,"Вероятность того, что {PLAYER} команды {TEAM} перейдут в состояние {@SAD}, уменьшается на [VAL.PROBABILITY, PER_DIFF]."
+SKILL/SUNHEART/DOLPA,
+SKILL/SUNRECEIVE/TITLE,Солнечный прием
+SKILL/SUNRECEIVE/DES,"При {@RECEIVE} {@DEFEND_RANGE} увеличивается на [VAL.DEFEND_RANGE, PER], {DEFENSE} — на [VAL.DEFENSE], а {SPEED} — на [VAL.SPEED]."
+SKILL/SUNRECEIVE/DOLPA,
+SKILL/SURPRISE_ATTACK/TITLE,Нападение
+SKILL/SURPRISE_ATTACK/DES,"Во время действия {SKILL} при {ACTIVATE} вместо {@TOSS} выполняется {@ATTACK_TWO}. В этот момент {@SPIKE} получает +[VAL.BALL_POWER, PER] к {@BALL_POWER} и не блокируется {@BLOCKING}."
+SKILL/SURPRISE_ATTACK/DOLPA,
+SKILL/THUNDER_FLOOR_HIT_ATTACK/TITLE,Эффект мощного мяча
+SKILL/THUNDER_FLOOR_HIT_ATTACK/DES,При столкновении {BALL} с землёй камера фокусируется.
+SKILL/THUNDER_FLOOR_HIT_ATTACK/DOLPA,
+SKILL/THUNDER_SPIKE/TITLE,Раскат грома
+SKILL/THUNDER_SPIKE/DES,"Если {DATEN} достигает [VAL.DATEN, NOTEN] или выше, выполняется {@SPIKE} с эффектом молнии и повышенными {@BALL_POWER} и {@BALL_SPIN}. В этот момент {SPIKE} получает {@SLIDING_KILLER_EFFECT}."
+SKILL/THUNDER_SPIKE/DOLPA_DES,"{BALL} {BALL_POWER} : +[CALC.BALL_POWER, PER], {BALL_SPIN} : +[VAL.BALL_SPIN, PER], {SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]"
+SKILL/THUNDER_SPIKE/DETAIL_DES,
+SKILL/TIGER_BARK/TITLE,Тигриный рёв
+SKILL/TIGER_BARK/DES,При первом {SERVE} в {MATCH} {PLAYER_TEAM_ENEMY} с очень высокой вероятностью переходят в состояние {@SAD}.
+SKILL/TIGER_BARK/DOLPA,
+SKILL/TIRE/TITLE,Шина
+SKILL/TIRE/DES,"Пока шина обёрнута вокруг тела, {SPEED} и {JUMP} снижаются. При выполнении {@RECEIVE} {GAUGE} шины {CHARGE}, а {STAMINA_TEAM_ALLY} восстанавливается на [VAL.STAMINA]. Когда {GAUGE} заполняется до максимума, шина рвётся, увеличивая {STRENGTH}, {JUMP} и {SPEED}. #\[{ELITE_RULE}\] Восстанавливается собственная {RULE/INDIVIDUAL_STAMINA}."
+SKILL/TIRE/DOLPA_DES,"(При наличии шины) {SPEED} : -[CALC.SPEED_DECREASE], {JUMP} : -[CALC.JUMP_DECREASE]#(При разрушении шины) {STRENGTH} : +[CALC.STRENGTH], {SPEED} : +[CALC.SPEED], {JUMP} : +[CALC.JUMP]"
+SKILL/TOP_SPIN_FEINT/TITLE,Обманный удар с верхним вращением
+SKILL/TOP_SPIN_FEINT/DES,"{BALL}, выполненный через {@FEINT}, падает быстрее из-за вращения."
+SKILL/TOP_SPIN_FEINT/DETAIL_DES,"{BALL} {BALL_SPIN} : +[VAL.BALL_SPIN, PER_UNCAPPED]"
+SKILL/TIGER_SCRATCH/TITLE,Тигриный коготь
+SKILL/TIGER_SCRATCH/DES,"На {PLAYER_TEAM_ENEMY}, успешно выполнившего {DEFEND} против {ATTACK}, накладывается метка.#{PLAYER} с меткой теряет [VAL.JUMP] {JUMP}. При накоплении метки он автоматически проваливает {DEFEND}, и метка снимается.#{PLAYER_TEAM_ENEMY}, проваливший {DEFEND}, с низкой вероятностью переходит в состояние {@SAD}."
+SKILL/TIGER_SCRATCH/DETAIL_DES,На отмеченного {PLAYER_TEAM_ENEMY} накладывается {@DEBUFF} уровня [VAL.DEBUFF_LEVEL].#{SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]
+SKILL/TWO_ATTACK_WHEN_POSSIBLE/TITLE,Атака связующего вторым касанием
+SKILL/TWO_ATTACK_WHEN_POSSIBLE/DES,В ситуации {TOSS_JUMP} переключается на {ATTACK} с помощью {@SPIKE}.
+SKILL/TWO_ATTACK_WHEN_POSSIBLE/DOLPA,
+SKILL/TWO_ATTACK_WHEN_SETTER_RECEIVE/TITLE,Атака вторым касанием после приёма связующего
+SKILL/TWO_ATTACK_WHEN_SETTER_RECEIVE/DES,"Если {@SE} успешно выполняет {@RECEIVE}, другой {PLAYER} немедленно выполняет {@SPIKE}."
+SKILL/TWO_ATTACK_WHEN_SETTER_RECEIVE/DOLPA,
+SKILL/VERY_FAR_TOSS/TITLE,Дальний пас
+SKILL/VERY_FAR_TOSS/DES,"Если расстояние до {NET} составляет примерно [VAL.DISTANCE, DIST] или больше, выполняется {@TOSS} с низким {@BALL_SPIN} и высоким {DATEN}."
+SKILL/VERY_FAR_TOSS/DOLPA,
+SKILL/WARM_UP/TITLE,Разминка
+SKILL/WARM_UP/DES,"Если не двигаться, выполняется отжимание.#Чем больше выполняется отжиманий, тем выше {STATUS} и {HEIGHT}. (Суммируется до [VAL.COUNT] раз)"
+SKILL/WARM_UP/DOLPA,
+SKILL/WARM_UP/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {DEFENSE} : +[CALC.DEFENSE], {SPEED} : +[CALC.SPEED], {JUMP} : +[CALC.JUMP], {HEIGHT} : +[CALC.HEIGHT]cm"
+SKILL/WEAK_TOP_SPIN_FEINT/TITLE,Изящный финт
+SKILL/WEAK_TOP_SPIN_FEINT/DES,"{BALL}, выполненный через {@FEINT}, падает быстрее из-за вращения."
+SKILL/WEAK_TOP_SPIN_FEINT/DOLPA_DES,"{BALL} {BALL_SPIN} : +[CALC.BALL_SPIN, PER_UNCAPPED]"
+SKILL/YOONSEOK/TITLE,Ма Юнсок
+SKILL/YOONSEOK/DES,"Вероятность того, что {PLAYER_TEAM_ENEMY} перейдут в состояние {@CARELESS}, увеличивается на [VAL.PROBABILITY, PER]."
+SKILL/YOONSEOK/DOLPA,
+SKILL/DEEPSPIKE_INSTEAD_FEINT/TITLE,Сжечь корабль
+SKILL/DEEPSPIKE_INSTEAD_FEINT/DES,При {@FEINT} в состоянии {MID_AIR} вместо этого выполняется вертикальный {@SPIKE}.
+SKILL/DEEPSPIKE_INSTEAD_FEINT/DOLPA,
+SKILL/ICARUS/TITLE,Крылья Икара
+SKILL/ICARUS/DES,При выполнении {@SPIKE} обновление личного рекорда {DATEN} временно повышает {@BALL_POWER} мяча {BALL}. {STRENGTH} и {JUMP} увеличиваются в зависимости от наивысшего {DATEN}.
+SKILL/ICARUS/DOLPA,
+SKILL/ICARUS/DETAIL_DES,"{@BALL_POWER} : +[VAL.BALL_POWER, PER], {@BALL_SPIN} : +[VAL.BALL_SPIN, PER]"
+SKILL/ICARUS/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {JUMP} : +[CALC.JUMP]"
+SKILL/ONEPOINT,Игрок одного очка
+SKILL/ONEPOINT/DES,При {POINT_LOSS} переходит в состояние {@SAD} на весь {MATCH}.
+SKILL/ONEPOINT/DOLPA,
+SKILL/HYBRID_FLOATER_SERVE/TITLE,Гибридная планирующая подача
+SKILL/HYBRID_FLOATER_SERVE/DES,"Неожиданно выполняет {SERVE_FLOATER} из стойки {SERVE_SPIKE}.#Если этот {SERVE} принять и выполнить {DEFEND}, {STAMINA} защищавшейся {TEAM} уменьшается на [VAL.STAMINA]. Если {PLAYER} с {DEFENSE} ниже [VAL.DEFENSE] принимает мяч с помощью {@SLIDING}, {BALL} отлетает далеко. #\[{ELITE_RULE}\] Когда эта {SERVE} принята и сработала {DEFEND}, {PLAYER_TEAM_ENEMY} получает эффект: его {RULE/INDIVIDUAL_STAMINA} уменьшается."
+SKILL/HYBRID_FLOATER_SERVE/DETAIL_DES,{SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]
+SKILL/RAUL_SERVE_TOSS/TITLE,Дальний подброс для подачи
+SKILL/RAUL_SERVE_TOSS/DES,Позволяет выполнять {@TOSS_SERVE} дальше вперёд.
+,
+SKILL/LONGSPIKE_TO_LINE/TITLE,Лайн-шот
+SKILL/LONGSPIKE_TO_LINE/DES,"Выполняет {@SPIKE}, нацеленный на {@LINE_END}."
+,
+SKILL/DARKCROW/TITLE,Тёмный ворон
+SKILL/DARKCROW/DES,"Выполняет {@SPIKE}, временно снижающий {DEFENSE} {PLAYER_TEAM_ENEMY}."
+SKILL/DARKCROW/DOLPA_DES,"Снижение {DEFENSE} : -[CALC.DEFENSE, PER_DIFF]"
+SKILL/DARKCROW/DETAIL_DES,
+SKILL/SPOTLIGHT_TOSS/TITLE,Пас под софитами
+SKILL/SPOTLIGHT_TOSS/DES,"При {SKILL} {ACTIVATE} выполняется низкий и медленно падающий {@TOSS} к {@WS}. Этот {TOSS} начинает светиться при приближении к верхней точке, и до этого момента {@SPIKE} невозможен.#При выполнении {SPIKE} по этому {TOSS}, {@BALL_POWER} {BALL} увеличивается на [VAL.BALL_POWER, PER], а {@BALL_SPIN} — на [VAL.BALL_SPIN].#Если {SPIKE} не выполнен, {WS} переходит в состояние {@SAD}."
+SKILL/SPOTLIGHT_TOSS/DOLPA,
+SKILL/ABYSS_TOSS/TITLE,Пас Бездны
+SKILL/ABYSS_TOSS/DES,"Чем ближе к вертикали выполняется {@SPIKE} после {@TOSS}, поднятого этим {PLAYER}, тем выше {@BALL_POWER} {BALL}."
+SKILL/ABYSS_TOSS/DOLPA_DES,"{BALL} {BALL_POWER} : максимум +[CALC.BALL_POWER, PER]"
+SKILL/ABYSS_TOSS/DETAIL_DES,
+SKILL/FLARE/TITLE,Вспышка
+SKILL/FLARE/DES,"Пока {SKILL} {ACTIVATE}, все {STATUS} увеличиваются. Однако в состоянии {DEACTIVATE} {STATUS} уменьшается в зависимости от количества {SKILL} {ACTIVATE}. (Снижение {STATUS} суммируется до [VAL.SKILL_COUNT] раз)#{TIMEOUT} и {SUBSTITUTION} сбрасывают эффект снижения {STATUS}."
+SKILL/FLARE/DOLPA,
+SKILL/FLARE/SLIDER_DES,"({SKILL} {ACTIVATE}) {STRENGTH} : +[CALC.STRENGTH], {DEFENSE} : +[CALC.DEFENSE], {SPEED} : +[CALC.SPEED], {JUMP} : +[CALC.JUMP]#({SKILL} {DEACTIVATE}) {STRENGTH} : -[CALC.STRENGTH_DECREASE], {DEFENSE} : -[CALC.DEFENSE_DECREASE], {SPEED} : -[CALC.SPEED_DECREASE], {JUMP} : -[CALC.JUMP_DECREASE]"
+SKILL/HELIOS/TITLE,Гелиос
+SKILL/HELIOS/DES,"При {SPIKE} в состоянии {MID_AIR} центр тяжести тела смещается вперёд, что приводит к быстрому снижению.#Чем выше скорость падения, тем больше увеличивается {@BALL_POWER} {BALL}."
+SKILL/HELIOS/DOLPA,
+SKILL/HELIOS/SLIDER_DES,"{BALL} {BALL_POWER} : +[CALC.BALL_POWER, PER], {SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]"
+SKILL/DEATH_FLOWER/TITLE,Цветок Смерти
+SKILL/DEATH_FLOWER/DES,"При {@RECEIVE} отмечает {PLAYER_TEAM_ENEMY}, совершившего последнее {TOUCH} мяча {BALL}. При {ACTIVATE} навыка {SKILL} у всех отмеченных {PLAYER_TEAM_ENEMY} на время снижаются {STATUS}.#Если у {PLAYER_TEAM_ENEMY} 2 или более меток, сразу после {ACTIVATE} навыка {SKILL} он ненадолго лишается возможности двигаться."
+SKILL/DEATH_FLOWER/DETAIL_DES,"{ACTIVATE} ({SKILL}): {PLAYER_TEAM_ENEMY} получает эффект «{@DEBUFF}», уровень которого равен количеству имеющихся меток."
+SKILL/DEATH_FLOWER/SLIDER_DES,"Цель {SKILL/DEATH_FLOWER/TITLE}: {STRENGTH}: -[CALC.STRENGTH], {DEFENSE}: -[CALC.DEFENSE], {SPEED}: -[CALC.SPEED], {JUMP}: -[CALC.JUMP]"
+SKILL/LIGHTSTEP_MB/TITLE,Лёгкое движение
+SKILL/LIGHTSTEP_MB/DES,Выполняет {@ATTACK_QUICK} с лёгким {APPROACH}.
+SKILL/LIGHTSTEP_MB/DOLPA,
+SKILL/REBOUND_FEINT/TITLE,Финт с отскоком
+SKILL/REBOUND_FEINT/DES,"Если при {@FEINT} мяч попадает в {@BLOCKING} {PLAYER_TEAM_ENEMY}, {BALL} возвращается на {COURT} команды {TEAM_ALLY}."
+SKILL/REBOUND_FEINT/DOLPA,
+SKILL/FLOWER_RECEIVE/TITLE,Цветочный приём
+SKILL/FLOWER_RECEIVE/DES,"{@DEFEND_RANGE} при {@RECEIVE} увеличивается на [VAL.DEFEND_RANGE, PER], а также увеличиваются {DEFENSE} и {SPEED}."
+SKILL/FLOWER_RECEIVE/DOLPA_DES,"{DEFENSE} : +[CALC.DEFENSE], {SPEED} : +[CALC.SPEED]"
+SKILL/FLOWER_RECEIVE/DETAIL_DES,
+SKILL/BRAVE_HEART/TITLE,Храброе сердце
+SKILL/BRAVE_HEART/DES,Изменяет состояние {SAD} на состояние {FOCUS}.
+SKILL/BRAVE_HEART/DOLPA,
+SKILL/SOLAR_FLARE/TITLE,Вспышка Солнечного Пятна
+SKILL/SOLAR_FLARE/DES,"При {@SPIKE} с определённой вероятностью активируется {SKILL/SOLAR_FLARE/TITLE}, при этом {@BALL_POWER} {BALL} увеличивается на [VAL.BALL_POWER, PER], а {BALL_SPIN} — на [VAL.BALL_SPIN]."
+SKILL/SOLAR_FLARE/DOLPA_DES,"Вероятность {ACTIVATE} {SKILL} : [CALC.PROBABILITY, PER]"
+SKILL/SOLAR_FLARE/DETAIL_DES,
+SKILL/LUCAS_SERVE_TOSS/TITLE,Дальний подброс для подачи
+SKILL/LUCAS_SERVE_TOSS/DES,"Минимальная скорость {@TOSS} увеличивается, что позволяет выполнять более длинный {@TOSS_SERVE}."
+SKILL/LUCAS_SERVE_TOSS/DOLPA,
+SKILL/STRONG_SPIKE/TITLE,Мощный удар
+SKILL/STRONG_SPIKE/DES,При активации навыка Атака ненадолго увеличивается.
+SKILL/STRONG_SPIKE/DOLPA,
+SKILL/FAST_BLOCK_CHARGE/TITLE,Быстрая подготовка
+SKILL/FAST_BLOCK_CHARGE/DES,"Скорость подготовки {BLOCKING} увеличивается на [VAL.BLOCK_SPEED, PER]."
+SKILL/POWER_BACK_ATTACK/TITLE,Сильная атака из задней линии
+SKILL/POWER_BACK_ATTACK/DES,"При выполнении {@SPIKE} из-за {@LINE_ATTACK}, {@BALL_POWER} {BALL} увеличивается на [VAL.BALL_POWER]."
+SKILL/PERFECT_SECOND_TOSS/TITLE,Идеальная передача вне системы
+SKILL/PERFECT_SECOND_TOSS/DES,"Выполняет вплотную к {NET} передачу {@TOSS_OUT}, удобную для {@SPIKE} доигровщика {@WS}."
+SKILL/OVERDRIVE/TITLE,Овердрайв
+SKILL/OVERDRIVE/DES,"После каждого {RALLY} происходит {CHARGE} шкалы {GAUGE} навыка {SKILL/OVERDRIVE/TITLE} на 10%.#Пока для {SKILL} действует {ACTIVATE}, повышаются {STATUS} всех {PLAYER} команды {TEAM}.#Чем больше {CHARGE} шкалы {GAUGE}, тем выше бонусы {STRENGTH} и {JUMP}, а также {SKILL_DURATION}.#Во время {SERVE} выполнить {ACTIVATE} нельзя. При {SERVE} значение {COMMON/SKILL/DURATION} не уменьшается."
+SKILL/OVERDRIVE/DOLPA,
+SKILL/OVERDRIVE/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {DEFENSE} : +[VAL.DEFENSE], {JUMP} : +[CALC.JUMP], {SKILL_DURATION} : +[CALC.SKILL_DURATION, SEC]"
+SKILL/CROWN_PASS/TITLE,Королевский пас
+SKILL/CROWN_PASS/DES,"В первую очередь выполняется {@TOSS} игроку {PLAYER} с наибольшим {STRENGTH} в команде {TEAM}.#Если {STRENGTH} этого {PLAYER} является самым высоким, вероятность {@ATTACK_TWO} увеличивается до [VAL.PROBABILITY, PER]."
+SKILL/WILD_POUNCE/TITLE,Дикий Прыжок
+SKILL/WILD_POUNCE/DES,"При движении в сторону {NET} происходит {CHARGE} {GAUGE}, и можно прыгнуть с ускорением, пропорциональным уровню {CHARGE}.#{MODE_AUTOMATIC}: в состоянии {MID_AIR} {GAUGE} заряжается автоматически."
+,
+SKILL/BEAST_SPIKE/TITLE,Звериный Нападающий удар
+SKILL/BEAST_SPIKE/DES,"{@BALL_POWER} и {@BALL_SPIN} мяча {BALL} растут пропорционально {CHARGE} шкалы {GAUGE} {SKILL} «{SKILL/WILD_POUNCE/TITLE}».#При максимуме {GAUGE} действие {@SPIKE} в сторону {NET} пробивает {@BLOCKING} игрока {PLAYER_TEAM_ENEMY}, но пробитие {BLOCKING} возможно только если ваша атака выше, чем {STRENGTH} игрока {PLAYER}, выполняющего {BLOCKING}.#При максимуме {GAUGE}, прыжке от {NET} и действии {SPIKE} срабатывает {@SLIDING_KILLER_EFFECT}. Однако такой {SPIKE} можно остановить с помощью {BLOCKING}.#В режиме {MODE_AUTOMATIC} прирост скорости всех {ATTACK} уменьшается на [VAL.PENALTY, PER]."
+SKILL/BEAST_SPIKE/DOLPA_DES,"({SPIKE} вперёд) {BALL_POWER} мяча {BALL}: +[CALC.BALL_POWER]#({SPIKE} назад) {BALL_POWER} мяча {BALL}: +[CALC.BALL_POWER_SECONDARY], {SLIDING_PENETRATION}: +[CALC.SLIDING_PENETRATION]#Бонус скорости {CHARGE} шкалы {GAUGE} при движении назад: [CALC.BACKWARD_CHARGE_BOOST, PER_SIGN]"
+SKILL/BEAST_SPIKE/DETAIL_DES,"Увеличивается прирост {BALL_POWER} {BALL}, зависящий от {CHARGE}, а также увеличивается скорость {CHARGE} при движении назад."
+SKILL/STRONGER_IF_LOSING/TITLE,Тёмная ночь
+SKILL/STRONGER_IF_LOSING/DES,"Чем выше {SCORE} команды {TEAM_ENEMY} по сравнению с {TEAM}, тем сильнее пропорционально увеличивается {STATUS}.#(Максимум [VAL.SCORE] стаков)"
+SKILL/STRONGER_IF_LOSING/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {SPEED} : +[CALC.SPEED], {JUMP} : +[CALC.JUMP]"
+SKILL/BEAST_FANG/TITLE,Клык Зверя
+SKILL/BEAST_FANG/DES,"Можно выполнять {@SPIKE} в более широком диапазоне, до примерно [VAL.DISTANCE, DIST]."
+,
+SKILL/GLADIUS_WALL/TITLE,Гладиус Уолл
+SKILL/GLADIUS_WALL/DES,"При {ACTIVATE} {SKILL} восстанавливает {STAMINA} команды {TEAM} на [VAL.STAMINA]. Пока {SKILL} находится в состоянии {ACTIVATE}, {DEFENSE} {PLAYER} команды {TEAM} увеличивается пропорционально {STRENGTH} каждого игрока. #\[{ELITE_RULE}\] Восстанавливается {STAMINA}. Получатель — {PLAYER_TEAM_ALLY}, у которого {RULE/INDIVIDUAL_STAMINA} ниже всего."
+SKILL/GLADIUS_WALL/DOLPA,
+SKILL/GLADIUS_WALL/SLIDER_DES,{DEFENSE} : +[CALC.DEFENSE]
+SKILL/ARMOR_OF_TEAM/TITLE,Броня команды
+SKILL/ARMOR_OF_TEAM/DES,"При {RECEIVE} подачи {SERVE} у всех {PLAYER} команды {TEAM} повышается {DEFENSE} на [VAL.DEFENSE] и {DEFEND_RANGE} на [VAL.DEFEND_RANGE, PER]."
+SKILL/ARMOR_OF_TEAM/DOLPA,
+SKILL/REINFORCEMENT/TITLE,Усиление
+SKILL/REINFORCEMENT/DES,За каждый успешный {@SERVE_ACE} подряд у {PLAYER_TEAM_ENEMY} все {PLAYER} команды {TEAM} получают {DEFENSE} +[VAL.DEFENSE].
+SKILL/REINFORCEMENT/DOLPA,
+SKILL/QUICK_RECOVERY/TITLE,Быстрое восстановление
+SKILL/QUICK_RECOVERY/DES,"Количество {STAMINA}, восстанавливаемое при {POINT_GAIN} и {POINT_LOSS}, увеличивается на [VAL.STAMINA, PER]."
+SKILL/QUICK_RECOVERY/DOLPA,
+SKILL/STABLE_PLAY/TITLE,Стабильная игра
+SKILL/STABLE_PLAY/DES,"Во время {RALLY} за каждые [VAL.TOTAL_TOUCHES] суммарных {TOUCH} обеих {TEAM} восстанавливает {STAMINA} команды {TEAM} на [VAL.STAMINA]. #\[{ELITE_RULE}\] Восстанавливается {STAMINA}. Получатель — {PLAYER_TEAM_ALLY}, у которого {RULE/INDIVIDUAL_STAMINA} ниже всего."
+SKILL/STABLE_PLAY/DOLPA,
+SKILL/EXCELLENT_CONCENTRATION/TITLE,Отличная концентрация
+SKILL/EXCELLENT_CONCENTRATION/DES,"Каждый раз, когда {PLAYER_TEAM_ENEMY} выполняет {@SERVE_ACE}, {STAMINA_MAX} команды {TEAM} постоянно увеличивается на [VAL.STAMINA]."
+SKILL/EXCELLENT_CONCENTRATION/DOLPA,
+SKILL/SPEED_SETTER/TITLE,Скоростной связующий
+SKILL/SPEED_SETTER/DES,"Величина снижения {SPEED}, вызванного продолжительностью {RALLY}, уменьшается на [VAL.RALLY_SPEED, PER_DIFF]."
+,
+SKILL/RAUL_FIRST_IMPACT/TITLE,Первый удар
+SKILL/RAUL_FIRST_IMPACT/DES,"При первом выполнении {@SPIKE} с максимальным {GAUGE} в ходе {MATCH}, {@BALL_POWER} {BALL} увеличивается на [VAL.BALL_POWER, PER], а {@BALL_SPIN} — на [VAL.BALL_SPIN, PER]."
+SKILL/SUNSHINE/TITLE,Саншайн
+SKILL/SUNSHINE/DES,При первом выходе этого игрока на {SUBSTITUTION} за {MATCH} все {PLAYER} команды {TEAM} переходят в состояние {@FOCUS}.
+SKILL/ROYAL_QUALITIES/TITLE,Королевское качество
+SKILL/ROYAL_QUALITIES/DES,"Если не управлять вручную, {STRENGTH} {PLAYER} уменьшается на [VAL.PENALTY, PER].#{MODE_AUTOMATIC} также применяется."
+SKILL/BRAVE_TIGER/TITLE,Лютый тигр
+SKILL/BRAVE_TIGER/DES,"Когда {PLAYER_TEAM_ENEMY} с самым низким {DEFENSE} в зоне {@COURT_BACK} отмечен меткой {SKILL/TIGER_SCRATCH/TITLE}, {STRENGTH} и {JUMP} увеличиваются."
+SKILL/BRAVE_TIGER/DOLPA_DES,"{STRENGTH} : +[CALC.STRENGTH], {JUMP} : +[CALC.JUMP]"
+SKILL/TIGER_HUNT/TITLE,Охота
+SKILL/TIGER_HUNT/DES,Отмечается {PLAYER_TEAM_ENEMY} с самым низким {DEFENSE} в зоне {@COURT_BACK}.#(Для лучшего обзора отмеченного {PLAYER_TEAM_ENEMY} рекомендуется изменить «Движение камеры» на «Фокус на команде соперника» в настройках.)
+,
+SKILL/THUNDER_SPARK/TITLE,Искра
+SKILL/THUNDER_SPARK/DES,"При выполнении {@SPIKE}, если {DATEN} ниже 4 м, {@BALL_POWER} {BALL} увеличивается."
+SKILL/THUNDER_SPARK/DOLPA_DES,"{BALL_POWER} : +[CALC.BALL_POWER, PER]"
+SKILL/FLYING_GUARD/TITLE,Опека
+SKILL/FLYING_GUARD/DES,"При {ACTIVATE} {SKILL}, игрок с наименьшим показателем {DEFENSE} среди {PLAYER_TEAM_ALLY} переходит в состояние Опека. #Во время состояния Опека, {DEFENSE} и {@DEFEND_RANGE} увеличиваются, а при защите от {SPIKE} состояние Опека снимается."
+SKILL/FLYING_GUARD/DETAIL_DES,"#Если {SKILL} {ACTIVATE} во время тайм-аута или ситуации с заменой, состояние Опека применяется к той позиции, к которой Опека применялась ранее."
+SKILL/FLYING_GUARD/DOLPA,"{DEFENSE} : +[CALC.DEFENSE], {DEFEND_RANGE} : +[CALC.DEFEND_RANGE, PER]"
+SKILL/GUARD_STRIKE/TITLE,Кара
+SKILL/GUARD_STRIKE/DES,При защите от {@FEINT} в состоянии Опека происходит переход в состояние Кара. #В состоянии Кара {STRENGTH} увеличивается.
+SKILL/GUARD_STRIKE/DOLPA,"{SKILL_DURATION} : [CALC.SKILL_DURATION, SEC], {STRENGTH} : +[CALC.STRENGTH]"
+SKILL/BLESSING/TITLE,Благословение
+SKILL/BLESSING/DES,"При первом {RECEIVE} {BALL}, прилетевшего с {COURT} команды {TEAM_ENEMY}, восстанавливает {STAMINA} команды {TEAM} на [VAL.STAMINA]. #\[{ELITE_RULE}\] Восстанавливается собственная {RULE/INDIVIDUAL_STAMINA}."
+SKILL/PAIN_KILLER/TITLE,Болеутоляющее
+SKILL/PAIN_KILLER/DES,"При {ACTIVATE} навыка {SKILL} у {PLAYER_TEAM_ALLY} повышаются {SPEED} и {DEFENSE}, а у самого владельца навыка — {STRENGTH} и {JUMP}.#Собственная {GRAVITY} повышается на [VAL.GRAVITY]%, а {SLIDING_WAKEUP_SPEED} — на [VAL.SLIDING_WAKEUP_SPEED]%."
+SKILL/PAIN_KILLER/DOLPA_DES,"({PLAYER_TEAM_ALLY}) {DEFENSE}: +[CALC.DEFENSE], {SPEED}: +[CALC.SPEED]#(самому себе) {STRENGTH}: +[CALC.STRENGTH], {JUMP}: +[VAL.JUMP]"
+SKILL/SANDMAN/TITLE,Песочный человек
+SKILL/SANDMAN/DES,Увеличивает длительность состояния {@SAD} у {PLAYER_TEAM_ENEMY} на [CALC.SKILL_DURATION_UI] секунд.
+SKILL/SANDMAN/DETAIL_DES,
+SKILL/CEMETERY_GATES/TITLE,Врата кладбища
+SKILL/CEMETERY_GATES/DES,"Когда {STAMINA_TEAM_ALLY} составляет [VAL.MIN_STAMINA]% или ниже, показатели {SPEED} и {DEFENSE} игрока {PLAYER_TEAM_ALLY} увеличиваются."
+SKILL/CEMETERY_GATES/DOLPA_DES,"{DEFENSE}: +[CALC.DEFENSE], {SPEED}: +[CALC.SPEED]"
+SKILL/COURT_COMPASS/TITLE,Компас на корте
+SKILL/COURT_COMPASS/DES,"При {TOSS} на мяче {BALL} появляется вращающийся компас.# Компас указывает на {COURT} команды {TEAM_ENEMY} в высшей точке {DATEN} игрока {WS}.# Чем ближе угол {SPIKE} к направлению компаса, тем больше увеличивается {ACCURACY}.# В зависимости от {ACCURACY} показатели {@BALL_POWER} и {@BALL_SPIN} мяча {BALL} увеличиваются или уменьшаются.# Чем чаще вы выполняете {SPIKE} с PERFECT {ACCURACY}, тем быстрее вращается компас до конца {MATCH}."
+SKILL/COURT_COMPASS/SLIDER_DES,"{@BALL_POWER}: [CALC.BALL_POWER_BY_ACCURACY]%, {@BALL_SPIN}: [CALC.BALL_SPIN_BY_ACCURACY]%"
+SKILL/TRIPLE_COMPASS/TITLE,Имперский указ
+SKILL/TRIPLE_COMPASS/DES,"При {ACTIVATE} навыка {SKILL} появляются 3 компаса.#Они вращаются с разной скоростью, но обязательно наступает момент, когда все указывают на {COURT} команды {TEAM_ENEMY}.#Бонус {BALL_POWER} от каждого компаса применяется независимо."
+SKILL/TRIPLE_COMPASS/DETAIL_DES,
+SKILL/KIND_DICTATOR/TITLE,Добрый тиран
+SKILL/KIND_DICTATOR/DES,При {TOSS_OPEN} выполняет быстро падающую передачу {TOSS}.#На максимальной высоте удара {WS} мяч {BALL} падает медленно в течение [VAL.PAUSE_TIME] сек.
+SKILL/TYPHOON/TITLE,Тайфун
+SKILL/TYPHOON/DES,"Пока {SKILL} {ACTIVATE}, {STRENGTH} и {JUMP} увеличиваются. Чем выше {SPEED}, тем сильнее растет {STRENGTH}."
+SKILL/TYPHOON/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {JUMP} : +[CALC.JUMP]"
+SKILL/GUST/TITLE,Порыв
+SKILL/GUST/DES,"Нажмите {BUTTON_SPIKE}, чтобы быстро переместиться к точке удара мяча {BALL}. В момент отпускания {BUTTON_SPIKE} персонаж быстро подпрыгнет к высшей точке удара."
+SKILL/GUST/DOLPA_DES,"Время подготовки к бегу: [CALC.READY_TIME] сек., скорость бега: [CALC.RUN_SPEED]"
+SKILL/BLADE_WIND/TITLE,Острый ветер
+SKILL/BLADE_WIND/DES,"Нажмите {BUTTON_SPIKE} в состоянии {MID_AIR}, чтобы ненадолго зависнуть в воздухе. В момент отпускания {BUTTON_SPIKE} выполняется {SWING}.# При выполнении {SPIKE} в состоянии {SKILL/TYPHOON/TITLE} на корте противника отображается цель.# Вы совершаете {SPIKE} в направлении последней точки, появившейся в момент отпускания {BUTTON_SPIKE}."
+SKILL/BLADE_WIND/SLIDER_DES,{BALL_POWER} мяча {BALL}: +[CALC.BALL_POWER]
+SKILL/TEMPEST_LASH/TITLE,Плеть бури
+SKILL/TEMPEST_LASH/DES,"Позволяет выполнять {@SPIKE} в более широком диапазоне, чем обычно."
+SKILL/CALM_BEFORE_THE_STORM/TITLE,Затишье перед бурей
+SKILL/CALM_BEFORE_THE_STORM/DES,Сразу после прыжка {SKILL/GUST/TITLE} противник временно движется медленнее.
+SKILL/CALM_BEFORE_THE_STORM/DOLPA_DES,"{SPEED} команды {TEAM_ENEMY}: -[CALC.SLOWER_RATIO, PER], {SKILL_DURATION}: [CALC.SLOWER_TIME] сек."
+SKILL/SOARING/TITLE,Парение
+SKILL/SOARING/DES,Во время нападающего удара в прыжке увеличивается скорость движения в воздухе.
+SKILL/SOARING/DOLPA_DES,"Скорость движения в воздухе : [CALC.AIR_MOVE_SPEED, PER_UNCAPPED]"
+SKILL/OUT_OF_SHAPE/TITLE,Слабая выносливость
+SKILL/OUT_OF_SHAPE/DES,"Величина снижения {SPEED} в зависимости от продолжительности {RALLY} увеличивается на [VAL.RALLY_SPEED, PER_DIFF]."
+,
+SKILL/BUNGEO_PPANG/TITLE,Пуноппан
+SKILL/BUNGEO_PPANG/DES,"При {ACTIVATE} {SKILL} достаёт и съедает пуноппан. При этом {STAMINA} команды {TEAM} восстанавливается на [VAL.STAMINA], а после поедания пуноппана все {STATUS} увеличиваются на время {SKILL_DURATION}. #\[{ELITE_RULE}\] Восстанавливается {STAMINA}. Получатель — {PLAYER_TEAM_ALLY}, у которого {RULE/INDIVIDUAL_STAMINA} ниже всего."
+SKILL/BUNGEO_PPANG/DOLPA_DES,"{STRENGTH}: +[CALC.STRENGTH], {DEFENSE}: +[CALC.DEFENSE], {SPEED}: +[CALC.SPEED], {JUMP}: +[CALC.JUMP]"
+SKILL/PROBLEM_SOLVER/TITLE,Решатель
+SKILL/PROBLEM_SOLVER/DES,"Пытается выполнить {@ATTACK_TWO}, когда {PLAYER_TEAM_ALLY} не может выполнить {@SPIKE} по мячу {BALL}, направленному через {@TOSS}, 2 раза подряд.#При {ATTACK_TWO} {@BALL_POWER} мяча {BALL} увеличивается на [VAL.BALL_POWER, PER] и игнорирует {@BLOCKING}."
+,
+SKILL/MIRACULOUS_TOSS/TITLE,Чудесная передача
+SKILL/MIRACULOUS_TOSS/DES,"При {ACTIVATE} навыка {SKILL} выполняет {SKILL/MIRACULOUS_TOSS/TITLE}.#{SKILL} действует, пока {PLAYER_TEAM_ALLY} не выполнит {SPIKE} после этой передачи {TOSS}.#При {@SPIKE} после этой передачи {TOSS} значение {BALL_POWER} мяча {BALL} растёт пропорционально преимуществу {TEAM_ENEMY} над {TEAM} по {SCORE}. Максимум — [VAL.SCORE] очков разницы."
+SKILL/MIRACULOUS_TOSS/SLIDER_DES,"{BALL_POWER} {BALL} : +[CALC.BALL_POWER, PER_UNCAPPED], {BALL_SPIN} {BALL} : +[CALC.BALL_SPIN],"
+SKILL/HEAD_TO_HEAD/TITLE,Прямое противостояние
+SKILL/CANNOT_SLIDE/TITLE,Испытания временем
+SKILL/CANNOT_SLIDE/DES,"Для завуча такие движения, как приём в падении, слишком тяжелы."
+,
+SKILL/EVERY_ACTION_SPIKE/TITLE,Нападающий удар всем телом
+SKILL/EVERY_ACTION_SPIKE/DES,"В зависимости от положения {BALL}, вы можете выполнять {SPIKE} в различных позах, что соответственно изменяет траекторию {SPIKE}."
+SKILL/CANCEL_BLOCK_ON_OUT/TITLE,Обход блока
+SKILL/CANCEL_BLOCK_ON_OUT/DES,"Для игроков под управлением ИИ, если точка падения {SPIKE} соперника находится в ауте, {BLOCKING} отменяется."
+SKILL/SOFT_SECOND_TOSS/TITLE,Мягкая вынужденная передача
+SKILL/SOFT_SECOND_TOSS/DES,Выполняет {@TOSS_OUT} в сторону линии атаки. При выполнении {SPIKE} по этому {TOSS} увеличивается {BALL_POWER} {BALL}.
+SKILL/SOFT_SECOND_TOSS/DOLPA_DES,"{BALL_POWER} {BALL}: +[CALC.BALL_POWER, PER]"
+SKILL/INTIMIDATION2/TITLE,Запугивание
+SKILL/INTIMIDATION2/DES,"Каждое {TOUCH} {BALL} добавляет 1 {STACK}. При достижении максимума {STACK} автоматически происходит {ACTIVATE} {SKILL}.#Во время {ACTIVATE} {SKILL} увеличивает {STRENGTH} на [VAL.STRENGTH] и {SPEED} на [VAL.SPEED]. Кроме того, {@BLOCKING} против {ATTACK} от {PLAYER_TEAM_ENEMY} с меньшей {STRENGTH}, чем у вас, всегда вызывает {@BLOCK_KILL}."
+SKILL/INTIMIDATION2/DOLPA_DES,Необходимое количество {STACK}: [DOL.STACK_COUNT]
+SKILL/IRON_CLAW/TITLE,Железный коготь
+SKILL/IRON_CLAW/DES,В зависимости от {ENERGY_COUNT} навыка {SKILL/METAL_BLOOD/TITLE} можно выполнять {SPIKE} в более широком диапазоне.
+SKILL/IRON_CLAW/SLIDER_DES,Радиус {SPIKE}: [CALC.CLAW_SCALE]
+SKILL/IRON_HALBERD/TITLE,Железная алебарда
+SKILL/IRON_HALBERD/DES,"За каждого S+ {PLAYER} в {TEAM_ALLY}, кроме себя, {STRENGTH} снижается на [CALC.STRENGTH], а {JUMP} — на [CALC.JUMP]."
+SKILL/HUNDRED_FORGED_STEEL/TITLE,Стократно Закалённая Сталь
+SKILL/HUNDRED_FORGED_STEEL/DES,Каждый {@ATTACK_QUICK} во время {RALLY} повышает {JUMP} и {STRENGTH} (до [VAL.MAX_COUNT] раз). Эффект сбрасывается после завершения {RALLY}.
+SKILL/HUNDRED_FORGED_STEEL/SLIDER_DES,"{JUMP}: +[CALC.JUMP], {STRENGTH}: +[CALC.STRENGTH]"
+SKILL/METAL_BLOOD/TITLE,Металлическая Кровь
+SKILL/METAL_BLOOD/DES,"Прыгает при пониженной {GRAVITY} и накапливает энергию в воздухе. При выполнении нападающего удара {@BALL_POWER} {BALL} увеличивается в зависимости от {ENERGY_COUNT}. Для {BALL}, не являющегося {@ATTACK_QUICK}, применяется только [VAL.PENALTY, PER] эффекта увеличения {BALL_POWER}."
+SKILL/METAL_BLOOD/DOLPA_DES,Время {CHARGE} {AIR}: -[CALC.AIR_CHARGE_TIME]{SEC}
+SKILL/METAL_BLOOD/SLIDER_DES,"{BALL_POWER} {BALL}: +[CALC.BALL_POWER, PER]"
+SKILL/READ_BLOCK/TITLE,Читающий блок
+SKILL/READ_BLOCK/DES,"Когда неуправляемый {PLAYER} выполняет {BLOCKING}, он следит за {TOSS} игрока {SE} и прыгает для {BLOCKING}."
+SKILL/FORTUNES_TURN/TITLE,Поворот Судьбы
+SKILL/FORTUNES_TURN/DES,"При {ACTIVATE} {SKILL} снижает уровень {@DEBUFF} у {PLAYER_TEAM_ALLY} на [VAL.DEBUFF_LEVEL]. (Если {DEBUFF} 1-го уровня, снимает его.)"
+SKILL/CORE_HIT/TITLE,Ключевой удар
+SKILL/CORE_HIT/DES,"В первую очередь выполняет передачу управляемому игроку.#Когда {@WS} выполняет {ATTACK_BACK} после передачи, {BALL_POWER} {BALL} увеличивается на [CALC.BALL_POWER, PER], а {SLIDING_PENETRATION} — на [CALC.SLIDING_PENETRATION].#Когда {@MB} выполняет {SPIKE} после передачи {@ATTACK_QUICK}, {BLOCKING_PENETRATION} увеличивается на [VAL.BLOCKING_PENETRATION]."
+SKILL/STEEL_MENTAL/TITLE,Стальная Воля
+SKILL/STEEL_MENTAL/DES,"При получении {@DEBUFF} [VAL.DEBUFF_LEVEL]-го уровня, если {DEFENSE} на [VAL.DEFENSE] выше, чем у наложившего эффект {PLAYER_TEAM_ENEMY}, {DEBUFF} немедленно снимается."
+SKILL/RICOCHET/TITLE,Рикошет
+SKILL/RICOCHET/DES,{JUDGE_TIME} для «{ONE_TOUCH}» увеличивается на [CALC.GOOD_BLOCKING_RANGE].
+특성 고유 명사,
+STRENGTH,Атака
+STRENGTH_DES,"Чем выше {STRENGTH}, тем мощнее {SPIKE}, и уменьшается отскок {BALL} после {BLOCKING}."
+JUMP,Сила прыжка
+DEFENSE,Защита
+SPEED,Скорость
+FOCUS,Полный фокус
+FOCUS_DES,"{CONDITION}, возникающее при {SERVE_ACE}, точном {BLOCKING} или {POINT_GAIN}. Значительно повышает {STATUS}."
+SAD,Без сил
+SAD_DES,"{CONDITION}, возникающее при неудачном {ATTACK} или {DEFEND}. Снижает {STATUS}."
+ANGRY,Взбудораженность
+ANGRY_DES,"{CONDITION}, возникающее при {SERVE_ACE} или неудачном {ATTACK}. Повышает {ATTACK} и {SPEED}, но снижает {DEFENSE} и {JUMP}."
+CARELESS,Беспечность
+CARELESS_DES,"{CONDITION}, возникающее, если {BALL} не касаются 5 раз подряд. Значительно снижает {DEFENSE} и {SPEED}."
+CONDITION,Состояние
+CONDITION_DES,Различные состояния {PLAYER} во время матча. Возвращается в норму после замены или со временем.
+STATUS,Характеристики
+SKILL,Навык
+DATEN,Высота удара
+TOGGLE_SKILL,Переключаемый навык
+ACTIVE_SKILL,Активный навык
+PASSIVE_SKILL,Пассивный навык
+ACTIVE,Активный
+PASSIVE,Пассивный
+FEATURE,Черта
+ACTIVATE,Активация
+DEACTIVATE,Деактивация
+HEIGHT,Рост
+MB,Центральный блокирующий
+MB_DES,"{PLAYER}, создающий возможности через {@ATTACK_QUICK} и {BLOCKING}."
+WS,Доигровщик
+WS_DES,"{PLAYER}, набирающий основные очки для {TEAM} с помощью {SPIKE}."
+SE,Связующий
+SE_DES,"{PLAYER}, поднимающий {TOSS} для {ATTACK}."
+PLAYER,Игрок
+NET,Сетка
+COURT,Площадка
+SPIKE,Нападающий удар
+SPIKE_DES,"Атакующее действие, при котором игрок прыгает у {NET} и сильно бьёт {BALL} вниз."
+RECEIVE,Прием
+RECEIVE_DES,"Защитное действие: принять и поднять мяч соперника, не давая ему упасть на площадку."
+TOSS,Пас
+TOSS_DES,"Связующее действие, мягко подбрасывающее {BALL} для {ATTACK}."
+BLOCKING,Блок
+BLOCKING_DES,"Прыжок перед {NET}, останавливающий {ATTACK} игрока {PLAYER_TEAM_ENEMY}. Чем выше {STRENGTH}, тем ниже скорость отскока {BALL} после {BLOCKING}."
+TOUCH,Касание
+DIG,Диг
+SLIDING,Приём в падении
+SLIDING_DES,"Защитное действие, при котором игрок снижает корпус и скользит по полу, спасая {BALL}.#Позволяет выполнять {DEFEND} без расхода {STAMINA}."
+APPROACH,Разбег
+ATTACK_BACK,Атака с задней линии
+SERVE_FLOATER,Планирующая подача в прыжке
+SERVE_SPIKE,Силовая подача
+SERVE_HYBRID,Гибридная планирующая подача
+SERVE_BASIC,Базовая подача
+SERVE,Подача
+SERVE_SKY,Небесная подача
+ATTACK_TWO,Атака вторым касанием
+ATTACK_TWO_DES,Неожиданный {ATTACK} по команде соперника со второго {TOUCH}.
+PASS_FEINT,Скидка
+PASS_FEINT_DES,"Действие, при котором {SE} неожиданно выполняет {ATTACK}, переправляя мяч на сторону соперника из положения {TOSS}."
+FOUR_HIT,Четыре удара
+FOUR_HIT_DES,"Ситуация нарушения, когда {TEAM} касается {BALL} четыре раза или более."
+DOUBLE_CONTACT,Двойное касание
+POINT_GAIN,Набор очков
+POINT_LOSS,Пропущенные очки
+SCORE,Счёт
+TEAM,Команда
+TEAM_ENEMY,Команда соперника
+TEAM_ALLY,Наша команда
+PLAYER_TEAM_ALLY,Товарищ по команде
+PLAYER_TEAM_ENEMY,Игрок соперника
+BALL,Мяч
+IN,В площадке
+OUT,Аут
+TOUCH_OUT,Тач-аут
+FREE_BALL,Шанс-бол
+FREE_BALL_DES,"Ситуация, когда мяч перелетает с достаточным временем для {DEFEND}.#{ATTACK} +15–30%"
+TOSS_OUT,Вынужденная передача
+TOSS_OUT_DES,"Ситуация, когда {TOSS} выполняет игрок, не являющийся {SE}."
+ATTACK_QUICK,Атака первым темпом
+ATTACK_QUICK_DES,"Быстрая атака по низкому мячу, который {SE} направляет для {MB}."
+TOSS_OPEN,Высокий пас
+TOSS_JUMP,Пас в прыжке
+TOSS_STANDING,Пас с места
+BLOCK_KILL,Убойный блок
+BLOCK_KILL_DES,"Точно выполненный {BLOCKING}, направляющий мяч на {COURT} соперника."
+BLOCK_SOFT,Смягчающий блок
+BLOCK_SOFT_DES,"Касание мяча, снижающее {BALL_POWER} при {SPIKE} соперника."
+FEINT,Финт
+FEINT_DES,"Легкий удар по {BALL}, чтобы перебросить его в свободную зону."
+TOSS_SERVE,Подброс для подачи
+TOSS_SERVE_DES,Подбрасывание {BALL} над головой для выполнения {SERVE}.
+REBOUND,Ребаунд
+OUT_OF_BOUND,Мяч вне площадки
+FAULT,Промах
+SERVE_ACE,Эйс
+SERVE_ACE_DES,{SERVE} напрямую приносит {POINT_GAIN}.
+THIRD_FINISH,Переброс третьим касанием
+MATCH,Матч
+RALLY,Розыгрыш
+TIMEOUT,Тайм-аут
+TOUCH_COUNT,Количество касаний
+SUBSTITUTION,Смена игроков
+ROTATION,Расстановка
+ROTATION_DES,"Правило, по которому при наборе очка на подаче соперника игроки смещаются на одну позицию."
+COURT_FRONT,Передняя линия
+COURT_FRONT_DES,"Ситуация, когда в начале {RALLY} {PLAYER} находится у сетки."
+COURT_BACK,Задняя линия
+COURT_BACK_DES,"Ситуация, когда по {ROTATION} {PLAYER} не находится у сетки."
+MID_AIR,В воздухе
+MID_AIR_DES,"Ситуация, когда {PLAYER} не касается {ON_GROUND}."
+ON_GROUND,На земле
+ATTACK,Атака
+DEFEND,Защита
+RANGE_ATTACK,Радиус атаки
+DEFEND_RANGE,Радиус защиты
+DEFEND_RANGE_DES,"Радиус, в котором {PLAYER} может среагировать на {BALL} и выполнить {RECEIVE}."
+SWING,Замах
+SWING_DES,Движение руки для выполнения {SPIKE}.
+LINE_END,Задняя линия
+LINE_END_DES,"Линия, обозначающая заднюю границу {COURT}.#{BALL}, приземлившийся за {LINE_END}, считается {OUT}."
+LINE_ATTACK,Линия атаки
+LINE_ATTACK_DES,"Линия, расположенная внутри {COURT}."
+STAMINA,Выносливость
+STAMINA_DES,"Показатель, отражающий, насколько стабильно {TEAM} может выдерживать при выполнении {DEFEND}. Снижается при каждом принятом {ATTACK}.#При нехватке {STAMINA} {DEFEND} проваливается."
+STAMINA_MAX,Максимальная выносливость
+STAMINA_TEAM_ALLY,Выносливость союзной команды
+STAMINA_TEAM_ENEMY,Выносливость команды соперника
+STAMINA_MAX_TEAM_ALLY,Максимальная выносливость союзной команды
+STAMINA_MAX_TEAM_ENEMY,Максимальная выносливость команды соперника
+BALL_SPIN,Вращение
+BALL_SPIN_DES,"Показатель, заставляющий {BALL} резко падать вниз."
+BALL_DAMAGE,Урон
+BALL_POWER,Сила
+BALL_POWER_DES,"Показатель, определяющий скорость {BALL}.#Чем выше значение, тем быстрее летит мяч и тем больше {BALL_DAMAGE} получает {PLAYER}, пытающийся выполнить {DEFEND}."
+BALL_POWER_VERTICAL,Вертикальная сила
+BALL_POWER_VERTICAL_DES,"{BALL_POWER}, действующая по вертикали у {BALL}."
+TRAJECTORY,Траектория
+CHARGE,Заряд
+GAUGE,Шкала
+ACCURACY,Точность
+SLIDING_PENETRATION,Пробивание приёма в падении
+BLOCKING_PENETRATION,Пробивание блока
+MODE_AUTOMATIC,Автоматический режим
+COMMON/SKILL/DURATION,Длительность
+BUTTON_SPIKE,Кнопка удара
+HOLD,Удержание
+MAX_DATEN,Максимальная высота удара
+TRAIL,След
+BALL_POWER_HORIZONTAL,Горизонтальная сила
+BALL_POWER_HORIZONTAL_DES,"{BALL_POWER}, действующая по горизонтали у {BALL}."
+SLIDING_KILLER_EFFECT,Эффект пробивания приёма в падении
+SLIDING_KILLER_EFFECT_DES,Приём в падении не позволяет полностью защититься: мяч отскакивает дальше.
+SLIDING_WAKEUP_SPEED,Скорость подъема после приёма в падении
+GRAVITY,Сила тяжести
+DEBUFF_LEVEL,Уровень негативного эффекта
+DEBUFF,Негативный эффект
+DEBUFF_DES,"Снижает {STATUS} у {PLAYER}, на которого наложен эффект."
+,
+팝업 슬라이더 내 표기용,
+SCORE_TEAM_ENEMY,Счёт команды соперника
+POINT,Очки
+DISTANCE_NET,Расстояние до сетки (м)
+METER,м
+PERCENT,%
+SCORE_DIFFERENCE,Разница в счёте
+RALLY_COUNT,Количество розыгрышей
+EVENT_COUNT,Раз
+SEED,Семя
+OBJECT_COUNT,Количество
+LUCAS_FALL_POWER,Уровень скорости падения
+SKILL_USE_COUNT,Количество использований навыка
+ENERGY,Энергия
+PUSH_UP,Отжимания
+SERVE_COUNT,Количество успешных подач
+CHARGED_COUNT,Уровень заряда
+BLADE_WIND_TARGET_COUNT,Количество целевых точек
+SEC,сек.
+ENERGY_COUNT,Количество зарядов энергии
+,
+,
+특화 노드,
+WEAKNESS_CORE/TITLE,{CORE}: {WEAKNESS}
+WEAKNESS_CORE/DES,"{CORE}, открывающее направление «{SPECIALIZATION}» типа «{WEAKNESS}». Повышать показатель «{LEVEL}» у узлов «{SPECIALIZATION}» можно только в ветке с наименьшей суммой значений «{LEVEL}»."
+SPEC_SERVE_ATTACK/TITLE,{STRENGTH}: {SERVE}
+SPEC_SERVE_ATTACK/DES,Повышает {STRENGTH} при {SERVE}.
+SPEC_SERVE_ATTACK/POS_EFF/STAT_MODIFIER/SERVE_ATTACK_POWER/DES,{STRENGTH}: {SERVE} +{value}
+SPEC_MENTAL_DAMAGE/TITLE,{DAMAGE}: снижение показателя «{MENTAL}»
+SPEC_MENTAL_DAMAGE/DES,В режиме «{ELITE_RULE}» ваша {ATTACK} сильнее снижает показатель соперника «{MENTAL}».
+SPEC_MENTAL_DAMAGE/POS_EFF/STAT_MODIFIER/MENTAL_DAMAGE/DES,{DAMAGE}: снижение показателя «{MENTAL}» +{value}
+SPEC_SPIN/TITLE,{BALL_SPIN}
+SPEC_SPIN/DES,Повышает показатель «{BALL_SPIN}» при {SPIKE}.
+SPEC_SPIN/POS_EFF/STAT_MODIFIER/SPIN/DES,{BALL_SPIN} +{value}
+SPEC_FRONT_ROW_ATTACK/TITLE,{STRENGTH}: {COURT_FRONT}
+SPEC_FRONT_ROW_ATTACK/DES,Повышает показатель «{STRENGTH}» при {SPIKE} из зоны «{COURT_FRONT}».
+SPEC_FRONT_ROW_ATTACK/POS_EFF/STAT_MODIFIER/FRONT_ROW_ATTACK_POWER/DES,В зоне «{COURT_FRONT}»: {STRENGTH} +{value}
+SPEC_SPIKE_POWER/TITLE,{BALL_POWER}: {SPIKE}
+SPEC_SPIKE_POWER/DES,Повышает показатель «{BALL_POWER}» при {SPIKE}.
+SPEC_SPIKE_POWER/POS_EFF/STAT_MODIFIER/SPIKE_POWER/DES,{BALL_POWER}: {SPIKE} +{value}
+SPEC_SPIKE_SWING_RANGE/TITLE,{RANGE}: {SWING} при {SPIKE}
+SPEC_SPIKE_SWING_RANGE/DES,Увеличивает показатель «{RANGE}» для движения «{SWING}» при {SPIKE}.
+SPEC_SPIKE_SWING_RANGE/POS_EFF/STAT_MODIFIER/SPIKE_SWING_RANGE/DES,{RANGE}: {SWING} при {SPIKE} +{value}
+SPEC_BACK_ATTACK/TITLE,{STRENGTH}: {COURT_BACK}
+SPEC_BACK_ATTACK/DES,Повышает показатель «{STRENGTH}» при {SPIKE} из-за линии «{LINE_ATTACK}».
+SPEC_BACK_ATTACK/POS_EFF/STAT_MODIFIER/BACK_ATTACK_SPIKE_POWER/DES,При выполнении приёма «{ATTACK_BACK}»: {STRENGTH} +{value}
+SPEC_ATTACK_POWER/TITLE,{STRENGTH}
+SPEC_ATTACK_POWER/DES,Повышает базовый показатель «{STRENGTH}».
+SPEC_ATTACK_POWER/POS_EFF/STAT_MODIFIER/ATTACK_POWER/DES,{STRENGTH} +{value}
+SPEC_SLIDING_PENETRATION/TITLE,{SLIDING_PENETRATION}
+SPEC_SLIDING_PENETRATION/DES,Повышает показатель «{SLIDING_PENETRATION}».
+SPEC_SLIDING_PENETRATION/POS_EFF/STAT_MODIFIER/SLIDING_PENETRATION/DES,{SLIDING_PENETRATION} +{value}
+SPEC_RECEIVE_RANGE/TITLE,{DEFEND_RANGE}: {RECEIVE}
+SPEC_RECEIVE_RANGE/DES,Повышает показатель «{DEFEND_RANGE}» при {RECEIVE}.
+SPEC_RECEIVE_RANGE/POS_EFF/STAT_MODIFIER/RECEIVE_DEFENSE_RANGE/DES,{DEFEND_RANGE}: {RECEIVE} +{value}
+SPEC_GOOD_RECEIVE_STABILITY/TITLE,Стабильность действия «{GOOD_RECEIVE}»
+SPEC_GOOD_RECEIVE_STABILITY/DES,После действия «{GOOD_RECEIVE}» {BALL} отскакивает более стабильно.
+SPEC_GOOD_RECEIVE_STABILITY/POS_EFF/STAT_MODIFIER/GOOD_RECEIVE_BALL_STABILITY/DES,{STABILITY}: {GOOD_RECEIVE} +{value}
+SPEC_SERVE_DEFENSE/TITLE,{DEFENSE}: защита от действия {SERVE}
+SPEC_SERVE_DEFENSE/DES,Повышает показатель «{DEFENSE}» при действии «{DEFEND}» против действия {SERVE}.
+SPEC_SERVE_DEFENSE/POS_EFF/STAT_MODIFIER/SERVE_DEFENSE_POWER/DES,{DEFENSE}: защита от действия {SERVE} +{value}
+SPEC_DEFENSE_POWER/TITLE,{DEFENSE}
+SPEC_DEFENSE_POWER/DES,Повышает базовый показатель «{DEFENSE}».
+SPEC_DEFENSE_POWER/POS_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+SPEC_SLIDING_RANGE/TITLE,{DEFEND_RANGE}: {SLIDING}
+SPEC_SLIDING_RANGE/DES,Повышает показатель «{DEFEND_RANGE}» при {SLIDING}.
+SPEC_SLIDING_RANGE/POS_EFF/STAT_MODIFIER/SLIDING_DEFENSE_RANGE/DES,{DEFEND_RANGE}: {SLIDING} +{value}
+SPEC_SLIDING_PROTECTION/TITLE,{PROTECTION}: {SLIDING}
+SPEC_SLIDING_PROTECTION/DES,После действия «{SLIDING}» {BALL} отскакивает более стабильно.
+SPEC_SLIDING_PROTECTION/POS_EFF/STAT_MODIFIER/SLIDING_RESISTANCE/DES,{PROTECTION}: {SLIDING} +{value}
+SPEC_SLIDING_ENDURANCE/TITLE,{ENDURANCE}: {SLIDING}
+SPEC_SLIDING_ENDURANCE/DES,"Уменьшает потерю показателя «{PROTECTION}» для действия {SLIDING}, когда {RALLY} затягивается."
+SPEC_SLIDING_ENDURANCE/POS_EFF/STAT_MODIFIER/SLIDING_ENDURANCE/DES,{ENDURANCE}: {SLIDING} +{value}
+SPEC_RECEIVE_ROLL_RESIST/TITLE,{RESIST}: {ROLLING} после действия {RECEIVE}
+SPEC_RECEIVE_ROLL_RESIST/DES,Повышает вероятность избежать переката после действия «{RECEIVE}».
+SPEC_RECEIVE_ROLL_RESIST/POS_EFF/STAT_MODIFIER/RECEIVE_ROLL_RESISTANCE/DES,{RECEIVE}: {RESIST} ({ROLLING}) +{value}
+SPEC_BLOCK_READY_SPEED/TITLE,{READY_SPEED}: {BLOCKING}
+SPEC_BLOCK_READY_SPEED/DES,Увеличивает скорость подготовки к действию {BLOCKING}.
+SPEC_BLOCK_READY_SPEED/POS_EFF/STAT_MODIFIER/BLOCK_READY_SPEED/DES,{READY_SPEED}: {BLOCKING} +{value}
+SPEC_BLOCK_PROTECTION/TITLE,Мощный {BLOCKING}
+SPEC_BLOCK_PROTECTION/DES,После действия «{BLOCKING}» с результатом «{ONE_TOUCH}» {BALL} отскакивает более стабильно.
+SPEC_BLOCK_PROTECTION/POS_EFF/STAT_MODIFIER/BLOCK_RESISTANCE/DES,{PROTECTION}: {BLOCKING} +{value}
+SPEC_BACK_DEFENSE/TITLE,{DEFENSE}: защита от действия {ATTACK_BACK}
+SPEC_BACK_DEFENSE/DES,"Повышает показатель «{DEFENSE}» при действии «{DEFEND}» против действия {SPIKE}, выполненного из-за линии «{LINE_ATTACK}»."
+SPEC_BACK_DEFENSE/POS_EFF/STAT_MODIFIER/BACK_ATTACK_DEFENSE_POWER/DES,{DEFENSE}: защита от действия {ATTACK_BACK} +{value}
+SPEC_FEINT_DEFENSE/TITLE,{DEFENSE}: защита от действия {FEINT}
+SPEC_FEINT_DEFENSE/DES,Повышает показатель «{DEFENSE}» при действии «{DEFEND}» против действия {FEINT}.
+SPEC_FEINT_DEFENSE/POS_EFF/STAT_MODIFIER/FEINT_DEFENSE_POWER/DES,{DEFENSE}: защита от действия {FEINT} +{value}
+SPEC_SPEED/TITLE,{SPEED}
+SPEC_SPEED/DES,Повышает базовый показатель «{SPEED}».
+SPEC_SPEED/POS_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+SPEC_OFF_COURT_SPEED/TITLE,{MOVE_SPEED} за пределами площадки «{COURT}»
+SPEC_OFF_COURT_SPEED/DES,Повышает показатель «{SPEED}» за пределами площадки «{COURT}».
+SPEC_OFF_COURT_SPEED/POS_EFF/STAT_MODIFIER/OFF_COURT_MOVE_SPEED/DES,{SPEED} за пределами площадки «{COURT}» +{value}
+SPEC_BLOCK_JUMP/TITLE,{JUMP}: {BLOCKING}
+SPEC_BLOCK_JUMP/DES,"Повышает показатель «{JUMP}», увеличивая высоту прыжка при {BLOCKING}."
+SPEC_BLOCK_JUMP/POS_EFF/STAT_MODIFIER/BLOCK_JUMP/DES,{JUMP}: {BLOCKING} +{value}
+SPEC_MENTAL_REGEN/TITLE,{MENTAL}: непрерывное восстановление
+SPEC_MENTAL_REGEN/DES,Непрерывно восстанавливает ресурс «{MENTAL}» в режиме «{ELITE_RULE}».
+SPEC_MENTAL_REGEN/POS_EFF/STAT_MODIFIER/MENTAL_REGEN/DES,{RECOVERY_AMOUNT} в секунду: {value:ratio}
+SPEC_FEINT_DROP_SPEED/TITLE,{DROP_SPEED}: {FEINT}
+SPEC_FEINT_DROP_SPEED/DES,Повышает показатель «{DROP_SPEED}» при {FEINT}.
+SPEC_FEINT_DROP_SPEED/POS_EFF/STAT_MODIFIER/FEINT_DROP_SPEED/DES,{DROP_SPEED}: {FEINT} +{value}
+SPEC_CONDITION_CONTROL/TITLE,Управление параметром «{CONDITION}»
+SPEC_CONDITION_CONTROL/DES,"{CORE}, открывающее направление «{SPECIALIZATION}» для параметра «{CONDITION}». Уменьшает показатель «{KEEP_TIME}» у состояний «{SAD}» и «{CARELESS}»."
+SPEC_CONDITION_CONTROL/POS_EFF/STAT_MODIFIER/SAD_DURATION/DES,{KEEP_TIME} состояния «{SAD}» +{value}
+SPEC_CONDITION_CONTROL/POS_EFF/STAT_MODIFIER/CARELESS_DURATION/DES,{KEEP_TIME}: {CONDITION} «{CARELESS}» +{value}
+SPEC_FOCUS_DURATION/TITLE,{KEEP_TIME} состояния «{FOCUS}»
+SPEC_FOCUS_DURATION/DES,Увеличивает показатель «{KEEP_TIME}» состояния «{FOCUS}».
+SPEC_FOCUS_DURATION/POS_EFF/STAT_MODIFIER/FOCUS_DURATION/DES,{KEEP_TIME} состояния «{FOCUS}» +{value}
+SPEC_ANGRY_DURATION/TITLE,{KEEP_TIME}: {ANGRY}
+SPEC_ANGRY_DURATION/DES,Увеличивает {KEEP_TIME} состояния {ANGRY}.
+SPEC_ANGRY_DURATION/POS_EFF/STAT_MODIFIER/ANGRY_DURATION/DES,{KEEP_TIME} состояния «{ANGRY}» +{value}
+SPEC_ANGRY_DURATION/POS_EFF/STAT_MODIFIER/JUMP_POWER/DES,{JUMP} +{value}
+SPEC_ANGRY_DURATION/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+SPEC_TRAIT_COOLDOWN/TITLE,Сокращение параметра «{SKILL_COOLDOWN}»
+SPEC_TRAIT_COOLDOWN/DES,Сокращает показатель «{SKILL_COOLDOWN}» для навыков типа «{ACTIVE_SKILL}».
+SPEC_TRAIT_COOLDOWN/POS_EFF/STAT_MODIFIER/TRAIT_COOLDOWN/DES,{SKILL_COOLDOWN} +{value}
+SPEC_TRAIT_DURATION/TITLE,Увеличение параметра «{SKILL_DURATION}»
+SPEC_TRAIT_DURATION/DES,Увеличивает показатели «{SKILL_DURATION}» и «{SKILL_COOLDOWN}» для навыков типа «{ACTIVE_SKILL}».
+SPEC_TRAIT_DURATION/POS_EFF/STAT_MODIFIER/TRAIT_DURATION/DES,{SKILL_DURATION} +{value}
+SPEC_TRAIT_DURATION/NEG_EFF/STAT_MODIFIER/TRAIT_COOLDOWN/DES,{SKILL_COOLDOWN} +{value}
+SPEC_JUMP_POWER/TITLE,{JUMP}
+SPEC_JUMP_POWER/DES,Повышает базовый показатель «{JUMP}».
+SPEC_JUMP_POWER/POS_EFF/STAT_MODIFIER/JUMP_POWER/DES,{JUMP} +{value}
+SPEC_SPIKE_ANGLE/TITLE,{ANGLE}: {SPIKE}
+SPEC_SPIKE_ANGLE/DES,"Позволяет выполнять {SPIKE} под более крутым, близким к вертикали углом."
+SPEC_SPIKE_ANGLE/POS_EFF/STAT_MODIFIER/SPIKE_ANGLE/DES,{ANGLE}: {SPIKE} +{value}
+SPEC_AIR_MOVE_SPEED/TITLE,{MOVE_SPEED} {AIR}
+SPEC_AIR_MOVE_SPEED/DES,Повышает показатель «{MOVE_SPEED}» {AIR} после действия «{SPIKE_JUMP}».
+SPEC_AIR_MOVE_SPEED/POS_EFF/STAT_MODIFIER/AIR_MOVE_SPEED/DES,{MOVE_SPEED} {AIR} при {SPIKE} +{value}
+SPEC_MULTIPLE_SWING/TITLE,{MULTIPLE_SWING}
+SPEC_MULTIPLE_SWING/DES,Позволяет выполнять дополнительный {SWING} {AIR}.
+,
+SPEC_SPEED_RETENTION/TITLE,{ENDURANCE}: {SPEED}
+SPEC_SPEED_RETENTION/DES,"Уменьшает потерю показателя «{SPEED}», когда {RALLY} затягивается."
+SPEC_SPEED_RETENTION/POS_EFF/STAT_MODIFIER/SPEED_RETENTION/DES,{ENDURANCE}: {SPEED} +{value}
+SPEC_STAMINA_REGEN/TITLE,{REGEN}: {STAMINA}
+SPEC_STAMINA_REGEN/DES,Повышает показатель «{REGEN}» для ресурса «{STAMINA}».
+SPEC_STAMINA_REGEN/POS_EFF/STAT_MODIFIER/STAMINA_REGEN/DES,{REGEN}: {STAMINA} +{value}
+SPEC_STAMINA_BASE/TITLE,Базовое значение: {STAMINA}
+SPEC_STAMINA_BASE/DES,Повышает показатель «{STAMINA_MAX}».
+SPEC_STAMINA_BASE/POS_EFF/STAT_MODIFIER/STAMINA_FLAT/DES,{STAMINA_MAX} +{value}
+SPEC_SLIDING_RECOVERY/TITLE,{SLIDING_WAKEUP_SPEED}
+SPEC_SLIDING_RECOVERY/DES,Повышает показатель «{SLIDING_WAKEUP_SPEED}».
+SPEC_SLIDING_RECOVERY/POS_EFF/STAT_MODIFIER/SLIDING_RECOVERY_SPEED/DES,{SLIDING_WAKEUP_SPEED} +{value}
+SPEC_WEAK_ATTACK_POWER/TITLE,Снижение показателя «{STRENGTH}»
+SPEC_WEAK_ATTACK_POWER/DES,Снижает базовый показатель «{STRENGTH}».
+SPEC_WEAK_ATTACK_POWER/NEG_EFF/STAT_MODIFIER/ATTACK_POWER/DES,{STRENGTH} +{value}
+SPEC_WEAK_SERVE_ATTACK/TITLE,Снижение {SERVE} {STRENGTH}
+SPEC_WEAK_SERVE_ATTACK/DES,{SERVE} {STRENGTH} уменьшается.
+SPEC_WEAK_SERVE_ATTACK/NEG_EFF/STAT_MODIFIER/SERVE_ATTACK_POWER/DES,{SERVE} {STRENGTH} +{value}
+SPEC_WEAK_BACK_ATTACK/TITLE,Снижение {COURT_BACK} {STRENGTH}
+SPEC_WEAK_BACK_ATTACK/DES,Снижает показатель «{STRENGTH}» при {SPIKE} из-за линии «{LINE_ATTACK}».
+SPEC_WEAK_BACK_ATTACK/NEG_EFF/STAT_MODIFIER/BACK_ATTACK_SPIKE_POWER/DES,В этой ситуации {STRENGTH} +{value}
+SPEC_WEAK_FRONT_ROW_ATTACK/TITLE,Снижение {COURT_FRONT} {STRENGTH}
+SPEC_WEAK_FRONT_ROW_ATTACK/DES,Снижает показатель «{STRENGTH}» при {SPIKE} из зоны «{COURT_FRONT}».
+SPEC_WEAK_FRONT_ROW_ATTACK/NEG_EFF/STAT_MODIFIER/FRONT_ROW_ATTACK_POWER/DES,В этой ситуации {STRENGTH} +{value}
+SPEC_WEAK_DEFENSE_RANGE/TITLE,Сокращение {RECEIVE} {DEFEND_RANGE}
+SPEC_WEAK_DEFENSE_RANGE/DES,{RECEIVE} {DEFEND_RANGE} уменьшается.
+SPEC_WEAK_DEFENSE_RANGE/NEG_EFF/STAT_MODIFIER/RECEIVE_DEFENSE_RANGE/DES,{RECEIVE} {DEFEND_RANGE} +{value}
+SPEC_WEAK_SLIDING_DEFENSE_RANGE/TITLE,Снижение {SLIDING} {DEFEND_RANGE}
+SPEC_WEAK_SLIDING_DEFENSE_RANGE/DES,{SLIDING} {DEFEND_RANGE} уменьшается.
+SPEC_WEAK_SLIDING_DEFENSE_RANGE/NEG_EFF/STAT_MODIFIER/SLIDING_DEFENSE_RANGE/DES,{SLIDING} {DEFEND_RANGE} +{value}
+SPEC_WEAK_BLOCK_JUMP/TITLE,Снижение {BLOCKING} {JUMP}
+SPEC_WEAK_BLOCK_JUMP/DES,{BLOCKING} {JUMP} уменьшается.
+SPEC_WEAK_BLOCK_JUMP/NEG_EFF/STAT_MODIFIER/BLOCK_JUMP/DES,{BLOCKING} {JUMP} +{value}
+SPEC_WEAK_RALLY_SPEED_DECAY/TITLE,Усиленное снижение {SPEED} при {RALLY}
+SPEC_WEAK_RALLY_SPEED_DECAY/DES,Потеря {SPEED} при продолжении {RALLY} увеличивается.
+SPEC_WEAK_RALLY_SPEED_DECAY/NEG_EFF/STAT_MODIFIER/SPEED_RETENTION/DES,{SPEED} {ENDURANCE} +{value}
+SPEC_WEAK_JUMP_POWER/TITLE,Снижение {JUMP}
+SPEC_WEAK_JUMP_POWER/DES,Базовое значение {JUMP} уменьшается.
+SPEC_WEAK_JUMP_POWER/NEG_EFF/STAT_MODIFIER/JUMP_POWER/DES,{JUMP} +{value}
+SPEC_WEAK_ROLLING_CHANCE/TITLE,Повышение вероятности {ROLLING}
+SPEC_WEAK_ROLLING_CHANCE/DES,Вероятность переката после {RECEIVE} увеличивается.
+SPEC_WEAK_ROLLING_CHANCE/NEG_EFF/STAT_MODIFIER/RECEIVE_ROLL_RESISTANCE/DES,{RECEIVE}: {RESIST} ({ROLLING}) +{value}
+SPEC_WS_BACK_ATTACKER/TITLE,{BACK_ATTACKER}
+SPEC_WS_BACK_ATTACKER/DES,Повышает показатель «{STRENGTH}» при {SPIKE} из-за линии «{LINE_ATTACK}».
+SPEC_WS_BACK_ATTACKER/POS_EFF/STAT_MODIFIER/BACK_ATTACK_SPIKE_POWER/DES,В этой ситуации {STRENGTH} +{value}
+SPEC_WS_BACK_ATTACKER/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+SPEC_WS_BACK_ATTACKER/NEG_EFF/STAT_MODIFIER/SPIKE_JUMP_POWER/DES,{JUMP}: {SPIKE} +{value}
+SPEC_WS_CLOSER/TITLE,Решатель
+SPEC_WS_CLOSER/DES,Повышает показатель «{BALL_POWER}» при {SPIKE} после передачи «{TOSS_OPEN}».
+SPEC_WS_CLOSER/NEG_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+SPEC_WS_CLOSER/NEG_EFF/STAT_MODIFIER/RECEIVE_DEFENSE_RANGE/DES,{RECEIVE} {DEFEND_RANGE} +{value}
+,
+SPEC_WS_PREDATOR/TITLE,Хищник
+SPEC_WS_PREDATOR/DES,Повышает показатель «{BALL_POWER}» при {SPIKE} после движения к объекту «{NET}» не менее заданного времени.
+SPEC_WS_PREDATOR/NEG_EFF/STAT_MODIFIER/SPIKE_JUMP_POWER/DES,{JUMP}: {SPIKE} +{value}
+SPEC_WS_PREDATOR/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+,
+SPEC_WS_CHANCE_SPIKE_POWER/TITLE,{SPIKE}: {CHANCE}
+SPEC_WS_CHANCE_SPIKE_POWER/DES,С определённой вероятностью повышает {BALL_POWER} при {SPIKE} в ситуации {FREE_BALL}.
+SPEC_WS_CHANCE_SPIKE_POWER/NEG_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+,
+SPEC_WS_CHANCE_SPIKE_POWER/SKILLFEATURE/CHANCE_SPIKE_POWER/ATTACK_POWER/DES,В этой ситуации {STRENGTH} +[ATTACK_POWER]
+SPEC_WS_UNASSISTED_SPIKE_ATTACK_POWER/TITLE,Специалист по действию «{ATTACK}» вне системы
+SPEC_WS_UNASSISTED_SPIKE_ATTACK_POWER/DES,"С определенной вероятностью повышает показатель «{STRENGTH}» при {SPIKE}, если действие «{SECOND_TOUCH}» выполняют {PLAYER}, не играющие на позиции «{SE}»."
+,
+SPEC_WS_UNASSISTED_SPIKE_ATTACK_POWER/SKILLFEATURE/UNASSISTED_SPIKE_ATTACK_POWER/ATTACK_POWER/DES,В этой ситуации {STRENGTH} +[ATTACK_POWER]
+SPEC_WS_DIRECT_SPIKE_POWER/TITLE,{DIRECT_SPIKE}
+SPEC_WS_DIRECT_SPIKE_POWER/DES,Повышает показатель «{BALL_POWER}» при {DIRECT_SPIKE}.
+,
+SPEC_MB_FORGE/TITLE,{FORGE}
+SPEC_MB_FORGE/DES,"Каждое действие «{BLOCKING}» дает заряды эффекта «{FORGE}», повышая показатель «{STACK}». Показатель «{STRENGTH}» растет пропорционально накопленному значению «{STACK}»."
+SPEC_MB_FORGE/NEG_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+SPEC_MB_FORGE/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+,
+,
+,
+,
+SPEC_MB_PRECISE_BLOCK/TITLE,Более точный {BLOCKING}
+SPEC_MB_PRECISE_BLOCK/DES,При полностью заряженном действии «{BLOCK_JUMP}» повышает показатель «{STRENGTH}» {AIR}. При недостаточном заряде снижает показатель «{JUMP}» для действия {BLOCKING} и показатель «{STRENGTH}» {AIR}.
+,
+,
+,
+,
+SPEC_SE_ONE_SHOT/TITLE,Нужен мощный удар
+SPEC_SE_ONE_SHOT/DES,Повышает показатель «{BALL_POWER}» действия {SPIKE} после передачи «{TOSS_OPEN}». Снижает показатель «{BALL_POWER}» действия {SPIKE} после других вариантов действия «{TOSS}».
+,
+,
+,
+SPEC_SE_OPENING/TITLE,Специалист по действию {QUICK_ATTACK}
+SPEC_SE_OPENING/DES,Повышает показатель «{BALL_POWER}» действия {SPIKE} после передачи «{TOSS_QUICK}». Снижает показатель «{BALL_POWER}» действия {SPIKE} после других вариантов действия «{TOSS}».
+,
+,
+,
+SPEC_ISABEL_PARRY_CHARGE/TITLE,{CHARGED_COUNT}: {GAUGE} навыка «{SKILL/PARRY/TITLE}»
+SPEC_ISABEL_PARRY_CHARGE/DES,{EXCLUSIVE} для персонажа «{ISABEL}». Увеличивает вместимость показателя «{GAUGE}» навыка «{SKILL/PARRY/TITLE}».
+,
+SPEC_ISABEL_PARRY_DRAIN/TITLE,Постепенный расход навыка «{SKILL/PARRY/TITLE}»
+SPEC_ISABEL_PARRY_DRAIN/DES,Каждый действие {SPIKE} расходует небольшую часть показателя «{GAUGE}» навыка «{SKILL/PARRY/TITLE}».
+,
+SPEC_ATTACK_GATE_1/TITLE,Развитие направления «{ATTACK}»
+SPEC_ATTACK_GATE_1/DES,"{CORE}, открывающее направление «{ATTACK}» в системе «{SPECIALIZATION}». Повышает базовый показатель «{STRENGTH}»."
+SPEC_ATTACK_GATE_1/POS_EFF/STAT_MODIFIER/ATTACK_POWER/DES,{STRENGTH} +{value}
+SPEC_DEFENSE_GATE_1/TITLE,Развитие направления «{DEFEND}»
+SPEC_DEFENSE_GATE_1/DES,"{CORE}, открывающее направление «{DEFEND}» в системе «{SPECIALIZATION}». Повышает базовый показатель «{DEFENSE}»."
+SPEC_DEFENSE_GATE_1/POS_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+SPEC_IDENTITY_GATE_1/TITLE,Развитие направления «{IDENTITY}»
+SPEC_IDENTITY_GATE_1/DES,"{CORE}, открывающее направление «{IDENTITY}» в системе «{SPECIALIZATION}». Повышает базовый показатель «{SPEED}»."
+SPEC_IDENTITY_GATE_1/POS_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+SPEC_JUMP_TRADE_OFF/TITLE,Еще немного выше
+SPEC_JUMP_TRADE_OFF/DES,"Повышает базовый показатель «{JUMP}», но снижает показатель «{BALL_POWER}» действия {SPIKE}."
+SPEC_JUMP_TRADE_OFF/POS_EFF/STAT_MODIFIER/JUMP_POWER/DES,{JUMP} +{value}
+SPEC_JUMP_TRADE_OFF/NEG_EFF/STAT_MODIFIER/SPIKE_POWER/DES,{BALL_POWER}: {SPIKE} +{value}
+SPEC_SE_PASS_FEINT/TITLE,{PASS_FEINT}
+SPEC_SE_PASS_FEINT/DES,Повышает вероятность попытки выполнить действие {PASS_FEINT}.
+,
+SPEC_SE_PASS_FEINT/NEG_EFF/STAT_MODIFIER/RECEIVE_DEFENSE_RANGE/DES,{RECEIVE} {DEFEND_RANGE} +{value}
+SPEC_SE_SURPRISE_SPIKE/TITLE,{SURPRISE}
+SPEC_SE_SURPRISE_SPIKE/DES,Повышает вероятность попытки выполнить действие {SPIKE} вместо действия «{TOSS}» в ситуации «{SECOND_TOUCH}».
+,
+SPEC_SE_SURPRISE_SPIKE/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+SPEC_JAEHYUN_COOL_HEADED/TITLE,{NAM_JAEHYUN} : Хладнокровие
+SPEC_JAEHYUN_COOL_HEADED/DES,"Меняет условие активации навыка «{SKILL/DETERMINATION/TITLE}» на значение показателя «{STAMINA}» в 40%.#Пока активен навык «{SKILL/DETERMINATION/TITLE}», повышает показатели «{DEFENSE}» и «{SPEED}»."
+,
+,
+,
+,
+SPEC_YEONGSUB_BLOCK_OUT/TITLE,{LEE_YOUNGSEOB} : {SPIKE} против действия {BLOCK_SOFT}
+SPEC_YEONGSUB_BLOCK_OUT/DES,"Когда действие {SPIKE} попадает в {BLOCK_SOFT} соперника, {BALL} отскакивает быстрее."
+,
+SPEC_SEOLHWA_COURT_CONTROL/TITLE,{HAN_SOLHWA} : Контроль зоны «{COURT}»
+SPEC_SEOLHWA_COURT_CONTROL/DES,"Увеличивает время, заданное показателем «{SKILL_COOLDOWN}» навыка «{SURPRISE}», и позволяет использовать его только в состоянии «{ON_GROUND}».#На время действия навыка «{SURPRISE}», заданное параметром «{SKILL_DURATION}», любой {PLAYER_TEAM_ALLY} выполняет действие «{ATTACK}», игнорирующее {BLOCKING}."
+SPEC_SEOLHWA_COURT_CONTROL/NEG_EFF/STAT_MODIFIER/TRAIT_COOLDOWN/DES,{SKILL_COOLDOWN} +{value}
+SPEC_CORNERED/TITLE,В безвыходном положении
+SPEC_CORNERED/DES,"Повышает показатель «{SLIDING_WAKEUP_SPEED}», когда значение «{STAMINA}» не превышает заданный порог."
+SPEC_CORNERED/SKILLFEATURE/CORNERED_SLIDING_POWER/SLIDING_RECOVERY_SPEED/DES,В этой ситуации {SLIDING_WAKEUP_SPEED} +[SLIDING_RECOVERY_SPEED]
+SPEC_CORNERED/SKILLFEATURE/CORNERED_SLIDING_POWER/CORNERED_STAMINA_CONDITION/DES,"Активируется, когда значение «{STAMINA}» не превышает [CORNERED_STAMINA_CONDITION]"
+SPEC_MB_BLOCKING_REGEN/TITLE,Передышка благодаря действию {ONE_TOUCH}
+SPEC_MB_BLOCKING_REGEN/DES,Восстанавливает показатель «{STAMINA}» при успешном действии «{BLOCKING}» с результатом «{ONE_TOUCH}».
+SPEC_MB_BLOCKING_REGEN/NEG_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+,
+SPEC_MB_SPEAR_LINK/TITLE,"{QUICK_ATTACK}, рассекающая зону «{COURT}»"
+SPEC_MB_SPEAR_LINK/DES,Повышает показатель «{BALL_POWER}» при {SPIKE} после передачи «{TOSS_QUICK}».
+SPEC_MB_SPEAR_LINK/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+SPEC_MB_SPEAR_LINK/NEG_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+,
+SPEC_FLOATER_SERVE_RECEIVE/TITLE,{STABILITY}: действие «{DEFEND}» против подачи «{INGAME/SERVE/JUMP_FLOATER}»
+SPEC_FLOATER_SERVE_RECEIVE/DES,Улучшает общую эффективность действия «{DEFEND}» против подачи «{INGAME/SERVE/JUMP_FLOATER}».
+,
+,
+SPEC_FLOATER_SERVE_RECEIVE/SKILLFEATURE/FLOATER_SERVE_RECEIVE/STAMINA_DAMAGE_REDUCTION/DES,Снижение урона выносливости при приёме флот-подачи +[STAMINA_DAMAGE_REDUCTION]
+SPEC_FLOATER_SERVE_RECEIVE/SKILLFEATURE/FLOATER_SERVE_RECEIVE/MENTAL_DAMAGE_REDUCTION/DES,Снижение урона ментальной силе при приёме флот-подачи +[MENTAL_DAMAGE_REDUCTION]
+SPEC_YEONGSUB_ACE/TITLE,"{LEE_YOUNGSEOB} : Ас, с которым {TEAM} идет вперед"
+SPEC_YEONGSUB_ACE/DES,"Каждый другой {PLAYER_TEAM_ALLY} получает сокращение времени «{SKILL_COOLDOWN}» для умения «{ACTIVE_SKILL}» на 1{SEC}, когда {LEE_YOUNGSEOB} выполняет действие {SPIKE}."
+,
+SPEC_BLOCKING_RANGE/TITLE,{JUDGE_TIME}: {ONE_TOUCH}
+SPEC_BLOCKING_RANGE/DES,Увеличивает показатель «{JUDGE_TIME}» для действия {GOOD_BLOCKING}.
+SPEC_BLOCKING_RANGE/POS_EFF/STAT_MODIFIER/BLOCKING_GOOD_RANGE/DES,{JUDGE_TIME}: {ONE_TOUCH} +{value}
+SPEC_BLOCKING_RANGE/POS_EFF/STAT_MODIFIER/BLOCKING_BAD_RANGE/DES,{JUDGE_TIME}: {BAD_BLOCKING} {value}
+SPEC_SPIKE_CRITICAL_PROBABILITY/TITLE,Вероятность действия {CRITICAL}
+SPEC_SPIKE_CRITICAL_PROBABILITY/DES,Повышает показатель «{ACTIVATION_CHANCE}» для эффекта «{CRITICAL}» при {SPIKE}.
+SPEC_SPIKE_CRITICAL_PROBABILITY/POS_EFF/STAT_MODIFIER/SPIKE_CRITICAL_PROBABILITY/DES,{ACTIVATION_CHANCE} +{value}
+SPEC_SECOND_TOSS_VERTICAL_SPEED/TITLE,Высота передачи «{TOSS_OUT}»
+SPEC_SECOND_TOSS_VERTICAL_SPEED/DES,Увеличивает высоту передачи «{TOSS_OUT}».
+SPEC_SECOND_TOSS_VERTICAL_SPEED/POS_EFF/STAT_MODIFIER/SECOND_TOSS_VERTICAL_SPEED/DES,Коррекция высоты передачи «{TOSS_OUT}» +{value}
+SPEC_WEAK_BLOCKING_RANGE/TITLE,Снижение показателя «{RANGE}» для действия {STUFF_BLOCK}
+SPEC_WEAK_BLOCKING_RANGE/DES,Уменьшает показатель «{JUDGE_TIME}» для действия {STUFF_BLOCK}.
+SPEC_WEAK_BLOCKING_RANGE/NEG_EFF/STAT_MODIFIER/BLOCKING_PERFECT_RANGE/DES,{JUDGE_TIME}: {STUFF_BLOCK} +{value}
+SPEC_ATIS_SLIDING_RECOVERY/TITLE,{ARTIS}: {SLIDING_WAKEUP_SPEED}
+SPEC_ATIS_SLIDING_RECOVERY/DES,Повышает показатель «{SLIDING_WAKEUP_SPEED}».
+SPEC_ATIS_SLIDING_RECOVERY/POS_EFF/STAT_MODIFIER/SLIDING_RECOVERY_SPEED/DES,{SLIDING_WAKEUP_SPEED} +{value}
+SPEC_BACK_NET_POSITION/TITLE,Упор на действие «{DEFEND}» в зоне «{COURT_BACK}»
+SPEC_BACK_NET_POSITION/DES,"Находясь в зоне «{COURT_BACK}» в результате действия «{ROTATION}», готовится выполнить действие «{DEFEND}» дальше сзади, чтобы встретить действие {SPIKE}, направленный к границе «{LINE_END}»."
+SPEC_BACK_NET_POSITION/POS_EFF/STAT_MODIFIER/BACK_NET_POSITION/DES,Защищаться дальше от сетки в зоне {COURT_BACK}
+SPEC_FRONT_NET_POSITION/TITLE,Упор на действие «{DEFEND}» в зоне «{COURT_FRONT}»
+SPEC_FRONT_NET_POSITION/DES,"Находясь в зоне «{COURT_FRONT}» в результате действия «{ROTATION}», готовится выполнить действие «{DEFEND}» дальше спереди, чтобы встретить действие {SPIKE}, направленный к объекту «{NET}»."
+SPEC_FRONT_NET_POSITION/POS_EFF/STAT_MODIFIER/FRONT_NET_POSITION/DES,Защищаться ближе к сетке в зоне {COURT_FRONT}
+SPEC_MB_SLIDING_RECOVERY/TITLE,{SLIDING_WAKEUP_SPEED}
+SPEC_MB_SLIDING_RECOVERY/DES,Повышает показатель «{SLIDING_WAKEUP_SPEED}».
+SPEC_MB_SLIDING_RECOVERY/POS_EFF/STAT_MODIFIER/SLIDING_RECOVERY_SPEED/DES,{SLIDING_WAKEUP_SPEED} +{value}
+SPEC_SE_SARA_ATTACK_INSTINCT/TITLE,Инстинкт действия «{ATTACK}»
+SPEC_SE_SARA_ATTACK_INSTINCT/DES,Повышает вероятность попытки выполнить действие {SPIKE} вместо действия «{TOSS}» в ситуации «{SECOND_TOUCH}».
+SPEC_SE_SARA_ATTACK_INSTINCT/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+,
+SPEC_SE_SPEED_RETENTION/TITLE,{ENDURANCE}: {SPEED}
+SPEC_SE_SPEED_RETENTION/DES,"Уменьшает потерю показателя «{SPEED}», когда {RALLY} затягивается."
+SPEC_SE_SPEED_RETENTION/POS_EFF/STAT_MODIFIER/SPEED_RETENTION/DES,{SPEED} {ENDURANCE} +{value}
+SPEC_AP_GRANT/DES,{GAIN_AP} +{value}
+특화 노드 고유 명사,
+SKILL_DURATION,Длительность
+SKILL_COOLDOWN,Ожидание
+AIR_MOVE_SPEED,{MOVE_SPEED} {AIR}
+DIRECT_SPIKE,Прямой удар
+MULTIPLE_SWING,Многократный замах
+GOOD_RECEIVE,Прием Good
+TOSS_QUICK,Передача на первый темп
+MISS_TOSS,Ошибка паса
+ACTIVATION_CHANCE,Вероятность события
+EFFECT_VALUE,Величина эффекта
+PENALTY_VALUE,Величина штрафа
+SKILL_VALUE,Значение навыка
+ALL_LEVEL,Все уровни
+READY_SPEED,Скорость подготовки
+DROP_SPEED,Скорость падения
+MOVE_SPEED,Скорость перемещения
+JUDGE_LENGTH,Длина зоны срабатывания
+STUFF_BLOCK,Убойный блок
+ONE_TOUCH,Касание на блоке
+SPECIALIZATION,Специализация
+PROTECTION,Защищенность
+ENDURANCE,Сохранение
+WEAKNESS,Ослабление
+MENTAL,Сила духа
+REGEN,Объем естественного восстановления
+ROLLING,Перекат
+STABILITY,Стабильность
+DAMPING,Амортизация
+RESIST,Сопротивление
+WINDUP,Длительность действия
+DISTANCE,Расстояние
+ANGLE,Угол
+RANGE,Радиус
+STACK,Накопление
+FORGE,Ковка
+AGILITY,Ловкость
+CHANCE,Шанс
+EXCLUSIVE,Эксклюзивно
+CORE,Ядро
+AIR,в воздухе
+LEVEL,Уровень
+AP,AP
+BACK_ATTACKER,Атакующий с задней линии
+GAIN_AP,Полученные AP
+,Шанс возникновения
+KEEP_TIME,Длительность
+IDENTITY,Индивидуальность
+DAMAGE,Урон
+STANCE,Стойка
+MAX_VALUE,Максимальное значение
+FIXED_VALUE,Фиксированное значение
+INCREASE,Величина прироста
+SURPRISE,Нападение
+ELITE_RULE,Элитные правила
+HAND_TIP,Кончики пальцев
+BLOCK_IGNORE,Игнорировать {BLOCKING}
+SECOND_TOUCH,Второе {TOUCH}
+QUICK_ATTACK,Атака первым темпом
+GOOD_BLOCKING,Блок Good
+BAD_BLOCKING,Блок Bad
+CRITICAL,Критический удар
+JUDGE_TIME,Окно срабатывания
+BLOCK_JUMP,Блокирующий прыжок
+SPIKE_JUMP,Атакующий прыжок
+RECOVERY_AMOUNT,Объем восстановления
+,
+,
+,
+특화 노드 도움말 설명(statusKey),
+SPEC_KEY/ATTACK_POWER/TITLE,{STRENGTH}
+SPEC_KEY/ATTACK_POWER/DES,"Базовый показатель «{STRENGTH}», применяемый ко всем действиям типа «{ATTACK}»."
+SPEC_KEY/SPIKE_POWER/TITLE,{BALL_POWER}: {SPIKE}
+SPEC_KEY/SPIKE_POWER/DES,Показатель «{BALL_POWER}» одного действия {SPIKE}.
+SPEC_KEY/SERVE_ATTACK_POWER/TITLE,{STRENGTH}: {SERVE}
+SPEC_KEY/SERVE_ATTACK_POWER/DES,"{STRENGTH}, которой обладает {BALL} после действия «{SERVE}»."
+SPEC_KEY/FRONT_ROW_ATTACK_POWER/TITLE,{STRENGTH}: {COURT_FRONT}
+SPEC_KEY/FRONT_ROW_ATTACK_POWER/DES,Показатель «{STRENGTH}» при {SPIKE} из зоны «{COURT_FRONT}».
+,
+SPEC_KEY/BACK_ATTACK_SPIKE_POWER/TITLE,{BALL_POWER}: {SPIKE} при {ATTACK_BACK}
+SPEC_KEY/BACK_ATTACK_SPIKE_POWER/DES,{BALL_POWER}: {SPIKE} при {ATTACK_BACK}
+,
+SPEC_KEY/MENTAL_DAMAGE/TITLE,{DAMAGE}: снижение показателя «{MENTAL}»
+SPEC_KEY/MENTAL_DAMAGE/DES,Насколько снижается {MENTAL} соперника.
+SPEC_KEY/SPIN/TITLE,{BALL_SPIN}
+SPEC_KEY/SPIN/DES,{BALL_SPIN} мяча. Степень изменения траектории.
+SPEC_KEY/SPIKE_SWING_RANGE/TITLE,{RANGE}: {SWING} при {SPIKE}
+SPEC_KEY/SPIKE_SWING_RANGE/DES,"{RANGE}, в пределах которого {SWING} при {SPIKE} может задеть {BALL}."
+SPEC_KEY/SPIKE_ANGLE/TITLE,{ANGLE}: {SPIKE}
+SPEC_KEY/SPIKE_ANGLE/DES,"Диапазон показателя «{ANGLE}», позволяющий направить действие {SPIKE} вниз."
+SPEC_KEY/SLIDING_PENETRATION/TITLE,{SLIDING_PENETRATION}
+SPEC_KEY/SLIDING_PENETRATION/DES,{DEFEND} с приемом «{SLIDING}»: степень пробивания.
+SPEC_KEY/DEFENSE_POWER/TITLE,{DEFENSE}
+SPEC_KEY/DEFENSE_POWER/DES,"Базовый показатель «{DEFENSE}», применяемый ко всем действиям типа «{DEFEND}»."
+SPEC_KEY/SERVE_DEFENSE_POWER/TITLE,{DEFENSE}: защита от действия {SERVE}
+SPEC_KEY/SERVE_DEFENSE_POWER/DES,Показатель «{DEFENSE}» при защите от приема соперника «{SERVE}».
+SPEC_KEY/BACK_ATTACK_DEFENSE_POWER/TITLE,{DEFENSE}: защита от действия {ATTACK_BACK}
+SPEC_KEY/BACK_ATTACK_DEFENSE_POWER/DES,Показатель «{DEFENSE}» при защите от приема соперника «{ATTACK_BACK}».
+SPEC_KEY/FEINT_DEFENSE_POWER/TITLE,{DEFENSE}: защита от действия {FEINT}
+SPEC_KEY/FEINT_DEFENSE_POWER/DES,Показатель «{DEFENSE}» при защите от приема соперника «{FEINT}».
+SPEC_KEY/RECEIVE_DEFENSE_RANGE/TITLE,{DEFEND_RANGE}: {RECEIVE}
+SPEC_KEY/RECEIVE_DEFENSE_RANGE/DES,{DEFEND_RANGE}: {RECEIVE}
+SPEC_KEY/SLIDING_DEFENSE_RANGE/TITLE,{DEFEND_RANGE}: {SLIDING}
+SPEC_KEY/SLIDING_DEFENSE_RANGE/DES,{DEFEND_RANGE}: {SLIDING}
+SPEC_KEY/SLIDING_RESISTANCE/TITLE,{PROTECTION}: {SLIDING}
+SPEC_KEY/SLIDING_RESISTANCE/DES,Насколько уменьшается получаемый {DAMAGE} при {SLIDING}.
+SPEC_KEY/SLIDING_ENDURANCE/TITLE,{ENDURANCE}: {SLIDING}
+SPEC_KEY/SLIDING_ENDURANCE/DES,Способность сохранять положение «{STANCE}» во время действия {SLIDING}.
+SPEC_KEY/SLIDING_RECOVERY_SPEED/TITLE,{SLIDING_WAKEUP_SPEED}
+SPEC_KEY/SLIDING_RECOVERY_SPEED/DES,Скорость подъема после действия {SLIDING}.
+SPEC_KEY/GOOD_RECEIVE_BALL_STABILITY/TITLE,{STABILITY}: {BALL} после действия {GOOD_RECEIVE}
+SPEC_KEY/GOOD_RECEIVE_BALL_STABILITY/DES,"{STABILITY}, с которой {BALL} летит вверх после действия с оценкой «{GOOD_RECEIVE}»."
+,
+SPEC_KEY/RECEIVE_ROLL_RESISTANCE/TITLE,{RESIST}: {ROLLING} после действия {RECEIVE}
+SPEC_KEY/RECEIVE_ROLL_RESISTANCE/DES,"Устойчивость к перекату после действия «{RECEIVE}». Чем выше значение, тем ниже вероятность переката."
+SPEC_KEY/BLOCK_JUMP/TITLE,{JUMP}: {BLOCKING}
+SPEC_KEY/BLOCK_JUMP/DES,"Высота прыжка, определяемая показателем «{JUMP}», при {BLOCKING}."
+SPEC_KEY/BLOCK_READY_SPEED/TITLE,{READY_SPEED}: {BLOCKING}
+SPEC_KEY/BLOCK_READY_SPEED/DES,Скорость принятия положения «{STANCE}» для действия {BLOCKING}.
+SPEC_KEY/BLOCK_RESISTANCE/TITLE,{PROTECTION}: {BLOCKING}
+SPEC_KEY/BLOCK_RESISTANCE/DES,Насколько уменьшается получаемый {DAMAGE} при {BLOCKING}.
+SPEC_KEY/SPEED/TITLE,{SPEED}
+SPEC_KEY/SPEED/DES,Характеристика «{SPEED}».
+SPEC_KEY/SPEED_RETENTION/TITLE,{ENDURANCE}: {SPEED}
+SPEC_KEY/SPEED_RETENTION/DES,"Насколько хорошо сохраняется скорость, когда {RALLY} затягивается."
+SPEC_KEY/OFF_COURT_MOVE_SPEED/TITLE,{MOVE_SPEED} за пределами площадки «{COURT}»
+SPEC_KEY/OFF_COURT_MOVE_SPEED/DES,{MOVE_SPEED} за пределами площадки «{COURT}».
+,
+SPEC_KEY/AIR_MOVE_SPEED/TITLE,{MOVE_SPEED} {AIR}
+SPEC_KEY/AIR_MOVE_SPEED/DES,{MOVE_SPEED} {AIR}
+,
+SPEC_KEY/JUMP_POWER/TITLE,{JUMP}
+SPEC_KEY/JUMP_POWER/DES,"Общая высота прыжка, определяемая показателем «{JUMP}»."
+SPEC_KEY/SPIKE_JUMP_POWER/TITLE,{JUMP}: {SPIKE}
+SPEC_KEY/SPIKE_JUMP_POWER/DES,"Высота прыжка, определяемая показателем «{JUMP}», при {SPIKE}."
+SPEC_KEY/FEINT_DROP_SPEED/TITLE,{DROP_SPEED}: {FEINT}
+SPEC_KEY/FEINT_DROP_SPEED/DES,Скорость падения объекта «{BALL}» после действия {FEINT}.
+SPEC_KEY/STAMINA_FLAT/TITLE,Фиксированная прибавка: {STAMINA}
+SPEC_KEY/STAMINA_FLAT/DES,Фиксированная прибавка к максимальному значению ресурса «{STAMINA}».
+,
+SPEC_KEY/STAMINA_REGEN/TITLE,{REGEN}: {STAMINA}
+SPEC_KEY/STAMINA_REGEN/DES,{REGEN}: {STAMINA}
+SPEC_KEY/MENTAL_REGEN/TITLE,{REGEN}: {MENTAL}
+SPEC_KEY/MENTAL_REGEN/DES,{REGEN}: {MENTAL}
+,
+SPEC_KEY/FOCUS_DURATION/TITLE,{KEEP_TIME}: {CONDITION} «{FOCUS}»
+SPEC_KEY/FOCUS_DURATION/DES,"Время, в течение которого действует {CONDITION} «{FOCUS}»."
+,
+SPEC_KEY/ANGRY_DURATION/TITLE,{KEEP_TIME}: {CONDITION} «{ANGRY}»
+SPEC_KEY/ANGRY_DURATION/DES,"Время, в течение которого действует {CONDITION} «{ANGRY}»."
+,
+SPEC_KEY/TRAIT_COOLDOWN/TITLE,{SKILL_COOLDOWN}
+SPEC_KEY/TRAIT_COOLDOWN/DES,{SKILL_COOLDOWN}
+SPEC_KEY/TRAIT_DURATION/TITLE,{SKILL_DURATION}
+SPEC_KEY/TRAIT_DURATION/DES,Время действия эффекта навыка.
+SPEC_KEY/PARRY_GAUGE_CAPACITY/TITLE,{CHARGED_COUNT}: {GAUGE} навыка «{SKILL/PARRY/TITLE}»
+SPEC_KEY/PARRY_GAUGE_CAPACITY/DES,{EXCLUSIVE} для персонажа «{ISABEL}». Максимальная вместимость индикатора «{GAUGE}» навыка «{SKILL/PARRY/TITLE}».
+SPEC_KEY/APPROACH_SECONDS/TITLE,Минимальное время движения к сетке «{NET}»
+SPEC_KEY/APPROACH_SECONDS/DES,"Минимальное время движения к сетке «{NET}», необходимое для выполнения условия."
+SPEC_KEY/CHARGE_SECONDS/TITLE,"Время действия «{CHARGE}» для прыжка: {BLOCKING}, {JUMP}"
+SPEC_KEY/CHARGE_SECONDS/DES,"Минимальное время действия «{CHARGE}», необходимое для заряженного прыжка с показателем «{JUMP}» при {BLOCKING}."
+,
+SPEC_KEY/REUSE_TOUCHES/TITLE,Число действий «{TOUCH}» до повторного использования
+SPEC_KEY/REUSE_TOUCHES/DES,"Число действий «{TOUCH}», необходимое для повторного использования эффекта."
+SPEC_KEY/STACK_PER_STUFF_BLOCK/TITLE,{STACK} за действие {STUFF_BLOCK}
+SPEC_KEY/STACK_PER_STUFF_BLOCK/DES,"Число единиц эффекта «{STACK}», получаемых за один действие {STUFF_BLOCK}."
+,
+SPEC_KEY/STACK_PER_ONE_TOUCH/TITLE,{STACK} за действие {ONE_TOUCH}
+SPEC_KEY/STACK_PER_ONE_TOUCH/DES,"Число единиц эффекта «{STACK}», получаемых за один действие {ONE_TOUCH}."
+,
+SPEC_KEY/MAX_STACKS/TITLE,Максимум: {STACK}
+SPEC_KEY/MAX_STACKS/DES,"Максимальное число единиц эффекта «{STACK}», которое можно накопить."
+SPEC_KEY/ATTACK_POWER_PER_STACK/TITLE,{STRENGTH} за единицу «{STACK}»
+SPEC_KEY/ATTACK_POWER_PER_STACK/DES,Прибавка к показателю «{STRENGTH}» за каждую единицу эффекта «{STACK}».
+SPEC_KEY/AIR_ATTACK_POWER_CHARGED/TITLE,"{STRENGTH}: {AIR}, успешное действие «{CHARGE}»"
+SPEC_KEY/AIR_ATTACK_POWER_CHARGED/DES,"Показатель «{STRENGTH}» во время прыжка с характеристикой «{JUMP}», выполненного после завершения действия «{CHARGE}»."
+,
+SPEC_KEY/AIR_ATTACK_POWER_UNCHARGED/TITLE,"{STRENGTH}: {AIR}, неудачное действие «{CHARGE}»"
+SPEC_KEY/AIR_ATTACK_POWER_UNCHARGED/DES,"Показатель «{STRENGTH}» во время прыжка с характеристикой «{JUMP}», выполненного до завершения действия «{CHARGE}»."
+,
+SPEC_KEY/BLOCK_JUMP_UNCHARGED/TITLE,{JUMP} при {BLOCKING}: неудачное действие «{CHARGE}»
+SPEC_KEY/BLOCK_JUMP_UNCHARGED/DES,"Высота прыжка с показателем «{JUMP}» при {BLOCKING}, если действие «{CHARGE}» не завершено."
+,
+SPEC_KEY/ASSISTED_SPIKE_POWER/TITLE,{BALL_POWER}: {SPIKE} после своей передачи
+SPEC_KEY/ASSISTED_SPIKE_POWER/DES,"{BALL_POWER}, с которой {TEAM} атакует {BALL}, поднятый вашей передачей."
+SPEC_KEY/ASSISTED_SPIKE_POWER_OPEN/TITLE,{BALL_POWER}: {SPIKE} после своей передачи «{TOSS_OPEN}»
+SPEC_KEY/ASSISTED_SPIKE_POWER_OPEN/DES,Показатель «{BALL_POWER}» при атаке после вашей передачи «{TOSS_OPEN}».
+,
+SPEC_KEY/ASSISTED_SPIKE_POWER_QUICK/TITLE,{BALL_POWER}: {SPIKE} после своей передачи «{TOSS_QUICK}»
+SPEC_KEY/ASSISTED_SPIKE_POWER_QUICK/DES,Показатель «{BALL_POWER}» при атаке после вашей передачи «{TOSS_QUICK}».
+,
+SPEC_KEY/ASSISTED_SPIKE_POWER_OTHER/TITLE,{BALL_POWER}: {SPIKE} после другого варианта передачи «{TOSS}»
+SPEC_KEY/ASSISTED_SPIKE_POWER_OTHER/DES,Показатель «{BALL_POWER}» при атаке объекта «{BALL}» после передачи «{TOSS}» другого типа.
+,
+SPEC_KEY/MAX_SWING_PER_JUMP/TITLE,Максимум действий «{SWING}» за прыжок с показателем «{JUMP}»
+SPEC_KEY/MAX_SWING_PER_JUMP/DES,"Число действий «{SWING}», которые можно выполнить за один прыжок с показателем «{JUMP}»."
+,
+SPEC_KEY/PARRY_DRAIN_PER_SPIKE/TITLE,Расход индикатора «{GAUGE}» навыка «{SKILL/PARRY/TITLE}» за действие {SPIKE}
+SPEC_KEY/PARRY_DRAIN_PER_SPIKE/DES,"Доля индикатора «{GAUGE}» навыка «{SKILL/PARRY/TITLE}», расходуемая за один действие {SPIKE}."
+SPEC_KEY/PASS_FEINT/TITLE,{PASS_FEINT}
+SPEC_KEY/PASS_FEINT/DES,"Вероятность того, что {SE} попытается выполнить действие {PASS_FEINT}."
+,
+SPEC_KEY/SURPRISE_SPIKE/TITLE,{SPIKE}: {SURPRISE}
+SPEC_KEY/SURPRISE_SPIKE/DES,"Вероятность того, что {SE} выполнит {SPIKE} как действие {SURPRISE}."
+,
+SPEC_KEY/ONETOUCH_STAMINA_REGEN/TITLE,{REGEN}: {STAMINA} после действия {ONE_TOUCH}
+SPEC_KEY/ONETOUCH_STAMINA_REGEN/DES,"{MB} успешно выполняет {BLOCKING} с результатом «{ONE_TOUCH}»: количество ресурса «{STAMINA}», которое восстанавливает {TEAM}."
+,
+SPEC_KEY/YEONGSUB_SPIKE_POWER/TITLE,{LEE_YOUNGSEOB}: {BALL_POWER} удара «{SPIKE}»
+SPEC_KEY/YEONGSUB_SPIKE_POWER/DES,"Сила отскока после удара: {LEE_YOUNGSEOB} выполняет {SPIKE}, который попадает в {BLOCKING} соперника."
+SPEC_KEY/BLOCKING_GOOD_RANGE/TITLE,{JUDGE_TIME}: {GOOD_BLOCKING}
+SPEC_KEY/BLOCKING_GOOD_RANGE/DES,{JUDGE_TIME}: {ONE_TOUCH}
+,
+SPEC_KEY/BLOCKING_BAD_RANGE/TITLE,{JUDGE_TIME}: {BAD_BLOCKING}
+SPEC_KEY/BLOCKING_BAD_RANGE/DES,{JUDGE_TIME}: {BAD_BLOCKING}
+,
+SPEC_KEY/BLOCKING_PERFECT_RANGE/TITLE,{JUDGE_TIME}: {STUFF_BLOCK}
+SPEC_KEY/BLOCKING_PERFECT_RANGE/DES,{JUDGE_TIME}: {STUFF_BLOCK}
+SPEC_KEY/SPIKE_CRITICAL_PROBABILITY/TITLE,Вероятность эффекта «{CRITICAL}» при {SPIKE}
+SPEC_KEY/SPIKE_CRITICAL_PROBABILITY/DES,"Вероятность эффекта «{CRITICAL}», повышающего показатель «{BALL_POWER}» при {SPIKE}."
+,
+SPEC_KEY/SECOND_TOSS_VERTICAL_SPEED/TITLE,Вертикальная скорость: {TOSS_OUT}
+SPEC_KEY/SECOND_TOSS_VERTICAL_SPEED/DES,Вертикальная скорость: {TOSS_OUT}
+,
+SPEC_KEY/MENTAL_DAMAGE_REDUCTION/TITLE,Снижение урона «{DAMAGE}» по показателю «{MENTAL}»
+SPEC_KEY/MENTAL_DAMAGE_REDUCTION/DES,"Процент, на который снижается {DAMAGE} по показателю «{MENTAL}»."
+SPEC_KEY/STAMINA_DAMAGE_REDUCTION/TITLE,Снижение урона «{DAMAGE}» по показателю «{STAMINA}»
+SPEC_KEY/STAMINA_DAMAGE_REDUCTION/DES,"Процент, на который снижается {DAMAGE} по показателю «{STAMINA}»."
+SPEC_KEY/BACK_NET_POSITION/TITLE,Позиция в зоне «{COURT_BACK}» рядом с линией «{LINE_END}»
+SPEC_KEY/BACK_NET_POSITION/DES,"Позиция, на которой игрок оказывается после действия «{ROTATION}» в зоне «{COURT_BACK}» рядом с линией «{LINE_END}»."
+,
+SPEC_KEY/CARELESS_DURATION/TITLE,{KEEP_TIME}: {CONDITION} «{CARELESS}»
+SPEC_KEY/CARELESS_DURATION/DES,"Время, в течение которого действует {CONDITION} «{CARELESS}»."
+SPEC_KEY/CORNERED_STAMINA_CONDITION/TITLE,{ACTIVATE} эффекта «{SPEC_CORNERED/TITLE}»: {STAMINA}
+SPEC_KEY/CORNERED_STAMINA_CONDITION/DES,"{CONDITION} показателя «{STAMINA}», при котором возможна {ACTIVATE} эффекта «{SPEC_CORNERED/TITLE}»."
+SPEC_KEY/FLOATER_SERVE_DEFENSE_POWER/TITLE,{INGAME/SERVE/JUMP_FLOATER} {DEFENSE}
+SPEC_KEY/FLOATER_SERVE_DEFENSE_POWER/DES,{DEFENSE} при действии «{DEFEND}» против подачи «{INGAME/SERVE/JUMP_FLOATER}».
+SPEC_KEY/FRONT_NET_POSITION/TITLE,Позиция в зоне «{COURT_BACK}» рядом с линией «{LINE_ATTACK}»
+SPEC_KEY/FRONT_NET_POSITION/DES,"Позиция, на которой игрок оказывается после действия «{ROTATION}» в зоне «{COURT_BACK}» рядом с линией «{LINE_ATTACK}»."
+,
+SPEC_KEY/SAD_DURATION/TITLE,{KEEP_TIME}: {CONDITION} «{SAD}»
+SPEC_KEY/SAD_DURATION/DES,"Время, в течение которого действует {CONDITION} «{SAD}»."
+,
+,
+,
+,
+,
+,
+,
+,
+,
+SPEC_MULTIPLE_SWING/SKILLFEATURE/MULTIPLE_SWING/DES,Максимальное число действий «{SWING}»: [MAX_SWING_PER_JUMP]
+SPEC_WS_CLOSER/SKILLFEATURE/OPEN_TOSS_SPIKE_POWER/DES,В этой ситуации {STRENGTH} +[SPIKE_POWER]
+SPEC_WS_PREDATOR/SKILLFEATURE/APPROACH_SECONDS/DES,Минимальное время движения к объекту «{NET}»: [APPROACH_SECONDS]#{BALL_POWER}: {SPIKE} +[SPIKE_POWER]
+SPEC_WS_CHANCE_SPIKE_POWER/SKILLFEATURE/CHANCE_SPIKE_POWER/ACTIVATION_CHANCE/DES,{ACTIVATION_CHANCE} : [ACTIVATION_CHANCE]
+SPEC_WS_UNASSISTED_SPIKE_ATTACK_POWER/SKILLFEATURE/UNASSISTED_SPIKE_ATTACK_POWER/ACTIVATION_CHANCE/DES,{ACTIVATION_CHANCE} : [ACTIVATION_CHANCE]
+SPEC_WS_DIRECT_SPIKE_POWER/SKILLFEATURE/DIRECT_SPIKE_POWER/DES,В этой ситуации {STRENGTH} +[SPIKE_POWER]
+SPEC_MB_FORGE/SKILLFEATURE/FORGE_STACK/STACK_PER_STUFF_BLOCK/DES,{STACK} при убойном блоке +[STACK_PER_STUFF_BLOCK]
+SPEC_MB_FORGE/SKILLFEATURE/FORGE_STACK/STACK_PER_ONE_TOUCH/DES,{STACK} при касании на блоке +[STACK_PER_ONE_TOUCH]
+SPEC_MB_FORGE/SKILLFEATURE/FORGE_STACK/MAX_STACKS/DES,Максимум показателя «{STACK}» : [MAX_STACKS]
+SPEC_MB_FORGE/SKILLFEATURE/FORGE_STACK/ATTACK_POWER_PER_STACK/DES,{STRENGTH} за единицу показателя «{STACK}» +[ATTACK_POWER_PER_STACK]
+SPEC_MB_PRECISE_BLOCK/SKILLFEATURE/CHARGED_BLOCK_JUMP/CHARGE_SECONDS/DES,Время действия «{CHARGE}» : [CHARGE_SECONDS]
+SPEC_MB_PRECISE_BLOCK/SKILLFEATURE/CHARGED_BLOCK_JUMP/AIR_ATTACK_POWER_CHARGED/DES,{STRENGTH} {AIR} при полном заряде +[AIR_ATTACK_POWER_CHARGED]
+SPEC_MB_PRECISE_BLOCK/SKILLFEATURE/CHARGED_BLOCK_JUMP/AIR_ATTACK_POWER_UNCHARGED/DES,{STRENGTH} {AIR} при недостаточном заряде +[AIR_ATTACK_POWER_UNCHARGED]
+SPEC_MB_PRECISE_BLOCK/SKILLFEATURE/CHARGED_BLOCK_JUMP/BLOCK_JUMP_UNCHARGED/DES,{BLOCK_JUMP} при недостаточном заряде +[BLOCK_JUMP_UNCHARGED]
+SPEC_SE_ONE_SHOT/SKILLFEATURE/ASSIST_OPEN_TOSS/REUSE_TOUCHES/DES,Число действий «{TOUCH}» до повторного использования : [REUSE_TOUCHES]
+SPEC_SE_ONE_SHOT/SKILLFEATURE/ASSIST_OPEN_TOSS/ASSISTED_SPIKE_POWER_OPEN/DES,{BALL_POWER} нападающего удара при высоком пасе +[ASSISTED_SPIKE_POWER_OPEN]
+SPEC_SE_ONE_SHOT/SKILLFEATURE/ASSIST_OPEN_TOSS/ASSISTED_SPIKE_POWER_OTHER/DES,{BALL_POWER} нападающего удара при других пасах +[ASSISTED_SPIKE_POWER_OTHER]
+SPEC_SE_OPENING/SKILLFEATURE/ASSIST_QUICK_TOSS/REUSE_TOUCHES/DES,Число действий «{TOUCH}» до повторного использования : [REUSE_TOUCHES]
+SPEC_SE_OPENING/SKILLFEATURE/ASSIST_QUICK_TOSS/ASSISTED_SPIKE_POWER_QUICK/DES,{BALL_POWER} нападающего удара при быстром пасе +[ASSISTED_SPIKE_POWER_QUICK]
+SPEC_SE_OPENING/SKILLFEATURE/ASSIST_QUICK_TOSS/ASSISTED_SPIKE_POWER_OTHER/DES,{BALL_POWER} нападающего удара при других пасах +[ASSISTED_SPIKE_POWER_OTHER]
+SPEC_ISABEL_PARRY_CHARGE/SKILLFEATURE/ISABEL_PARRY_CHARGE/DES,{CHARGED_COUNT}: {GAUGE} навыка «{SKILL/PARRY/TITLE}» +[PARRY_GAUGE_CAPACITY]
+SPEC_ISABEL_PARRY_DRAIN/SKILLFEATURE/PARRY_SPIKE_DRAIN/DES,Расход показателя «{GAUGE}» навыка «{SKILL/PARRY/TITLE}» за действие {SPIKE} : [PARRY_DRAIN_PER_SPIKE]
+SPEC_SE_PASS_FEINT/SKILLFEATURE/PASS_FEINT/DES,Вероятность действия {PASS_FEINT} +[PASS_FEINT]
+SPEC_SE_SURPRISE_SPIKE/SKILLFEATURE/SURPRISE_SPIKE/DES,Вероятность действия {ATTACK_TWO} +[SURPRISE_SPIKE]
+SPEC_JAEHYUN_COOL_HEADED/SKILLFEATURE/JAEHYUN_COOL_HEADED/DES,{DEFENSE}: {SKILL/DETERMINATION/TITLE} +[DEFENSE_POWER]#{SPEED}: {SKILL/DETERMINATION/TITLE} +[SPEED]
+SPEC_YEONGSUB_BLOCK_OUT/SKILLFEATURE/YEONGSUB_SPIKE_POWER/DES,{BALL_POWER} при отскоке +[YEONGSUB_SPIKE_POWER]
+SPEC_MB_BLOCKING_REGEN/SKILLFEATURE/ONE_TOUCH_BLOCK_REGEN/DES,{RECOVERY_AMOUNT} : [ONETOUCH_STAMINA_REGEN]
+SPEC_MB_SPEAR_LINK/SKILLFEATURE/QUICK_TOSS_SPIKE_POWER/DES,{BALL_POWER}: {QUICK_ATTACK} +[SPIKE_POWER]
+_SPEC_FLOATER_SERVE_RECEIVE/SKILLFEATURE/FLOATER_SERVE_RECEIVE/DES,При действии «{DEFEND}» против подачи «{INGAME/SERVE/JUMP_FLOATER}»#  · {DEFENSE} +[FLOATER_SERVE_DEFENSE_POWER]#  · Снижение «{DAMAGE}» показателю «{STAMINA}» +[STAMINA_DAMAGE_REDUCTION]#  · Снижение «{DAMAGE}» показателю «{MENTAL}» +[MENTAL_DAMAGE_REDUCTION]
+SPEC_FLOATER_SERVE_RECEIVE/SKILLFEATURE/FLOATER_SERVE_RECEIVE/FLOATER_SERVE_DEFENSE_POWER/DES,{DEFENSE} против флот-подачи +[FLOATER_SERVE_DEFENSE_POWER]
+SPEC_YEONGSUB_ACE/SKILLFEATURE/YEONGSUB_SPIKE_COOLDOWN/DES,{SKILL_COOLDOWN} +[TRAIT_COOLDOWN]
+SPEC_SE_SARA_ATTACK_INSTINCT/SKILLFEATURE/SURPRISE_SPIKE/DES,Вероятность действия {ATTACK_TWO} +[SURPRISE_SPIKE]

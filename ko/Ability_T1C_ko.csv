@@ -1,0 +1,131 @@
+﻿KEY,한국어(ko)
+ABILITY/ADRENALINE/TITLE,아드레날린
+ABILITY/ADRENALINE/DES,아군 선수가 {CONDITION}을 해제할 때마다 {FEVER_MODE}의 추가 {STRENGTH}이 <buff_amount> 증가한다. {FEVER_MODE}가 끝날 때 초기화된다.
+ABILITY/ARTISTIC_DEFENSE/TITLE,예술적인 수비
+ABILITY/ARTISTIC_DEFENSE/DES,"{SLIDING}으로 공격을 막을 때, 일시적으로 받는 피해가 <decrease_percent> 감소한다."
+ABILITY/ATTACK_CHANCE/TITLE,어택 찬스
+ABILITY/ATTACK_CHANCE/DES,"{FREE_BALL} 상황일 때, 일시적으로 모든 능력치가 <buff_amount> 증가한다."
+ABILITY/BULK_UP/TITLE,벌크 업
+ABILITY/BULK_UP/DES,"{RECEIVE} 또는 {BLOCKING}으로 공격을 막은 후, {HEIGHT}이 <height_amount> 증가한다."
+ABILITY/BUNDANG_QUICK/TITLE,분당고 속공
+ABILITY/BUNDANG_QUICK/DES,"우리 팀의 터치 카운트가 1일 때, {COMMON/WORD/SPIKE_JUMP}를 하면 착지하기 전까지 {BALL_POWER}이 <increase_percent> 증가한다."
+ABILITY/BURNING_UP/TITLE,버닝 업
+ABILITY/BURNING_UP/DES,"{FEVER_MODE}에 돌입할 때, {CONDITION}을 해제하고 <condition_time> 동안 {ANGRY} 상태가 된다."
+ABILITY/CAT_THERAPY/TITLE,고양이 테라피
+ABILITY/CAT_THERAPY/DES,"{FEVER_MODE}일 때, {SAD} 상태가 되면 아군 선수들의 {CONDITION}을 해제하고 <condition_time> 동안 {FOCUS} 상태로 만든다."
+ABILITY/BERSERK_ATTACK/TITLE,버서크 어택
+ABILITY/BERSERK_ATTACK/DES,"상대 팀보다 {STAMINA}가 낮을 때, 그 차이에 비례해 {STRENGTH}이 최대 <buff_amount> 증가한다."
+ABILITY/BERSERK_BOOST/TITLE,버서크 부스트
+ABILITY/BERSERK_BOOST/DES,"{STAMINA}가 절반 이하일 때, {SPIKE}를 하면 {FEVER_POINT}를 <fever_count> 획득한다."
+ABILITY/BERSERK_DRAIN/TITLE,버서크 드레인
+ABILITY/BERSERK_DRAIN/DES,"{STAMINA}가 절반 이하일 때, {SPIKE}로 입히는 피해의 <effect_percent>만큼 {STAMINA}를 회복한다."
+ABILITY/CONCENTRATION/TITLE,집중력
+ABILITY/CONCENTRATION/DES,우리 팀이 실점할 때마다 {STRENGTH}과 {DEFENSE}이 <buff_amount> 증가한다. 우리 팀이 득점하면 초기화된다.
+ABILITY/CONDITION_BOOST/TITLE,컨디션 부스트
+ABILITY/CONDITION_BOOST/DES,"{CONDITION}을 해제할 때, {FEVER_POINT}를 <fever_count> 획득한다."
+ABILITY/CRITICAL_BOOST/TITLE,크리티컬 부스트
+ABILITY/CRITICAL_BOOST/DES,"{SAD} 상태인 상대를 공격할 때, {FEVER_POINT}를 <fever_count> 획득한다."
+ABILITY/DAVID_AND_GOLIATH/TITLE,다윗과 골리앗
+ABILITY/DAVID_AND_GOLIATH/DES,{COMMON/POSITION}이 같은 상대와의 {HEIGHT} 차이(최대 30cm)의 <effect_percent>만큼 {STRENGTH}과 {DEFENSE}이 증가한다.
+ABILITY/SUPER_DIRECT/TITLE,슈퍼 다이렉트
+ABILITY/SUPER_DIRECT/DES,"상대 팀에서 넘어오는 {BALL}을 {SPIKE}로 받아칠 때, 일시적으로 {BALL_POWER}이 <increase_percent> 증가한다."
+ABILITY/DRAGON_STYLE/TITLE,청룡의 무술
+ABILITY/DRAGON_STYLE/DES,"3.3m 이하의 {DATEN}에서 {SPIKE}를 할 때, 일시적으로 {BALL_POWER}이 <increase_percent> 증가한다."
+ABILITY/ETERNAL_FEVER/TITLE,이터널 피버
+ABILITY/ETERNAL_FEVER/DES,"{FEVER_MODE}일 때, {FEVER_POINT}를 획득하면 <effect_percent>의 효율로 {FEVER_MODE}의 {COMMON/SKILL/DURATION}을 연장한다."
+ABILITY/GLADIUS/TITLE,글래디우스
+ABILITY/GLADIUS/DES,"{ANGRY} 상태일 때, {FREE_BALL} 상황이라면 {DEFENSE}의 <effect_percent>를 {STRENGTH}으로 전환한다."
+ABILITY/GRACE_OF_THE_SKY/TITLE,하늘의 은총
+ABILITY/GRACE_OF_THE_SKY/DES,"{ANGRY} 상태일 때, {SERVE}를 하면 {SERVE_SKY}를 사용하고 {FEVER_POINT}를 <fever_count> 획득한다."
+ABILITY/HEART_BREAKER/TITLE,하트 브레이커
+ABILITY/HEART_BREAKER/DES,{SAD} 또는 {CARELESS} 상태인 상대 선수 한 명당 {STRENGTH}이 <buff_amount> 증가한다.
+ABILITY/HEAT_SINK/TITLE,히트싱크
+ABILITY/HEAT_SINK/DES,{FEVER_MODE}에 돌입할 때마다 {DEFENSE}이 <buff_amount> 증가한다.
+ABILITY/INFERNO_BEAST/TITLE,인페르노 비스트
+ABILITY/INFERNO_BEAST/DES,"{STRENGTH}과 {SPEED}가 <buff_amount> 증가하고, 공중 이동 속도가 두 배가 된다."
+ABILITY/IRON_WALL/TITLE,철벽
+ABILITY/IRON_WALL/DES,"{BLOCKING}으로 공격을 막을 때, 공격한 상대 선수보다 {HEIGHT}이 크다면 <proc_percent> 확률로 {BLOCK_KILL}을 발생시킨다."
+ABILITY/LEON_HEART_ARENA/TITLE,레온 하트
+ABILITY/LEON_HEART_ARENA/DES,"{LINE_END} 근처에서 {COMMON/WORD/SPIKE_JUMP}를 할 때, 착지하기 전까지 {BALL_POWER}이 <increase_percent> 증가한다."
+ABILITY/LIMIT_BREAK_ARENA/TITLE,한계돌파
+ABILITY/LIMIT_BREAK_ARENA/DES,"{COMMON/WORD/SPIKE_JUMP}를 할 때, 남은 {STAMINA}를 절반 소모하고 {STRENGTH}과 {DEFENSE}이 <buff_amount> 증가한다. {RALLY}가 끝날 때 초기화된다."
+ABILITY/LUCKY_RECEIVE_ARENA/TITLE,럭키 리시브
+ABILITY/LUCKY_RECEIVE_ARENA/DES,"{RECEIVE}를 할 때, <proc_percent> 확률로 {COMMON/WORD/PERFECT_RECEIVE}가 된다."
+ABILITY/OVERCLOCK/TITLE,오버클럭
+ABILITY/OVERCLOCK/DES,"{ANGRY} 상태일 때, {ACTIVE_SKILL}의 {COMMON/SKILL/COOLDOWN}이 <effect_percent> 더 빠르게 감소한다."
+ABILITY/POWER_REBOUND/TITLE,파워 리바운드
+ABILITY/POWER_REBOUND/DES,"{TOSS}를 거치지 않고 상대를 공격할 때, <proc_percent> 확률로 {BALL}이 튕겨서 되돌아온다."
+ABILITY/QUICK_RECHARGE/TITLE,퀵 리차지
+ABILITY/QUICK_RECHARGE/DES,"{SLIDING}의 수비 범위가 <increase_percent> 증가하고, 기상 속도가 증가한다."
+ABILITY/SENSITIVE_HEART/TITLE,센시티브 하트
+ABILITY/SENSITIVE_HEART/DES,{FOCUS} 상태의 추가 {STRENGTH}과 {COMMON/SKILL/DURATION}이 <increase_percent> 증가한다.
+ABILITY/BURNING_HEART/TITLE,버닝 하트
+ABILITY/BURNING_HEART/DES,{ANGRY} 상태의 추가 {STRENGTH}과 {COMMON/SKILL/DURATION}이 <increase_percent> 증가한다.
+ABILITY/SENSITIVE_LINK/TITLE,센시티브 링크
+ABILITY/SENSITIVE_LINK/DES,"{COMMON/WORD/PERFECT_RECEIVE}를 할 때, 다른 아군 선수들을 <condition_time> 동안 {FOCUS} 상태로 만든다."
+ABILITY/SPOTLIGHT/TITLE,스포트라이트
+ABILITY/SPOTLIGHT/DES,"아군 선수가 {ACTIVE_SKILL}을 사용할 때, <proc_percent> 확률로 다음 {TOSS}가 {SKILL/SPOTLIGHT_TOSS/TITLE}로 변경된다."
+ABILITY/STABLE_ATTACK/TITLE,스테이블 어택
+ABILITY/STABLE_ATTACK/DES,"상대 팀보다 {STAMINA}가 높을 때, 그 차이에 비례해 {STRENGTH}이 최대 <buff_amount> 증가한다."
+ABILITY/STABLE_BOOST/TITLE,스테이블 부스트
+ABILITY/STABLE_BOOST/DES,"{STAMINA}가 절반 이상일 때, {SPIKE}를 하면 {FEVER_POINT}를 <fever_count> 획득한다."
+ABILITY/STAGE_DOMINANCE/TITLE,무대 장악
+ABILITY/STAGE_DOMINANCE/DES,"{RALLY}가 시작될 때, {COURT} 위에 빛나는 영역을 지정한다. 영역 위에서 점프할 때, 일시적으로 {STRENGTH}과 {JUMP}이 <buff_amount> 증가한다."
+ABILITY/SUN_SPARK/TITLE,선스파크
+ABILITY/SUN_SPARK/DES,"{SAD} 상태가 아닐 때, {STRENGTH}과 {DEFENSE}이 <buff_amount> 증가한다. {RALLY}가 끝날 때 {SAD} 상태가 된다."
+ABILITY/SUPER_SAVE/TITLE,슈퍼 세이브
+ABILITY/SUPER_SAVE/DES,"{SLIDING}으로 공격을 막은 후, <condition_time> 동안 {ANGRY} 상태가 된다. {STAMINA}가 절반 이상이라면 대신 {FOCUS} 상태가 된다."
+ABILITY/THUNDER_SPIKE_ARENA/TITLE,천둥 스파이크
+ABILITY/THUNDER_SPIKE_ARENA/DES,"4m 이상의 {DATEN}에서 {SPIKE}를 할 때, 일시적으로 {BALL_POWER}이 <increase_percent> 증가한다."
+ABILITY/TIGER_STYLE/TITLE,백호의 무술
+ABILITY/TIGER_STYLE/DES,"{SAD} 상태인 상대를 공격할 때, 다음으로 {BALL}을 터치하는 상대 선수를 <condition_time> 동안 {SAD} 상태로 만든다."
+ABILITY/TORTOISE_STYLE/TITLE,현무의 무술
+ABILITY/TORTOISE_STYLE/DES,"{FOCUS} 또는 {ANGRY} 상태가 될 때, {COMMON/POSITION}이 같은 상대를 <condition_time> 동안 {SAD} 상태로 만든다."
+ABILITY/TOUGH_ARMOR/TITLE,강인한 갑옷
+ABILITY/TOUGH_ARMOR/DES,"{BLOCKING}으로 공격을 막은 후, 일시적으로 모든 {STATUS}가 <buff_amount> 증가한다."
+ABILITY/TRACE/TITLE,트레이스
+ABILITY/TRACE/DES,"{RALLY}가 끝날 때, {ACTIVE_SKILL}이나 {TOGGLE_SKILL}이 없다면 <proc_percent> 확률로 아군 선수의 {ACTIVE_SKILL}을 일회성으로 복사한다."
+ABILITY/UNDERDOG/TITLE,언더독
+ABILITY/UNDERDOG/DES,등급이 S-인 아군 선수 한 명당 {SPIKE}의 {BALL_POWER}이 <increase_percent> 증가한다.
+ABILITY/VERMILLION_STYLE/TITLE,주작의 무술
+ABILITY/VERMILLION_STYLE/DES,"{COMMON/POSITION}이 같은 상대 선수가 {SAD} 또는 {CARELESS} 상태가 될 때, <condition_time> 동안 {ANGRY} 상태가 된다."
+ABILITY/VIOLET_BLOSSOM/TITLE,바이올렛 블로섬
+ABILITY/VIOLET_BLOSSOM/DES,"{DEFENSE}과 {SPEED}가 <buff_amount> 증가한다. {CONDITION}을 보유한 상태일 때, {TOSS}를 하면 {CONDITION}을 해제하고 {FREE_BALL}을 발생시킨다."
+ABILITY/YOONSEOK_DREAM/TITLE,윤석의 꿈
+ABILITY/YOONSEOK_DREAM/DES,"{RALLY}가 끝날 때, 모든 선수의 {STRENGTH}이 <buff_amount> 증가한다. {SKILL/YOONSEOK/TITLE}에게는 효과가 두 배로 적용된다."
+ABILITY/PERFECT_PARRY/TITLE,퍼펙트 패리
+ABILITY/PERFECT_PARRY/DES,"{COMMON/WORD/PERFECT_RECEIVE}를 할 때, 상대 팀보다 {STAMINA}가 낮다면 양 팀의 {STAMINA}를 뒤바꾸고 {FEVER_POINT}를 <fever_count> 획득한다."
+ABILITY/CURE_RECEIVE_ARENA/TITLE,큐어 리시브
+ABILITY/CURE_RECEIVE_ARENA/DES,"{COMMON/WORD/PERFECT_RECEIVE}를 할 때, {STAMINA}를 <heal_amount> 회복한다."
+ABILITY/GREATEST_SHOWMAN/TITLE,최고의 쇼
+ABILITY/GREATEST_SHOWMAN/DES,"{FEVER_MODE}가 아닐 때, 아군 선수의 {ACTIVE_SKILL}을 4번 사용하면 {STAMINA}를 <heal_amount> 회복하고 {FEVER_MODE}가 된다."
+ABILITY/FEVER_ATTACK/TITLE,피버 어택
+ABILITY/FEVER_ATTACK/DES,"{FEVER_MODE}일 때, {FEVER_MODE}의 남은 {COMMON/SKILL/DURATION}에 비례해 {STRENGTH}이 최대 <buff_amount> 증가한다."
+ABILITY/DREAM_WALKER/TITLE,드림 워커
+ABILITY/DREAM_WALKER/DES,{INGAME/CHANGE_PLAYER} 횟수 한 번당 {STRENGTH}과 {DEFENSE}이 <buff_amount> 증가한다.
+ABILITY/RIP_CURRENT_ARENA/TITLE,이안류
+ABILITY/RIP_CURRENT_ARENA/DES,"{STRENGTH}과 {DEFENSE}이 <buff_amount> 증가하지만, 공중 이동 속도가 절반이 된다."
+ABILITY/FORTIFY/TITLE,요새화
+ABILITY/FORTIFY/DES,"{DEFENSE}이 200보다 크거나 {HEIGHT}이 200cm 이상일 때, {BLOCKING} 충전 속도와 {RECEIVE} 수비 범위, {SLIDING} 수비 범위가 <increase_percent> 증가한다."
+ABILITY/SUPER_SLIDING/TITLE,슈퍼 슬라이딩
+ABILITY/SUPER_SLIDING/DES,"{SLIDING}으로 공격을 막을 때, <proc_percent> 확률로 피해를 받지 않는다. ({RALLY} 당 한 번)"
+ABILITY/LUCID_DREAM/TITLE,루시드 드림
+ABILITY/LUCID_DREAM/DES,"{INGAME/CHANGE_PLAYER}를 6번 이상 했다면, {MATCH}가 시작될 때 {FEVER_POINT}를 <fever_count> 획득한다."
+ABILITY/RESILIENCE/TITLE,회복력
+ABILITY/RESILIENCE/DES,"{CONDITION}을 해제할 때, {STAMINA}를 <heal_amount> 회복한다."
+ABILITY/GLASS_CANNON/TITLE,유리 대포
+ABILITY/GLASS_CANNON/DES,{STRENGTH}이 <buff_amount> 증가한다. {STAMINA}가 절반보다 높아질 수 없다.
+ABILITY/DEJAVU/TITLE,데자뷰
+ABILITY/DEJAVU/DES,"{INGAME/CHANGE_PLAYER}를 6번 이상 했다면, {ACTIVE_SKILL}의 {COMMON/SKILL/COOLDOWN}이 <effect_percent> 더 빠르게 감소한다."
+ABILITY/LITTLE_GIANT/TITLE,작은 거인
+ABILITY/LITTLE_GIANT/DES,"모든 {PLAYER} 중 원래 {HEIGHT}이 가장 작을 때, {SPIKE}의 {BALL_POWER}이 <increase_percent> 증가한다."
+ABILITY/HOT_STREAK/TITLE,핫 스트릭
+ABILITY/HOT_STREAK/DES,"{ANGRY} 상태일 때, 다른 확률형 {DREAM_SHARD}이 발동에 실패해도 <proc_percent> 확률로 강제 발동한다."
+ABILITY/IGNITION/TITLE,점화
+ABILITY/IGNITION/DES,"다른 아군 선수가 {ACTIVE_SKILL}을 사용할 때, <condition_time> 동안 {ANGRY} 상태가 된다."
+ABILITY/LUCKY_PUNCH/TITLE,럭키 펀치
+ABILITY/LUCKY_PUNCH/DES,아군 선수의 확률형 {DREAM_SHARD}이 발동에 성공할 때마다 {STRENGTH}이 <buff_amount> 증가한다. {SPIKE}를 한 후 초기화된다.
+ABILITY/RECKLESS/TITLE,무모함
+ABILITY/RECKLESS/DES,"{STRENGTH}이 <buff_amount> 증가한다. {SERVE}를 할 때, {SERVE_FLOATER}와 {SERVE_BASIC}를 하지 않는다."
+ABILITY/ENCORE/TITLE,앙코르
+ABILITY/ENCORE/DES,"{ACTIVE_SKILL}을 사용할 때, 이번 {RALLY}에서 동일한 {SKILL}이 사용된 적이 있다면 {STAMINA}를 전부 회복하고 {FEVER_POINT}를 <fever_count> 획득한다."

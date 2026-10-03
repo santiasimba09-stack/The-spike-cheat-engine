@@ -1,0 +1,471 @@
+﻿KEY,일본어(ja)
+엘리트룰,
+ELITE_RULE,エリートルール
+ELITE_RULE/DEFENSE,エリート守備
+ELITE_RULE/DEFENSE/DES,エリートルールでは精密な守備が求められます。#選手とボールが触れるタイミングに合わせてレシーブやフライングを行うほど精度が上がり、精度に応じてPERFECT、GREAT、GOOD、BADの判定を受けます。#判定がPERFECTに近いほど、個人スタミナとメンタルへのダメージが減少します。
+ELITE_RULE/DEFENSE_PERFECT,PERFECT守備
+ELITE_RULE/DEFENSE_PERFECT/DES,指定されたフレーム以内に守備を行い、パーフェクト守備が発動すると、相手の攻撃を100%相殺し、特殊能力を無効化します。#パーフェクトレシーブではAパスを出し、個人スタミナとメンタルが一定量回復します。#レシーブ時：1フレーム以内#フライング時：3フレーム以内
+ELITE_RULE/DEFENSE_GREAT,GREAT守備
+ELITE_RULE/DEFENSE_GREAT/DES,GREAT守備は相手の攻撃を80%相殺します。#個人スタミナが不足していると、GREAT判定でも守備に失敗することがあります。
+ELITE_RULE/DEFENSE_GOOD,GOOD守備
+ELITE_RULE/DEFENSE_BAD,BAD守備
+ELITE_RULE/DEFENSE_BAD/DES,一定の時間を過ぎてから守備をすると、BAD判定を受けることがあります。BAD守備では、守備をした選手の個人スタミナとメンタルへのダメージが増えるため、BADレシーブ判定を避けるのがおすすめです。#フライング時にはBAD守備判定を受けません。
+ELITE_RULE/RECEIVE_COMMAND,レシーブ指示
+ELITE_RULE/RECEIVE_COMMAND/DES,エリートルールでは、レシーブボタンを押すことで味方のレシーブタイミングを指示できます。#レシーブ可能な時間が終わるまでに指示がない場合、最後のタイミングで味方が自ら判断して守備を行います。#レシーブ指示や味方の自動判定による精度が、守備タイミングのゲージバーに表示されます。
+ELITE_RULE/EXHAUSTION,疲労
+ELITE_RULE/EXHAUSTION/DES,メンタルをすべて失った選手は疲労状態になります。#疲労状態では個人スタミナとメンタルが回復しません。#疲労状態は選手交代またはタイムアウトで解除でき、その際にメンタルと個人スタミナがすべて回復します。
+ELITE_RULE/MENTALITY,メンタル
+ELITE_RULE/MENTALITY/DES,各選手は個別にメンタルを持ち、すべて消耗すると疲労状態になります。#メンタルは相手の攻撃の威力に比例して減少しますが、守備力によってダメージを軽減できます。
+ELITE_RULE/INDIVIDUAL_STAMINA,個人スタミナ
+ELITE_RULE/INDIVIDUAL_STAMINA/DES,各選手は個別のスタミナを持っています。スタミナが低いと、相手の攻撃をレシーブやフライングで受けても、ボールが遠くへ弾かれます。
+RULE/ELITE_RECEIVE,エリートレシーブ
+RULE/MATCH_RULE,試合ルール
+RULE/INDIVIDUAL_STAMINA,個人スタミナ
+EV2609 이벤트 이후 삭제해도 되는 언어,
+EV2609,エリートステージ
+EV2609_DES,エリートステージでは、特別なエリートルールが適用されます。##曜日ごとに変わる相手チームと対戦し、スター獲得条件を達成してスターを集めましょう。1日に獲得できるスターは、その曜日の試合で達成した最高記録のみが反映されます。##毎日、最初の勝利でデイリー報酬を獲得できます。また、より多くのスターを獲得するために、同じ試合へ何度でも挑戦できます。1週間で集めたスターの数に応じて、ウィークリー報酬が支給されます。
+EV2609_COIN,エリートコイン
+EV2609_COIN_DESC,エリートステージで獲得できるイベント通貨です。#ショップで使用できます。
+EV2609_EXTRA_REWARD_TICKET,追加報酬券
+EV2609_EXTRA_REWARD_TICKET_DESC,使用すると、本日のデイリー報酬をもう1回受け取ることができます。報酬はステージクリア時に獲得でき、このアイテムは1日1回購入できます。
+EV2609_RECRUIT_GAUGE,エリート募集ゲージ
+EV2609_RECRUIT_GAUGE_DESC,エリートステージイベント期間中に使用できる募集ゲージです。エリート選手のスカウト時に優先して消費され、所持数に上限はありません。イベント終了時に消滅します。
+EV2609_PLAYER_RECRUIT_TICKET,エリートピックアップ選手募集券
+EV2609_PLAYER_RECRUIT_TICKET_DESC,エリートステージイベント期間中に使用できる募集券です。#イベント選手を募集できます。
+EV2609_RAID_SHOP_POPUP,指定された通貨を、さまざまな通貨や募集券、アイテムと交換できます。
+EV2609_POPUP_DESC,エリートステージに挑戦！神谷 大河、瀬川 優奈、桐谷・征司に会おう！
+EV2609_POPUP_PLAY_TITLE,エリートステージ
+EV2609_POPUP_PLAY_DESC,毎日変わるチームと対戦して勝利しましょう。
+EV2609_POPUP_PICKUP_TITLE,エリート選手ピックアップ開催！
+EV2609_POPUP_PICKUP_DESC,エリートステージ限定選手ピックアップと#パッケージ販売
+EV2609_LOGIN_BONUS,エリートログインパス
+EV2609_POPUP_ATTENDANCE_DESC,限定アイテムとエリートコインをプレゼント！#プレミアムパス、ロイヤルパス登場！
+DIFFICULTY_EXTREME,エクストリーム
+EV2609_UNLOCK_EXTRA_REWARD,報酬リセット
+EV2609_CLEAR_RESULT,クリア結果
+EV2609_RESET_INFO,毎日00:00（UTC）にリセットされます。
+NO_CLEAR_RESULT,クリア記録がありません。
+EV2609_CLAIM_WEEKLY_FIRST,ウィークリー報酬の受け取りが必要
+EV2609_NO_STAGE,本日入場できるステージはありません。
+EV2609_USE_REWARD_TICKET_DES,使用すると、本日のデイリー報酬をもう一度受け取れます。#ステージをクリアすると報酬を獲得します。
+EV2609_ERROR_ALREADY_CLAIMED_WEEKLY_REWARD,受け取れる報酬がありません。
+EV2609_ERROR_INVALID_EVENT,このイベントは無効です。
+EV2609_ERROR_NOT_STAGE_TODAY,このステージは本日入場できません。
+EV2609_ERROR_DAILY_REWARD_AVAILABLE,まだデイリー報酬を受け取ることができます。
+EV2609_ERROR_NOT_ENOUGH_PRODUCT,追加報酬券が不足しています。
+EV2609_ERROR_MATCH_IN_PROGRESS,試合が進行中です。
+EV2609_STAR_REQUIRE,以上
+EV2609_MISSION_MB_WIN,勝利した試合でミドルブロッカー操作で{0}回勝利
+EV2609_MISSION_BACK_ATTACK,勝利した試合でバックアタックを{0}回成功
+EV2609_MISSION_SERVE_ACE,勝利した試合でサービスエースを{0}回成功
+EV2609_MISSION_PERFECT_RECEIVE,勝利した試合で、操作する選手としてパーフェクトレシーブを{0}回成功
+EV2609_MISSION_MB_QUICK,勝利した試合でミドルブロッカー操作でクイック攻撃を{0}回する
+EV2609_MISSION,エリートステージ専用ミッション
+EV2609_MISSION_DES,エリートイベント期間中、継続して挑戦できる専用ミッションです。すべてのミッションは、エリートステージの試合で達成できます。
+EV2609_MATCH_PERIOD_END,イベントが終了したため、報酬の受け取りのみ可能です。報酬ポップアップへ移動しますか？
+EV2609_REWARD_ONLY_ONCE,初回のみ
+EV2609_WEEKLY_REWARD,ウィークリー報酬
+EV2609_WEEKLY_REWARD_LIST,ウィークリー報酬一覧
+EV2609_EXCHANGE_SHOP,エリートコインショップ
+RECRUIT_ELITE_SEO_YUNA_TITLE,S 瀬川 優奈選手募集
+RECRUIT_ELITE_SEO_YUNA_DESC,エリートステージで登場したSランクのウイングスパイカー、瀬川優奈を含む選手を募集できます。
+RECRUIT_ELITE_HAN_GITAE_TITLE,S+ 神谷 大河選手募集
+RECRUIT_ELITE_HAN_GITAE_DESC,エリートステージで登場したS+ランクのミドルブロッカー、神谷大河を含む選手を募集できます。
+RECRUIT_ELITE_KANG_SEJIN_TITLE,S 桐谷 征司選手募集
+RECRUIT_ELITE_KANG_SEJIN_DESC,エリートステージで登場したSランクのセッター、桐谷征司を含む選手を募集できます。
+EV2609_PICKUP_WS,WS 瀬川優奈
+EV2609_PICKUP_MB,MB 神谷大河
+EV2609_PICKUP_SE,Se 桐谷征司
+EV2609_LOGIN_BONUS_DESC,期間内にログインすると、さまざまなアイテムや通貨を獲得できます。
+EV2609_SPECIALIZATION_BOX,特化開放ポイントボックス
+EV2609_SPECIALIZATION_BOX_DES,全9種類の特化開放ポイントから、最大2種類をランダムに獲得できます。この報酬は、毎日の初勝利時に1回獲得できます。
+,
+,
+,
+,
+,
+,
+,
+상시 편입 언어,
+RECRUIT/GAUGE_SCOUT_READY,あと{0}回募集で確定獲得！
+RECRUIT/SCOUT_CONFIRM_GAUGE,ゲージを{0}消費してスカウトしますか？
+RECRUIT/SCOUT_CONFIRM_GAUGE_ONE,{0}を{1}個消費してスカウトしますか？
+RECRUIT/SCOUT_CONFIRM_GAUGE_TWO,{0}を{1}個と{2}を{3}個消費してスカウトしますか？
+RECRUIT/NO_SKIN_RECRUITING,現在募集中のスキンはありません！
+ALERT/PICKUP_GAUGE_HELD_CAP,所持数 {0} / 上限 {1}
+,
+ALERT/PICKUP_GAUGE_NO_MORE,これ以上ピックアップ募集ゲージを獲得できません。
+RECRUIT_GAUGE,ピックアップ募集ゲージ
+RECRUIT_GAUGE_DESC,選手のスカウトに使用できます。ピックアップ選手募集券またはVポイントで募集すると、1人募集するごとにピックアップ募集ゲージが1増加します。#ピックアップ募集ゲージは135を超えて所持できません。
+BEGINNER_RECRUIT_TICKET,初心者募集券
+BEGINNER_RECRUIT_TICKET_DESC,初心者の素早い成長を助ける募集券です。#Sランク選手の募集を狙ってみましょう！
+BEGINNER_RECRUIT_GAUGE,初心者ピックアップゲージ
+BEGINNER_RECRUIT_GAUGE_DESC,初心者選手のスカウトに使用できます。初心者募集券で募集すると、選手1人につき初心者募集ゲージが1増加します。
+BEGINNER_RECRUIT/SELECT_SCOUT_TARGET,スカウトする選手を選択してください。
+ALERT/PICKUP_GAUGE_LIMIT,ピックアップ募集ゲージは135を超えて所持できません。#続けて募集しますか？
+CONVERT,変換する
+SCOUT_POINT_CONVERSION,ピックアップスカウトポイント変換
+PICKUP_GAUGE_LIMIT_DES,ピックアップ募集ゲージは最大135まで所持できます。
+CAN_CONVERT_MORE_ONE,1個以上から変換できます。
+MOVE_TO_GUIDE_PLAYER_DES,選手{0}の説明を確認しますか？
+NO_MORE_SCOUT_POINT,ピックアップスカウトポイントがありません。
+CHECK_SCOUT_POINT_AMOUNT,この数量は変換できません。
+CALENDAR_BEFORE_FIRST_PURCHASE,まだ開始していません。
+RECRUIT/SCOUT_HELP_LINE_1,スカウトは選手を確定で獲得する機能です。
+RECRUIT/SCOUT_HELP_LINE_2,募集ゲージを消費してスカウトできます。
+RECRUIT/SCOUT_HELP_LINE_3,通常・ポジション・コロッセオ募集ではスカウトポイントでスカウトできます。
+RECRUIT/SCOUT_RULE_GAUGE_CAP,ピックアップ募集ゲージは最大{0}個まで所持できます。
+RECRUIT/SCOUT_RULE_PICKUP_CONVERT,ピックアップスカウトポイントはピックアップ募集ゲージに変換できます。
+RECRUIT/SCOUT_RULE_BLOCK,選手が5突破、または努力の欠片を5個持っている場合はこれ以上スカウトできません。
+,
+,
+BEGINNER_RECRUIT_DESC_1,募集券40枚使用でSランク選手1人確定！
+BEGINNER_RECRUIT_DESC_2,この商品はショップで購入できます。
+,
+BEGINNER_RECRUIT/RECENTLY_SELECTED,最近選択
+RECRUIT/TAB_BASIC,一般選手募集
+RECRUIT/TAB_COLOSSEUM,コロッセオ選手募集
+RECRUIT/PICKUP_REMAIN,終了まであと{0}
+RECRUIT/SCOUT_ROUND,{0}回目
+RECRUIT/SCOUT_NEXT_NEED,スカウトに必要な募集ゲージ {0}
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,スカウト募集ゲージ案内
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,回数
+RECRUIT/SCOUT_GAUGE_TABLE_COL_NEED,必要募集ゲージ
+CAN_RECRUIT_SCOUT,{0}獲得可能！
+RECRUIT/TAB_POSITION,ポジション別選手募集
+RECRUIT/TAB_COLOSSEUM,コロッセオ選手募集
+RECRUIT_NORMAL,一般選手募集
+RECRUIT_WS,ウイングスパイカー募集
+RECRUIT_MB,ミドルブロッカー募集
+RECRUIT_SE,セッター募集
+,
+RECRUIT/SCOUT_CONFIRM_TITLE,{0}スカウト
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,回数
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,スカウト
+RECRUIT/SCOUT_GAUGE_TABLE_DES,スカウトとは選手を確定で募集することです。募集ゲージまたはスカウトポイントを使って選手をスカウトできます。
+RECRUIT/SCOUT_LONG_DES,募集ゲージでスカウトすると、次回のスカウトに必要な募集ゲージが減少します。 # ピックアップ募集ゲージは最大135まで所持できます。
+RECRUIT/SCOUT_BLOCKED_AWAKEN,これ以上獲得できません。
+RECRUIT/BUY_TICKET_WITH_COIN_AND_RECRUIT,{0}を{1}個使って{2}を{3}個購入し、募集しますか？
+CALENDAR_SCHEDULED,利用予定
+CALENDAR_EXPIRED,利用終了
+CALENDAR_GLOBAL_BEFORE,オープン予定
+CALENDAR_GLOBAL_AFTER,運営終了
+CALENDAR_CONFIG_MISSING,設定の更新が必要
+DIRECT_RECRUIT,今すぐ募集
+CAN_RECRUIT,募集可能
+EVENT_PICKUP_DES,· {0}は選手のスカウト時に優先して消費されます。イベント期間終了時に消滅します。
+RECRUIT/NOT_ENUGH_GAUGE,募集ゲージが不足しています。
+BEGINNER_RECRUIT,初心者向け選手募集
+BEGINNER_RECRUIT_TITLE,初心者向け選手募集
+BEGINNER_RECRUIT_DESC,初心者募集券で、Sランク選手を確定で獲得できます。
+BEGINNER_RECRUIT/CONFIRM_SCOUT_TARGET,選手選択
+BEGINNER_RECRUIT/TIP_MINJUN/KEYWORD,高い得点力
+BEGINNER_RECRUIT/TIP_MINJUN,低難易度と高い得点力で全コンテンツにおすすめ
+BEGINNER_RECRUIT/TIP_YOUNGSUB/KEYWORD,オールラウンダー型
+BEGINNER_RECRUIT/TIP_YOUNGSUB,安定した強さで全コンテンツで活躍可能
+BEGINNER_RECRUIT/TIP_ISABEL/KEYWORD,カウンター特化型
+BEGINNER_RECRUIT/TIP_ISABEL,通常の運用は難しいものの、使いこなせば高い性能を発揮し、高難度コンテンツで活躍できる選手
+BEGINNER_RECRUIT/TIP_ATIS/KEYWORD,速攻圧迫型
+BEGINNER_RECRUIT/TIP_ATIS,優れた身体能力と速攻で相手を圧迫、全コンテンツにおすすめ
+BEGINNER_RECRUIT/TIP_HANRA/KEYWORD,守備安定型
+BEGINNER_RECRUIT/TIP_HANRA,優れた守備と守備補助で安定性を高める選手、全コンテンツにおすすめ
+BEGINNER_RECRUIT/TIP_SANGHYEON/KEYWORD,チーム強化型
+BEGINNER_RECRUIT/TIP_SANGHYEON,チーム全体の能力を上げて守備・攻撃の機会を作る選手、全コンテンツにおすすめ
+BEGINNER_RECRUIT/TIP_LISIA/KEYWORD,サーブ特化型
+BEGINNER_RECRUIT/TIP_LISIA,脅威的なサーブで味方の士気を高める選手、全コンテンツにおすすめ
+BEGINNER_RECRUIT/TIP_ZERO/KEYWORD,トス支援型
+BEGINNER_RECRUIT/TIP_ZERO,強力なトスで味方を輝かせる選手、全コンテンツにおすすめ
+BEGINNER_RECRUIT/TIP_AHYEON/KEYWORD,連携特化型
+BEGINNER_RECRUIT/TIP_AHYEON,味方との連携で相手を無力化する選手、挑戦的なコンテンツにおすすめ
+RECRUIT/SCOUT_MAXED,この選手のスカウトはすべて完了しています。
+,
+,
+STAR_CONDITION/ALWAYS,試合で勝利
+STAR_CONDITION/ONAIR_VIEWERS,最大視聴者数{0}人を達成
+STAR_CONDITION/SPIKE_SCORE,スパイクで{0}回得点
+STAR_CONDITION/BACK_ATTACK_SCORE,バックアタックで{0}回得点
+STAR_CONDITION/QUICK_SCORE,クイック攻撃で{0}回得点
+STAR_CONDITION/LOSE_SCORE,失点を{0}点未満に抑える
+STAR_CONDITION/LOSE_SCORE_MANUAL,手動操作モードで失点を{0}点未満に抑える
+STAR_CONDITION/DIFFICULTY_EXTREME,難易度ベリーハードで勝利
+STAR_CONDITION/DIFFICULTY_HARD,難易度ハードで勝利
+STAR_CONDITION/WIN_SCORE_WITHOUT_AUTO,手動操作モードで{0}点差以上をつけて勝利
+STAR_CONDITION/WIN_SCORE_WITHOUT_BEGINNER,初心者モードを使用せず、{0}点差以上をつけて勝利
+CONVERTED_GAUGE_AMOUNT,累計変換量：{0}
+COMMON/TOTAL,累計
+TUTORIAL_MB_MOVEMENT,ミドルブロッカー訓練
+TUTORIAL_MISSION/QUICK,クイック攻撃を成功させる
+TUTORIAL_MISSION/FAKE_QUICK,ロベルトのブロックを引きつける
+TUTORIAL/QUICK,クイック攻撃
+TUTORIAL/QUICK_DES,セッターがトスを上げる前にジャンプすると、#セッターがミドルブロッカーにクイックトスを上げます。
+QUICK_TUTORIAL/01,クイック攻撃はミドルブロッカーの基本中の基本だ。#これができないと……まあ、ミドルブロッカーとは言いづらいよな？
+QUICK_TUTORIAL/02,大事なのは、味方のセッターがトスを上げる前に跳ぶことだ。#ボールが上がってくる頃には、もう打てる高さに到達してないとな。
+QUICK_TUTORIAL/03,タイミングさえ合えば、セッターがちゃんとお前の手元にボールを持ってきてくれる。
+QUICK_TUTORIAL/04,とりあえずやってみろ。俺の近くで、トスの直前に跳んで……そのまま打て！
+RECEIVE_QUICK_TUTORIAL/01,おお～、いいじゃん？ 今のはかなり様になってたぞ。
+RECEIVE_QUICK_TUTORIAL/02,今度は実戦みたいにやってみるか？
+RECEIVE_QUICK_TUTORIAL/03,ロベルトが手伝ってくれる。#お前がクイック攻撃のタイミングをつかめるよう、うまく合わせてくれるから心配するな。
+RECEIVE_QUICK_TUTORIAL/04,レシーブしたら、すぐにネット前へ走れ。#教わったとおりにクイック攻撃を決めてみろ。
+FAKE_QUICK_TUTORIAL/01,いいぞ、いいぞ。だいぶ様になってきたんじゃないか？
+FAKE_QUICK_TUTORIAL/02,クイック攻撃のタイミングもある程度つかめたみたいだし……#じゃあロベルト、今度は本気で止めてみろ。
+FAKE_QUICK_TUTORIAL/03,今度はお前のクイック攻撃にタイミングを合わせて、本格的にブロックしてくる。#さっきみたいに簡単には打てないだろうな？
+FAKE_QUICK_TUTORIAL/04,でもな。#ミドルブロッカーは必ずしもボールを打つ必要はない。#相手のブロッカーを惑わせるのも仕事だからな。
+FAKE_QUICK_TUTORIAL/05,クイック攻撃をするようにタイミングを合わせて跳ぶだけでも、相手はお前を無視できなくなる。
+FAKE_QUICK_TUTORIAL/06,今度はボールに触らず、ジャンプだけしてみろ。#ロベルトのブロックを引きつけて、味方のウイングスパイカーに時間差攻撃を決めさせるんだ。
+PRACTICE_GO_TUTORIAL_04/01,おお～、素晴らしい、素晴らしい。
+PRACTICE_GO_TUTORIAL_04/02,ウイングスパイカーでプレーするときとはまた違うだろ？ どうだ、やれそうか？
+PRACTICE_GO_TUTORIAL_04/03,クイック攻撃がどんなものかは分かっただろうし、あとは練習を続けながら身につけていこう。
+WRONG_ATTACK_POSITION_TIP,光っているエリアの上でジャンプしてみよう。
+MIDAIR_AT_TOSS_TIP,セッターがトスを上げる前にジャンプしないと。
+MIDAIR_AT_TOSS_TIP_THATS_OPEN,それはクイック攻撃じゃなくて、オープン攻撃だ。
+MIDAIR_AT_TOSS_TIP_TOO_FAST,もう少し遅く跳んでみよう。
+MIDAIR_AT_TOSS_TIP_TOO_FAR,ネットから離れるほど、クイック攻撃は難しくなる。
+ATTACK_BEFORE_TOSS_TIP,セッターがトスを上げるタイミングに合わせて攻撃しよう。
+ATTACK_IN_COURT_TIP,もっと前でボールを捉えないと。
+FAKE_JUMP_TIP,クイック攻撃のタイミングに合わせてジャンプしよう。
+FAKE_QUICK_TIP,ボールを打たずに着地してみよう。
+TOO_FAST_QUICK_TIP,タイミングに合わせてスイングしよう。
+QUICK_TOSS_FAIL_TIP,先にジャンプしてくれないと、クイック攻撃のトスは上げられないよ。
+BLOCKING_BREAK_TIP,弱点を狙ってブロックを突破しましょう！
+,
+,
+,
+SHOP/DOUBLE_BONUS,BONUS! +{0}VP
+SHOP/FIRST_PURCHASE_BONUS,スペシャル特典！
+COMMON/WEEKDAY_SUN,日曜日
+COMMON/WEEKDAY_MON,月曜日
+COMMON/WEEKDAY_TUE,火曜日
+COMMON/WEEKDAY_WED,水曜日
+COMMON/WEEKDAY_THU,木曜日
+COMMON/WEEKDAY_FRI,金曜日
+COMMON/WEEKDAY_SAT,土曜日
+BLOCKING_LIFE,ブロック強度
+NAME/TEAM_NATIONAL_STUDENTS_1,U21トレーニングチーム - A
+NAME/TEAM_NATIONAL_STUDENTS_2,U21トレーニングチーム - B
+NAME/TEAM_NATIONAL_STUDENTS_3,U21トレーニングチーム - オールスター
+NAME/TEAM_NATIONAL_STUDENTS_4,U21トレーニングチーム - C
+NAME/TEAM_NATIONAL_STUDENTS_5,U21トレーニングチーム - D
+NAME/TEAM_NATIONAL_STUDENTS_6,U21トレーニングチーム - E
+NAME/TEAM_NATIONAL_STUDENTS_7,U21トレーニングチーム - F
+NAME/STAGE_13_01,師匠と弟子
+NAME/STAGE_13_02,うれしい知らせ
+NAME/STAGE_13_03,入所初日
+NAME/STAGE_13_04,自己紹介
+NAME/STAGE_13_05,厳しい現実
+NAME/STAGE_13_06,新入り代表選手
+NAME/STAGE_13_07,追いかける者
+NAME/STAGE_13_08,才能の形
+NAME/STAGE_13_09,何度でも、もう一度
+NAME/STAGE_13_10,たった一度のチャンス
+NAME/STAGE_13_11,さよなら、新
+NAME/CHAPTER_13,On My Way
+NAME/SEASON_03,シーズン3
+PLAYER/HAN_GITAE/NICKNAME,鋼鉄のミドルブロッカー
+PLAYER/HAN_GITAE/LINE,ちょうど体がなまってたところだ。ちょっとほぐしてみるか！
+PLAYER/HAN_GITAE/LINE_2,手加減はなしだ。全力で来い！
+PLAYER/HAN_GITAE/GACHA/LINE,手加減はなしだ。<wait=100> 全力で来い！
+PLAYER/SEO_YUNA/NICKNAME,適応の申し子
+PLAYER/SEO_YUNA/LINE,見せてあげる。私、けっこう強いんだから！
+PLAYER/SEO_YUNA/GACHA/LINE,出会えたのも何かの縁ですし、<break><wait=85><b>みんなまとめて倒しちゃいましょう！
+PLAYER/SEO_YUNA/GACHA/LINE_2,才能なんて、努力で乗り越えればいいんですよ！
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM,タイムアウトアニメーション
+,
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM/DES,タイムアウト画面でイラストのアニメーションを高画質かつ滑らかに再生します。動作性能に影響する場合があります。
+NAME/ELITE_MATCH_MON,オールスターズ
+NAME/ELITE_MATCH_TUE,蒼き鋼
+NAME/ELITE_MATCH_WED,バレンシアスパイクス
+NAME/ELITE_MATCH_THU,シルフィード・ケース
+NAME/ELITE_MATCH_FRI,アッシュビル・ウィーズルズ
+NAME/ELITE_MATCH_SAT,ソフトメタル
+NAME/ELITE_MATCH_SUN,テンペスタ・ローザ
+,
+,
+,
+,
+,
+NAME/ELITE_MATCH_DES,曜日ごとに変わる相手チームに勝利して、イベント報酬を獲得しましょう！
+TUTORIAL/ELITE_RULE_UI_APPEAR_DES,各選手には、それぞれ個別のスタミナとメンタルがあります。#スタミナは黄色、メンタルは青色で表示されます。
+TUTORIAL/ELITE_RULE_UI_DAMAGE_DES,レシーブした選手は、スタミナとメンタルが同時に減少します。#スタミナがない場合、守備に失敗します。
+TUTORIAL/ELITE_RULE_DEFENSE_TIMING_DES,タイミングよくフライングまたはレシーブボタンを押すと、受けるダメージが減少します。#ボタンを押さなかった場合は、ランダム判定で守備を行います。
+TUTORIAL/ELITE_RULE_RECEIVE_DES,正確なタイミングでレシーブすると、ボールが安定して上がります。#パーフェクトレシーブに成功すると、チャンスボールが発生します。
+TUTORIAL/ELITE_RULE_SLIDING_DES,フライングは広い範囲を守れますが、ボールが不安定に上がります。#フライングで守備した場合、チャンスボールは発生しません。
+TUTORIAL/ELITE_RULE_FLOATER_SERVE_DES,フローターサーブとハイブリッドサーブは、守備力を無視してダメージを与えます。#正確なタイミングで守備できなかった場合、大きなダメージを受けます。
+TUTORIAL/ELITE_RULE_MENTALITY_DES,メンタルはラリーが終わっても簡単には回復しません。#メンタルが低いほど、守備時に減少するスタミナが多くなります。
+TUTORIAL/ELITE_RULE_EXHAUST_DES,メンタルをすべて消耗すると、しばらくの間、疲労状態になります。#疲労状態の間はメンタルが回復しません。
+TUTORIAL/ELITE_RULE_FORMATION_DES,サーブ権が移っても、選手の守備位置は変わりません。#タイムアウト中に選手の守備位置を変更できます。
+TUTORIAL/RAID_TIP_06,ほぼちょうどいい！
+STORYMODE_TIP_9,エリートルールが適用されます。
+MAP_NATIONAL,飛翔体育館
+,
+NAME LANG,
+IVAN_NAM,佐伯・悠斗
+SEONGJIN_PARK,黒瀬・龍牙
+CHEI_YOO,七瀬・彩花
+JINKYEONG_KIM,藤沢・美咲
+SEOHEE_PYEON,鷹宮・凛華
+JINHYUN_KIM,高瀬・直人
+MINSEO_JO,水野・律
+JAEWON_LEE,朝倉・航平
+MR_COACH,監督
+,
+SPECIALIZATION/PRESET,プリセット
+SPECIALIZATION/REFUND_ALERT,特化ポイントを返還しますか？
+SPECIALIZATION/RESET_PRESET_ALERT,プリセット{0}をリセットしますか？
+SPECIALIZATION/PREREQUISITE_AP,前提AP {0}
+SPECIALIZATION/NO_EFFECT,効果なし
+SPECIALIZATION/WEAKNESS,弱化
+SPECIALIZATION/UNLOCK,開放
+SPECIALIZATION/DOWNGRADE,下降
+SPECIALIZATION/UPGRADE,上昇
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_MIN,これ以上下げられません。
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_EXCEEDS_MAX,最大レベルです。
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_OVERSPENT,使用可能なAPが不足しています。({0}/{1})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH,前提となる特化のAPが不足しています。({0})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH/DEPENDENT,{0}の前提AP条件が満たされなくなります。({1})
+SPECIALIZATION/ERROR/SPECIALIZATION_CORE_LIMIT_EXCEEDED,コア特化の有効化上限を超えています。
+SPECIALIZATION/ERROR/SPECIALIZATION_IDENTITY_CORE_LIMIT_EXCEEDED,個性コア特化は1つのみ有効化できます。
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_CHAIN_BLOCKED,同じ能力値の弱化を連続で選択できません。
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_BALANCE_BROKEN,弱化系統のバランスが取れていません。
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_NOT_UNLOCKED,前提となる特化を先に開放する必要があります。
+SPECIALIZATION/ERROR/NOT_ENOUGH_ITEM_AMOUNT,開放ポイントが不足しています。({0}/{1})
+SPECIALIZATION/POINT/WS/OFFENSE,WS攻撃開放ポイント
+SPECIALIZATION/POINT/WS/DEFENSE,WS守備開放ポイント
+SPECIALIZATION/POINT/WS/IDENTITY,WS個性開放ポイント
+SPECIALIZATION/POINT/MB/OFFENSE,MB攻撃開放ポイント
+SPECIALIZATION/POINT/MB/DEFENSE,MB守備開放ポイント
+SPECIALIZATION/POINT/MB/IDENTITY,MB個性開放ポイント
+SPECIALIZATION/POINT/SE/OFFENSE,SE攻撃開放ポイント
+SPECIALIZATION/POINT/SE/DEFENSE,SE守備開放ポイント
+SPECIALIZATION/POINT/SE/IDENTITY,SE個性開放ポイント
+SPECIALIZATION/POINT/WS/OFFENSE_DESC,ウィングスパイカーの攻撃特化を開放するポイントです。
+SPECIALIZATION/POINT/WS/DEFENSE_DESC,ウィングスパイカーの守備特化を開放するポイントです。
+SPECIALIZATION/POINT/WS/IDENTITY_DESC,ウィングスパイカーの個性特化を開放するポイントです。
+SPECIALIZATION/POINT/MB/OFFENSE_DESC,ミドルブロッカーの攻撃特化を開放するポイントです。
+SPECIALIZATION/POINT/MB/DEFENSE_DESC,ミドルブロッカーの守備特化を開放するポイントです。
+SPECIALIZATION/POINT/MB/IDENTITY_DESC,ミドルブロッカーの個性特化を開放するポイントです。
+SPECIALIZATION/POINT/SE/OFFENSE_DESC,セッターの攻撃特化を開放するポイントです。
+SPECIALIZATION/POINT/SE/DEFENSE_DESC,セッターの守備特化を開放するポイントです。
+SPECIALIZATION/POINT/SE/IDENTITY_DESC,セッターの個性特化を開放するポイントです。
+SPECIALIZATION/HELP/AP,開放ポイントで特化を開放した後、選手のAPでレベルを上げると有効化できます。#レベルを下げることで使用したAPを自由に回収できますが、特化の開放は取り消せません。
+SPECIALIZATION/HELP/AP_ALERT,* 特化の効果と数値は、今後のアップデートで調整される場合があります。#効果または数値が調整された場合、その選手の特化開放に使用したすべての開放ポイントを返還できます。
+SPECIALIZATION/HELP/PRESET,各特化へのAP配分をプリセットに保存できます。#プリセットを変更しても、特化の開放状態は維持されます。
+SPECIALIZATION/STATUS/LOCKED,ロック中
+SPECIALIZATION/ACTIVATE,有効化
+SPECIALIZATION/DEACTIVATE,無効化
+SPECIALIZATION/TIER/GROWTH,成長
+SPECIALIZATION/TIER/ENHANCEMENT,強化
+SPECIALIZATION/TIER/TACTICAL,戦術
+SPECIALIZATION/TIER/CORE,コア
+SPECIALIZATION/TIER/UNIQUE,固有
+SPECIALIZATION,特化
+IAP,
+EV2609_GROWTH_PACKAGE,成長パッケージ
+EV2609_GROWTH_PACKAGE_DESC,大量のクレジットとEXPポイントを獲得できるパッケージです。
+EV2609_WELCOME_ELITE_PACKAGE,ウェルカムエリートパッケージ
+EV2609_WELCOME_ELITE_PACKAGE_DESC,ピックアップ選手募集券x10と少量の通貨を獲得できるパッケージです。
+EV2609_PACKAGE_1,エリートパッケージ1
+EV2609_PACKAGE_1_DESC,エリートコインx300、Vポイントx360を獲得できるパッケージです。
+EV2609_PACKAGE_2,エリートパッケージ2
+EV2609_PACKAGE_2_DESC,エリートコインx860、Vポイントx1270を獲得できるパッケージです。
+EV2609_ELITE_PREMIUM_PACKAGE,エリートプレミアムパッケージ
+EV2609_ELITE_PREMIUM_PACKAGE_DESC,ピックアップ選手募集券x10と大量の通貨を獲得できるパッケージです。
+EV2609_ELITE_ROYAL_PACKAGE,エリートロイヤルパッケージ
+EV2609_ELITE_ROYAL_PACKAGE_DESC,ピックアップ選手募集券x20と大量の通貨を獲得できるパッケージです。
+EV2609_EXTREME_ROYAL_PACKAGE,エリートエクストリームロイヤルパッケージ
+EV2609_EXTREME_ROYAL_PACKAGE_DESC,ピックアップ選手募集券x40と超大量の通貨を獲得できるパッケージです。
+EV2609_NORMAL_PASS,ノーマルパス
+EV2609_NORMAL_PASS_DESC,ノーマルパスでさまざまなユニフォームと通貨を獲得できます。
+EV2609_PREMIUM_PASS,プレミアムパス
+EV2609_PREMIUM_PASS_DESC,イベントログインパスが3日分進みます。限定ユニフォームと大量の通貨を獲得できるプレミアムパスが解放されます。
+EV2609_ROYAL_PASS,ロイヤルパス
+EV2609_ROYAL_PASS_DESC,ロイヤルパスを開放すると、イベントログインパスが1日分進み、大量の通貨を獲得できます。プレミアムパス購入後に購入可能です。
+EV2609_PREMIUM_ROYAL_PASS,プレミアムパス＋ロイヤルパス
+EV2609_PREMIUM_ROYAL_PASS_DESC,プレミアムパスとロイヤルパスをまとめて開放できるお得なパックです。
+BEGINNER_PLAYER_RECRUIT_TICKET,初心者募集券
+BEGINNER_RECRUIT_PACKAGE,初心者募集券パック
+BEGINNER_RECRUIT_PACKAGE_DESC,初心者募集券40枚を獲得します。
+DEFAULT_40VP_PACKAGE,Vポイントx40パック
+DEFAULT_40VP_PACKAGE_DESC,Vポイント40個を#獲得します。
+DEFAULT_200VP_PACKAGE,Vポイントx200パック
+DEFAULT_200VP_PACKAGE_DESC,Vポイント200個を#獲得します。
+DEFAULT_420VP_PACKAGE,Vポイントx420パック
+DEFAULT_420VP_PACKAGE_DESC,Vポイント420個を#獲得します。
+DEFAULT_1280VP_PACKAGE,Vポイントx1280パック
+DEFAULT_1280VP_PACKAGE_DESC,Vポイント1280個を#獲得します。
+DEFAULT_2160VP_PACKAGE,Vポイントx2160パック
+DEFAULT_2160VP_PACKAGE_DESC,Vポイント2160個を#獲得します。
+DEFAULT_4000VP_PACKAGE,"Vポイントx4,000パック"
+DEFAULT_4000VP_PACKAGE_DESC,"Vポイント4,000個を#獲得します。"
+DEFAULT_40VP_PACKAGE_2X,Vポイント x40 2倍パック
+DEFAULT_40VP_PACKAGE_2X_DESC,Vポイント40個 + ボーナス40個！#ボーナス特典は一定期間ごとにリセットされます。
+DEFAULT_200VP_PACKAGE_2X,Vポイント x200 2倍パック
+DEFAULT_200VP_PACKAGE_2X_DESC,Vポイント200個 + ボーナス200個！#ボーナス特典は一定期間ごとにリセットされます。
+DEFAULT_420VP_PACKAGE_2X,Vポイント x420 2倍パック
+DEFAULT_420VP_PACKAGE_2X_DESC,Vポイント420個 + ボーナス420個！#ボーナス特典は一定期間ごとにリセットされます。
+DEFAULT_1280VP_PACKAGE_2X,Vポイント x1280 2倍パック
+DEFAULT_1280VP_PACKAGE_2X_DESC,Vポイント1280個 + ボーナス1280個！#ボーナス特典は一定期間ごとにリセットされます。
+DEFAULT_2160VP_PACKAGE_2X,Vポイント x2160 2倍パック
+DEFAULT_2160VP_PACKAGE_2X_DESC,Vポイント2160個 + ボーナス2160個！#ボーナス特典は一定期間ごとにリセットされます。
+DEFAULT_4000VP_PACKAGE_2X,Vポイント x4000 2倍パック
+DEFAULT_4000VP_PACKAGE_2X_DESC,Vポイント4000個 + ボーナス4000個！#ボーナス特典は一定期間ごとにリセットされます。
+상품(Product시트에 들어갈 것),
+GITAE_UNIFROM,神谷 大河のユニフォーム
+GITAE_UNIFROM/DESC,淸明大学バレー部の男子ユニフォーム。#摩擦や強い衝撃でも破れにくい、特殊な高強度生地で作られている。
+BACK_ELITE_WAIT_ROOM,国家代表トレーニングセンター
+BACK_ELITE_WAIT_ROOM/DESC,韓国最高峰のバレーボール選手たちが集まる専用トレーニングセンター。#国内最大規模の専門施設と最先端のトレーニングシステムを備えている。最高の選手たちを磨き上げる場所だけに、その極めて厳しい練習は悪名高い。
+BACK_ELITE_HALLWAY,体育館の廊下の背景
+BACK_ELITE_HALLWAY/DESC,国家代表トレーニングセンターの体育館の廊下。#飛鳥・隼人と彼のパートナーが国家代表だった頃、ここを歩きながら互いの夢について語り合っていた。
+YOUTH_BALL,NTC専用ボール
+YOUTH_BALL/DES,バレーボールブランド'RISE'が製作した、国家代表トレーニングセンター専用ボール。
+GITAE_BALL,神谷 大河の愛用ボール
+GITAE_BALL/DES,神谷 大河が特に大切にしているバレーボール。#大事な試合がある日は、必ずこのボールで練習するという。
+YOUTH_UNIFORM_MALE,ユース国家代表男子ユニフォーム
+YOUTH_UNIFORM_MALE/DES,バレーボールブランド'RISE'が製作した、ユース国家代表の公式男子ユニフォーム。#人気が高く、国際大会のシーズンには飛ぶように売れる。
+YOUTH_UNIFORM_FEMALE,ユース国家代表女子ユニフォーム
+YOUTH_UNIFORM_FEMALE/DES,バレーボールブランド'RISE'が製作した、ユース国家代表の公式女子ユニフォーム。#人気が高く、国際大会のシーズンには飛ぶように売れる。
+JAEHYUN_UNIFORM,黒崎・陵のユニフォーム
+JAEHYUN_UNIFORM/DES,天空高校バレーボール部の公式男子ユニフォーム。#初めて支給された日、黒崎・陵は鏡の前にかなり長い間立っていた。
+JAEHYUN_SHOES,黒崎 陵のシューズ
+SEJIN_UNIFORM,桐谷 征司のユニフォーム
+SEJIN_UNIFORM/DES,チョナン高校バレーボール部の公式男子ユニフォーム。#なぜか桐谷・征司は、この服を着るとやけに格好をつける。
+SEJIN_SHOES,桐谷 征司のシューズ
+YUNA_UNIFORM,瀬川 優奈のユニフォーム
+YUNA_UNIFORM/DES,チョルウォン高校バレーボール部の公式女子ユニフォーム。#瀬川 優奈のお気に入りで、同じものを5着も持っていて着回している。
+YUNA_SHOES,瀬川 優奈のシューズ
+BGM_COLEMAN_STORY_DESC,CHAPTER 13. #「早くからバレーを始めた君には何もわからないよ。」
+BGM_NATIONAL_TRAINING_MATCH_DESC,CHAPTER 13. #「できることは全部やってみなきゃ！」
+BGM_TRAINING_CAMP_BUDDIES_DESC,CHAPTER 13. #「絶対に国家代表になりたいです！」
+PROFILE_FRAME_EV2609,エリートステージフレーム
+PROFILE_TITLE_ELITE_SPIKER,エリートプレイヤー
+PROFILE_STICKER_GLOBAL,グローバルステッカー
+PROFILE_STICKER_GITAE,神谷 大河ステッカー
+PROFILE_STICKER_TROPHY,エリートトロフィーステッカー
+,
+,
+,
+,
+,
+,
+,
+,
+BEGINNER_RECRUIT/CAN_SCOUT,初心者向け選手獲得可能！
+RECRUIT/HELP_TITLE,選手募集
+RECRUIT/HELP_LINE_1,募集券または通貨を消費して選手を獲得できます。
+RECRUIT/HELP_LINE_2,イベントピックアップ選手募集の選手は、イベント募集ゲージとピックアップ募集ゲージでスカウトできます。
+RECRUIT/HELP_LINE_3,初心者向け選手募集の選手は、初心者募集ゲージでスカウトできます。
+RECRUIT/HELP_LINE_4,イベントピックアップ選手募集券は、イベント期間が終了すると消滅します。
+RECRUIT/SCOUT_NO_MORE,これ以上スカウトできません。
+RECRUIT/NOT_ENOUGH_GAUGE,ゲージが不足しています。
+RECRUIT/SCOUT_CONFIRM_EVENT_FIRST,{0}が先に差し引かれます。
+RECRUIT/CURRENCY_NOT_ENOUGH_GO_SHOP,通貨が不足しています。ショップに移動しますか？
+RECRUIT/BUY_THEN_RECRUIT,購入後に募集
+COMMON/RECRUIT,募集
+CONVERTED_GAUGE_AMOUNT,累計変換量: {0}
+,
+COMMON/MAX_BUY_COUNT,購入可能回数の上限 : {0}
+COMMON/TOTAL_BUY_DES,合計{0}個を購入します。
+COMMON/EASY,イージー
+COMMON/TOOHARD,ベリーハード
+,
+RECRUIT/SCOUT_RULE_OVER_ROUND,最終ラウンド以降も、同じゲージでスカウトを続けられます。
+RECRUIT/SCOUT_ROUND_AFTER,{0}回目以降

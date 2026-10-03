@@ -1,0 +1,1193 @@
+﻿KEY,말레이시아어(ms)
+선수 특성,
+SKILL/SKILL_DURATION,{COMMON/SKILL/DURATION} : [DOL.SKILL_TIME.DURATION_TIME]
+SKILL/SKILL_TIME,"{COMMON/SKILL/DURATION} : [DOL.SKILL_TIME.DURATION_TIME], {COMMON/SKILL/COOLDOWN} : [DOL.SKILL_TIME.DELAY_TIME]"
+SKILL/MAX_NOTEN,{DATEN} Tertinggi: [DOL.MAX_NOTEN]
+SKILL/BLINK_BALL_BLACK_THUNDER/TITLE,Jejak Petir Hitam
+SKILL/BLINK_BALL_BLACK_THUNDER/DES,Warna {TRAIL} {BALL} berubah semasa {@TOSS_SERVE}.
+SKILL/BLINK_BALL_BLACK_THUNDER/DOLPA,
+SKILL/BLINK_BALL_RAINBOW/TITLE,Jejak Pelangi
+SKILL/BLINK_BALL_RAINBOW/DES,Warna {TRAIL} {BALL} berubah semasa {@TOSS_SERVE}.
+SKILL/BLINK_BALL_RAINBOW/DOLPA,
+SKILL/BLINK_BALL_THUNDER/TITLE,Jejak Elektrik
+SKILL/BLINK_BALL_THUNDER/DES,Warna {TRAIL} {BALL} berubah semasa {@TOSS_SERVE}.
+SKILL/BLINK_BALL_THUNDER/DOLPA,
+SKILL/HIGH_VERTICAL_SERVE_TOSS/TITLE,Tos Servis Tinggi
+SKILL/HIGH_VERTICAL_SERVE_TOSS/DES,Melambungkan {@TOSS_SERVE} tinggi dengan trajektori hampir menegak.
+SKILL/HIGH_VERTICAL_SERVE_TOSS/DOLPA,
+SKILL/OASIS_SERVE_TOSS/TITLE,Tos Servis Oasis
+SKILL/OASIS_SERVE_TOSS/DES,Melakukan {@TOSS_SERVE} dengan kesan matahari.
+SKILL/OASIS_SERVE_TOSS/DOLPA,
+SKILL/YONGSUB_SERVE_TOSS/TITLE,Tos Servis Yongsup
+SKILL/YONGSUB_SERVE_TOSS/DES,Menaikkan {@TOSS_SERVE} lebih tinggi.
+SKILL/YONGSUB_SERVE_TOSS/DOLPA,
+SKILL/ABSOLUTE_BLOCK/TITLE,Halangan Mutlak
+SKILL/ABSOLUTE_BLOCK/DES,"Semasa {SKILL} berada dalam keadaan {ACTIVATE}, setiap {ATTACK} yang menyentuh {@BLOCKING} sentiasa mencetuskan {@BLOCK_KILL}."
+SKILL/ABSOLUTE_BLOCK/DOLPA,
+SKILL/ARMOR/TITLE,Perisai
+SKILL/ARMOR/DES,"{CHARGE} {GAUGE} mengikut {ACCURACY} {@BLOCKING}. {STRENGTH}, {SPEED} dan {JUMP} meningkat mengikut {GAUGE} yang telah {CHARGE}.#{@BLOCK_SOFT} dijamin walaupun {ACCURACY} {BLOCKING} rendah."
+SKILL/ARMOR/DOLPA_DES,"Maksimum {CHARGE} {GAUGE} per {BLOCKING}: [CALC.MAX_CHARGED, PER]"
+SKILL/ARMOR/SLIDER_DES,"{STATUS} : {STRENGTH} +[CALC.STRENGTH], {SPEED} +[CALC.SPEED], {JUMP} +[CALC.JUMP]"
+SKILL/HEALING_TOSS/TITLE,Set Pemulihan
+SKILL/HEALING_TOSS/DES,"Semasa {@TOSS}, mempunyai peluang [VAL.PROBABILITY, PER] untuk memulihkan {STAMINA} {TEAM}. #\[{ELITE_RULE}\] Memulihkan {STAMINA} {PLAYER_TEAM_ALLY} dengan {RULE/INDIVIDUAL_STAMINA} paling rendah."
+SKILL/HEALING_TOSS/DOLPA_DES,Pemulihan {STAMINA}: [CALC.STAMINA]
+SKILL/BLITZ_SPIN/TITLE,Blitz Spin
+SKILL/BLITZ_SPIN/DES,"Meningkatkan {@BALL_POWER_VERTICAL} dan {@BALL_SPIN} {BALL} yang di{@SPIKE}, lalu membengkokkan {TRAJECTORY}."
+SKILL/BLITZ_SPIN/DOLPA_DES,"{BALL_POWER_VERTICAL} : +[CALC.BALL_SPEED_VERTICAL], {BALL_SPIN} : +[CALC.BALL_SPIN]"
+SKILL/BLUE_DRAGON/TITLE,Naga Azure
+SKILL/BLUE_DRAGON/DES,"{CHARGE} {GAUGE} semasa {ON_GROUND}. Semasa {MID_AIR}, {HOLD} {BUTTON_SPIKE} untuk menggunakan {GAUGE} dan mengumpulkan {ENERGY}.#Semakin banyak {ENERGY} dikumpulkan, semakin tinggi {@BALL_POWER} dan {@BALL_SPIN} {BALL}. {SPIKE} dengan {ENERGY} maksimum memperoleh {@SLIDING_KILLER_EFFECT}. Namun, mengumpulkan {ENERGY} melebihi had maksimum menyebabkan {BALL} terbang terlalu jauh."
+SKILL/BLUE_DRAGON/DOLPA_DES,"Kelajuan {CHARGE} {GAUGE}: +[CALC.GAUGE_FILL_SPEED, PER_UNCAPPED] #Jumlah Asas {CHARGE} : [CALC.MIN_CHARGED, PER]"
+SKILL/BLUE_DRAGON/SLIDER_DES,"{BALL_POWER} : [CALC.BALL_POWER, PER_SIGN], {BALL_SPIN} : +[CALC.BALL_SPIN] , {SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]"
+SKILL/CAT/TITLE,Navi
+SKILL/CAT/DES,"Kucing kesayangan Clyde turut muncul.#Kucing itu berkeliaran di {COURT} dan menukar keadaan {PLAYER_TEAM_ALLY} daripada {@SAD} kepada {@FOCUS}.#{STAMINA_MAX_TEAM_ALLY} meningkat sebanyak [VAL.STAMINA, PER]."
+SKILL/CAT/DOLPA,
+SKILL/CHANCE_BALL/TITLE,Tindak Balas Bola Peluang
+SKILL/CHANCE_BALL/DES,"Apabila melakukan {SPIKE} terhadap {@FREE_BALL}, {@BALL_POWER} {BALL} meningkat sebanyak [CALC.BALL_POWER]."
+SKILL/CHANCE_BALL/DOLPA,
+SKILL/CHARGE/TITLE,Memberi tenaga
+SKILL/CHARGE/DES,Tekan {BUTTON_SPIKE} untuk membuat larian anjak sambil {CHARGE} {GAUGE}. Tekan {BUTTON_SPIKE} sekali lagi untuk melompat. {JUMP} berubah mengikut {GAUGE}.
+SKILL/CHARGE/DOLPA,
+SKILL/CHARGE/DETAIL_DES,
+SKILL/CHARGE_JENNY/DETAIL_DES,
+SKILL/CHEMICAL_HIT/TITLE,Tindak Balas Kimia
+SKILL/CHEMICAL_HIT/DES,"Apabila {PLAYER} dalam {TEAM} melakukan {@TOSS} pada {BALL} yang telah di{@RECEIVE} oleh {PLAYER} ini, {SKILL/CHEMICAL_HIT/TITLE} berlaku. Apabila {PLAYER} dalam {TEAM} tersebut melakukan {ATTACK} pada {BALL} yang mencetuskan {SKILL/CHEMICAL_HIT/TITLE}, {@BALL_POWER} dan {@BALL_SPIN} {BALL} meningkat. {PLAYER} yang melakukan {DEFEND} terhadap {BALL} tersebut akan gagal {DEFEND}, dan {STAMINA} {TEAM} yang melakukan {DEFEND} berkurang sebanyak [VAL.STAMINA]. #\[{ELITE_RULE}\] Mengurangkan {RULE/INDIVIDUAL_STAMINA} {PLAYER_TEAM_ENEMY} yang melakukan {DEFEND} terhadap {BALL} tersebut."
+SKILL/CHEMICAL_HIT/DOLPA_DES,"{BALL_POWER} : +[CALC.BALL_POWER, PER], {BALL_SPIN} : +[VAL.BALL_SPIN, PER], {SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]"
+SKILL/CHEMICAL_HIT/DETAIL_DES,
+SKILL/TIMEBOMB/TITLE,Bom Masa
+SKILL/TIMEBOMB/DES,
+SKILL/TIMEBOMB/DOLPA,
+SKILL/CRITICAL_TOSS/TITLE,Tos KRITIKAL
+SKILL/CRITICAL_TOSS/DES,"Semasa {@TOSS}, bulatan muncul di sekeliling {BALL} untuk menunjukkan masa yang tepat. {@SPIKE} tepat ketika {BALL} menyentuh bulatan meningkatkan {@BALL_POWER} {BALL}."
+SKILL/CRITICAL_TOSS/DOLPA_DES,{BALL_POWER} : +[CALC.BALL_POWER]
+SKILL/CRITICAL_TOSS/DETAIL_DES,
+SKILL/DEEP_SPIKE/TITLE,Spike Menegak
+SKILL/DEEP_SPIKE/DES,"Apabila jarak daripada {NET} kurang daripada [VAL.DISTANCE, DIST], lakukan {@SPIKE} pada sudut hampir menegak."
+SKILL/DEEP_SPIKE/DOLPA,
+SKILL/DETERMINATION/TITLE,Keazaman
+SKILL/DETERMINATION/DES,"Apabila {STAMINA} {TEAM} ialah [VAL.STAMINA, PER] atau kurang, {STRENGTH} dan {JUMP} meningkat. #\[{ELITE_RULE}\] Diaktifkan apabila {RULE/INDIVIDUAL_STAMINA} atau {MENTAL} sendiri ialah [VAL.STAMINA, PER] atau kurang."
+SKILL/DETERMINATION/DOLPA_DES,"{STRENGTH} : +[CALC.STRENGTH, PER], {JUMP} : +[CALC.JUMP, PER]"
+SKILL/DETERMINATION/DETAIL_DES,
+SKILL/DIRECT_SPIKE/TITLE,Spike Terus
+SKILL/DIRECT_SPIKE/DES,Segera melakukan {@SPIKE} pada {BALL} yang datang dari {TEAM_ENEMY}.
+SKILL/DIRECT_SPIKE/DOLPA,
+SKILL/DOUBLE_SPIKE/TITLE,Spike Berganda
+SKILL/DOUBLE_SPIKE/DES,"Boleh melakukan {@SWING} dua kali dalam keadaan {MID_AIR}. Jika melakukan {@SPIKE} dengan {SWING} kedua dan {DATEN} kurang daripada 4m, {@BALL_POWER} {BALL} meningkat sebanyak [CALC.BALL_POWER, PER]."
+SKILL/DOUBLE_SPIKE/DOLPA,
+SKILL/FAR_PASS_FEINT/TITLE,Balingan Palsu untuk Mengeksploitasi Kekosongan
+SKILL/FAR_PASS_FEINT/DES,"Jika {PLAYER_TEAM_ENEMY} berkumpul dalam jarak [VAL.DISTANCE, DIST] dari {NET}, melakukan {@PASS_FEINT} jauh ke belakang."
+SKILL/FAR_PASS_FEINT/DOLPA,
+SKILL/FEINT_WHEN_OPPONENT_HP_LOW/TITLE,Tipu Helah yang Oportunistik
+SKILL/FEINT_WHEN_OPPONENT_HP_LOW/DES,"Apabila {STAMINA} {TEAM_ENEMY} berada pada atau di bawah 20, melakukan {@FEINT} dengan peluang [VAL.PROBABILITY, PER]."
+SKILL/FEINT_WHEN_WINNING/TITLE,Tipuan Pengasih
+SKILL/FEINT_WHEN_WINNING/DES,Lakukan {@FEINT} apabila {SCORE} {TEAM} sama atau lebih tinggi daripada {SCORE} {TEAM_ENEMY}.
+SKILL/FEINT_WHEN_WINNING/DOLPA,
+SKILL/FRANTIC/TITLE,Kecoh
+SKILL/FRANTIC/DES,"Jika {@WS} berada kira-kira [VAL.DISTANCE, DIST] atau lebih dari {NET}, lakukan {@TOSS} jauh dari {NET} kepada {WS}.#{SKILL} boleh dihidupkan atau dimatikan (ON/OFF)."
+SKILL/FARNTIC/DOLPA,
+SKILL/HIDDEN_BRILLIANCE/TITLE,Kecemerlangan Tersembunyi
+SKILL/HIDDEN_BRILLIANCE/DES,"Walaupun tanpa kebolehan khas, dia ialah {WS} sekolah menengah terbaik yang mampu menguasai {COURT} dengan keupayaan fizikal yang luar biasa."
+SKILL/HIDDEN_BRILLIANCE/DOLPA,
+SKILL/HIGHLIGHT/TITLE,Sorotan
+SKILL/HIGHLIGHT/DES,"Semasa {SKILL} berada dalam keadaan {ACTIVATE}, semua {STATUS} {PLAYER} dalam {TEAM} meningkat.#{STRENGTH} +[VAL.STRENGTH], {SPEED} +[VAL.SPEED], {DEFENSE} +[VAL.DEFENSE], {JUMP} +[VAL.JUMP]."
+SKILL/HIGHLIGHT/DOLPA,
+SKILL/HIGH_THIRD_RECEIVE/TITLE,Permainan Bola Ke-3 Tinggi
+SKILL/HIGH_THIRD_RECEIVE/DES,"Pada {TOUCH} ketiga, jika {BALL} dihantar tanpa {ATTACK}, {BALL} akan dilambungkan tinggi."
+SKILL/HIGH_THIRD_RECEIVE/DOLPA,
+SKILL/LIGHT_OF_HOPE/TITLE,Cahaya Harapan
+SKILL/LIGHT_OF_HOPE/DES,"Setiap kali {TEAM} mengalami {POINT_LOSS}, terdapat peluang tertentu untuk membuat {PLAYER} dalam {TEAM} memasuki keadaan {@FOCUS}."
+SKILL/LIGHT_OF_HOPE/DOLPA_DES,"Kadar {FOCUS}: [CALC.FOCUS_PROB, PER]"
+SKILL/LIGHT_OF_HOPE/DETAIL_DES,
+SKILL/LOCK/TITLE,Kunci
+SKILL/LOCK/DES,"Apabila {@RECEIVE} {ATTACK} yang tidak dihalang oleh {@BLOCKING}, kenakan {SKILL/LOCK/TITLE} pada {PLAYER_TEAM_ENEMY} yang melakukan {ATTACK} untuk tempoh tertentu.#Sasaran dalam keadaan {SKILL/LOCK/TITLE} tidak boleh {SLIDING} serta mengalami pengurangan {SPEED} dan {JUMP}."
+SKILL/LOCK/DOLPA_DES,"Target {SKILL/LOCK/TITLE}: {JUMP}: -[CALC.JUMP, PER], {SPEED}: -[CALC.SPEED, PER]"
+SKILL/LOCK/DETAIL_DES,{@DEBUFF} tahap [VAL.DEBUFF_LEVEL] dikenakan pada {PLAYER_TEAM_ENEMY} yang {STATUS}nya telah berkurang.
+SKILL/NOON_SUNRISE/TITLE,Matahari terbit
+SKILL/NOON_SUNRISE/DES,"Hingga tengah hari, setiap [VAL.SCORE_STEP] mata yang diperoleh {TEAM_ENEMY} akan meningkatkan {STRENGTH}, {SPEED} dan {JUMP}. {STATUS} meningkat hanya sehingga mencapai 15 mata."
+SKILL/NOON_SUNRISE/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {SPEED} : +[CALC.SPEED], {JUMP} : +[CALC.JUMP]"
+SKILL/NOON/TITLE,High Noon
+SKILL/NOON/DES,"Dari High Noon (15 mata) hingga Matahari terbenam, {STRENGTH} ditetapkan kepada [VAL.STRENGTH_FIXED], {SPEED} kepada [VAL.SPEED], dan {JUMP} kepada [VAL.JUMP_FIXED]."
+SKILL/NOON_SUNSET/TITLE,Matahari terbenam
+SKILL/NOON_SUNSET/DES,"Dari Matahari terbenam (21 mata), {STRENGTH} ditetapkan kepada [VAL.STRENGTH_FIXED], {SPEED} kepada [VAL.SPEED], dan {JUMP} kepada [VAL.JUMP_FIXED]."
+SKILL/PARRY/TITLE,Tangkisan
+SKILL/PARRY/DES,"Apabila {@RECEIVE} {BALL} yang di{@SPIKE} oleh {PLAYER_TEAM_ENEMY}, {CHARGE} {GAUGE} mengikut {@BALL_POWER} {BALL}. Semakin tinggi {CHARGE} {GAUGE}, semakin tinggi {STRENGTH} dan {JUMP}.#Selepas {SPIKE}, {GAUGE} yang telah {CHARGE} akan hilang."
+SKILL/PARRY/DOLPA_DES,Nilai Maksimum {GAUGE}: [CALC.MAX_CHARGED]
+SKILL/PARRY/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {JUMP} : +[CALC.JUMP]"
+SKILL/PRIDE/TITLE,Kebanggaan
+SKILL/PRIDE/DES,"Apabila berada kira-kira 6m atau lebih jauh daripada {NET}, {@BALL_POWER_HORIZONTAL} {BALL} yang di{@SPIKE} meningkat mengikut jarak.#{SPIKE} dari jarak 7.5m atau lebih daripada {NET} memperoleh {@SLIDING_KILLER_EFFECT}.#Sebaliknya, jika jarak daripada {NET} kira-kira 3m atau kurang, {BALL_POWER_HORIZONTAL} {BALL} yang di{SPIKE} berkurang."
+SKILL/PRIDE/DOLPA,
+SKILL/PRIDE/SLIDER_DES,"{BALL_POWER_HORIZONTAL} : [CALC.BALL_POWER, PER_SIGN] , {SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]"
+SKILL/PROTECTION/TITLE,Melindungi
+SKILL/PROTECTION/DES,"Semasa {@RECEIVE}, titisan dihasilkan, meningkatkan {DEFENSE} {PLAYER} {TEAM_ALLY} yang terkandung dalam titisan tersebut."
+SKILL/PROTECTION/DOLPA_DES,"{DEFENSE} : +[CALC.DEFENSE], {BALL_POWER} : -[CALC.BALL_POWER, PER_DIFF]"
+SKILL/PROTECTION/DETAIL_DES,
+SKILL/SE_MB_SWAP/TITLE,Pertukaran Pengumpan
+SKILL/SE_MB_SWAP/DES,"Apabila {@SE} melakukan {@RECEIVE}, {@MB} mengambil peranan {SE}."
+SKILL/SE_MB_SWAP/DOLPA,
+SKILL/RIP_CURRENT/TITLE,Arus Karau
+SKILL/RIP_CURRENT/DES,"Walaupun bangun perlahan selepas {SLIDING}, memiliki kemampuan fizikal yang unggul."
+SKILL/RIP_CURRENT/DOLPA,
+SKILL/SERVE_READY_MOTION_A/TITLE,Rutin Servis A
+SKILL/SERVE_READY_MOTION_A/DES,Melakukan rutin {SERVE} khas sebelum memulakan {SERVE}.
+SKILL/SERVE_READY_MOTION_A/DOLPA,
+SKILL/SERVE_READY_MOTION_B/TITLE,Rutin Servis B
+SKILL/SERVE_READY_MOTION_C/TITLE,Rutin Servis C
+SKILL/SERVE_READY_MOTION_D/TITLE,Rutin Servis D
+SKILL/SERVE_READY_MOTION_E/TITLE,Rutin Servis E
+SKILL/SERVE_READY_MOTION_F/TITLE,Rutin Servis F
+SKILL/SHARP_SPIKE/TITLE,Spike Tajam
+SKILL/SHARP_SPIKE/DES,Mengurangkan {@BALL_SPIN} {BALL} dan melakukan {@SPIKE} pada sudut hampir menegak.
+SKILL/SHARP_SPIKE/DOLPA,
+SKILL/SKY_SERVE/TITLE,Servis Skyball
+SKILL/SKY_SERVE/DES,"Berpeluang melakukan {SERVE} kuat yang dilambungkan tinggi. {PLAYER_TEAM_ENEMY} yang melakukan {@RECEIVE} terhadap {SERVE_SKY} menjadi {@SAD} sepanjang {RALLY}. Semakin banyak {SERVE_SKY} berjaya berturut-turut, semakin rendah kadar kejayaannya."
+SKILL/SKY_SERVE/SLIDER_DES,Kadar kejayaan mengikut bilangan {SERVE}: [CALC.SERVE_SUCCESS_BY_COUNT]%
+SKILL/SLOW_TOSS/TITLE,Set Perlahan
+SKILL/SLOW_TOSS/DES,Mengurangkan {@BALL_SPIN} {BALL} untuk melakukan {@TOSS} yang stabil dan jatuh perlahan.
+SKILL/SLOW_TOSS/DOLPA,
+SKILL/SNIPE/TITLE,Snipe
+SKILL/SNIPE/DES,"Cuba {SKILL/SNIPE/TITLE} sejurus sebelum {TOSS}. Jika ada {PLAYER} di lokasi sasaran, lakukan {@TOSS} dengan sangat pantas. Jika tiada {PLAYER} berhampiran sasaran, lakukan {TOSS} yang lain."
+SKILL/SNIPE/DOLPA,
+SKILL/SNOW_FLAKE_TWO_ATTACK/TITLE,Kepingan Salji Dua-Serangan
+SKILL/SNOW_FLAKE_TWO_ATTACK/DES,"Melakukan {@SPIKE} dengan kesan kepingan salji, meningkatkan {@BALL_SPIN} {BALL} sebanyak [VAL.BALL_SPIN, PER] dan {@BALL_POWER} sebanyak [VAL.BALL_POWER, PER]."
+SKILL/SNOW_FLAKE_TWO_ATTACK/DOLPA,
+SKILL/SOLID_BLOCKING/TITLE,Penyekatan Pepejal
+SKILL/SOLID_BLOCKING/DES,Meningkatkan {ACCURACY} masa lompatan {@BLOCKING} {PLAYER} yang tidak dikawal.
+SKILL/SOLID_BLOCKING/DOLPA,
+SKILL/SPEED_TOSS/TITLE,Set Kelajuan
+SKILL/SPEED_TOSS/DES,"Melakukan {@TOSS} yang jatuh pantas.#Apabila {@SPIKE} terhadap {SKILL/SPEED_TOSS/TITLE}, semakin tinggi {@BALL_POWER_VERTICAL} {BALL} daripada {TOSS}, semakin tinggi {@BALL_POWER} {BALL}.#(Sukar digunakan oleh pemula kerana tahap kesukarannya tinggi.)"
+SKILL/SPEED_TOSS/DOLPA,
+SKILL/STABLE_TOSS/TITLE,Set Stabil
+SKILL/STABLE_TOSS/DES,"Semasa {SKILL} berada dalam keadaan {ACTIVATE}, melakukan {@TOSS} yang stabil dengan {@BALL_POWER} dan {@BALL_SPIN} {BALL} yang dikurangkan.#Apabila melakukan {TOSS} semasa {SKILL} berada dalam keadaan {ACTIVATE}, segera memulihkan [VAL.STAMINA] {STAMINA} {TEAM}. #\[{ELITE_RULE}\] Memulihkan {STAMINA} {PLAYER_TEAM_ALLY} yang mempunyai {RULE/INDIVIDUAL_STAMINA} paling rendah."
+SKILL/STABLE_TOSS/DOLPA,
+SKILL/SUNFLOWER/TITLE,Sunflower
+SKILL/SUNFLOWER/DES,"Semasa {SKILL} {ACTIVATE}, melakukan {@TOSS} ke arah {@WS}.#{SKILL} boleh dihidupkan atau dimatikan (ON/OFF)."
+SKILL/SUNFLOWER/DOLPA,
+SKILL/SUNHEART/TITLE,Heart of the Sun
+SKILL/SUNHEART/DES,"Kebarangkalian {PLAYER} {TEAM} menjadi {@SAD} berkurang sebanyak [VAL.PROBABILITY, PER_DIFF]."
+SKILL/SUNHEART/DOLPA,
+SKILL/SUNRECEIVE/TITLE,Penerimaan Matahari
+SKILL/SUNRECEIVE/DES,"Semasa {@RECEIVE}, {@DEFEND_RANGE} meningkat sebanyak [VAL.DEFEND_RANGE, PER], {DEFENSE} meningkat sebanyak [VAL.DEFENSE], dan {SPEED} meningkat sebanyak [VAL.SPEED]."
+SKILL/SUNRECEIVE/DOLPA,
+SKILL/SURPRISE_ATTACK/TITLE,Serangan Mengejut
+SKILL/SURPRISE_ATTACK/DES,"Semasa {SKILL} di{ACTIVATE}, cuba {@ATTACK_TWO} menggantikan {@TOSS}. {@SPIKE} pada waktu ini memperoleh peningkatan {@BALL_POWER} sebanyak [VAL.BALL_POWER, PER] dan tidak dapat dihalang oleh {@BLOCKING}."
+SKILL/SURPRISE_ATTACK/DOLPA,
+SKILL/THUNDER_FLOOR_HIT_ATTACK/TITLE,Kesan Bola yang Kuat
+SKILL/THUNDER_FLOOR_HIT_ATTACK/DES,"Apabila {BALL} melanggar tanah, skrin akan difokuskan."
+SKILL/THUNDER_FLOOR_HIT_ATTACK/DOLPA,
+SKILL/THUNDER_SPIKE/TITLE,Petir Spike
+SKILL/THUNDER_SPIKE/DES,"Apabila {DATEN} mencapai [VAL.DATEN, NOTEN] atau lebih, melakukan {@SPIKE} dengan kesan guruh serta peningkatan {@BALL_POWER} dan {@BALL_SPIN}. Pada masa ini, {SPIKE} mempunyai {@SLIDING_KILLER_EFFECT}."
+SKILL/THUNDER_SPIKE/DOLPA_DES,"{BALL} {BALL_POWER} : +[CALC.BALL_POWER, PER], {BALL_SPIN} : +[VAL.BALL_SPIN, PER], {SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]"
+SKILL/THUNDER_SPIKE/DETAIL_DES,
+SKILL/TIGER_BARK/TITLE,RAWR!
+SKILL/TIGER_BARK/DES,"Semasa {SERVE} pertama dalam {MATCH}, {PLAYER_TEAM_ENEMY} mempunyai kebarangkalian yang sangat tinggi untuk menjadi {@SAD}."
+SKILL/TIGER_BARK/DOLPA,
+SKILL/TIRE/TITLE,Tayar
+SKILL/TIRE/DES,"Semasa tayar melilit badan, {SPEED} dan {JUMP} berkurang. Apabila melakukan {@RECEIVE}, {GAUGE} tayar akan {CHARGE} dan memulihkan {STAMINA_TEAM_ALLY} sebanyak [VAL.STAMINA]. Apabila {GAUGE} mencapai maksimum, tayar akan putus dan {STRENGTH}, {JUMP} serta {SPEED} meningkat. #\[{ELITE_RULE}\] Memulihkan {RULE/INDIVIDUAL_STAMINA} sendiri."
+SKILL/TIRE/DOLPA_DES,"(Semasa tayar wujud) {SPEED} : -[CALC.SPEED_DECREASE], {JUMP} : -[CALC.JUMP_DECREASE]#(Apabila tayar dimusnahkan) {STRENGTH} : +[CALC.STRENGTH], {SPEED} : +[CALC.SPEED], {JUMP} : +[CALC.JUMP]"
+SKILL/TOP_SPIN_FEINT/TITLE,Tipu daya Putaran Atas
+SKILL/TOP_SPIN_FEINT/DES,{BALL} yang dilakukan melalui {@FEINT} jatuh lebih cepat akibat putaran.
+SKILL/TOP_SPIN_FEINT/DETAIL_DES,"{BALL} {BALL_SPIN} : +[VAL.BALL_SPIN, PER_UNCAPPED]"
+SKILL/TIGER_SCRATCH/TITLE,Tiger Claw
+SKILL/TIGER_SCRATCH/DES,"Kenakan tanda pada {PLAYER_TEAM_ENEMY} yang melakukan {DEFEND} terhadap {ATTACK}.#{JUMP} {PLAYER} yang bertanda berkurang sebanyak [VAL.JUMP]. Apabila tanda bertindan, {DEFEND} gagal dan tanda dibuang.#{PLAYER_TEAM_ENEMY} yang gagal {DEFEND} mempunyai peluang kecil untuk menjadi {@SAD}."
+SKILL/TIGER_SCRATCH/DETAIL_DES,{@DEBUFF} tahap [VAL.DEBUFF_LEVEL] dikenakan pada {PLAYER_TEAM_ENEMY} yang bertanda.#{SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]
+SKILL/TWO_ATTACK_WHEN_POSSIBLE/TITLE,Serangan Sentuhan Kedua Pengumpan
+SKILL/TWO_ATTACK_WHEN_POSSIBLE/DES,"Dalam situasi {TOSS_JUMP}, menukar kepada {ATTACK} melalui {@SPIKE}."
+SKILL/TWO_ATTACK_WHEN_POSSIBLE/DOLPA,
+SKILL/TWO_ATTACK_WHEN_SETTER_RECEIVE/TITLE,Serangan Sentuhan Kedua selepas Penerimaan Pengumpan
+SKILL/TWO_ATTACK_WHEN_SETTER_RECEIVE/DES,"Jika {@SE} berjaya melakukan {@RECEIVE}, {PLAYER} lain akan segera melakukan {@SPIKE}."
+SKILL/TWO_ATTACK_WHEN_SETTER_RECEIVE/DOLPA,
+SKILL/VERY_FAR_TOSS/TITLE,Set Jarak Jauh
+SKILL/VERY_FAR_TOSS/DES,"Jika jarak ke {NET} kira-kira [VAL.DISTANCE, DIST] atau lebih, melakukan {@TOSS} dengan {@BALL_SPIN} rendah dan {DATEN} tinggi."
+SKILL/VERY_FAR_TOSS/DOLPA,
+SKILL/WARM_UP/TITLE,Memanaskan Badan
+SKILL/WARM_UP/DES,"Apabila tidak bergerak, pemain melakukan tekan tubi.#Semakin banyak tekan tubi dilakukan, semakin tinggi {STATUS} dan {HEIGHT}. (Bertindan sehingga [VAL.COUNT] tekan tubi)"
+SKILL/WARM_UP/DOLPA,
+SKILL/WARM_UP/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {DEFENSE} : +[CALC.DEFENSE], {SPEED} : +[CALC.SPEED], {JUMP} : +[CALC.JUMP], {HEIGHT} : +[CALC.HEIGHT]cm"
+SKILL/WEAK_TOP_SPIN_FEINT/TITLE,Sharp Feint
+SKILL/WEAK_TOP_SPIN_FEINT/DES,{BALL} yang dilakukan melalui {@FEINT} jatuh lebih cepat akibat putaran.
+SKILL/WEAK_TOP_SPIN_FEINT/DOLPA_DES,"{BALL} {BALL_SPIN} : +[CALC.BALL_SPIN, PER_UNCAPPED]"
+SKILL/YOONSEOK/TITLE,Yoonseok
+SKILL/YOONSEOK/DES,"Kebarangkalian {PLAYER_TEAM_ENEMY} menjadi {@CARELESS} meningkat sebanyak [VAL.PROBABILITY, PER]."
+SKILL/YOONSEOK/DOLPA,
+SKILL/DEEPSPIKE_INSTEAD_FEINT/TITLE,Bakar kapal itu
+SKILL/DEEPSPIKE_INSTEAD_FEINT/DES,"Semasa {@FEINT} dalam keadaan {MID_AIR}, akan melakukan {@SPIKE} menegak sebagai ganti."
+SKILL/DEEPSPIKE_INSTEAD_FEINT/DOLPA,
+SKILL/ICARUS/TITLE,Sayap Icarus
+SKILL/ICARUS/DES,"Apabila mencatat rekod peribadi tertinggi baharu {DATEN} semasa melakukan {@SPIKE}, {@BALL_POWER} {BALL} meningkat sementara. {STRENGTH} dan {JUMP} meningkat berdasarkan {DATEN} tertinggi anda."
+SKILL/ICARUS/DOLPA,
+SKILL/ICARUS/DETAIL_DES,"{@BALL_POWER} : +[VAL.BALL_POWER, PER], {@BALL_SPIN} : +[VAL.BALL_SPIN, PER]"
+SKILL/ICARUS/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {JUMP} : +[CALC.JUMP]"
+SKILL/ONEPOINT,Satu Mata Pemain
+SKILL/ONEPOINT/DES,"Apabila berlaku {POINT_LOSS}, akan berada dalam keadaan {@SAD} sepanjang {MATCH}."
+SKILL/ONEPOINT/DOLPA,
+SKILL/HYBRID_FLOATER_SERVE/TITLE,Servis Floater Hibrid
+SKILL/HYBRID_FLOATER_SERVE/DES,"Melakukan {SERVE_FLOATER} secara mengejut dari posisi {SERVE_SPIKE}.#Apabila {SERVE} ini di-{DEFEND} dengan receive, {STAMINA} {TEAM} yang melakukan {DEFEND} berkurang sebanyak [VAL.STAMINA]. Jika {PLAYER} dengan {DEFENSE} kurang daripada [VAL.DEFENSE] menerimanya menggunakan {@SLIDING}, {BALL} akan terbang jauh. #\[{ELITE_RULE}\] Mengurangkan {RULE/INDIVIDUAL_STAMINA} {PLAYER_TEAM_ENEMY} yang melakukan {DEFEND} terhadap {SERVE} ini."
+SKILL/HYBRID_FLOATER_SERVE/DETAIL_DES,{SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]
+SKILL/RAUL_SERVE_TOSS/TITLE,Lambungan Servis Jauh
+SKILL/RAUL_SERVE_TOSS/DES,Membolehkan {@TOSS_SERVE} dilakukan lebih ke depan.
+,
+SKILL/LONGSPIKE_TO_LINE/TITLE,Line Shot
+SKILL/LONGSPIKE_TO_LINE/DES,Melakukan {@SPIKE} yang menyasarkan {@LINE_END}.
+,
+SKILL/DARKCROW/TITLE,Gagak Gelap
+SKILL/DARKCROW/DES,Melakukan {@SPIKE} yang mengurangkan {DEFENSE} {PLAYER_TEAM_ENEMY} buat sementara waktu.
+SKILL/DARKCROW/DOLPA_DES,"Pengurangan {DEFENSE} : -[CALC.DEFENSE, PER_DIFF]"
+SKILL/DARKCROW/DETAIL_DES,
+SKILL/SPOTLIGHT_TOSS/TITLE,Hantaran Sorotan
+SKILL/SPOTLIGHT_TOSS/DES,"Semasa {SKILL} {ACTIVATE}, {@WS} menerima {@TOSS} yang rendah dan jatuh perlahan. {TOSS} tersebut akan bersinar apabila menghampiri titik tertinggi, dan sebelum itu {@SPIKE} tidak boleh dilakukan.#Apabila {TOSS} tersebut di{SPIKE}, {@BALL_POWER} {BALL} meningkat sebanyak [VAL.BALL_POWER, PER] dan {@BALL_SPIN} meningkat sebanyak [VAL.BALL_SPIN].#Jika gagal melakukan {SPIKE}, {WS} akan berada dalam keadaan {@SAD}."
+SKILL/SPOTLIGHT_TOSS/DOLPA,
+SKILL/ABYSS_TOSS/TITLE,Hantaran Jurang
+SKILL/ABYSS_TOSS/DES,"Semakin hampir menegak {@SPIKE} dilakukan terhadap {@TOSS} yang dihantar oleh {PLAYER} tersebut, semakin meningkat {@BALL_POWER} {BALL}."
+SKILL/ABYSS_TOSS/DOLPA_DES,"{BALL} {BALL_POWER} : maksimum +[CALC.BALL_POWER, PER]"
+SKILL/ABYSS_TOSS/DETAIL_DES,
+SKILL/FLARE/TITLE,Flare
+SKILL/FLARE/DES,"Semasa {SKILL} {ACTIVATE}, semua {STATUS} meningkat. Namun, bergantung pada bilangan {SKILL} {ACTIVATE}, {STATUS} dalam keadaan {DEACTIVATE} akan berkurang. ({STATUS} berkurang boleh bertindan sehingga [VAL.SKILL_COUNT] kali)#{TIMEOUT} dan {SUBSTITUTION} akan menetapkan semula kesan pengurangan {STATUS}."
+SKILL/FLARE/DOLPA,
+SKILL/FLARE/SLIDER_DES,"({SKILL} {ACTIVATE}) {STRENGTH} : +[CALC.STRENGTH], {DEFENSE} : +[CALC.DEFENSE], {SPEED} : +[CALC.SPEED], {JUMP} : +[CALC.JUMP]#({SKILL} {DEACTIVATE}) {STRENGTH} : -[CALC.STRENGTH_DECREASE], {DEFENSE} : -[CALC.DEFENSE_DECREASE], {SPEED} : -[CALC.SPEED_DECREASE], {JUMP} : -[CALC.JUMP_DECREASE]"
+SKILL/HELIOS/TITLE,Helios
+SKILL/HELIOS/DES,"Semasa {SPIKE} dalam keadaan {MID_AIR}, pusat graviti badan ditarik ke hadapan untuk jatuh dengan lebih pantas.#Semakin tinggi kelajuan jatuhan, semakin meningkat {@BALL_POWER} {BALL}."
+SKILL/HELIOS/DOLPA,
+SKILL/HELIOS/SLIDER_DES,"{BALL} {BALL_POWER} : +[CALC.BALL_POWER, PER], {SLIDING_PENETRATION} : +[CALC.SLIDING_PENETRATION]"
+SKILL/DEATH_FLOWER/TITLE,Death Bloom
+SKILL/DEATH_FLOWER/DES,"Apabila {@RECEIVE}, meninggalkan tanda pada {PLAYER_TEAM_ENEMY} yang terakhir {TOUCH} {BALL}. Ketika {SKILL} {ACTIVATE}, {STATUS} semua {PLAYER_TEAM_ENEMY} bertanda berkurang untuk sementara waktu.#{PLAYER_TEAM_ENEMY} yang mempunyai dua atau lebih tanda akan disekat pergerakannya seketika selepas {SKILL} {ACTIVATE}."
+SKILL/DEATH_FLOWER/DETAIL_DES,"Semasa {ACTIVATE} {SKILL}, tahap {@DEBUFF} yang dikenakan pada setiap {PLAYER_TEAM_ENEMY} adalah sama dengan bilangan tanda yang dimilikinya."
+SKILL/DEATH_FLOWER/SLIDER_DES,"Target {SKILL/DEATH_FLOWER/TITLE}: {STRENGTH}: -[CALC.STRENGTH], {DEFENSE}: -[CALC.DEFENSE], {SPEED}: -[CALC.SPEED], {JUMP}: -[CALC.JUMP]"
+SKILL/LIGHTSTEP_MB/TITLE,Gerakan Ringan
+SKILL/LIGHTSTEP_MB/DES,Melakukan {@ATTACK_QUICK} dengan {APPROACH} ringan.
+SKILL/LIGHTSTEP_MB/DOLPA,
+SKILL/REBOUND_FEINT/TITLE,Tipu Pantulan
+SKILL/REBOUND_FEINT/DES,"Apabila {@FEINT} mengenai {@BLOCKING} {PLAYER_TEAM_ENEMY}, {BALL} akan kembali ke {COURT} {TEAM_ALLY}."
+SKILL/REBOUND_FEINT/DOLPA,
+SKILL/FLOWER_RECEIVE/TITLE,Terima Bunga
+SKILL/FLOWER_RECEIVE/DES,"Julat {@DEFEND_RANGE} bagi {@RECEIVE} meningkat sebanyak [VAL.DEFEND_RANGE, PER], dan {DEFENSE} serta {SPEED} turut meningkat."
+SKILL/FLOWER_RECEIVE/DOLPA_DES,"{DEFENSE} : +[CALC.DEFENSE], {SPEED} : +[CALC.SPEED]"
+SKILL/FLOWER_RECEIVE/DETAIL_DES,
+SKILL/BRAVE_HEART/TITLE,Hati yang Berani
+SKILL/BRAVE_HEART/DES,Menukar status {SAD} kepada status {FOCUS}.
+SKILL/BRAVE_HEART/DOLPA,
+SKILL/SOLAR_FLARE/TITLE,Sunspot Burst
+SKILL/SOLAR_FLARE/DES,"Semasa {@SPIKE}, terdapat kebarangkalian tertentu untuk mencetuskan {SKILL/SOLAR_FLARE/TITLE}, dan pada ketika itu {@BALL_POWER} {BALL} meningkat sebanyak [VAL.BALL_POWER, PER], manakala {BALL_SPIN} meningkat sebanyak [VAL.BALL_SPIN]."
+SKILL/SOLAR_FLARE/DOLPA_DES,"Kebarangkalian {SKILL} {ACTIVATE} : [CALC.PROBABILITY, PER]"
+SKILL/SOLAR_FLARE/DETAIL_DES,
+SKILL/LUCAS_SERVE_TOSS/TITLE,Lambungan Servis Jauh
+SKILL/LUCAS_SERVE_TOSS/DES,"Kelajuan minimum {@TOSS} meningkat, membolehkan {@TOSS_SERVE} yang lebih panjang dilakukan."
+SKILL/LUCAS_SERVE_TOSS/DOLPA,
+SKILL/STRONG_SPIKE/TITLE,Rejaman Kuat
+SKILL/STRONG_SPIKE/DES,"Apabila kemahiran diaktifkan, Serang meningkat seketika."
+SKILL/STRONG_SPIKE/DOLPA,
+SKILL/FAST_BLOCK_CHARGE/TITLE,Persiapan Pantas
+SKILL/FAST_BLOCK_CHARGE/DES,"Kelajuan persediaan {BLOCKING} meningkat sebanyak [VAL.BLOCK_SPEED, PER]."
+SKILL/POWER_BACK_ATTACK/TITLE,Serangan Belakang Kuasa
+SKILL/POWER_BACK_ATTACK/DES,"Apabila melakukan {@SPIKE} dari belakang {@LINE_ATTACK}, {@BALL_POWER} {BALL} meningkat sebanyak [VAL.BALL_POWER]."
+SKILL/PERFECT_SECOND_TOSS/TITLE,Hantaran Sempurna di Luar Sistem
+SKILL/PERFECT_SECOND_TOSS/DES,"Melakukan {@TOSS_OUT} rapat ke {NET}, dioptimumkan untuk {@SPIKE} oleh {@WS}."
+SKILL/OVERDRIVE/TITLE,Overdrive
+SKILL/OVERDRIVE/DES,"Setiap kali {RALLY} tamat, {GAUGE} {SKILL/OVERDRIVE/TITLE} akan di{CHARGE} sebanyak 10%.#Semasa {SKILL} {ACTIVATE}, {STATUS} {PLAYER} dalam {TEAM} meningkat.#Semakin banyak {GAUGE} {CHARGE}, semakin tinggi peningkatan {STRENGTH}, {JUMP} dan {SKILL_DURATION}.#{ACTIVATE} tidak boleh dilakukan semasa {SERVE}, dan {COMMON/SKILL/DURATION} tidak berkurang semasa {SERVE}."
+SKILL/OVERDRIVE/DOLPA,
+SKILL/OVERDRIVE/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {DEFENSE} : +[VAL.DEFENSE], {JUMP} : +[CALC.JUMP], {SKILL_DURATION} : +[CALC.SKILL_DURATION, SEC]"
+SKILL/CROWN_PASS/TITLE,Crown Pass
+SKILL/CROWN_PASS/DES,"Mengutamakan {@TOSS} kepada {PLAYER} dengan {STRENGTH} tertinggi dalam {TEAM}.#Jika {PLAYER} ini sendiri mempunyai {STRENGTH} tertinggi, peluang {@ATTACK_TWO} meningkat sehingga [VAL.PROBABILITY, PER]."
+SKILL/WILD_POUNCE/TITLE,Wild Pounce
+SKILL/WILD_POUNCE/DES,"Apabila bergerak ke arah {NET}, {GAUGE} akan di{CHARGE} dan boleh melompat dengan pecutan berkadar dengan jumlah {CHARGE}.#{MODE_AUTOMATIC}: Dalam keadaan {MID_AIR}, {GAUGE} akan di{CHARGE} secara automatik."
+,
+SKILL/BEAST_SPIKE/TITLE,Beast Spike
+SKILL/BEAST_SPIKE/DES,"{@BALL_POWER} dan {@BALL_SPIN} {BALL} meningkat mengikut jumlah {CHARGE} {GAUGE} bagi {SKILL} {SKILL/WILD_POUNCE/TITLE}.#{@SPIKE} ke arah {NET} dengan {GAUGE} maksimum menembusi {@BLOCKING} {PLAYER_TEAM_ENEMY}. Penembusan {BLOCKING} hanya berlaku jika Serangan sendiri lebih tinggi daripada {STRENGTH} {PLAYER} yang melakukan {BLOCKING}.#Melompat menjauhi {NET} dan melakukan {SPIKE} dengan {GAUGE} maksimum memberikan {@SLIDING_KILLER_EFFECT}. Namun, {SPIKE} ini masih boleh dihalang oleh {BLOCKING}.#Dalam {MODE_AUTOMATIC}, peningkatan kelajuan semua {ATTACK} berkurang sebanyak [VAL.PENALTY, PER]."
+SKILL/BEAST_SPIKE/DOLPA_DES,"({SPIKE} ke hadapan) Peningkatan {BALL_POWER} {BALL}: +[CALC.BALL_POWER]#({SPIKE} ke belakang) Peningkatan {BALL_POWER} {BALL}: +[CALC.BALL_POWER_SECONDARY], {SLIDING_PENETRATION}: +[CALC.SLIDING_PENETRATION]#Peningkatan kelajuan {CHARGE} {GAUGE} ke belakang: [CALC.BACKWARD_CHARGE_BOOST, PER_SIGN]"
+SKILL/BEAST_SPIKE/DETAIL_DES,"Jumlah peningkatan {BALL_POWER} {BALL} yang berkadar dengan {CHARGE} meningkat, dan kelajuan {CHARGE} ketika bergerak ke belakang turut meningkat."
+SKILL/STRONGER_IF_LOSING/TITLE,Malam Suram
+SKILL/STRONGER_IF_LOSING/DES,"Semakin tinggi {SCORE} {TEAM_ENEMY} berbanding {TEAM}, semakin meningkat {STATUS} secara berkadar.#(Bertindan sehingga [VAL.SCORE])"
+SKILL/STRONGER_IF_LOSING/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {SPEED} : +[CALC.SPEED], {JUMP} : +[CALC.JUMP]"
+SKILL/BEAST_FANG/TITLE,Beast Fang
+SKILL/BEAST_FANG/DES,"Boleh melakukan {@SPIKE} dalam jarak yang lebih luas daripada biasa, sehingga kira-kira [VAL.DISTANCE, DIST]."
+,
+SKILL/GLADIUS_WALL/TITLE,Gladius Wall
+SKILL/GLADIUS_WALL/DES,"Apabila {SKILL} {ACTIVATE}, memulihkan {STAMINA} {TEAM} sebanyak [VAL.STAMINA]. Semasa {SKILL} berada dalam keadaan {ACTIVATE}, {DEFENSE} setiap {PLAYER} dalam {TEAM} meningkat mengikut kadar {STRENGTH} masing-masing. #\[{ELITE_RULE}\] Memulihkan {STAMINA} {PLAYER_TEAM_ALLY} yang mempunyai {RULE/INDIVIDUAL_STAMINA} paling rendah."
+SKILL/GLADIUS_WALL/DOLPA,
+SKILL/GLADIUS_WALL/SLIDER_DES,{DEFENSE} : +[CALC.DEFENSE]
+SKILL/ARMOR_OF_TEAM/TITLE,Perisai Pasukan
+SKILL/ARMOR_OF_TEAM/DES,"Semasa {RECEIVE} daripada {SERVE}, {DEFENSE} {PLAYER} pasukan {TEAM} meningkat sebanyak [VAL.DEFENSE] dan {DEFEND_RANGE} sebanyak [VAL.DEFEND_RANGE, PER]."
+SKILL/ARMOR_OF_TEAM/DOLPA,
+SKILL/REINFORCEMENT/TITLE,Peningkatan
+SKILL/REINFORCEMENT/DES,"Berdasarkan jumlah {@SERVE_ACE} berturut-turut yang berjaya dilakukan oleh {PLAYER_TEAM_ENEMY}, {DEFENSE} {PLAYER} pasukan {TEAM} meningkat sebanyak [VAL.DEFENSE] setiap kali."
+SKILL/REINFORCEMENT/DOLPA,
+SKILL/QUICK_RECOVERY/TITLE,Pemulihan Pantas
+SKILL/QUICK_RECOVERY/DES,"Jumlah {STAMINA} yang dipulihkan semasa {POINT_GAIN} dan {POINT_LOSS} meningkat sebanyak [VAL.STAMINA, PER]."
+SKILL/QUICK_RECOVERY/DOLPA,
+SKILL/STABLE_PLAY/TITLE,Permainan Stabil
+SKILL/STABLE_PLAY/DES,"Semasa {RALLY}, bagi setiap [VAL.TOTAL_TOUCHES] jumlah {TOUCH} oleh kedua-dua {TEAM}, memulihkan {STAMINA} {TEAM} sebanyak [VAL.STAMINA]. #\[{ELITE_RULE}\] Memulihkan {STAMINA} {PLAYER_TEAM_ALLY} yang mempunyai {RULE/INDIVIDUAL_STAMINA} paling rendah."
+SKILL/STABLE_PLAY/DOLPA,
+SKILL/EXCELLENT_CONCENTRATION/TITLE,Tumpuan Cemerlang
+SKILL/EXCELLENT_CONCENTRATION/DES,"Setiap kali {PLAYER_TEAM_ENEMY} melakukan {@SERVE_ACE}, {STAMINA_MAX} pasukan {TEAM} meningkat secara kekal sebanyak [VAL.STAMINA]."
+SKILL/EXCELLENT_CONCENTRATION/DOLPA,
+SKILL/SPEED_SETTER/TITLE,Setter Berkelajuan Tinggi
+SKILL/SPEED_SETTER/DES,"Jumlah pengurangan {SPEED} akibat tempoh {RALLY} berkurang sebanyak [VAL.RALLY_SPEED, PER_DIFF]."
+,
+SKILL/RAUL_FIRST_IMPACT/TITLE,First Impact
+SKILL/RAUL_FIRST_IMPACT/DES,"Apabila buat kali pertama melakukan {@SPIKE} dengan {GAUGE} maksimum dalam {MATCH}, {@BALL_POWER} {BALL} meningkat sebanyak [VAL.BALL_POWER, PER] dan {@BALL_SPIN} sebanyak [VAL.BALL_SPIN, PER]."
+SKILL/SUNSHINE/TITLE,Sunshine
+SKILL/SUNSHINE/DES,"Apabila pemain ini memasuki {MATCH} melalui {SUBSTITUTION} buat kali pertama, {PLAYER} dalam {TEAM} memasuki keadaan {@FOCUS}."
+SKILL/ROYAL_QUALITIES/TITLE,Kualiti Diraja
+SKILL/ROYAL_QUALITIES/DES,"Jika tidak dikawal secara manual, {STRENGTH} {PLAYER} berkurang sebanyak [VAL.PENALTY, PER].#{MODE_AUTOMATIC} juga terpakai."
+SKILL/BRAVE_TIGER/TITLE,Harimau Garang
+SKILL/BRAVE_TIGER/DES,"Apabila {PLAYER_TEAM_ENEMY} dengan {DEFENSE} terendah di {@COURT_BACK} ditandakan dengan {SKILL/TIGER_SCRATCH/TITLE}, {STRENGTH} dan {JUMP} meningkat."
+SKILL/BRAVE_TIGER/DOLPA_DES,"{STRENGTH} : +[CALC.STRENGTH], {JUMP} : +[CALC.JUMP]"
+SKILL/TIGER_HUNT/TITLE,Pemburuan
+SKILL/TIGER_HUNT/DES,"{PLAYER_TEAM_ENEMY} dengan {DEFENSE} terendah di {@COURT_BACK} akan ditandakan.#(Untuk melihat {PLAYER_TEAM_ENEMY} yang ditandakan dengan lebih jelas, disarankan menukar “Pergerakan Kamera” kepada “Fokus Pasukan Lawan” dalam tetapan.)"
+,
+SKILL/THUNDER_SPARK/TITLE,Percikan
+SKILL/THUNDER_SPARK/DES,"Ketika melakukan {@SPIKE}, jika {DATEN} kurang daripada 4m, {@BALL_POWER} {BALL} meningkat."
+SKILL/THUNDER_SPARK/DOLPA_DES,"{BALL_POWER} : +[CALC.BALL_POWER, PER]"
+SKILL/FLYING_GUARD/TITLE,Naungan
+SKILL/FLYING_GUARD/DES,"Apabila {SKILL} {ACTIVATE}, pemain dengan {DEFENSE} terendah dalam kalangan {PLAYER_TEAM_ALLY} akan memasuki keadaan Naungan. #Semasa dalam keadaan Naungan, {DEFENSE} dan {@DEFEND_RANGE} akan meningkat, dan keadaan Naungan dibatalkan apabila bertahan terhadap {SPIKE}."
+SKILL/FLYING_GUARD/DETAIL_DES,"#Jika {SKILL} {ACTIVATE} semasa situasi masa rehat atau pertukaran pemain, keadaan Naungan akan digunakan pada posisi yang Naungan telah digunakan sebelum ini."
+SKILL/FLYING_GUARD/DOLPA,"{DEFENSE} : +[CALC.DEFENSE], {DEFEND_RANGE} : +[CALC.DEFEND_RANGE, PER]"
+SKILL/GUARD_STRIKE/TITLE,Hantaman
+SKILL/GUARD_STRIKE/DES,"Apabila bertahan terhadap {@FEINT} dalam keadaan Naungan, ia akan bertukar kepada keadaan Hantaman. #Semasa dalam keadaan Hantaman, {STRENGTH} akan meningkat."
+SKILL/GUARD_STRIKE/DOLPA,"{SKILL_DURATION} : [CALC.SKILL_DURATION, SEC], {STRENGTH} : +[CALC.STRENGTH]"
+SKILL/BLESSING/TITLE,Berkat
+SKILL/BLESSING/DES,"Apabila pertama kali melakukan {RECEIVE} pada {BALL} yang datang dari {COURT} {TEAM_ENEMY}, memulihkan {STAMINA} {TEAM} sebanyak [VAL.STAMINA]. #\[{ELITE_RULE}\] Memulihkan {RULE/INDIVIDUAL_STAMINA} sendiri."
+SKILL/PAIN_KILLER/TITLE,Penawar Sakit
+SKILL/PAIN_KILLER/DES,"Apabila {SKILL} {ACTIVATE}, {SPEED} dan {DEFENSE} {PLAYER_TEAM_ALLY} meningkat, manakala {STRENGTH} dan {JUMP} sendiri meningkat.#{GRAVITY} sendiri meningkat sebanyak [VAL.GRAVITY]% dan {SLIDING_WAKEUP_SPEED} menjadi [VAL.SLIDING_WAKEUP_SPEED]% lebih pantas."
+SKILL/PAIN_KILLER/DOLPA_DES,"({PLAYER_TEAM_ALLY}) {DEFENSE}: +[CALC.DEFENSE], {SPEED}: +[CALC.SPEED]#(kepada diri sendiri) {STRENGTH}: +[CALC.STRENGTH], {JUMP}: +[VAL.JUMP]"
+SKILL/SANDMAN/TITLE,Sandman
+SKILL/SANDMAN/DES,Memanjangkan tempoh {@SAD} {PLAYER_TEAM_ENEMY} sebanyak [CALC.SKILL_DURATION_UI] saat.
+SKILL/SANDMAN/DETAIL_DES,
+SKILL/CEMETERY_GATES/TITLE,Pintu Kubur
+SKILL/CEMETERY_GATES/DES,"Apabila {STAMINA_TEAM_ALLY} adalah [VAL.MIN_STAMINA]% atau lebih rendah, {SPEED} dan {DEFENSE} {PLAYER_TEAM_ALLY} meningkat."
+SKILL/CEMETERY_GATES/DOLPA_DES,"{DEFENSE}: +[CALC.DEFENSE], {SPEED}: +[CALC.SPEED]"
+SKILL/COURT_COMPASS/TITLE,Kompas di Gelanggang
+SKILL/COURT_COMPASS/DES,"Semasa {TOSS}, kompas berputar dijana pada {BALL}.# Kompas yang dijana menunjukkan ke arah {COURT} {TEAM_ENEMY} pada puncak {DATEN} {WS}.# Semakin dekat sudut {SPIKE} dengan arah kompas, semakin tinggi {ACCURACY} meningkat.# Bergantung pada {ACCURACY}, {@BALL_POWER} dan {@BALL_SPIN} {BALL} akan meningkat atau menurun.# Melakukan {SPIKE} dengan {ACCURACY} PERFECT akan meningkatkan kelajuan putaran kompas sepanjang tempoh {MATCH}."
+SKILL/COURT_COMPASS/SLIDER_DES,"{@BALL_POWER}: [CALC.BALL_POWER_BY_ACCURACY]%, {@BALL_SPIN}: [CALC.BALL_SPIN_BY_ACCURACY]%"
+SKILL/TRIPLE_COMPASS/TITLE,Perintah Imperial
+SKILL/TRIPLE_COMPASS/DES,"Apabila {SKILL} {ACTIVATE}, tiga Kompas di Gelanggang muncul.#Kompas berputar pada kelajuan berbeza dan pasti bertindih pada suatu ketika ke arah {COURT} {TEAM_ENEMY}.#Peningkatan {BALL_POWER} setiap kompas dikira secara berasingan."
+SKILL/TRIPLE_COMPASS/DETAIL_DES,
+SKILL/KIND_DICTATOR/TITLE,Diktator Baik
+SKILL/KIND_DICTATOR/DES,Melakukan {TOSS} yang jatuh pantas semasa {TOSS_OPEN}.#{BALL} jatuh perlahan selama [VAL.PAUSE_TIME] saat pada ketinggian sentuhan maksimum {WS}.
+SKILL/TYPHOON/TITLE,Taufan
+SKILL/TYPHOON/DES,"Selagi {SKILL} {ACTIVATE}, {STRENGTH} dan {JUMP} meningkat. Semakin tinggi {SPEED}, semakin besar peningkatan {STRENGTH}."
+SKILL/TYPHOON/SLIDER_DES,"{STRENGTH} : +[CALC.STRENGTH], {JUMP} : +[CALC.JUMP]"
+SKILL/GUST/TITLE,Deru Angin
+SKILL/GUST/DES,"Tekan {BUTTON_SPIKE} untuk bergerak pantas ke titik impak {BALL}. Saat anda melepaskan {BUTTON_SPIKE}, anda akan melompat pantas ke titik tertinggi."
+SKILL/GUST/DOLPA_DES,"Masa sedia larian: [CALC.READY_TIME] saat, kelajuan pergerakan larian: [CALC.RUN_SPEED]"
+SKILL/BLADE_WIND/TITLE,Angin Tajam
+SKILL/BLADE_WIND/DES,"Tekan {BUTTON_SPIKE} semasa {MID_AIR} untuk terapung seketika. Saat anda melepaskan {BUTTON_SPIKE}, anda akan melakukan {SWING}.# Melakukan {SPIKE} dalam keadaan {SKILL/TYPHOON/TITLE} akan memaparkan titik sasaran di gelanggang lawan.# Anda akan {SPIKE} ke arah titik terakhir yang muncul saat anda melepaskan {BUTTON_SPIKE}."
+SKILL/BLADE_WIND/SLIDER_DES,{BALL_POWER} {BALL}: +[CALC.BALL_POWER]
+SKILL/TEMPEST_LASH/TITLE,Sebatan Badai
+SKILL/TEMPEST_LASH/DES,Membolehkan {@SPIKE} dalam julat yang lebih luas daripada biasa.
+SKILL/CALM_BEFORE_THE_STORM/TITLE,Tenang Sebelum Ribut
+SKILL/CALM_BEFORE_THE_STORM/DES,"Sejurus selepas lompatan {SKILL/GUST/TITLE}, lawan bergerak perlahan buat sementara waktu."
+SKILL/CALM_BEFORE_THE_STORM/DOLPA_DES,"{SPEED} {TEAM_ENEMY}: -[CALC.SLOWER_RATIO, PER], {SKILL_DURATION}: [CALC.SLOWER_TIME] saat"
+SKILL/SOARING/TITLE,Penerbangan
+SKILL/SOARING/DES,Kelajuan pergerakan udara meningkat semasa lompatan spike.
+SKILL/SOARING/DOLPA_DES,"Kelajuan pergerakan udara : [CALC.AIR_MOVE_SPEED, PER_UNCAPPED]"
+SKILL/OUT_OF_SHAPE/TITLE,Stamina Lemah
+SKILL/OUT_OF_SHAPE/DES,"Jumlah pengurangan {SPEED} mengikut tempoh {RALLY} meningkat sebanyak [VAL.RALLY_SPEED, PER_DIFF]."
+,
+SKILL/BUNGEO_PPANG/TITLE,Bungeoppang
+SKILL/BUNGEO_PPANG/DES,"Apabila {SKILL} {ACTIVATE}, mengeluarkan dan memakan Bungeoppang. Ini memulihkan {STAMINA} {TEAM} sebanyak [VAL.STAMINA], dan selepas memakan Bungeoppang, semua {STATUS} meningkat selama {SKILL_DURATION}. #\[{ELITE_RULE}\] Memulihkan {STAMINA} {PLAYER_TEAM_ALLY} yang mempunyai {RULE/INDIVIDUAL_STAMINA} paling rendah."
+SKILL/BUNGEO_PPANG/DOLPA_DES,"{STRENGTH}: +[CALC.STRENGTH], {DEFENSE}: +[CALC.DEFENSE], {SPEED}: +[CALC.SPEED], {JUMP}: +[CALC.JUMP]"
+SKILL/PROBLEM_SOLVER/TITLE,Penyelesai Masalah
+SKILL/PROBLEM_SOLVER/DES,"Cuba {@ATTACK_TWO} apabila {PLAYER_TEAM_ALLY} gagal {@SPIKE} {BALL} daripada {@TOSS} sebanyak 2 kali berturut-turut.#Semasa {ATTACK_TWO}, {@BALL_POWER} {BALL} meningkat sebanyak [VAL.BALL_POWER, PER] dan mengabaikan {@BLOCKING}."
+,
+SKILL/MIRACULOUS_TOSS/TITLE,Hantaran Ajaib
+SKILL/MIRACULOUS_TOSS/DES,"Apabila {SKILL} {ACTIVATE}, lakukan {SKILL/MIRACULOUS_TOSS/TITLE}.#{SKILL} berterusan sehingga {PLAYER_TEAM_ALLY} melakukan {SPIKE} terhadap {TOSS} itu.#Apabila {@SPIKE} terhadap {TOSS} itu dilakukan, {BALL_POWER} {BALL} meningkat mengikut perbezaan {SCORE} {TEAM_ENEMY} yang mendahului {TEAM}. (Bertindan sehingga [VAL.SCORE] mata)"
+SKILL/MIRACULOUS_TOSS/SLIDER_DES,"{BALL_POWER} {BALL} : +[CALC.BALL_POWER, PER_UNCAPPED], {BALL_SPIN} {BALL} : +[CALC.BALL_SPIN],"
+SKILL/HEAD_TO_HEAD/TITLE,Pertarungan Berdepan
+SKILL/CANNOT_SLIDE/TITLE,Cabaran Usia
+SKILL/CANNOT_SLIDE/DES,Gerakan seperti geluncur terlalu berat untuk Penolong Kanan.
+,
+SKILL/EVERY_ACTION_SPIKE/TITLE,Rejaman seluruh badan
+SKILL/EVERY_ACTION_SPIKE/DES,"Bergantung pada kedudukan {BALL}, anda boleh melakukan {SPIKE} dalam pelbagai posisi badan, lalu mengubah trajektori {SPIKE}."
+SKILL/CANCEL_BLOCK_ON_OUT/TITLE,Mengelak blok
+SKILL/CANCEL_BLOCK_ON_OUT/DES,"Untuk pemain yang dikawal AI, jika titik pendaratan {SPIKE} pihak lawan adalah keluar, {BLOCKING} dibatalkan."
+SKILL/SOFT_SECOND_TOSS/TITLE,Set Dua Langkah Lembut
+SKILL/SOFT_SECOND_TOSS/DES,"Melakukan {@TOSS_OUT} ke arah garisan serangan. Apabila {TOSS} tersebut dikenakan {SPIKE}, {BALL_POWER} {BALL} meningkat."
+SKILL/SOFT_SECOND_TOSS/DOLPA_DES,"{BALL_POWER} {BALL}: +[CALC.BALL_POWER, PER]"
+SKILL/INTIMIDATION2/TITLE,Intimidasi
+SKILL/INTIMIDATION2/DES,"Setiap {TOUCH} pada {BALL} menambah 1 {STACK}. Apabila {STACK} mencapai maksimum, {SKILL} akan {ACTIVATE} secara automatik.#Semasa {SKILL} dalam keadaan {ACTIVATE}, {STRENGTH} meningkat sebanyak [VAL.STRENGTH] dan {SPEED} sebanyak [VAL.SPEED]. Selain itu, melakukan {@BLOCKING} terhadap {ATTACK} daripada {PLAYER_TEAM_ENEMY} yang mempunyai {STRENGTH} lebih rendah daripada anda sentiasa mencetuskan {@BLOCK_KILL}."
+SKILL/INTIMIDATION2/DOLPA_DES,Jumlah {STACK} diperlukan: [DOL.STACK_COUNT]
+SKILL/IRON_CLAW/TITLE,Cakar Besi
+SKILL/IRON_CLAW/DES,Boleh melakukan {SPIKE} dalam julat yang lebih luas berdasarkan {ENERGY_COUNT} {SKILL/METAL_BLOOD/TITLE}.
+SKILL/IRON_CLAW/SLIDER_DES,Julat {SPIKE}: [CALC.CLAW_SCALE]
+SKILL/IRON_HALBERD/TITLE,Tombak Besi
+SKILL/IRON_HALBERD/DES,"Bagi setiap S+ {PLAYER} selain diri sendiri yang ditempatkan dalam {TEAM_ALLY}, {STRENGTH} berkurang sebanyak [CALC.STRENGTH] dan {JUMP} sebanyak [CALC.JUMP]."
+SKILL/HUNDRED_FORGED_STEEL/TITLE,Keluli Seratus Tempaan
+SKILL/HUNDRED_FORGED_STEEL/DES,Setiap {@ATTACK_QUICK} semasa {RALLY} meningkatkan {JUMP} dan {STRENGTH} (maksimum [VAL.MAX_COUNT] kali). Ditetapkan semula apabila {RALLY} tamat.
+SKILL/HUNDRED_FORGED_STEEL/SLIDER_DES,"{JUMP}: +[CALC.JUMP], {STRENGTH}: +[CALC.STRENGTH]"
+SKILL/METAL_BLOOD/TITLE,Darah Logam
+SKILL/METAL_BLOOD/DES,"Melompat dengan {GRAVITY} rendah dan mengecas tenaga semasa berada di udara. Ketika melakukan spike, {@BALL_POWER} {BALL} meningkat berdasarkan {ENERGY_COUNT}. Untuk {BALL} yang bukan {@ATTACK_QUICK}, hanya [VAL.PENALTY, PER] daripada kesan peningkatan {BALL_POWER} digunakan."
+SKILL/METAL_BLOOD/DOLPA_DES,Masa {CHARGE} {AIR}: -[CALC.AIR_CHARGE_TIME]{SEC}
+SKILL/METAL_BLOOD/SLIDER_DES,"{BALL_POWER} {BALL}: +[CALC.BALL_POWER, PER]"
+SKILL/READ_BLOCK/TITLE,Blok Bacaan
+SKILL/READ_BLOCK/DES,"Apabila {PLAYER} yang tidak dikawal melakukan {BLOCKING}, mereka melihat {TOSS} {SE} dan melompat untuk {BLOCKING}."
+SKILL/FORTUNES_TURN/TITLE,Musibah Menjadi Berkat
+SKILL/FORTUNES_TURN/DES,"Selepas {ACTIVATE} {SKILL}, menurunkan {@DEBUFF} pada {PLAYER_TEAM_ALLY} sebanyak [VAL.DEBUFF_LEVEL] tahap. ({DEBUFF} disingkirkan jika berada pada tahap 1.)"
+SKILL/CORE_HIT/TITLE,Pukulan Teras
+SKILL/CORE_HIT/DES,"Mengutamakan hantaran kepada pemain yang dikawal.#Apabila {@WS} melakukan {ATTACK_BACK} pada hantaran, {BALL_POWER} {BALL} meningkat sebanyak [CALC.BALL_POWER, PER] dan {SLIDING_PENETRATION} meningkat sebanyak [CALC.SLIDING_PENETRATION].#Apabila {@MB} melakukan {SPIKE} pada hantaran {@ATTACK_QUICK}, {BLOCKING_PENETRATION} meningkat sebanyak [VAL.BLOCKING_PENETRATION]."
+SKILL/STEEL_MENTAL/TITLE,Mentaliti Keluli
+SKILL/STEEL_MENTAL/DES,"Apabila {@DEBUFF} tahap [VAL.DEBUFF_LEVEL] dikenakan, jika {DEFENSE} adalah [VAL.DEFENSE] lebih tinggi daripada {PLAYER_TEAM_ENEMY} yang mengenakan debuff tersebut, {DEBUFF} disingkirkan serta-merta."
+SKILL/RICOCHET/TITLE,Pantulan
+SKILL/RICOCHET/DES,{JUDGE_TIME} untuk {ONE_TOUCH} bertambah sebanyak [CALC.GOOD_BLOCKING_RANGE].
+특성 고유 명사,
+STRENGTH,Serang
+STRENGTH_DES,"Semakin tinggi {STRENGTH}, semakin kuat {SPIKE} dan mengurangkan lantunan {BALL} selepas {BLOCKING}."
+JUMP,Lompat
+DEFENSE,Pertahanan
+SPEED,Kelajuan
+FOCUS,Fokus
+FOCUS_DES,"{CONDITION} yang dicetuskan oleh {SERVE_ACE}, {BLOCKING} tepat atau {POINT_GAIN}. Meningkatkan {STATUS} keseluruhan."
+SAD,Berkecil hati
+SAD_DES,{CONDITION} yang dicetuskan oleh {ATTACK} atau {DEFEND} gagal. Mengurangkan {STATUS}.
+ANGRY,Teruja
+ANGRY_DES,"{CONDITION} dicetuskan oleh {SERVE_ACE} atau {ATTACK} gagal. Meningkatkan {ATTACK} dan {SPEED}, tetapi mengurangkan {DEFENSE} dan {JUMP}."
+CARELESS,Cuai
+CARELESS_DES,{CONDITION} dicetuskan apabila {BALL} tidak disentuh 5 kali atau lebih. Mengurangkan {DEFENSE} dan {SPEED} dengan ketara.
+CONDITION,Keadaan
+CONDITION_DES,Pelbagai perubahan keadaan pada {PLAYER} semasa perlawanan. {PLAYER} kembali normal selepas digantikan atau selepas tempoh tertentu.
+STATUS,Status
+SKILL,Kemahiran
+DATEN,Titik sentuhan
+TOGGLE_SKILL,Kemahiran Togol
+ACTIVE_SKILL,Kemahiran Aktif
+PASSIVE_SKILL,Kemahiran Pasif
+ACTIVE,Aktif
+PASSIVE,Pasif
+FEATURE,Sifat
+ACTIVATE,Pengaktifan
+DEACTIVATE,Penyahaktifan
+HEIGHT,Ketinggian
+MB,Middle Blocker
+MB_DES,{PLAYER} yang mencipta peluang melalui {@ATTACK_QUICK} dan {BLOCKING}.
+WS,Wing Spiker
+WS_DES,{PLAYER} yang bertanggungjawab terhadap jaringan utama {TEAM} melalui {SPIKE}.
+SE,Setter
+SE_DES,{PLAYER} yang membuat {TOSS} untuk membolehkan {ATTACK}.
+PLAYER,Pemain
+NET,Jaring
+COURT,Gelanggang
+SPIKE,Spike
+SPIKE_DES,Gerakan menyerang dengan melompat berhampiran {NET} dan memukul {BALL} ke bawah dengan kuat untuk menjaringkan mata.
+RECEIVE,Penerimaan
+RECEIVE_DES,Gerakan bertahan dengan menerima bola lawan supaya tidak jatuh ke lantai.
+TOSS,Set
+TOSS_DES,Gerakan mengumpan {BALL} dengan lembut untuk {ATTACK}.
+BLOCKING,Blok
+BLOCKING_DES,"Gerakan melompat di hadapan {NET} untuk menghalang {ATTACK} {PLAYER_TEAM_ENEMY}. Semakin tinggi {STRENGTH}, semakin rendah kelajuan lantunan {BALL} selepas {BLOCKING}."
+TOUCH,Sentuhan
+DIG,Dig
+SLIDING,Slaid
+SLIDING_DES,Gerakan bertahan dengan merendahkan badan dan meluncur di lantai untuk menyelamatkan {BALL}.#Membolehkan {DEFEND} tanpa menggunakan {STAMINA}.
+APPROACH,Approach
+ATTACK_BACK,Serangan Barisan Belakang
+SERVE_FLOATER,Servis Apung Lompat
+SERVE_SPIKE,Servis Rejaman
+SERVE_HYBRID,Servis Floater Hibrid
+SERVE_BASIC,Servis Asas
+SERVE,Servis
+SERVE_SKY,Servis Skyball
+ATTACK_TWO,Serangan Sentuhan Kedua
+ATTACK_TWO_DES,Gerakan {ATTACK} mengejut ke arah pasukan lawan pada {TOUCH} kedua.
+PASS_FEINT,Tipuan Hantaran
+PASS_FEINT_DES,Gerakan {ATTACK} mengejut apabila {SE} menghantar bola ke arah pasukan lawan semasa gerakan {TOSS}.
+FOUR_HIT,Empat Pukulan
+FOUR_HIT_DES,Situasi kesalahan apabila {TEAM} menyentuh {BALL} empat kali atau lebih.
+DOUBLE_CONTACT,Sentuhan dua kali
+POINT_GAIN,Penjaringan
+POINT_LOSS,Kehilangan Mata
+SCORE,Skor
+TEAM,Pasukan
+TEAM_ENEMY,Pasukan Lawan
+TEAM_ALLY,Pasukan Sendiri
+PLAYER_TEAM_ALLY,Rakan Sepasukan
+PLAYER_TEAM_ENEMY,Pemain Lawan
+BALL,Bola
+IN,Masuk
+OUT,Keluar
+TOUCH_OUT,Sentuhan Keluar
+FREE_BALL,Bola Peluang
+FREE_BALL_DES,Situasi bola datang dengan masa yang cukup untuk {DEFEND}.#{ATTACK} +15–30%
+TOSS_OUT,Set Dua Langkah
+TOSS_OUT_DES,Situasi di mana pemain selain {SE} melakukan {TOSS}.
+ATTACK_QUICK,Serangan Pantas
+ATTACK_QUICK_DES,Gerakan menyerang dengan pantas bola rendah yang dihantar oleh {SE} untuk {MB}.
+TOSS_OPEN,Set Tinggi
+TOSS_JUMP,Set Lompatan
+TOSS_STANDING,Set Berdiri
+BLOCK_KILL,Blok Kill
+BLOCK_KILL_DES,Gerakan {BLOCKING} dengan timing sempurna yang menjatuhkan bola ke {COURT} lawan.
+BLOCK_SOFT,Blok Lembut
+BLOCK_SOFT_DES,Sentuhan pada bola untuk mengurangi {BALL_POWER} {SPIKE} lawan.
+FEINT,Feint
+FEINT_DES,Pukulan ringan pada {BALL} untuk mengeksploitasi celah.
+TOSS_SERVE,Lambungan Servis
+TOSS_SERVE_DES,Melambungkan {BALL} ke atas kepala untuk melakukan {SERVE}.
+REBOUND,Rebound
+OUT_OF_BOUND,Di luar garisan
+FAULT,Miss
+SERVE_ACE,Ace Servis
+SERVE_ACE_DES,{SERVE} langsung menghasilkan {POINT_GAIN}.
+THIRD_FINISH,Serangan Sentuhan Ketiga
+MATCH,Perlawanan
+RALLY,Rally
+TIMEOUT,Masa Rehat
+TOUCH_COUNT,Jumlah Sentuhan
+SUBSTITUTION,Penggantian Pemain
+ROTATION,Putaran
+ROTATION_DES,Peraturan pertukaran kedudukan satu tempat apabila pasukan menjaringkan mata semasa giliran servis lawan.
+COURT_FRONT,Barisan Depan
+COURT_FRONT_DES,Keadaan apabila {PLAYER} berada di hadapan jaring pada permulaan {RALLY}.
+COURT_BACK,Barisan Belakang
+COURT_BACK_DES,Keadaan apabila kedudukan {PLAYER} mengikut {ROTATION} bukan di hadapan jaring.
+MID_AIR,Di Udara
+MID_AIR_DES,{PLAYER} tidak menyentuh {ON_GROUND}.
+ON_GROUND,Di Tanah
+ATTACK,Serangan
+DEFEND,Pertahanan
+RANGE_ATTACK,Jangkauan Serangan
+DEFEND_RANGE,Jangkauan Pertahanan
+DEFEND_RANGE_DES,Julat untuk {PLAYER} bertindak balas terhadap {BALL} dan melakukan {RECEIVE}.
+SWING,Ayunan
+SWING_DES,Gerakan mengayun lengan untuk melakukan {SPIKE}.
+LINE_END,Garis Akhir
+LINE_END_DES,Garisan yang menandakan bahagian paling belakang {COURT}.#{BALL} yang jatuh di luar {LINE_END} dikira {OUT}.
+LINE_ATTACK,Garis Serang
+LINE_ATTACK_DES,Garis yang berada di dalam {COURT}.
+STAMINA,Stamina
+STAMINA_DES,Nilai yang menunjukkan kestabilan {TEAM} semasa melakukan {DEFEND}. Berkurang setiap kali menerima {ATTACK}.#{DEFEND} gagal jika {STAMINA} tidak mencukupi.
+STAMINA_MAX,Stamina Maks
+STAMINA_TEAM_ALLY,Stamina Pasukan Sendiri
+STAMINA_TEAM_ENEMY,Stamina Pasukan Lawan
+STAMINA_MAX_TEAM_ALLY,Stamina Maksimum Pasukan Sendiri
+STAMINA_MAX_TEAM_ENEMY,Stamina Maksimum Pasukan Lawan
+BALL_SPIN,Putaran
+BALL_SPIN_DES,Statistik yang membuat {BALL} jatuh tajam ke bawah.
+BALL_DAMAGE,Kerosakan
+BALL_POWER,Kuasa
+BALL_POWER_DES,"Nilai yang menentukan kelajuan {BALL}.#Semakin tinggi nilainya, semakin laju bola bergerak dan semakin besar {BALL_DAMAGE} pada {PLAYER} yang mencuba {DEFEND}."
+BALL_POWER_VERTICAL,Kuasa Menegak
+BALL_POWER_VERTICAL_DES,{BALL_POWER} {BALL} yang bertindak secara menegak.
+TRAJECTORY,Lintasan
+CHARGE,Charge
+GAUGE,Gauge
+ACCURACY,Ketepatan
+SLIDING_PENETRATION,Tembus Slide
+BLOCKING_PENETRATION,Tembus Blok
+MODE_AUTOMATIC,Mod Automatik
+COMMON/SKILL/DURATION,Tempoh
+BUTTON_SPIKE,Butang Rejaman
+HOLD,Tahan
+MAX_DATEN,Jangkauan Maksimum
+TRAIL,Jejak
+BALL_POWER_HORIZONTAL,Kuasa Mendatar
+BALL_POWER_HORIZONTAL_DES,{BALL_POWER} {BALL} yang bertindak secara mendatar.
+SLIDING_KILLER_EFFECT,Kesan Penembusan Slaid
+SLIDING_KILLER_EFFECT_DES,Luncuran tidak dapat menahan serangan sepenuhnya dan bola melantun lebih jauh.
+SLIDING_WAKEUP_SPEED,Kelajuan Bangun Menggelongsor
+GRAVITY,Daya Graviti
+DEBUFF_LEVEL,Tahap Debuff
+DEBUFF,Debuff
+DEBUFF_DES,Mengurangkan {STATUS} {PLAYER} yang terkena kesan.
+,
+팝업 슬라이더 내 표기용,
+SCORE_TEAM_ENEMY,Skor Pasukan Lawan
+POINT,Mata
+DISTANCE_NET,Jarak ke Net (m)
+METER,m
+PERCENT,%
+SCORE_DIFFERENCE,Perbezaan Skor
+RALLY_COUNT,Jumlah Rally
+EVENT_COUNT,Kali
+SEED,Benih
+OBJECT_COUNT,Jumlah
+LUCAS_FALL_POWER,Tahap Kelajuan Jatuhan
+SKILL_USE_COUNT,Jumlah Penggunaan Skill
+ENERGY,Tenaga
+PUSH_UP,Push-up
+SERVE_COUNT,Jumlah Servis Berjaya
+CHARGED_COUNT,Jumlah Charge
+BLADE_WIND_TARGET_COUNT,Bilangan Titik Sasaran
+SEC,saat
+ENERGY_COUNT,Bilangan Cas Tenaga
+,
+,
+특화 노드,
+WEAKNESS_CORE/TITLE,{CORE} {WEAKNESS}
+WEAKNESS_CORE/DES,{CORE} yang membuka {SPECIALIZATION} {WEAKNESS}. Anda hanya boleh meningkatkan {LEVEL} bagi {SPECIALIZATION} dalam cabang dengan jumlah {LEVEL} terendah.
+SPEC_SERVE_ATTACK/TITLE,{STRENGTH} {SERVE}
+SPEC_SERVE_ATTACK/DES,Meningkatkan {STRENGTH} untuk {SERVE}.
+SPEC_SERVE_ATTACK/POS_EFF/STAT_MODIFIER/SERVE_ATTACK_POWER/DES,{STRENGTH} {SERVE} +{value}
+SPEC_MENTAL_DAMAGE/TITLE,{DAMAGE} terhadap {MENTAL}
+SPEC_MENTAL_DAMAGE/DES,"Dalam {ELITE_RULE}, {ATTACK} anda mengurangkan {MENTAL} pihak lawan dengan lebih banyak."
+SPEC_MENTAL_DAMAGE/POS_EFF/STAT_MODIFIER/MENTAL_DAMAGE/DES,{DAMAGE} terhadap {MENTAL} +{value}
+SPEC_SPIN/TITLE,{BALL_SPIN}
+SPEC_SPIN/DES,Meningkatkan {BALL_SPIN} untuk {SPIKE}.
+SPEC_SPIN/POS_EFF/STAT_MODIFIER/SPIN/DES,{BALL_SPIN} +{value}
+SPEC_FRONT_ROW_ATTACK/TITLE,{STRENGTH} {COURT_FRONT}
+SPEC_FRONT_ROW_ATTACK/DES,Meningkatkan {STRENGTH} untuk {SPIKE} yang dilakukan dari {COURT_FRONT}.
+SPEC_FRONT_ROW_ATTACK/POS_EFF/STAT_MODIFIER/FRONT_ROW_ATTACK_POWER/DES,"Ketika berada di {COURT_FRONT}, {STRENGTH} +{value}"
+SPEC_SPIKE_POWER/TITLE,{BALL_POWER} {SPIKE}
+SPEC_SPIKE_POWER/DES,Meningkatkan {BALL_POWER} untuk {SPIKE}.
+SPEC_SPIKE_POWER/POS_EFF/STAT_MODIFIER/SPIKE_POWER/DES,{BALL_POWER} {SPIKE} +{value}
+SPEC_SPIKE_SWING_RANGE/TITLE,{RANGE} {SWING} semasa {SPIKE}
+SPEC_SPIKE_SWING_RANGE/DES,Meningkatkan {RANGE} {SWING} semasa {SPIKE}.
+SPEC_SPIKE_SWING_RANGE/POS_EFF/STAT_MODIFIER/SPIKE_SWING_RANGE/DES,{RANGE} {SWING} semasa {SPIKE} +{value}
+SPEC_BACK_ATTACK/TITLE,{STRENGTH} {COURT_BACK}
+SPEC_BACK_ATTACK/DES,Meningkatkan {STRENGTH} untuk {SPIKE} yang dilakukan dari belakang {LINE_ATTACK}.
+SPEC_BACK_ATTACK/POS_EFF/STAT_MODIFIER/BACK_ATTACK_SPIKE_POWER/DES,"Ketika melakukan {ATTACK_BACK}, {STRENGTH} +{value}"
+SPEC_ATTACK_POWER/TITLE,{STRENGTH}
+SPEC_ATTACK_POWER/DES,Meningkatkan {STRENGTH} asas.
+SPEC_ATTACK_POWER/POS_EFF/STAT_MODIFIER/ATTACK_POWER/DES,{STRENGTH} +{value}
+SPEC_SLIDING_PENETRATION/TITLE,{SLIDING_PENETRATION}
+SPEC_SLIDING_PENETRATION/DES,Meningkatkan {SLIDING_PENETRATION}.
+SPEC_SLIDING_PENETRATION/POS_EFF/STAT_MODIFIER/SLIDING_PENETRATION/DES,{SLIDING_PENETRATION} +{value}
+SPEC_RECEIVE_RANGE/TITLE,{DEFEND_RANGE} {RECEIVE}
+SPEC_RECEIVE_RANGE/DES,Meningkatkan {DEFEND_RANGE} untuk {RECEIVE}.
+SPEC_RECEIVE_RANGE/POS_EFF/STAT_MODIFIER/RECEIVE_DEFENSE_RANGE/DES,{DEFEND_RANGE} {RECEIVE} +{value}
+SPEC_GOOD_RECEIVE_STABILITY/TITLE,Kestabilan {GOOD_RECEIVE}
+SPEC_GOOD_RECEIVE_STABILITY/DES,{BALL} melantun dengan lebih stabil selepas {GOOD_RECEIVE}.
+SPEC_GOOD_RECEIVE_STABILITY/POS_EFF/STAT_MODIFIER/GOOD_RECEIVE_BALL_STABILITY/DES,{STABILITY} {GOOD_RECEIVE} +{value}
+SPEC_SERVE_DEFENSE/TITLE,{DEFENSE} terhadap {SERVE}
+SPEC_SERVE_DEFENSE/DES,Meningkatkan {DEFENSE} semasa melakukan {DEFEND} terhadap {SERVE}.
+SPEC_SERVE_DEFENSE/POS_EFF/STAT_MODIFIER/SERVE_DEFENSE_POWER/DES,{DEFENSE} terhadap {SERVE} +{value}
+SPEC_DEFENSE_POWER/TITLE,{DEFENSE}
+SPEC_DEFENSE_POWER/DES,Meningkatkan {DEFENSE} asas.
+SPEC_DEFENSE_POWER/POS_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+SPEC_SLIDING_RANGE/TITLE,{DEFEND_RANGE} {SLIDING}
+SPEC_SLIDING_RANGE/DES,Meningkatkan {DEFEND_RANGE} untuk {SLIDING}.
+SPEC_SLIDING_RANGE/POS_EFF/STAT_MODIFIER/SLIDING_DEFENSE_RANGE/DES,{DEFEND_RANGE} {SLIDING} +{value}
+SPEC_SLIDING_PROTECTION/TITLE,{PROTECTION} {SLIDING}
+SPEC_SLIDING_PROTECTION/DES,{BALL} melantun dengan lebih stabil selepas {SLIDING}.
+SPEC_SLIDING_PROTECTION/POS_EFF/STAT_MODIFIER/SLIDING_RESISTANCE/DES,{PROTECTION} {SLIDING} +{value}
+SPEC_SLIDING_ENDURANCE/TITLE,{ENDURANCE} {SLIDING}
+SPEC_SLIDING_ENDURANCE/DES,Mengurangkan kehilangan {PROTECTION} semasa {SLIDING} apabila {RALLY} berpanjangan.
+SPEC_SLIDING_ENDURANCE/POS_EFF/STAT_MODIFIER/SLIDING_ENDURANCE/DES,{ENDURANCE} {SLIDING} +{value}
+SPEC_RECEIVE_ROLL_RESIST/TITLE,{RESIST} terhadap {ROLLING} selepas {RECEIVE}
+SPEC_RECEIVE_ROLL_RESIST/DES,Meningkatkan kebarangkalian untuk tidak berguling selepas {RECEIVE}.
+SPEC_RECEIVE_ROLL_RESIST/POS_EFF/STAT_MODIFIER/RECEIVE_ROLL_RESISTANCE/DES,{RESIST} {ROLLING} semasa {RECEIVE} +{value}
+SPEC_BLOCK_READY_SPEED/TITLE,{READY_SPEED} {BLOCKING}
+SPEC_BLOCK_READY_SPEED/DES,Meningkatkan kelajuan persediaan untuk {BLOCKING}.
+SPEC_BLOCK_READY_SPEED/POS_EFF/STAT_MODIFIER/BLOCK_READY_SPEED/DES,{READY_SPEED} {BLOCKING} +{value}
+SPEC_BLOCK_PROTECTION/TITLE,{BLOCKING} Berkuasa
+SPEC_BLOCK_PROTECTION/DES,{BALL} melantun dengan lebih stabil selepas {BLOCKING} menghasilkan {ONE_TOUCH}.
+SPEC_BLOCK_PROTECTION/POS_EFF/STAT_MODIFIER/BLOCK_RESISTANCE/DES,{PROTECTION} {BLOCKING} +{value}
+SPEC_BACK_DEFENSE/TITLE,{DEFENSE} terhadap {ATTACK_BACK}
+SPEC_BACK_DEFENSE/DES,Meningkatkan {DEFENSE} semasa melakukan {DEFEND} terhadap {SPIKE} dari belakang {LINE_ATTACK}.
+SPEC_BACK_DEFENSE/POS_EFF/STAT_MODIFIER/BACK_ATTACK_DEFENSE_POWER/DES,{DEFENSE} terhadap {ATTACK_BACK} +{value}
+SPEC_FEINT_DEFENSE/TITLE,{DEFENSE} terhadap {FEINT}
+SPEC_FEINT_DEFENSE/DES,Meningkatkan {DEFENSE} semasa melakukan {DEFEND} terhadap {FEINT}.
+SPEC_FEINT_DEFENSE/POS_EFF/STAT_MODIFIER/FEINT_DEFENSE_POWER/DES,{DEFENSE} terhadap {FEINT} +{value}
+SPEC_SPEED/TITLE,{SPEED}
+SPEC_SPEED/DES,Meningkatkan {SPEED} asas.
+SPEC_SPEED/POS_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+SPEC_OFF_COURT_SPEED/TITLE,{MOVE_SPEED} di luar {COURT}
+SPEC_OFF_COURT_SPEED/DES,Meningkatkan {SPEED} di luar {COURT}.
+SPEC_OFF_COURT_SPEED/POS_EFF/STAT_MODIFIER/OFF_COURT_MOVE_SPEED/DES,{SPEED} di luar {COURT} +{value}
+SPEC_BLOCK_JUMP/TITLE,{JUMP} {BLOCKING}
+SPEC_BLOCK_JUMP/DES,Meningkatkan ketinggian {JUMP} semasa {BLOCKING}.
+SPEC_BLOCK_JUMP/POS_EFF/STAT_MODIFIER/BLOCK_JUMP/DES,{JUMP} {BLOCKING} +{value}
+SPEC_MENTAL_REGEN/TITLE,Pemulihan {MENTAL} Berterusan
+SPEC_MENTAL_REGEN/DES,Memulihkan {MENTAL} secara berterusan dalam {ELITE_RULE}.
+SPEC_MENTAL_REGEN/POS_EFF/STAT_MODIFIER/MENTAL_REGEN/DES,{RECOVERY_AMOUNT} sesaat: {value:ratio}
+SPEC_FEINT_DROP_SPEED/TITLE,{DROP_SPEED} {FEINT}
+SPEC_FEINT_DROP_SPEED/DES,Meningkatkan {DROP_SPEED} untuk {FEINT}.
+SPEC_FEINT_DROP_SPEED/POS_EFF/STAT_MODIFIER/FEINT_DROP_SPEED/DES,{DROP_SPEED} {FEINT} +{value}
+SPEC_CONDITION_CONTROL/TITLE,Kawalan {CONDITION}
+SPEC_CONDITION_CONTROL/DES,{CORE} yang membuka {SPECIALIZATION} {CONDITION}. Mengurangkan {KEEP_TIME} keadaan {SAD} dan {CARELESS}.
+SPEC_CONDITION_CONTROL/POS_EFF/STAT_MODIFIER/SAD_DURATION/DES,{KEEP_TIME} {SAD} +{value}
+SPEC_CONDITION_CONTROL/POS_EFF/STAT_MODIFIER/CARELESS_DURATION/DES,{KEEP_TIME} {CONDITION} {CARELESS} +{value}
+SPEC_FOCUS_DURATION/TITLE,{KEEP_TIME} {FOCUS}
+SPEC_FOCUS_DURATION/DES,Meningkatkan {KEEP_TIME} keadaan {FOCUS}.
+SPEC_FOCUS_DURATION/POS_EFF/STAT_MODIFIER/FOCUS_DURATION/DES,{KEEP_TIME} {FOCUS} +{value}
+SPEC_ANGRY_DURATION/TITLE,{KEEP_TIME} {ANGRY}
+SPEC_ANGRY_DURATION/DES,Meningkatkan {KEEP_TIME} keadaan {ANGRY}.
+SPEC_ANGRY_DURATION/POS_EFF/STAT_MODIFIER/ANGRY_DURATION/DES,{KEEP_TIME} {ANGRY} +{value}
+SPEC_ANGRY_DURATION/POS_EFF/STAT_MODIFIER/JUMP_POWER/DES,{JUMP} +{value}
+SPEC_ANGRY_DURATION/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+SPEC_TRAIT_COOLDOWN/TITLE,Pengurangan {SKILL_COOLDOWN}
+SPEC_TRAIT_COOLDOWN/DES,Mengurangkan {SKILL_COOLDOWN} untuk {ACTIVE_SKILL}.
+SPEC_TRAIT_COOLDOWN/POS_EFF/STAT_MODIFIER/TRAIT_COOLDOWN/DES,{SKILL_COOLDOWN} +{value}
+SPEC_TRAIT_DURATION/TITLE,Peningkatan {SKILL_DURATION}
+SPEC_TRAIT_DURATION/DES,Meningkatkan {SKILL_DURATION} dan {SKILL_COOLDOWN} untuk {ACTIVE_SKILL}.
+SPEC_TRAIT_DURATION/POS_EFF/STAT_MODIFIER/TRAIT_DURATION/DES,{SKILL_DURATION} +{value}
+SPEC_TRAIT_DURATION/NEG_EFF/STAT_MODIFIER/TRAIT_COOLDOWN/DES,{SKILL_COOLDOWN} +{value}
+SPEC_JUMP_POWER/TITLE,{JUMP}
+SPEC_JUMP_POWER/DES,Meningkatkan {JUMP} asas.
+SPEC_JUMP_POWER/POS_EFF/STAT_MODIFIER/JUMP_POWER/DES,{JUMP} +{value}
+SPEC_SPIKE_ANGLE/TITLE,{ANGLE} {SPIKE}
+SPEC_SPIKE_ANGLE/DES,Membolehkan {SPIKE} dipukul pada sudut yang lebih curam dan hampir menegak.
+SPEC_SPIKE_ANGLE/POS_EFF/STAT_MODIFIER/SPIKE_ANGLE/DES,{ANGLE} {SPIKE} +{value}
+SPEC_AIR_MOVE_SPEED/TITLE,{MOVE_SPEED} {AIR}
+SPEC_AIR_MOVE_SPEED/DES,Meningkatkan {MOVE_SPEED} {AIR} selepas {SPIKE_JUMP}.
+SPEC_AIR_MOVE_SPEED/POS_EFF/STAT_MODIFIER/AIR_MOVE_SPEED/DES,{MOVE_SPEED} {AIR} semasa {SPIKE} +{value}
+SPEC_MULTIPLE_SWING/TITLE,{MULTIPLE_SWING}
+SPEC_MULTIPLE_SWING/DES,Membolehkan {SWING} tambahan {AIR}.
+,
+SPEC_SPEED_RETENTION/TITLE,{ENDURANCE} {SPEED}
+SPEC_SPEED_RETENTION/DES,Mengurangkan kehilangan {SPEED} apabila {RALLY} berpanjangan.
+SPEC_SPEED_RETENTION/POS_EFF/STAT_MODIFIER/SPEED_RETENTION/DES,{ENDURANCE} {SPEED} +{value}
+SPEC_STAMINA_REGEN/TITLE,{REGEN} {STAMINA}
+SPEC_STAMINA_REGEN/DES,Meningkatkan {REGEN} {STAMINA}.
+SPEC_STAMINA_REGEN/POS_EFF/STAT_MODIFIER/STAMINA_REGEN/DES,{REGEN} {STAMINA} +{value}
+SPEC_STAMINA_BASE/TITLE,{STAMINA} Asas
+SPEC_STAMINA_BASE/DES,Meningkatkan {STAMINA_MAX}.
+SPEC_STAMINA_BASE/POS_EFF/STAT_MODIFIER/STAMINA_FLAT/DES,{STAMINA_MAX} +{value}
+SPEC_SLIDING_RECOVERY/TITLE,{SLIDING_WAKEUP_SPEED}
+SPEC_SLIDING_RECOVERY/DES,Meningkatkan {SLIDING_WAKEUP_SPEED}.
+SPEC_SLIDING_RECOVERY/POS_EFF/STAT_MODIFIER/SLIDING_RECOVERY_SPEED/DES,{SLIDING_WAKEUP_SPEED} +{value}
+SPEC_WEAK_ATTACK_POWER/TITLE,Pengurangan {STRENGTH}
+SPEC_WEAK_ATTACK_POWER/DES,Mengurangkan {STRENGTH} asas.
+SPEC_WEAK_ATTACK_POWER/NEG_EFF/STAT_MODIFIER/ATTACK_POWER/DES,{STRENGTH} +{value}
+SPEC_WEAK_SERVE_ATTACK/TITLE,Pengurangan {SERVE} {STRENGTH}
+SPEC_WEAK_SERVE_ATTACK/DES,{SERVE} {STRENGTH} berkurang.
+SPEC_WEAK_SERVE_ATTACK/NEG_EFF/STAT_MODIFIER/SERVE_ATTACK_POWER/DES,{SERVE} {STRENGTH} +{value}
+SPEC_WEAK_BACK_ATTACK/TITLE,Pengurangan {COURT_BACK} {STRENGTH}
+SPEC_WEAK_BACK_ATTACK/DES,Mengurangkan {STRENGTH} untuk {SPIKE} yang dilakukan dari belakang {LINE_ATTACK}.
+SPEC_WEAK_BACK_ATTACK/NEG_EFF/STAT_MODIFIER/BACK_ATTACK_SPIKE_POWER/DES,"Dalam situasi ini, {STRENGTH} +{value}"
+SPEC_WEAK_FRONT_ROW_ATTACK/TITLE,Pengurangan {COURT_FRONT} {STRENGTH}
+SPEC_WEAK_FRONT_ROW_ATTACK/DES,Mengurangkan {STRENGTH} untuk {SPIKE} yang dilakukan dari {COURT_FRONT}.
+SPEC_WEAK_FRONT_ROW_ATTACK/NEG_EFF/STAT_MODIFIER/FRONT_ROW_ATTACK_POWER/DES,"Dalam situasi ini, {STRENGTH} +{value}"
+SPEC_WEAK_DEFENSE_RANGE/TITLE,Pengurangan {RECEIVE} {DEFEND_RANGE}
+SPEC_WEAK_DEFENSE_RANGE/DES,{RECEIVE} {DEFEND_RANGE} berkurang.
+SPEC_WEAK_DEFENSE_RANGE/NEG_EFF/STAT_MODIFIER/RECEIVE_DEFENSE_RANGE/DES,{RECEIVE} {DEFEND_RANGE} +{value}
+SPEC_WEAK_SLIDING_DEFENSE_RANGE/TITLE,Pengurangan {SLIDING} {DEFEND_RANGE}
+SPEC_WEAK_SLIDING_DEFENSE_RANGE/DES,{SLIDING} {DEFEND_RANGE} berkurang.
+SPEC_WEAK_SLIDING_DEFENSE_RANGE/NEG_EFF/STAT_MODIFIER/SLIDING_DEFENSE_RANGE/DES,{SLIDING} {DEFEND_RANGE} +{value}
+SPEC_WEAK_BLOCK_JUMP/TITLE,Pengurangan {BLOCKING} {JUMP}
+SPEC_WEAK_BLOCK_JUMP/DES,{BLOCKING} {JUMP} berkurang.
+SPEC_WEAK_BLOCK_JUMP/NEG_EFF/STAT_MODIFIER/BLOCK_JUMP/DES,{BLOCKING} {JUMP} +{value}
+SPEC_WEAK_RALLY_SPEED_DECAY/TITLE,Peningkatan Pengurangan {SPEED} semasa {RALLY}
+SPEC_WEAK_RALLY_SPEED_DECAY/DES,Jumlah pengurangan {SPEED} akibat {RALLY} yang berterusan meningkat.
+SPEC_WEAK_RALLY_SPEED_DECAY/NEG_EFF/STAT_MODIFIER/SPEED_RETENTION/DES,{SPEED} {ENDURANCE} +{value}
+SPEC_WEAK_JUMP_POWER/TITLE,Pengurangan {JUMP}
+SPEC_WEAK_JUMP_POWER/DES,Nilai asas {JUMP} berkurang.
+SPEC_WEAK_JUMP_POWER/NEG_EFF/STAT_MODIFIER/JUMP_POWER/DES,{JUMP} +{value}
+SPEC_WEAK_ROLLING_CHANCE/TITLE,Peningkatan Peluang {ROLLING}
+SPEC_WEAK_ROLLING_CHANCE/DES,Peluang untuk berguling selepas {RECEIVE} meningkat.
+SPEC_WEAK_ROLLING_CHANCE/NEG_EFF/STAT_MODIFIER/RECEIVE_ROLL_RESISTANCE/DES,{RESIST} {ROLLING} semasa {RECEIVE} +{value}
+SPEC_WS_BACK_ATTACKER/TITLE,{BACK_ATTACKER}
+SPEC_WS_BACK_ATTACKER/DES,Meningkatkan {STRENGTH} untuk {SPIKE} yang dilakukan dari belakang {LINE_ATTACK}.
+SPEC_WS_BACK_ATTACKER/POS_EFF/STAT_MODIFIER/BACK_ATTACK_SPIKE_POWER/DES,"Dalam situasi ini, {STRENGTH} +{value}"
+SPEC_WS_BACK_ATTACKER/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+SPEC_WS_BACK_ATTACKER/NEG_EFF/STAT_MODIFIER/SPIKE_JUMP_POWER/DES,{JUMP} {SPIKE} +{value}
+SPEC_WS_CLOSER/TITLE,Penyelesai Masalah
+SPEC_WS_CLOSER/DES,Meningkatkan {BALL_POWER} untuk {SPIKE} selepas {TOSS_OPEN}.
+SPEC_WS_CLOSER/NEG_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+SPEC_WS_CLOSER/NEG_EFF/STAT_MODIFIER/RECEIVE_DEFENSE_RANGE/DES,{RECEIVE} {DEFEND_RANGE} +{value}
+,
+SPEC_WS_PREDATOR/TITLE,Pemangsa
+SPEC_WS_PREDATOR/DES,Meningkatkan {BALL_POWER} apabila melakukan {SPIKE} selepas bergerak ke arah {NET} selama tempoh minimum tertentu.
+SPEC_WS_PREDATOR/NEG_EFF/STAT_MODIFIER/SPIKE_JUMP_POWER/DES,{JUMP} {SPIKE} +{value}
+SPEC_WS_PREDATOR/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+,
+SPEC_WS_CHANCE_SPIKE_POWER/TITLE,{SPIKE} {CHANCE}
+SPEC_WS_CHANCE_SPIKE_POWER/DES,Berpeluang meningkatkan {BALL_POWER} untuk {SPIKE} dalam situasi {FREE_BALL}.
+SPEC_WS_CHANCE_SPIKE_POWER/NEG_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+,
+SPEC_WS_CHANCE_SPIKE_POWER/SKILLFEATURE/CHANCE_SPIKE_POWER/ATTACK_POWER/DES,"Dalam situasi ini, {STRENGTH} +[ATTACK_POWER]"
+SPEC_WS_UNASSISTED_SPIKE_ATTACK_POWER/TITLE,Pakar {ATTACK} di Luar Sistem
+SPEC_WS_UNASSISTED_SPIKE_ATTACK_POWER/DES,Berpeluang meningkatkan {STRENGTH} untuk {SPIKE} apabila {PLAYER} selain {SE} melakukan {SECOND_TOUCH}.
+,
+SPEC_WS_UNASSISTED_SPIKE_ATTACK_POWER/SKILLFEATURE/UNASSISTED_SPIKE_ATTACK_POWER/ATTACK_POWER/DES,"Dalam situasi ini, {STRENGTH} +[ATTACK_POWER]"
+SPEC_WS_DIRECT_SPIKE_POWER/TITLE,{DIRECT_SPIKE}
+SPEC_WS_DIRECT_SPIKE_POWER/DES,Meningkatkan {BALL_POWER} untuk {DIRECT_SPIKE}.
+,
+SPEC_MB_FORGE/TITLE,{FORGE}
+SPEC_MB_FORGE/DES,Memperoleh {STACK} {FORGE} setiap kali melakukan {BLOCKING}. {STRENGTH} meningkat mengikut jumlah {STACK} yang terkumpul.
+SPEC_MB_FORGE/NEG_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+SPEC_MB_FORGE/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+,
+,
+,
+,
+SPEC_MB_PRECISE_BLOCK/TITLE,{BLOCKING} yang Lebih Tepat
+SPEC_MB_PRECISE_BLOCK/DES,Meningkatkan {STRENGTH} {AIR} apabila melakukan {BLOCK_JUMP} dengan cas penuh. Cas yang tidak mencukupi mengurangkan {JUMP} untuk {BLOCKING} dan {STRENGTH} {AIR}.
+,
+,
+,
+,
+SPEC_SE_ONE_SHOT/TITLE,Perlukan Pukulan Padu
+SPEC_SE_ONE_SHOT/DES,Meningkatkan {BALL_POWER} untuk {SPIKE} selepas {TOSS_OPEN}. Mengurangkan {BALL_POWER} untuk {SPIKE} selepas {TOSS} lain.
+,
+,
+,
+SPEC_SE_OPENING/TITLE,Pakar {QUICK_ATTACK}
+SPEC_SE_OPENING/DES,Meningkatkan {BALL_POWER} untuk {SPIKE} selepas {TOSS_QUICK}. Mengurangkan {BALL_POWER} untuk {SPIKE} selepas {TOSS} lain.
+,
+,
+,
+SPEC_ISABEL_PARRY_CHARGE/TITLE,{CHARGED_COUNT} {GAUGE} {SKILL/PARRY/TITLE}
+SPEC_ISABEL_PARRY_CHARGE/DES,{EXCLUSIVE} untuk {ISABEL}. Meningkatkan jumlah yang boleh disimpan dalam {GAUGE} {SKILL/PARRY/TITLE}.
+,
+SPEC_ISABEL_PARRY_DRAIN/TITLE,Penggunaan {SKILL/PARRY/TITLE} Secara Beransur
+SPEC_ISABEL_PARRY_DRAIN/DES,Menggunakan sedikit {GAUGE} {SKILL/PARRY/TITLE} setiap kali melakukan {SPIKE}.
+,
+SPEC_ATTACK_GATE_1/TITLE,{ATTACK} Lanjutan
+SPEC_ATTACK_GATE_1/DES,{CORE} yang membuka {SPECIALIZATION} {ATTACK}. Meningkatkan {STRENGTH} asas.
+SPEC_ATTACK_GATE_1/POS_EFF/STAT_MODIFIER/ATTACK_POWER/DES,{STRENGTH} +{value}
+SPEC_DEFENSE_GATE_1/TITLE,{DEFEND} Lanjutan
+SPEC_DEFENSE_GATE_1/DES,{CORE} yang membuka {SPECIALIZATION} {DEFEND}. Meningkatkan {DEFENSE} asas.
+SPEC_DEFENSE_GATE_1/POS_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+SPEC_IDENTITY_GATE_1/TITLE,{IDENTITY} Lanjutan
+SPEC_IDENTITY_GATE_1/DES,{CORE} yang membuka {SPECIALIZATION} {IDENTITY}. Meningkatkan {SPEED} asas.
+SPEC_IDENTITY_GATE_1/POS_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+SPEC_JUMP_TRADE_OFF/TITLE,Sedikit Lebih Tinggi
+SPEC_JUMP_TRADE_OFF/DES,"Meningkatkan {JUMP} asas, tetapi mengurangkan {BALL_POWER} untuk {SPIKE}."
+SPEC_JUMP_TRADE_OFF/POS_EFF/STAT_MODIFIER/JUMP_POWER/DES,{JUMP} +{value}
+SPEC_JUMP_TRADE_OFF/NEG_EFF/STAT_MODIFIER/SPIKE_POWER/DES,{BALL_POWER} {SPIKE} +{value}
+SPEC_SE_PASS_FEINT/TITLE,{PASS_FEINT}
+SPEC_SE_PASS_FEINT/DES,Meningkatkan kebarangkalian untuk mencuba {PASS_FEINT}.
+,
+SPEC_SE_PASS_FEINT/NEG_EFF/STAT_MODIFIER/RECEIVE_DEFENSE_RANGE/DES,{RECEIVE} {DEFEND_RANGE} +{value}
+SPEC_SE_SURPRISE_SPIKE/TITLE,{SURPRISE}
+SPEC_SE_SURPRISE_SPIKE/DES,Meningkatkan kebarangkalian untuk mencuba {SPIKE} dan bukannya {TOSS} pada {SECOND_TOUCH}.
+,
+SPEC_SE_SURPRISE_SPIKE/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+SPEC_JAEHYUN_COOL_HEADED/TITLE,{NAM_JAEHYUN} : Tenang
+SPEC_JAEHYUN_COOL_HEADED/DES,Mengubah syarat pengaktifan {SKILL/DETERMINATION/TITLE} kepada {STAMINA} 40%.#Meningkatkan {DEFENSE} dan {SPEED} semasa {SKILL/DETERMINATION/TITLE} aktif.
+,
+,
+,
+,
+SPEC_YEONGSUB_BLOCK_OUT/TITLE,{LEE_YOUNGSEOB} : {SPIKE} terhadap {BLOCK_SOFT}
+SPEC_YEONGSUB_BLOCK_OUT/DES,Meningkatkan kelajuan lantunan {BALL} apabila {SPIKE} mengenai {BLOCK_SOFT} pihak lawan.
+,
+SPEC_SEOLHWA_COURT_CONTROL/TITLE,{HAN_SOLHWA} : Penguasaan {COURT}
+SPEC_SEOLHWA_COURT_CONTROL/DES,"Memanjangkan tempoh {SKILL_COOLDOWN} untuk {SURPRISE} dan mengehadkan penggunaannya kepada keadaan {ON_GROUND}.#Sepanjang {SKILL_DURATION} {SURPRISE}, {ATTACK} setiap {PLAYER_TEAM_ALLY} mengabaikan {BLOCKING}."
+SPEC_SEOLHWA_COURT_CONTROL/NEG_EFF/STAT_MODIFIER/TRAIT_COOLDOWN/DES,{SKILL_COOLDOWN} +{value}
+SPEC_CORNERED/TITLE,Terdesak
+SPEC_CORNERED/DES,Meningkatkan {SLIDING_WAKEUP_SPEED} apabila {STAMINA} berada pada atau di bawah nilai tertentu.
+SPEC_CORNERED/SKILLFEATURE/CORNERED_SLIDING_POWER/SLIDING_RECOVERY_SPEED/DES,"Dalam situasi ini, {SLIDING_WAKEUP_SPEED} +[SLIDING_RECOVERY_SPEED]"
+SPEC_CORNERED/SKILLFEATURE/CORNERED_SLIDING_POWER/CORNERED_STAMINA_CONDITION/DES,Aktif apabila {STAMINA} berada pada atau di bawah [CORNERED_STAMINA_CONDITION]
+SPEC_MB_BLOCKING_REGEN/TITLE,Ruang Bernafas daripada {ONE_TOUCH}
+SPEC_MB_BLOCKING_REGEN/DES,Memulihkan {STAMINA} selepas berjaya melakukan {BLOCKING} dengan {ONE_TOUCH}.
+SPEC_MB_BLOCKING_REGEN/NEG_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+,
+SPEC_MB_SPEAR_LINK/TITLE,{QUICK_ATTACK} Merentasi {COURT}
+SPEC_MB_SPEAR_LINK/DES,Meningkatkan {BALL_POWER} untuk {SPIKE} selepas {TOSS_QUICK}.
+SPEC_MB_SPEAR_LINK/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+SPEC_MB_SPEAR_LINK/NEG_EFF/STAT_MODIFIER/SPEED/DES,{SPEED} +{value}
+,
+SPEC_FLOATER_SERVE_RECEIVE/TITLE,{STABILITY} {DEFEND} terhadap {INGAME/SERVE/JUMP_FLOATER}
+SPEC_FLOATER_SERVE_RECEIVE/DES,Meningkatkan keupayaan {DEFEND} secara keseluruhan terhadap {INGAME/SERVE/JUMP_FLOATER}.
+,
+,
+SPEC_FLOATER_SERVE_RECEIVE/SKILLFEATURE/FLOATER_SERVE_RECEIVE/STAMINA_DAMAGE_REDUCTION/DES,Pengurangan {DAMAGE} {STAMINA} ketika bertahan terhadap {INGAME/SERVE/JUMP_FLOATER} +[STAMINA_DAMAGE_REDUCTION]
+SPEC_FLOATER_SERVE_RECEIVE/SKILLFEATURE/FLOATER_SERVE_RECEIVE/MENTAL_DAMAGE_REDUCTION/DES,Pengurangan {DAMAGE} {MENTAL} ketika bertahan terhadap {INGAME/SERVE/JUMP_FLOATER} +[MENTAL_DAMAGE_REDUCTION]
+SPEC_YEONGSUB_ACE/TITLE,{LEE_YOUNGSEOB} : Ace yang Memimpin {TEAM}
+SPEC_YEONGSUB_ACE/DES,Setiap {SPIKE} oleh {LEE_YOUNGSEOB} memendekkan tempoh {SKILL_COOLDOWN} bagi {ACTIVE_SKILL} setiap {PLAYER_TEAM_ALLY} lain sebanyak 1{SEC}.
+,
+SPEC_BLOCKING_RANGE/TITLE,{JUDGE_TIME} {ONE_TOUCH}
+SPEC_BLOCKING_RANGE/DES,Meningkatkan {JUDGE_TIME} untuk {GOOD_BLOCKING}.
+SPEC_BLOCKING_RANGE/POS_EFF/STAT_MODIFIER/BLOCKING_GOOD_RANGE/DES,{JUDGE_TIME} {ONE_TOUCH} +{value}
+SPEC_BLOCKING_RANGE/POS_EFF/STAT_MODIFIER/BLOCKING_BAD_RANGE/DES,{JUDGE_TIME} {BAD_BLOCKING} {value}
+SPEC_SPIKE_CRITICAL_PROBABILITY/TITLE,Kebarangkalian {CRITICAL}
+SPEC_SPIKE_CRITICAL_PROBABILITY/DES,Meningkatkan {ACTIVATION_CHANCE} untuk {CRITICAL} semasa {SPIKE}.
+SPEC_SPIKE_CRITICAL_PROBABILITY/POS_EFF/STAT_MODIFIER/SPIKE_CRITICAL_PROBABILITY/DES,{ACTIVATION_CHANCE} +{value}
+SPEC_SECOND_TOSS_VERTICAL_SPEED/TITLE,Ketinggian {TOSS_OUT}
+SPEC_SECOND_TOSS_VERTICAL_SPEED/DES,Meningkatkan ketinggian {TOSS_OUT}.
+SPEC_SECOND_TOSS_VERTICAL_SPEED/POS_EFF/STAT_MODIFIER/SECOND_TOSS_VERTICAL_SPEED/DES,Pelarasan Ketinggian {TOSS_OUT} +{value}
+SPEC_WEAK_BLOCKING_RANGE/TITLE,Pengurangan {RANGE} {STUFF_BLOCK}
+SPEC_WEAK_BLOCKING_RANGE/DES,Mengurangkan {JUDGE_TIME} untuk {STUFF_BLOCK}.
+SPEC_WEAK_BLOCKING_RANGE/NEG_EFF/STAT_MODIFIER/BLOCKING_PERFECT_RANGE/DES,{JUDGE_TIME} {STUFF_BLOCK} +{value}
+SPEC_ATIS_SLIDING_RECOVERY/TITLE,{ARTIS}: {SLIDING_WAKEUP_SPEED}
+SPEC_ATIS_SLIDING_RECOVERY/DES,Meningkatkan {SLIDING_WAKEUP_SPEED}.
+SPEC_ATIS_SLIDING_RECOVERY/POS_EFF/STAT_MODIFIER/SLIDING_RECOVERY_SPEED/DES,{SLIDING_WAKEUP_SPEED} +{value}
+SPEC_BACK_NET_POSITION/TITLE,Fokus {DEFEND} di {COURT_BACK}
+SPEC_BACK_NET_POSITION/DES,"Apabila berada di {COURT_BACK} mengikut {ROTATION}, bersedia untuk {DEFEND} lebih ke belakang bagi menghadapi {SPIKE} yang menyasarkan kawasan berhampiran {LINE_END}."
+SPEC_BACK_NET_POSITION/POS_EFF/STAT_MODIFIER/BACK_NET_POSITION/DES,Bertahan lebih ke belakang di {COURT_BACK}
+SPEC_FRONT_NET_POSITION/TITLE,Fokus {DEFEND} di {COURT_FRONT}
+SPEC_FRONT_NET_POSITION/DES,"Apabila berada di {COURT_FRONT} mengikut {ROTATION}, bersedia untuk {DEFEND} lebih ke hadapan bagi menghadapi {SPIKE} yang menyasarkan kawasan berhampiran {NET}."
+SPEC_FRONT_NET_POSITION/POS_EFF/STAT_MODIFIER/FRONT_NET_POSITION/DES,Bertahan lebih ke hadapan di {COURT_FRONT}
+SPEC_MB_SLIDING_RECOVERY/TITLE,{SLIDING_WAKEUP_SPEED}
+SPEC_MB_SLIDING_RECOVERY/DES,Meningkatkan {SLIDING_WAKEUP_SPEED}.
+SPEC_MB_SLIDING_RECOVERY/POS_EFF/STAT_MODIFIER/SLIDING_RECOVERY_SPEED/DES,{SLIDING_WAKEUP_SPEED} +{value}
+SPEC_SE_SARA_ATTACK_INSTINCT/TITLE,Naluri {ATTACK}
+SPEC_SE_SARA_ATTACK_INSTINCT/DES,Meningkatkan kebarangkalian untuk mencuba {SPIKE} dan bukannya {TOSS} pada {SECOND_TOUCH}.
+SPEC_SE_SARA_ATTACK_INSTINCT/NEG_EFF/STAT_MODIFIER/DEFENSE_POWER/DES,{DEFENSE} +{value}
+,
+SPEC_SE_SPEED_RETENTION/TITLE,{ENDURANCE} {SPEED}
+SPEC_SE_SPEED_RETENTION/DES,Mengurangkan kehilangan {SPEED} apabila {RALLY} berpanjangan.
+SPEC_SE_SPEED_RETENTION/POS_EFF/STAT_MODIFIER/SPEED_RETENTION/DES,{SPEED} {ENDURANCE} +{value}
+SPEC_AP_GRANT/DES,{GAIN_AP} +{value}
+특화 노드 고유 명사,
+SKILL_DURATION,Tempoh
+SKILL_COOLDOWN,Masa Menunggu
+AIR_MOVE_SPEED,{MOVE_SPEED} {AIR}
+DIRECT_SPIKE,Spike Terus
+MULTIPLE_SWING,Ayunan Berbilang
+GOOD_RECEIVE,Penerimaan Good
+TOSS_QUICK,Set Pantas
+MISS_TOSS,Kesilapan Set
+ACTIVATION_CHANCE,Kebarangkalian Berlaku
+EFFECT_VALUE,Nilai Kesan
+PENALTY_VALUE,Nilai Penalti
+SKILL_VALUE,Nilai Kemahiran
+ALL_LEVEL,Semua Tahap
+READY_SPEED,Kelajuan Persediaan
+DROP_SPEED,Kelajuan Jatuh
+MOVE_SPEED,Kelajuan Pergerakan
+JUDGE_LENGTH,Panjang Pengesanan Sentuhan
+STUFF_BLOCK,Blok Kill
+ONE_TOUCH,Sentuhan Blok
+SPECIALIZATION,Pengkhususan
+PROTECTION,Perlindungan
+ENDURANCE,Pengekalan
+WEAKNESS,Pelemahan
+MENTAL,Mental
+REGEN,Jumlah Pemulihan Semula Jadi
+ROLLING,Gulingan
+STABILITY,Kestabilan
+DAMPING,Redaman
+RESIST,Rintangan
+WINDUP,Tempoh Gerakan
+DISTANCE,Jarak
+ANGLE,Sudut
+RANGE,Jangkauan
+STACK,Tindanan
+FORGE,Penempaan
+AGILITY,Ketangkasan
+CHANCE,Peluang
+EXCLUSIVE,Khusus
+CORE,Teras
+AIR,di udara
+LEVEL,Tahap
+AP,AP
+BACK_ATTACKER,Penyerang Barisan Belakang
+GAIN_AP,AP Diperoleh
+,Kebarangkalian Kejadian
+KEEP_TIME,Tempoh
+IDENTITY,Keperibadian
+DAMAGE,Kerosakan
+STANCE,Sikap Badan
+MAX_VALUE,Nilai Maksimum
+FIXED_VALUE,Nilai Tetap
+INCREASE,Jumlah Peningkatan
+SURPRISE,Serangan Mengejut
+ELITE_RULE,Peraturan Elit
+HAND_TIP,Hujung Jari
+BLOCK_IGNORE,Abaikan {BLOCKING}
+SECOND_TOUCH,{TOUCH} Kedua
+QUICK_ATTACK,Serangan Pantas
+GOOD_BLOCKING,Blok Good
+BAD_BLOCKING,Blok Bad
+CRITICAL,Pukulan Kritikal
+JUDGE_TIME,Tempoh Penentuan Masa
+BLOCK_JUMP,Lompat Blok
+SPIKE_JUMP,Lompat Spike
+RECOVERY_AMOUNT,Jumlah Pemulihan
+,
+,
+,
+특화 노드 도움말 설명(statusKey),
+SPEC_KEY/ATTACK_POWER/TITLE,{STRENGTH}
+SPEC_KEY/ATTACK_POWER/DES,{STRENGTH} asas yang digunakan untuk semua tindakan {ATTACK}.
+SPEC_KEY/SPIKE_POWER/TITLE,{BALL_POWER} {SPIKE}
+SPEC_KEY/SPIKE_POWER/DES,{BALL_POWER} bagi satu {SPIKE}.
+SPEC_KEY/SERVE_ATTACK_POWER/TITLE,{STRENGTH} {SERVE}
+SPEC_KEY/SERVE_ATTACK_POWER/DES,{STRENGTH} {BALL} yang dihantar melalui {SERVE}.
+SPEC_KEY/FRONT_ROW_ATTACK_POWER/TITLE,{STRENGTH} {COURT_FRONT}
+SPEC_KEY/FRONT_ROW_ATTACK_POWER/DES,{STRENGTH} ketika melakukan {SPIKE} dari {COURT_FRONT}.
+,
+SPEC_KEY/BACK_ATTACK_SPIKE_POWER/TITLE,{BALL_POWER} {SPIKE} semasa {ATTACK_BACK}
+SPEC_KEY/BACK_ATTACK_SPIKE_POWER/DES,{BALL_POWER} {SPIKE} semasa {ATTACK_BACK}
+,
+SPEC_KEY/MENTAL_DAMAGE/TITLE,{DAMAGE} terhadap {MENTAL}
+SPEC_KEY/MENTAL_DAMAGE/DES,Jumlah pengurangan {MENTAL} pihak lawan.
+SPEC_KEY/SPIN/TITLE,{BALL_SPIN}
+SPEC_KEY/SPIN/DES,{BALL_SPIN} bola yang menentukan tahap perubahan lintasannya.
+SPEC_KEY/SPIKE_SWING_RANGE/TITLE,{RANGE} {SWING} semasa {SPIKE}
+SPEC_KEY/SPIKE_SWING_RANGE/DES,{RANGE} untuk {SWING} semasa {SPIKE} membuat sentuhan dengan {BALL}.
+SPEC_KEY/SPIKE_ANGLE/TITLE,{ANGLE} {SPIKE}
+SPEC_KEY/SPIKE_ANGLE/DES,Julat {ANGLE} untuk mengarahkan {SPIKE} ke bawah.
+SPEC_KEY/SLIDING_PENETRATION/TITLE,{SLIDING_PENETRATION}
+SPEC_KEY/SLIDING_PENETRATION/DES,Tahap keberkesanan bola menembusi {DEFEND} melalui {SLIDING}.
+SPEC_KEY/DEFENSE_POWER/TITLE,{DEFENSE}
+SPEC_KEY/DEFENSE_POWER/DES,{DEFENSE} asas yang digunakan untuk semua tindakan {DEFEND}.
+SPEC_KEY/SERVE_DEFENSE_POWER/TITLE,{DEFENSE} terhadap {SERVE}
+SPEC_KEY/SERVE_DEFENSE_POWER/DES,{DEFENSE} ketika menerima {SERVE} pihak lawan.
+SPEC_KEY/BACK_ATTACK_DEFENSE_POWER/TITLE,{DEFENSE} terhadap {ATTACK_BACK}
+SPEC_KEY/BACK_ATTACK_DEFENSE_POWER/DES,{DEFENSE} ketika menerima {ATTACK_BACK} pihak lawan.
+SPEC_KEY/FEINT_DEFENSE_POWER/TITLE,{DEFENSE} terhadap {FEINT}
+SPEC_KEY/FEINT_DEFENSE_POWER/DES,{DEFENSE} ketika menerima {FEINT} pihak lawan.
+SPEC_KEY/RECEIVE_DEFENSE_RANGE/TITLE,{DEFEND_RANGE} {RECEIVE}
+SPEC_KEY/RECEIVE_DEFENSE_RANGE/DES,{DEFEND_RANGE} {RECEIVE}
+SPEC_KEY/SLIDING_DEFENSE_RANGE/TITLE,{DEFEND_RANGE} {SLIDING}
+SPEC_KEY/SLIDING_DEFENSE_RANGE/DES,{DEFEND_RANGE} {SLIDING}
+SPEC_KEY/SLIDING_RESISTANCE/TITLE,{PROTECTION} {SLIDING}
+SPEC_KEY/SLIDING_RESISTANCE/DES,Pengurangan {DAMAGE} yang diterima semasa {SLIDING}.
+SPEC_KEY/SLIDING_ENDURANCE/TITLE,{ENDURANCE} {SLIDING}
+SPEC_KEY/SLIDING_ENDURANCE/DES,Tahap keupayaan mengekalkan {STANCE} semasa {SLIDING}.
+SPEC_KEY/SLIDING_RECOVERY_SPEED/TITLE,{SLIDING_WAKEUP_SPEED}
+SPEC_KEY/SLIDING_RECOVERY_SPEED/DES,Kelajuan bangun semula selepas {SLIDING}.
+SPEC_KEY/GOOD_RECEIVE_BALL_STABILITY/TITLE,{STABILITY} {BALL} selepas {GOOD_RECEIVE}
+SPEC_KEY/GOOD_RECEIVE_BALL_STABILITY/DES,{STABILITY} {BALL} yang dilambungkan apabila penerimaan dinilai sebagai {GOOD_RECEIVE}.
+,
+SPEC_KEY/RECEIVE_ROLL_RESISTANCE/TITLE,{RESIST} terhadap {ROLLING} selepas {RECEIVE}
+SPEC_KEY/RECEIVE_ROLL_RESISTANCE/DES,Keupayaan mengelakkan gulingan selepas {RECEIVE}. Nilai yang lebih tinggi mengurangkan kemungkinan berguling.
+SPEC_KEY/BLOCK_JUMP/TITLE,{JUMP} {BLOCKING}
+SPEC_KEY/BLOCK_JUMP/DES,Ketinggian {JUMP} semasa melakukan {BLOCKING}.
+SPEC_KEY/BLOCK_READY_SPEED/TITLE,{READY_SPEED} {BLOCKING}
+SPEC_KEY/BLOCK_READY_SPEED/DES,Kelajuan mengambil {STANCE} untuk {BLOCKING}.
+SPEC_KEY/BLOCK_RESISTANCE/TITLE,{PROTECTION} {BLOCKING}
+SPEC_KEY/BLOCK_RESISTANCE/DES,Pengurangan {DAMAGE} yang diterima semasa {BLOCKING}.
+SPEC_KEY/SPEED/TITLE,{SPEED}
+SPEC_KEY/SPEED/DES,Statistik {SPEED}.
+SPEC_KEY/SPEED_RETENTION/TITLE,{ENDURANCE} {SPEED}
+SPEC_KEY/SPEED_RETENTION/DES,Tahap keupayaan mengekalkan kelajuan apabila {RALLY} berpanjangan.
+SPEC_KEY/OFF_COURT_MOVE_SPEED/TITLE,{MOVE_SPEED} di luar {COURT}
+SPEC_KEY/OFF_COURT_MOVE_SPEED/DES,{MOVE_SPEED} di luar {COURT}
+,
+SPEC_KEY/AIR_MOVE_SPEED/TITLE,{MOVE_SPEED} {AIR}
+SPEC_KEY/AIR_MOVE_SPEED/DES,{MOVE_SPEED} {AIR}
+,
+SPEC_KEY/JUMP_POWER/TITLE,{JUMP}
+SPEC_KEY/JUMP_POWER/DES,Ketinggian {JUMP} secara keseluruhan.
+SPEC_KEY/SPIKE_JUMP_POWER/TITLE,{JUMP} {SPIKE}
+SPEC_KEY/SPIKE_JUMP_POWER/DES,Ketinggian {JUMP} semasa melakukan {SPIKE}.
+SPEC_KEY/FEINT_DROP_SPEED/TITLE,{DROP_SPEED} {FEINT}
+SPEC_KEY/FEINT_DROP_SPEED/DES,Kelajuan {BALL} jatuh selepas {FEINT}.
+SPEC_KEY/STAMINA_FLAT/TITLE,Nilai Tetap {STAMINA}
+SPEC_KEY/STAMINA_FLAT/DES,Peningkatan nilai tetap kepada {STAMINA} maksimum.
+,
+SPEC_KEY/STAMINA_REGEN/TITLE,{REGEN} {STAMINA}
+SPEC_KEY/STAMINA_REGEN/DES,{REGEN} {STAMINA}
+SPEC_KEY/MENTAL_REGEN/TITLE,{REGEN} {MENTAL}
+SPEC_KEY/MENTAL_REGEN/DES,{REGEN} {MENTAL}
+,
+SPEC_KEY/FOCUS_DURATION/TITLE,{KEEP_TIME} {CONDITION} {FOCUS}
+SPEC_KEY/FOCUS_DURATION/DES,Tempoh {CONDITION} {FOCUS} bertahan.
+,
+SPEC_KEY/ANGRY_DURATION/TITLE,{KEEP_TIME} {CONDITION} {ANGRY}
+SPEC_KEY/ANGRY_DURATION/DES,Tempoh {CONDITION} {ANGRY} bertahan.
+,
+SPEC_KEY/TRAIT_COOLDOWN/TITLE,{SKILL_COOLDOWN}
+SPEC_KEY/TRAIT_COOLDOWN/DES,{SKILL_COOLDOWN}
+SPEC_KEY/TRAIT_DURATION/TITLE,{SKILL_DURATION}
+SPEC_KEY/TRAIT_DURATION/DES,Tempoh kesan kemahiran bertahan.
+SPEC_KEY/PARRY_GAUGE_CAPACITY/TITLE,{CHARGED_COUNT} {GAUGE} {SKILL/PARRY/TITLE}
+SPEC_KEY/PARRY_GAUGE_CAPACITY/DES,{EXCLUSIVE} untuk {ISABEL}. Jumlah maksimum yang boleh disimpan dalam {GAUGE} {SKILL/PARRY/TITLE}.
+SPEC_KEY/APPROACH_SECONDS/TITLE,Masa Minimum Bergerak ke Arah {NET}
+SPEC_KEY/APPROACH_SECONDS/DES,Masa minimum bergerak ke arah {NET} supaya pergerakan dikira.
+SPEC_KEY/CHARGE_SECONDS/TITLE,Masa {CHARGE} {JUMP} untuk {BLOCKING}
+SPEC_KEY/CHARGE_SECONDS/DES,Masa {CHARGE} minimum yang diperlukan untuk {JUMP} bercas semasa {BLOCKING}.
+,
+SPEC_KEY/REUSE_TOUCHES/TITLE,Bilangan {TOUCH} untuk Penggunaan Semula
+SPEC_KEY/REUSE_TOUCHES/DES,Bilangan {TOUCH} yang diperlukan sebelum kesan boleh digunakan semula.
+SPEC_KEY/STACK_PER_STUFF_BLOCK/TITLE,{STACK} bagi Setiap {STUFF_BLOCK}
+SPEC_KEY/STACK_PER_STUFF_BLOCK/DES,Bilangan {STACK} yang diperoleh daripada satu {STUFF_BLOCK}.
+,
+SPEC_KEY/STACK_PER_ONE_TOUCH/TITLE,{STACK} bagi Setiap {ONE_TOUCH}
+SPEC_KEY/STACK_PER_ONE_TOUCH/DES,Bilangan {STACK} yang diperoleh daripada satu {ONE_TOUCH}.
+,
+SPEC_KEY/MAX_STACKS/TITLE,{STACK} Maksimum
+SPEC_KEY/MAX_STACKS/DES,Bilangan {STACK} maksimum yang boleh dikumpulkan.
+SPEC_KEY/ATTACK_POWER_PER_STACK/TITLE,{STRENGTH} bagi Setiap {STACK}
+SPEC_KEY/ATTACK_POWER_PER_STACK/DES,{STRENGTH} yang meningkat bagi setiap {STACK}.
+SPEC_KEY/AIR_ATTACK_POWER_CHARGED/TITLE,{STRENGTH} {AIR} selepas {CHARGE} Berjaya
+SPEC_KEY/AIR_ATTACK_POWER_CHARGED/DES,{STRENGTH} semasa {JUMP} selepas {CHARGE} penuh.
+,
+SPEC_KEY/AIR_ATTACK_POWER_UNCHARGED/TITLE,{STRENGTH} {AIR} selepas {CHARGE} Gagal
+SPEC_KEY/AIR_ATTACK_POWER_UNCHARGED/DES,{STRENGTH} semasa {JUMP} sebelum {CHARGE} penuh.
+,
+SPEC_KEY/BLOCK_JUMP_UNCHARGED/TITLE,{JUMP} {BLOCKING} selepas {CHARGE} Gagal
+SPEC_KEY/BLOCK_JUMP_UNCHARGED/DES,Ketinggian {JUMP} semasa {BLOCKING} apabila melompat sebelum {CHARGE} penuh.
+,
+SPEC_KEY/ASSISTED_SPIKE_POWER/TITLE,{BALL_POWER} {SPIKE} yang Dibantu
+SPEC_KEY/ASSISTED_SPIKE_POWER/DES,{BALL_POWER} apabila ahli {TEAM} memukul {BALL} yang anda umpan.
+SPEC_KEY/ASSISTED_SPIKE_POWER_OPEN/TITLE,{BALL_POWER} {SPIKE} yang Dibantu oleh {TOSS_OPEN}
+SPEC_KEY/ASSISTED_SPIKE_POWER_OPEN/DES,{BALL_POWER} apabila memukul bola daripada {TOSS_OPEN} anda.
+,
+SPEC_KEY/ASSISTED_SPIKE_POWER_QUICK/TITLE,{BALL_POWER} {SPIKE} yang Dibantu oleh {TOSS_QUICK}
+SPEC_KEY/ASSISTED_SPIKE_POWER_QUICK/DES,{BALL_POWER} apabila memukul bola daripada {TOSS_QUICK} anda.
+,
+SPEC_KEY/ASSISTED_SPIKE_POWER_OTHER/TITLE,{BALL_POWER} {SPIKE} yang Dibantu oleh {TOSS} Lain
+SPEC_KEY/ASSISTED_SPIKE_POWER_OTHER/DES,{BALL_POWER} apabila memukul {BALL} daripada {TOSS} selain jenis yang ditetapkan.
+,
+SPEC_KEY/MAX_SWING_PER_JUMP/TITLE,Bilangan {SWING} Maksimum bagi Setiap {JUMP}
+SPEC_KEY/MAX_SWING_PER_JUMP/DES,Bilangan {SWING} yang boleh dilakukan dalam satu {JUMP}.
+,
+SPEC_KEY/PARRY_DRAIN_PER_SPIKE/TITLE,Penggunaan {GAUGE} {SKILL/PARRY/TITLE} bagi Setiap {SPIKE}
+SPEC_KEY/PARRY_DRAIN_PER_SPIKE/DES,Peratus {GAUGE} {SKILL/PARRY/TITLE} yang digunakan bagi satu {SPIKE}.
+SPEC_KEY/PASS_FEINT/TITLE,{PASS_FEINT}
+SPEC_KEY/PASS_FEINT/DES,Kebarangkalian {SE} cuba melakukan {PASS_FEINT}.
+,
+SPEC_KEY/SURPRISE_SPIKE/TITLE,{SPIKE} ({SURPRISE})
+SPEC_KEY/SURPRISE_SPIKE/DES,Kebarangkalian {SE} melakukan {SPIKE} sebagai {SURPRISE}.
+,
+SPEC_KEY/ONETOUCH_STAMINA_REGEN/TITLE,{REGEN} {STAMINA} selepas {ONE_TOUCH}
+SPEC_KEY/ONETOUCH_STAMINA_REGEN/DES,{STAMINA} {TEAM} yang dipulihkan apabila {MB} berjaya melakukan {BLOCKING} dengan {ONE_TOUCH}.
+,
+SPEC_KEY/YEONGSUB_SPIKE_POWER/TITLE,{BALL_POWER} {SPIKE} {LEE_YOUNGSEOB}
+SPEC_KEY/YEONGSUB_SPIKE_POWER/DES,Kekuatan lantunan {SPIKE} daripada {LEE_YOUNGSEOB} selepas terkena {BLOCKING} pihak lawan.
+SPEC_KEY/BLOCKING_GOOD_RANGE/TITLE,{JUDGE_TIME} {GOOD_BLOCKING}
+SPEC_KEY/BLOCKING_GOOD_RANGE/DES,{JUDGE_TIME} {ONE_TOUCH}
+,
+SPEC_KEY/BLOCKING_BAD_RANGE/TITLE,{JUDGE_TIME} {BAD_BLOCKING}
+SPEC_KEY/BLOCKING_BAD_RANGE/DES,{JUDGE_TIME} {BAD_BLOCKING}
+,
+SPEC_KEY/BLOCKING_PERFECT_RANGE/TITLE,{JUDGE_TIME} {STUFF_BLOCK}
+SPEC_KEY/BLOCKING_PERFECT_RANGE/DES,{JUDGE_TIME} {STUFF_BLOCK}
+SPEC_KEY/SPIKE_CRITICAL_PROBABILITY/TITLE,Kebarangkalian {CRITICAL} semasa {SPIKE}
+SPEC_KEY/SPIKE_CRITICAL_PROBABILITY/DES,Kebarangkalian {CRITICAL} yang meningkatkan {BALL_POWER} semasa {SPIKE}.
+,
+SPEC_KEY/SECOND_TOSS_VERTICAL_SPEED/TITLE,Kelajuan Menegak {TOSS_OUT}
+SPEC_KEY/SECOND_TOSS_VERTICAL_SPEED/DES,Kelajuan Menegak {TOSS_OUT}
+,
+SPEC_KEY/MENTAL_DAMAGE_REDUCTION/TITLE,Pengurangan {DAMAGE} terhadap {MENTAL}
+SPEC_KEY/MENTAL_DAMAGE_REDUCTION/DES,Peratus pengurangan {DAMAGE} terhadap {MENTAL}.
+SPEC_KEY/STAMINA_DAMAGE_REDUCTION/TITLE,Pengurangan {DAMAGE} terhadap {STAMINA}
+SPEC_KEY/STAMINA_DAMAGE_REDUCTION/DES,Peratus pengurangan {DAMAGE} terhadap {STAMINA}.
+SPEC_KEY/BACK_NET_POSITION/TITLE,Kedudukan {COURT_BACK} Berhampiran {LINE_END}
+SPEC_KEY/BACK_NET_POSITION/DES,Kedudukan apabila {ROTATION} menempatkan pemain di {COURT_BACK} berhampiran {LINE_END}.
+,
+SPEC_KEY/CARELESS_DURATION/TITLE,{KEEP_TIME} {CONDITION} {CARELESS}
+SPEC_KEY/CARELESS_DURATION/DES,Tempoh {CONDITION} {CARELESS} bertahan.
+SPEC_KEY/CORNERED_STAMINA_CONDITION/TITLE,{STAMINA} untuk {ACTIVATE} “{SPEC_CORNERED/TITLE}”
+SPEC_KEY/CORNERED_STAMINA_CONDITION/DES,{CONDITION} {STAMINA} yang diperlukan untuk {ACTIVATE} “{SPEC_CORNERED/TITLE}”.
+SPEC_KEY/FLOATER_SERVE_DEFENSE_POWER/TITLE,{INGAME/SERVE/JUMP_FLOATER} {DEFENSE}
+SPEC_KEY/FLOATER_SERVE_DEFENSE_POWER/DES,{DEFENSE} ketika menggunakan {DEFEND} untuk menghadapi {INGAME/SERVE/JUMP_FLOATER}.
+SPEC_KEY/FRONT_NET_POSITION/TITLE,Kedudukan {COURT_BACK} Berhampiran {LINE_ATTACK}
+SPEC_KEY/FRONT_NET_POSITION/DES,Kedudukan apabila {ROTATION} menempatkan pemain di {COURT_BACK} berhampiran {LINE_ATTACK}.
+,
+SPEC_KEY/SAD_DURATION/TITLE,{KEEP_TIME} {CONDITION} {SAD}
+SPEC_KEY/SAD_DURATION/DES,Tempoh {CONDITION} {SAD} bertahan.
+,
+,
+,
+,
+,
+,
+,
+,
+,
+SPEC_MULTIPLE_SWING/SKILLFEATURE/MULTIPLE_SWING/DES,Bilangan {SWING} maksimum: [MAX_SWING_PER_JUMP]
+SPEC_WS_CLOSER/SKILLFEATURE/OPEN_TOSS_SPIKE_POWER/DES,"Dalam situasi ini, {STRENGTH} +[SPIKE_POWER]"
+SPEC_WS_PREDATOR/SKILLFEATURE/APPROACH_SECONDS/DES,Tempoh minimum bergerak ke arah {NET}: [APPROACH_SECONDS]#{BALL_POWER} {SPIKE} +[SPIKE_POWER]
+SPEC_WS_CHANCE_SPIKE_POWER/SKILLFEATURE/CHANCE_SPIKE_POWER/ACTIVATION_CHANCE/DES,{ACTIVATION_CHANCE} : [ACTIVATION_CHANCE]
+SPEC_WS_UNASSISTED_SPIKE_ATTACK_POWER/SKILLFEATURE/UNASSISTED_SPIKE_ATTACK_POWER/ACTIVATION_CHANCE/DES,{ACTIVATION_CHANCE} : [ACTIVATION_CHANCE]
+SPEC_WS_DIRECT_SPIKE_POWER/SKILLFEATURE/DIRECT_SPIKE_POWER/DES,"Dalam situasi ini, {STRENGTH} +[SPIKE_POWER]"
+SPEC_MB_FORGE/SKILLFEATURE/FORGE_STACK/STACK_PER_STUFF_BLOCK/DES,{STACK} setiap {STUFF_BLOCK} +[STACK_PER_STUFF_BLOCK]
+SPEC_MB_FORGE/SKILLFEATURE/FORGE_STACK/STACK_PER_ONE_TOUCH/DES,{STACK} setiap {ONE_TOUCH} +[STACK_PER_ONE_TOUCH]
+SPEC_MB_FORGE/SKILLFEATURE/FORGE_STACK/MAX_STACKS/DES,{STACK} Maksimum : [MAX_STACKS]
+SPEC_MB_FORGE/SKILLFEATURE/FORGE_STACK/ATTACK_POWER_PER_STACK/DES,{STRENGTH} bagi setiap {STACK} +[ATTACK_POWER_PER_STACK]
+SPEC_MB_PRECISE_BLOCK/SKILLFEATURE/CHARGED_BLOCK_JUMP/CHARGE_SECONDS/DES,Tempoh {CHARGE} : [CHARGE_SECONDS]
+SPEC_MB_PRECISE_BLOCK/SKILLFEATURE/CHARGED_BLOCK_JUMP/AIR_ATTACK_POWER_CHARGED/DES,{STRENGTH} {AIR} apabila cas penuh +[AIR_ATTACK_POWER_CHARGED]
+SPEC_MB_PRECISE_BLOCK/SKILLFEATURE/CHARGED_BLOCK_JUMP/AIR_ATTACK_POWER_UNCHARGED/DES,{STRENGTH} {AIR} apabila cas tidak mencukupi +[AIR_ATTACK_POWER_UNCHARGED]
+SPEC_MB_PRECISE_BLOCK/SKILLFEATURE/CHARGED_BLOCK_JUMP/BLOCK_JUMP_UNCHARGED/DES,{BLOCK_JUMP} apabila cas tidak mencukupi +[BLOCK_JUMP_UNCHARGED]
+SPEC_SE_ONE_SHOT/SKILLFEATURE/ASSIST_OPEN_TOSS/REUSE_TOUCHES/DES,Bilangan {TOUCH} sebelum penggunaan semula : [REUSE_TOUCHES]
+SPEC_SE_ONE_SHOT/SKILLFEATURE/ASSIST_OPEN_TOSS/ASSISTED_SPIKE_POWER_OPEN/DES,{BALL_POWER} {SPIKE} semasa {TOSS_OPEN} +[ASSISTED_SPIKE_POWER_OPEN]
+SPEC_SE_ONE_SHOT/SKILLFEATURE/ASSIST_OPEN_TOSS/ASSISTED_SPIKE_POWER_OTHER/DES,{BALL_POWER} {SPIKE} semasa jenis {TOSS} lain +[ASSISTED_SPIKE_POWER_OTHER]
+SPEC_SE_OPENING/SKILLFEATURE/ASSIST_QUICK_TOSS/REUSE_TOUCHES/DES,Bilangan {TOUCH} sebelum penggunaan semula : [REUSE_TOUCHES]
+SPEC_SE_OPENING/SKILLFEATURE/ASSIST_QUICK_TOSS/ASSISTED_SPIKE_POWER_QUICK/DES,{BALL_POWER} {SPIKE} semasa {TOSS_QUICK} +[ASSISTED_SPIKE_POWER_QUICK]
+SPEC_SE_OPENING/SKILLFEATURE/ASSIST_QUICK_TOSS/ASSISTED_SPIKE_POWER_OTHER/DES,{BALL_POWER} {SPIKE} semasa jenis {TOSS} lain +[ASSISTED_SPIKE_POWER_OTHER]
+SPEC_ISABEL_PARRY_CHARGE/SKILLFEATURE/ISABEL_PARRY_CHARGE/DES,{CHARGED_COUNT} {GAUGE} {SKILL/PARRY/TITLE} +[PARRY_GAUGE_CAPACITY]
+SPEC_ISABEL_PARRY_DRAIN/SKILLFEATURE/PARRY_SPIKE_DRAIN/DES,Jumlah {GAUGE} {SKILL/PARRY/TITLE} digunakan bagi setiap {SPIKE} : [PARRY_DRAIN_PER_SPIKE]
+SPEC_SE_PASS_FEINT/SKILLFEATURE/PASS_FEINT/DES,Kebarangkalian {PASS_FEINT} +[PASS_FEINT]
+SPEC_SE_SURPRISE_SPIKE/SKILLFEATURE/SURPRISE_SPIKE/DES,Kebarangkalian {ATTACK_TWO} +[SURPRISE_SPIKE]
+SPEC_JAEHYUN_COOL_HEADED/SKILLFEATURE/JAEHYUN_COOL_HEADED/DES,{DEFENSE} {SKILL/DETERMINATION/TITLE} +[DEFENSE_POWER]#{SPEED} {SKILL/DETERMINATION/TITLE} +[SPEED]
+SPEC_YEONGSUB_BLOCK_OUT/SKILLFEATURE/YEONGSUB_SPIKE_POWER/DES,{BALL_POWER} Lantunan +[YEONGSUB_SPIKE_POWER]
+SPEC_MB_BLOCKING_REGEN/SKILLFEATURE/ONE_TOUCH_BLOCK_REGEN/DES,{RECOVERY_AMOUNT} : [ONETOUCH_STAMINA_REGEN]
+SPEC_MB_SPEAR_LINK/SKILLFEATURE/QUICK_TOSS_SPIKE_POWER/DES,{BALL_POWER} {QUICK_ATTACK} +[SPIKE_POWER]
+_SPEC_FLOATER_SERVE_RECEIVE/SKILLFEATURE/FLOATER_SERVE_RECEIVE/DES,Ketika menggunakan {DEFEND} untuk menghadapi {INGAME/SERVE/JUMP_FLOATER}#  · {DEFENSE} +[FLOATER_SERVE_DEFENSE_POWER]#  · Pengurangan {DAMAGE} terhadap {STAMINA} +[STAMINA_DAMAGE_REDUCTION]#  · Pengurangan {DAMAGE} terhadap {MENTAL} +[MENTAL_DAMAGE_REDUCTION]
+SPEC_FLOATER_SERVE_RECEIVE/SKILLFEATURE/FLOATER_SERVE_RECEIVE/FLOATER_SERVE_DEFENSE_POWER/DES,{DEFENSE} terhadap {INGAME/SERVE/JUMP_FLOATER} +[FLOATER_SERVE_DEFENSE_POWER]
+SPEC_YEONGSUB_ACE/SKILLFEATURE/YEONGSUB_SPIKE_COOLDOWN/DES,{SKILL_COOLDOWN} +[TRAIT_COOLDOWN]
+SPEC_SE_SARA_ATTACK_INSTINCT/SKILLFEATURE/SURPRISE_SPIKE/DES,Kebarangkalian {ATTACK_TWO} +[SURPRISE_SPIKE]

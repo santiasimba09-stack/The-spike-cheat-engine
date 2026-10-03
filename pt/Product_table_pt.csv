@@ -1,0 +1,991 @@
+﻿KEY,포르투갈어(pt)
+상시 인앱결제 상품,
+NORMAL_CREDIT_150K_PACKAGE,Pacote de Créditos x150.000
+NORMAL_CREDIT_150K_PACKAGE_DESC,Receba 150.000 Créditos.
+NORMAL_CREDIT_500K_PACKAGE,Pacote de Créditos x500.000
+NORMAL_CREDIT_500K_PACKAGE_DESC,Receba 500.000 Créditos.
+NORMAL_CREDIT_1600K_PACKAGE,Pacote de Créditos x1.600.000
+NORMAL_CREDIT_1600K_PACKAGE_DESC,Receba 1.600.000 Créditos.
+100_VPOINT_PACKAGE,Pacote de Pontos V x100
+100_VPOINT_PACKAGE_DESC,Receba 100 Pontos V.
+300_VPOINT_PACKAGE,Pacote de Pontos V x300
+300_VPOINT_PACKAGE_DESC,Receba 300 Pontos V.
+1200_VPOINT_PACKAGE,Pacote de Pontos V x1200
+1200_VPOINT_PACKAGE_DESC,Receba 1200 Pontos V.
+40_VPOINT_PACKAGE,Pacote de Pontos V x40
+40_VPOINT_PACKAGE_DESC,Receba 40 Pontos V.
+200_VPOINT_PACKAGE,Pacote de Pontos V x200
+200_VPOINT_PACKAGE_DESC,Receba 200 Pontos V.
+420_VPOINT_PACKAGE,Pacote de Pontos V x420
+420_VPOINT_PACKAGE_DESC,Receba 420 Pontos V.
+1280_VPOINT_PACKAGE,Pacote de Pontos V x1280
+1280_VPOINT_PACKAGE_DESC,Receba 1280 Pontos V.
+2160_VPOINT_PACKAGE,Pacote de Pontos V x2160
+2160_VPOINT_PACKAGE_DESC,Receba 2160 Pontos V.
+4000_VPOINT_PACKAGE,Pacote de Pontos V x4.000
+4000_VPOINT_PACKAGE_DESC,Receba 4.000 Pontos V.
+60_BLUEFLAME_PACKAGE,Pacote de Chamas Azuis x60
+60_BLUEFLAME_PACKAGE_DESC,Receba 60 Chamas Azuis.
+150_BLUEFLAME_PACKAGE,Pacote de Chamas Azuis x150
+150_BLUEFLAME_PACKAGE_DESC,Receba 150 Chamas Azuis.
+450_BLUEFLAME_PACKAGE,Pacote de Chamas Azuis x450
+450_BLUEFLAME_PACKAGE_DESC,Receba 450 Chamas Azuis.
+BEGINNER_PACKAGE,Pacote de Iniciante
+BEGINNER_PACKAGE_DESC,Pacote de iniciante com ótimo custo-benefício. Venda limitada a uma única compra.
+BEGINNER_GROWTH_BOOST_PACKAGE,Pacote de Aceleração de Crescimento de Iniciante
+BEGINNER_GROWTH_BOOST_PACKAGE_DESC,Pacote de aceleração de crescimento de iniciante com ótimo custo-benefício. Venda limitada a uma única compra.
+EXPERT_PACKAGE,Pacote de Especialista
+EXPERT_PACKAGE_DESC,Pacote de especialista com ótimo custo-benefício. Venda limitada a uma única compra.
+EXP_PACKAGE,Pacote de EXP
+EXP_PACKAGE_DESC,Recebe 30.000 pontos de EXP.
+MORE_EXP_PACKAGE,Pacote de EXP V2
+MORE_EXP_PACKAGE_DESC,Recebe 90.000 pontos de EXP.
+REMOVE_ADS_PACKAGE,Remoção de Anúncios
+REMOVE_ADS_PACKAGE_DESC,Disponível para compra apenas se os anúncios não tiverem sido removidos. Remove os anúncios exibidos após o término do jogo. Venda limitada a uma única compra.
+PLAYER_RECRUITMENT_PACKAGE,Pacote de Recrutamento de Jogador
+PLAYER_RECRUITMENT_PACKAGE_DESC,Recebe uma grande quantidade de recursos para recrutar jogadores. Venda limitada a uma única compra.
+GROWTH_BOOST_PACKAGE,Pacote de Aceleração de Crescimento
+GROWTH_BOOST_PACKAGE_DESC,Pacote de aceleração de crescimento com ótimo custo-benefício. Venda limitada a uma única compra.
+MONTHLY_VPOINT,Pacote de Pontos V Mensal
+MONTHLY_VPOINT_DESC,Pacote de Pontos V. Venda limitada a uma única compra por mês.
+MONTHLY_BLUEFLAME,Pacote de Chama Azul Mensal
+MONTHLY_BLUEFLAME_DESC,Pacote de Chama Azul. Venda limitada a uma única compra por mês.
+WEEKLY_EXPPOINT,Pacote de EXP Semanal
+WEEKLY_EXPPOINT_DESC,Pacote de EXP. Venda limitada a uma única compra por semana.
+WEEKLY_VPOINT,Pacote de Pontos V Semanal
+WEEKLY_VPOINT_DESC,Pacote de Pontos V. Venda limitada a uma única compra por semana.
+WEEKLY_BLUEFLAME,Pacote de Chama Azul Semanal
+WEEKLY_BLUEFLAME_DESC,Pacote de Chama Azul. Venda limitada a uma única compra por semana.
+COLOSSEO_BEGINNER_PACKAGE,Pacote de Iniciante do Coliseu
+COLOSSEO_BEGINNER_PACKAGE_DESC,Recebe uma grande quantidade de Chamas Azuis. Venda limitada a uma única compra.
+COLOSSEO_EXPERT_PACKAGE,Pacote de Especialista do Coliseu
+COLOSSEO_EXPERT_PACKAGE_DESC,Recebe uma grande quantidade de Chamas Azuis e desbloqueia novas Cartas de Habilidade e uma quarta opção de carta no Coliseu. Venda limitada a uma única compra.
+COLOSSEUM_TICKET_DESC,Permite uma nova entrada no Coliseu para obter recompensas. Venda limitada a uma única compra por dia.
+PTL_ROYAL_PACKAGE,Pacote Real Fantasma
+상시 일반 상품,
+RED_YELLOW_BALL,Bola vermelha e amarela
+BLUE_YELLOW_BALL,Bola azul e amarela
+GREEN_PINK_BALL,Bola verde e cor-de-rosa
+ORANGE_BLUE_BALL,Bola laranja e azul
+WHITE_BALL,Bola branca
+BASKET_BALL,Bola de basquete
+OSIK_BALL,Bola osik
+VALENTIA_BALL,Bola Valentia
+RED_VALENTIA_BALL,Bola Valentia Carmesim
+BLACK_WHITE,Uniforme preto e branco
+ORANGE_BLACK,Uniforme laranja e preto
+BLUE_BLACK,Uniforme azul e preto
+BLACK_GOLD,Uniforme preto e dourado
+PINK_BLACK,Uniforme rosa e preto
+BLACK_PINK,Uniforme preto e rosa
+00001HAIR(WHITE_PERM),Permanente branca
+00002HAIR(BLACK_PERM),Permanente preta
+00003HAIR(SPIKY_HAIR),Cabelo espetado
+00004HAIR(BUZZCUT),Corte rapado
+00005HAIR(SPORTS_HAIR),Corte esportivo
+00006HAIR(LONG_DOWN_HAIR),Cabelo comprido
+00007HAIR(GRAY_BABY_PERM),Permanente bebê cinza
+00008HAIR(GRAY_PERM),Permanente cinza
+00009HAIR(PUDDING_HAIR),Cabelo pudim
+00010HAIR(BLACK_DOWN_HAIR),Cabelo preto solto
+00011HAIR(PROTRUDING_HAIR),Cabelo pontiagudo
+00012HAIR(GRAY_UPHAIR),Cabelo cinza levantado
+00013HAIR(ROOSTER_UPHAIR),Moicano
+00014HAIR(GRANDPA_HAIR),Cabelo de avô
+00015HAIR(ORANGE_HAIR),Cabelo laranja
+00016HAIR(WHITE_PERM_2),Permanente branca 2
+00017HAIR(BLACK_OVER_HAIR),Cabelo preto penteado para trás
+00018HAIR(THUNDER_HAIR),Cabelo relâmpago
+00019HAIR(BLACK_OVER_HAIR2),Cabelo preto penteado para trás 2
+00020HAIR(VOLLEYBALL_MASK),Máscara de voleibol
+00021HAIR(BROWN_PERM),Permanente castanha
+00022HAIR(GREEN_FAIRY_HAIR),Cabelo de fada verde
+00023HAIR(WINE_FAIRY_HAIR),Cabelo de fada cor de vinho
+00024HAIR(RED_FOX_MASK),Máscara de raposa vermelha
+00025HAIR(BLUE_FOX_MASK),Máscara de raposa azul
+00026HAIR(CLOWN_MASK),Máscara de palhaço
+00027HAIR(HOONYA_HAIR),Cabelo Hunya
+00028HAIR(GOLD_SHORTCUT),Corte curto dourado
+00029HAIR(BROWN_BUN),Coque castanho
+00030HAIR(ASH_GRAY_DOWN_PERM),Cabelo cinza-chumbo com laterais baixas
+00031HAIR(KHAKI_GREEN_SHAG_CUT),Corte repicado verde-cáqui
+00032HAIR(OSIK_HAIR),Cabelo osik
+00033HAIR(NEAT_GLASSES_HAIR),Cabelo arrumado com óculos
+00034HAIR(GRASSHOPPER_HAIR),Cabelo de gafanhoto
+00035HAIR(BUSHY_HAIR),Cabelo desgrenhado
+00036HAIR(COOL_CROW_HAIR),Cabelo de corvo legal
+00037HAIR(BLONDE_PONYTAIL_HAIR),Cabelo rabo de cavalo loiro
+00038HAIR(CROW_HAIR),Cabelo de corvo
+00039HAIR(ANGULAR_HAIR),Cabelo angular
+00040HAIR(SMOOTH_HAIR),Cabeça lisinha
+00041HAIR(YAMADERA_HAIR),Cabelo Yamadera
+00042HAIR(NISHIKAWA_HAIR),Cabelo Nishikawa
+00043HAIR(GLASSES_NISHIKAWA_HAIR),Cabelo do Nishikawa com óculos
+ISABEL_HAIR(ISABEL_HAIR),Cabelo da Isabel
+ROBERTO_HAIR(ROBERTO_HAIR),Cabelo do Roberto
+NN_HAIR(NN_HAIR),Cabelo do NN
+ZACO1_HAIR(WHITE_SHADOW_PERM),Permanente Sombra Branca
+ZACO2_HAIR(PINK_HAIR),Cabelo Rosa
+ZACO3_HAIR(REDBLACK_HAIR),Cabelo Preto Vermelho
+VIOLA_HAIR,Cabelo Viola
+LEON_HAIR,Cabelo do Leão
+STRANGER_HAIR1(RED_THUNDER_HAIR),Cabelo Trovão Carmesim
+STRANGER_HAIR2(RED_STATIC_HAIR),Cabelo Energizado Carmesim
+00000UNIFORM(BLACK_WHITE_UNIFORM),Uniforme preto e branco
+00001UNIFORM(BLUE_GRAY_UNIFORM),Uniforme azul e cinza
+00002UNIFORM(BLACK_GOLD_UNIFORM),Uniforme preto e dourado
+00003UNIFORM(RED_BLACK_UNIFORM),Uniforme vermelho e preto
+00004UNIFORM(BLACK_YELLOW_UNIFORM),Uniforme preto e amarelo
+00005UNIFORM(BLUE_HOTPINK_UNIFORM),Uniforme azul e rosa-choque
+00006UNIFORM(BLUE_BLACK_UNIFORM),Uniforme azul e preto
+00007UNIFORM(WHITE_MINT_UNIFORM),Uniforme branco e menta
+00008UNIFORM(WHITE_BLUE_UNIFORM),Uniforme branco e azul
+00009UNIFORM(WHITE_BROWN_UNIFORM),Uniforme branco e castanho
+00010UNIFORM(BLACK_MINT_UNIFORM),Uniforme preto e menta
+00011UNIFORM(BLACK_PINK_UNIFORM),Uniforme preto e rosa
+00012UNIFORM(PRO_WRESTLING_UNIFORM),Uniforme de luta livre profissional
+00013UNIFORM(WHITE_PINK_UNIFORM),Uniforme branco e rosa
+00014UNIFORM(WHITE_PURPLE_UNIFORM),Uniforme branco e roxo
+00015UNIFORM(GRAY_VINTAGE_UNIFORM),Uniforme vintage cinza
+00016UNIFORM(ORIGINAL_PURPLE_UNIFORM),Uniforme roxo original
+00017UNIFORM(PLUMBER_UNIFORM),Uniforme de encanador
+00018UNIFORM(ORANGE_BLACK_UNIFORM),Uniforme laranja e preto
+00019UNIFORM(BLUE_GREEN_UNIFORM),Uniforme azul e verde
+00020UNIFORM(SNOW_MINT_UNIFORM),Uniforme branco e menta de neve
+00021UNIFORM(WHITE_LEMON_UNIFORM),Uniforme branco e limão
+00022UNIFORM(GRAY_UNIQUE_UNIFORM),Uniforme único cinza
+00023UNIFORM(RED_GRAY_UNIFORM),Uniforme vermelho e cinza
+00024UNIFORM(OFFICE_WORKER),Funcionário de escritório
+00025UNIFORM(TAKAYU),Takayu
+00026UNIFORM(SUPER_MUSCLE_UNIFORM),Uniforme de super músculo
+00027UNIFORM(PRECIOUS_UNIFORM),Uniforme precioso
+00039UNIFORM(YELLOW_CARDIGAN_UNIFORM),Cardigã amarelo
+00028UNIFORM(GRASSHOPPER_UNIFORM),Uniforme gafanhoto
+00029UNIFORM(BEE_UNIFORM),Uniforme de abelha
+00030UNIFORM(PINK_TILE_UNIFORM),Uniforme com estampa de azulejos rosa
+00031UNIFORM(RED_DRESS_UNIFORM),Uniforme de vestido vermelho
+00032UNIFORM(ALL_GREEN_UNIFORM),Uniforme todo verde
+00033UNIFORM(SPARKLE_UNIFORM),Uniforme brilhante
+00034UNIFORM(SUMMER_CAMP_BLUE_SWIMSUIT),Traje de banho azul do acampamento de verão
+00035UNIFORM(SUMMER_CAMP_GRAY_SWIMSUIT),Traje de banho cinza do acampamento de verão
+00036UNIFORM(DRESSUP_OASIS_SUNTAN),Visual: Oásis bronzeado
+00037UNIFORM(DRESSUP_SUN_VOLLEYBALL_TEAM_SUNTAN),Visual: bronzeado do Clube de Vôlei Sol
+00038UNIFORM(VALENTIA_UNIFORM),Uniforme Valentia
+ROBERTO_UNIFORM(ARMATURA_UNIFORM),Uniforme Armatura
+NN_UNIFORM(NN_UNIFORM),Uniforme do NN
+RED_ZACO_UNIFORM,Uniforme Scudo Vermelho
+BLUE_ZACO_UNIFORM,Uniforme Lancia Azul
+YELLOW_ZACO_UNIFORM,Uniforme Lança Amarela
+GREEN_ZACO_UNIFORM,Uniforme Leão Verde
+STRANGER_UNIFORM,Uniforme Valentia Carmesim
+00000SHOES(NORMAL_VOLLEYBALL_SHOES),Tênis de vôlei simples
+00001SHOES(NORMAL_BASKETBALL_SHOES),Tênis de basquete simples
+00002SHOES(WHITE_VOLLEYBALL_SHOES),Tênis de vôlei brancos
+00003SHOES(WHITE_BLACK_MIXED_VOLLEYBALL_SHOES),Tênis de vôlei brancos e pretos
+00004SHOES(WHITE_BLACK_BLUE_MIXED_BASKETBALL_SHOES),"Tênis de basquete brancos, pretos e azuis"
+00005SHOES(BLUE_PATTERNED_VOLLEYBALL_SHOES),Tênis de vôlei com padrão azul
+00006SHOES(WHITE_RED_VOLLEYBALL_SHOES),Tênis de vôlei brancos e vermelhos
+00007SHOES(PINK_VOLLEYBALL_SHOES),Tênis de vôlei cor-de-rosa
+00008SHOES(ORANGE_VOLLEYBALL_SHOES),Tênis de vôlei laranja
+00009SHOES(RED_LUXURY_VOLLEYBALL_SHOES),Tênis de vôlei vermelho luxuoso
+00010SHOES(BLUE_AO_SHOES),Sapatos azuis
+00011SHOES(ONI_OF_AO_VOLLEYBALL_SHOES),Tênis de vôlei azul oni
+00012SHOES(WHITE_STRIPED_VOLLEYBALL_SHOES),Tênis de vôlei brancos listrados
+00013SHOES(BLACK_WHITE_SHOES),Sapatos pretos e brancos
+00014SHOES(PENGUIN_SHOES),Sapatos pinguim
+STRANGER_SHOES(SPECIAL_NISHIKAWA_SHOES),Tênis de vôlei Nishikawa Especiais
+RED_BLACK_STRIPE,Uniforme listrado vermelho e preto
+WHITE_BLUE_V,Uniforme branco e azul em V
+YELLOW_SKY_BLUE,Uniforme amarelo e azul-celeste
+SKYBLUE_WHITE,Uniforme azul-celeste e branco
+BLACK_DANDY,Uniforme negro elegante
+BLACK_LIGHT_GREEN,Uniforme negro e verde claro
+RED_BLACK_TIGER,Uniforme de tigre vermelho e preto
+HEART_PINK,Uniforme rosa com corações
+HEART_VIOLET,Uniforme violeta com corações
+TEARD_BLACK,Uniforme preto com lágrimas
+BLUE_DANDY,Uniforme azul elegante
+CYAN_GREEN,Uniforme verde ciano
+DUST_WHITE,Uniforme branco empoeirado
+DUST_YELLOW,Uniforme amarelo empoeirado
+ALLSTAR,Uniforme All-Star
+PINK_PATTERN,Uniforme rosa com padrão
+OFFICE,Uniforme de escritório
+GRAY_FLOWER,Uniforme cinza com flores
+MUSCLE,Uniforme muscular
+BLUE_PINK,Uniforme azul e rosa
+WINE_OFFICE,Uniforme de escritório cor de vinho
+RAIN,Uniforme de chuva
+PINK_EAGLE,Uniforme rosa com águia
+YELLOW_DANDY,Uniforme amarelo elegante
+GREEN_OFFICE,Uniforme de escritório verde
+RED_SHINY,Uniforme vermelho brilhante
+MUSCLE2,Uniforme muscular 2
+MUSCLE3,Uniforme muscular 3
+MUSCLE4,Uniforme muscular 4
+RED_BLACK_GRADATION,Uniforme vermelho preto em gradiente
+SHOOTING_STAR,Uniforme estrela cadente
+SKYBLUE_FANGS,Uniforme de presas azul-céu
+WHITE_PINK_FLOWER,Uniforme branco e rosa com flores
+ONE_BLACK_DANDY,Uniforme negro elegante único
+BLUE_BEAST,Uniforme besta azul
+X_BLACK,Uniforme X preto
+THUNDER,Uniforme trovão
+PURPLE_MOON,Uniforme roxo com lua
+BLACK_TIGER,Uniforme Tigre Preto
+BEACH1,Cabelo de praia 1
+SWIMMING2,Cabelo de natação 2
+SIWOO_HAIR,Cabelo Siwoo
+BLACK_UPHAIR,Cabelo preto para cima
+BLACK_BUZZCUT,Corte raspado preto
+BLACK_CHEOLS_HAIR,Cabelo preto do Cheolsu
+BLACK_DOWN_HAIR,Cabelo preto para baixo
+WHITE_UPHAIR,Cabelo branco para cima
+DARK_GRAY_CURLY_HAIR,Cabelo encaracolado cinza escuro
+PUDDING_HAIR,Cabelo pudim
+NAVY_HAIR,Cabelo azul marinho
+BLACK_RUSH_HAIR,Cabelo preto desarrumado
+BLACK_DOBOK,Dobok preto
+WHITE_DOBOK,Dobok branco
+DRAGON_DOBOK,Dobok Dragão Azul
+TIGER_DOBOK,Dobok Tigre Branco
+SODAM_DOBOK,Roupa Sodam
+JUJAK_DOBOK,Dobok Fênix Vermelha
+HYUNMU_DOBOK,Dobok Tartaruga Negra
+ORANGE_MINT_SHOES,Sapatos laranja e menta
+MINT_YELLOW_SHOES,Sapatos menta e amarelos
+RED_PREMIUM_SHOES,Sapatos vermelhos premium
+BLUE_PREMIUM_SHOES,Sapatos azuis premium
+BLUE_DRAGON_SHOES,Sapatos do Dragão Azul
+HONGSI_HAIR,Cabelo do Hongshi
+SODAM_HAIR,Cabelo Sodam
+HANRA_HAIR,Cabelo da Hanla
+MUYEONG_HAIR,Cabelo Muyeong
+RYUHYUN_HAIR,Cabelo Ryuhyeon
+BAMBOO_HAT_RYUHYUN,Chapéu de Bambu (Ryuhyeon)
+BAMBOO_HAT_SIWOO,Chapéu de Bambu (Siwoo)
+GREEN_PRETTY_HAIR,Cabelo Verde Bonito
+VIOLET_PRETTY_HAIR,Cabelo Violeta Bonito
+BROWN_DOWN_HAIR,Cabelo Castanho Solto
+BLUE_SHARP_HAIR,Cabelo azul levantado
+YELLOW_PERM_HAIR,Cabelo Permanente Amarelo
+SUNRIM_PRACTICE_BALL,Bola da escola Seonrim
+SUNRIM_BALL,Masterball
+WINTER_CANDY_BALL,Bola de Doce de Inverno
+WINTER_SNOW_BALL,Bola de Neve de Inverno
+CHRISTMAS_BALL,Bola de Natal
+MIKE_HAIR,Cabelo do Mike
+DAVE_HAIR,Cabelo do Dave
+SARA_HAIR,Cabelo da Sara
+TANIA_HAIR,Cabelo da Tânia
+CLYDE_HAIR,Cabelo do Clyde
+GRAY_SNOW_HAIR,Cabelo Neve Cinza
+WINTER_BLUE_HAIR,Cabelo Azul de Inverno
+HOLIDAY_YELLOW_HAIR,Cabelo Amarelo de Feriado
+PARTY_CURL_HAIR,Cabelo Cacheado de Festa
+PARTY_RABBIT_HAIR,Cabelo de Coelho de Festa
+PARTY_MAID_HAIR,Cabelo de Empregada de Festa
+PARTY_YELLOW_UNIFORM,Uniforme Amarelo de Festa
+PARTY_MAID_UNIFORM,Uniforme de Empregada de Festa
+SANTA_UNIFORM,Uniforme do Papai Noel
+HOLIDAY_BLACK_UNIFORM,Uniforme Preto de Feriado
+HOLIDAY_BLACK_MAN_UNIFORM,Uniforme Preto de Feriado (Masculino)
+HOT_CHRISTMAS_UNIFORM,Uniforme de Natal Sexy
+CHRISTMAS_MAN_UNIFORM,Uniforme de Natal (Masculino)
+WINTER_SPIKE_SHOES,Sapatos com Cravos de Inverno
+BLUE_SNOW_SHOES,Sapatos de Neve Azuis
+CHRISTMAS_SHOES,Sapatos de Natal
+BOUQUET_BALL,Bola de Vôlei de Buquê
+RISE_BALL,Bola de Vôlei Rise
+SUIT_SHOES,Sapatos Sociais
+STUDENT_SHOES,Sapatos Escolares
+WEDDING_ISABEL_SHOES,Sapatos de Casamento da Isabel
+TRAINING_JAEHYUN_SHOES,Tênis de Treinamento do Jaehyun
+HIGHSCHOOL_NISHIKAWA_SHOES,Tênis Escolar do Nishikawa
+HIGHSCHOOL_UNIFORM_M,Uniforme Escolar (M)
+HIGHSCHOOL_UNIFORM_W,Uniforme Escolar (F)
+TRAINING_UNIFORM_M,Roupa de Treinamento (M)
+TRAINING_UNIFORM_W,Roupa de Treinamento (F)
+WEDDING_SUIT_M,Traje de Casamento (M)
+WEDDING_SUIT_W,Traje de Casamento (F)
+HIGHSCOOL_NISHIKAWA_HAIR,Cabelo Escolar do Nishikawa
+TRAINING_JAEHYUN_HAIR,Cabelo de Treinamento do Jaehyun
+WEDDING_ISABEL_HAIR,Cabelo de Casamento da Isabel
+7TH_SIWOO_HAIR,Cabelo do Siwoo do 7º Aniversário
+7TH_SIWOO_UNIFORM,Uniforme do Siwoo do 7º Aniversário
+7TH_DAHEE_HAIR,Cabelo da Dahee do 7º Aniversário
+7TH_DAHEE_UNIFORM,Uniforme da Dahee do 7º Aniversário
+7TH_DAHEE_HAIR_UNIFORM,Conjunto Cabelo & Uniforme da Dahee do 7º Aniversário
+NERO_ASPIDE_HAIR,Cabelo Fedora Nero Aspide
+NERO_ASPIDE_UNIFORM,Nero Aspide
+NERO_ASPIDE_UNIFORM/DES,"Um terno feito sob medida apenas para os guarda-costas pessoais de Raul—os que fazem parte da 'Mia Famiglia (Minha Família).' Raul leva pessoalmente ao alfaiate. O terno listrado preto e a tatuagem de víbora são seus símbolos. #「A partir do momento que veste isso, você é meu irmão.」"
+DAMA_DE_LA_NOTTE_HAIR,Cabelo Dama della Notte
+DAMA_DE_LA_NOTTE_UNIFORM,Dama de la Notte
+DAMA_DE_LA_NOTTE_UNIFORM/DES,"Código de vestimenta das integrantes centrais do <Conselho dos 15>, convidadas para a festa organizada por Carla. Vestidas com peles vermelhas e vestidos pretos, elas não são apenas convidadas—são as governantes nas sombras da mídia, justiça e finanças. #「Buona sera. Somos a lei, a filosofia e a voz deste lugar.」"
+RESEARCHER_HAIR,Óculos de proteção de pesquisador
+RESEARCHER_HAIR/DES,"Óculos de proteção do pesquisador que trabalha com Ayeon. Ao encontrá-la, ele costuma esconder o rosto atrás deles por vergonha."
+RESEARCHER_UNIFORM,Jaleco de Pesquisador
+RESEARCHER_UNIFORM/DES,"Jaleco do pesquisador que trabalha com Ayeon. De tanto se dedicar aos experimentos sem conseguir expressar seus sentimentos, acabou coberto de manchas."
+BREAD_HAIR,Máscara de Pão
+BREAD_HAIR/DES,"Para fazer Hanla sorrir, alguém usa esta máscara e percorre a escola divulgando a padaria."
+BREAD_UNIFORM,Uniforme de Padaria
+BREAD_UNIFORM/DES,Uniforme oficial da Padaria Seonrim. O bordado fofo foi criado pela própria Hanla.
+PINATA_BALL,Bola Piñata
+PINATA_BALL/DES,"Ryuhyeon ainda guarda a piñata que recebeu no primeiro Festival do Dragão Azul a que foi, de mãos dadas com o mestre. Esta bola de vôlei exclusiva do festival foi inspirada nela."
+FESTIVAL_BALLOON_BALL,Bola Surpresa
+FESTIVAL_BALLOON_BALL/DES,"Bola de vôlei exclusiva do Festival do Dragão Azul, feita por Hongshi para pregar uma peça em Ryuhyeon. Parece um balão, mas surpreende pelo peso ao recebê-la."
+RAINY_HIGHSCHOOL,Colégio Chuvoso
+RAINY_HIGHSCHOOL_DESC,"O cheiro do asfalto molhado, o mural de pessoas desaparecidas, os sussurros dos estudantes. A lembrança do dia em que decidi largar a escola ainda é vívida."
+PHANTOM_STADIUM_ENTRANCE,Entrada do Estádio da Liga Fantasma
+PHANTOM_STADIUM_ENTRANCE_DESC,"Um dia, este lugar abrigou a maior superestrela e o criador de estrelas que esteve ao seu lado durante seu auge."
+FESTIVAL_CLASSROOM,Sala de aula em pleno clima de festival
+FESTIVAL_CLASSROOM_DESC,"Os alunos do Colégio Seonrim capricharam na decoração da sala. Como não costumam seguir tendências, tinham receio que ficasse cafona. “Hanla, não está fofo demais?”"
+VOLLEYBALL_CLUBROOM,Sala do clube de voleibol do Colégio Daeji
+VOLLEYBALL_CLUBROOM_DESC,"Este foi um clube de voleibol forte na região, mas entrou em declínio após a graduação da sua geração de ouro. Mesmo agora, rabiscos dos veteranos ainda estão num canto da parede. “Estaremos esperando vocês para baterem nossos recordes.”"
+BGM_AZURE_DRAGON_FESTIVAL_DESC,"Tema principal do evento Festival do Dragão Azul.#「Há muito tempo, um jovem teria encontrado o dragão azul aqui.」"
+BGM_MAIN_LOBBY_DESC,Tema principal do lobby de The Spike Cross
+BGM_RYUHYEON_DAYDREAM_DESC,CAPÍTULO 07. Cena de retrospectiva.#「Com certeza conquistarei seu reconhecimento.」
+BGM_RYUHYEON_VS_SIWOO_DESC,CAPÍTULO 07. Batalha contra o chefe Ryuhyeon.#「Vou proteger o futuro de Seonrim.」
+BGM_THIS_IS_SUNRIM_DESC,"CAPÍTULO 07. Tema principal do Colégio Seonrim.#「No fundo, você tava esperando por isso o tempo todo, não? Esperou tanto para poder jogar com todo o seu coração.」"
+BGM_CLASH_OF_FANTOMS_DESC,CAPÍTULO 09. Música da Partida Principal.#「Todo mundo aqui joga como se a própria vida dependesse disso.」
+SODAM_UNIFORM,Uniforme de Sodam
+HARI_UNIFORM,Uniforme da Hari
+HARI_UNIFORM/DES,Os bordados chamativos e o design nada tradicional são todos obra da Carla. A opinião da Hari não foi considerada.
+CROW_UNIFORM,Uniforme do Crow
+CROW_UNIFORM/DES,"Antes das partidas, Crow aplica fita nos ombros seguindo sempre a mesma ordem. Qualquer pequeno desalinhamento o incomoda e prejudica seu desempenho."
+LUCAS_UNIFORM,Uniforme do Lucas
+LUCAS_UNIFORM/DES,"Um dia, houve uma superestrela que incendiou os corações dos fãs. Seus ataques brilhavam como o sol."
+ZERO_UNIFORM,Uniforme do Zero
+ZERO_UNIFORM/DES,"Desde que deixou a Liga Fantasma, Sanghyeon nunca mais vestiu este uniforme. Mas ainda o guarda com carinho no fundo do armário."
+SUN_BALL,Meio-dia
+SUN_BALL/DES,"Bola comemorativa feita para a maior superestrela da Liga Fantasma. Embora Carla tenha proibido seu uso e ela não apareça mais em quadra, continua sendo a favorita dos fãs."
+MOON_BALL,Lua Cheia
+MOON_BALL/DES,"Na Liga Fantasma, havia uma dupla lendária adorada pelos fãs. Esta bola de vôlei única foi criada com doações para homenagear o levantador genial daquele time."
+BGM_SUPERSTAR_CHALLANGE1_DESC,"CAPÍTULO 04. Batalha contra o chefe Sanghyeon.#「Antes de assistir ao jogo, por favor, deixe seu like!」"
+BGM_RECONCILIATION_DESC,CAPÍTULO 05. Episódio 08.#「A cortada que vi naquele dia mudou minha vida.」
+BGM_TRIP_DESC,CAPÍTULO 02. Episódio 01.#「Uhul! Praia!」
+BGM_THE_GEMSTONE_DESC,CAPÍTULO 06. Episódio 04.#「Será que o talento é realmente o mais importante pra ser um jogador?」
+BGM_WINTER_WONDERLAND_DESC,CAPÍTULO 08. Episódio 01.#「Convite do Acampamento Rockwell」
+BGM_SARAH_SHOW_DESC,CAPÍTULO 08. Epílogo.#「Valentia Spikes vs Asheville Weasels」
+BGM_EYE_OF_THE_DAY_DESC,CAPÍTULO 10. Tema de Silverstar.#「Rainha」
+BGM_BLUEBELL_COLOSSEUM_DESC,"CAPÍTULO 10. Tema de Bluebell.#「Se mandarem umas cortadas de respeito, eu topo jogar contra vocês sempre!」"
+BGM_TAKE_ME_HIGHER_DESC,CAPÍTULO 10. Batalha contra o chefe Lucas.#「Lucas vs Raul」
+BGM_ROAD_TO_SUPERSTAR_DESC,CAPÍTULO 10.#「Meu parceiro com certeza será a superestrela de todos.」
+BGM_SUMMER_MEMORIES_DESC,"Canção Tema Principal do Evento Summer Memories#「Em momentos como este, é só aproveitar o vôlei de praia ao máximo.」"
+BGM_MAIN_TITLE_DESC,Tema principal de The Spike Cross #「Eu serei a prova do seu valor.」
+SUMMER_BEACH,Praia de Verão
+SUMMER_BEACH_DESC,"Um lugar de memórias da Liscia. Cansada de se preparar para ser profissional, Liscia viu o Oásis brilhar aqui e se apaixonou pelo vôlei de praia."
+SEONRIM_HIGH,Seonrim
+SEONRIM_HIGH_DESC,"No dia em que Ryuhyeon foi acolhido por seu pai, ele subiu um caminho de montanha íngreme, quase sem fôlego, até que surgiu um enorme portão. Sob a placa onde se lia “Seonrim”, seu pai o aguardava com um leve sorriso."
+REGIONAL_COMPETITION_STADIUM,Arquibancada
+REGIONAL_COMPETITION_STADIUM_DESC,"Décadas atrás, o pai de Dahee correu por esta quadra. Naquele dia, um menino bebia leite com chocolate nas arquibancadas, com os olhos brilhando."
+NIGHT_STADIUM_FRONT,Corredor Externo (Noite)
+NIGHT_STADIUM_FRONT_DESC,"Após o fim do Desafio Superstar, Sanghyeon ficou parado aqui por um bom tempo. A Liga Fantasma, antes repleta de aplausos. Ele criou o desafio com saudade daqueles tempos brilhantes—"
+SUPERSTAR,Superstar
+SUPERSTAR_DESC,"Um pesadelo recorrente. Após cada transmissão ao vivo, memórias do passado surgem sob as pálpebras fechadas."
+DAEJI_HIGH_FRONT_PARK,Parque em frente ao Colégio Daeji
+DAEJI_HIGH_FRONT_PARK_DESC,Trilha próxima ao Colégio Daeji. A comida parece mais gostosa quando se almoça aqui.
+CARLA_OFFICE,Escritório da Carla
+CARLA_OFFICE_DESC,Um escritório escondido na parte mais profunda da Liga Fantasma. Atrás de um enorme aquário há um espaço secreto onde ninguém pode entrar.
+KINGMAKER_STADIUM,Estádio da Liga Fantasma (Passado)
+KINGMAKER_STADIUM_DESC,Uma liga criada apenas com paixão por jogadores que não conseguiram se tornar profissionais. Tudo começou com uma instalação subterrânea abandonada transformada em quadra de vôlei.
+BGM_MEET_OASIS_DESC,CAPÍTULO 02. Episódio 06#「É muito mais legal encarar com confiança do que ficar inseguro!」
+BGM_MEET_LISIA_DESC,CAPÍTULO 02. Episódio 03_Vitória na partida#「Meu sonho é jogar ao lado dele!」
+SUMMER_MEMORIES_BEACH,Praia
+SUMMER_MEMORIES_BEACH_DESC,"Praia onde acontece o Torneio de Vôlei de Praia RISE. No dia da vitória, Sara caminhou pela praia até o pôr do sol, lembrando-se da Jenny."
+SUMMER_MEMORIES_SUNSETBEACH,Mar ao pôr do sol
+SUMMER_MEMORIES_SUNSETBEACH_DESC,"Praia onde aconteceu o Summer Splash Camp. Ouvindo o som da fogueira, Siwoo e Jaehyun prometeram se encontrar novamente no torneio nacional."
+STRAWHAT_JENNY_UNIFORM,Traje de banho da Jenny
+STRAWHAT_JENNY_UNIFORM/DES,“Vou confiar este chapéu de palha a você. É precioso para mim. Volte um dia para devolvê-lo.” — sonhei que minha irmã dizia.
+WATERSPLASH_SARA_UNIFORM,Traje de banho da Sara
+WATERSPLASH_SARA_UNIFORM/DES,"Comprei antes do torneio, preocupada demais com as câmeras. Ao vestir, era chamativo e meu rosto esquentou."
+SURFER_NN_UNIFORM,Traje de banho do NN
+SURFER_NN_UNIFORM/DES,"Às vezes vai ao mar surfar. Se os cobradores aparecem, foge em cima da prancha."
+DIVER_DAVE_UNIFORM,Traje de banho do Dave
+DIVER_DAVE_UNIFORM/DES,Basta mergulhar e já vem um atum. Às vezes encontra baús do tesouro no fundo do mar. Até onde ele mergulha?
+BEACH_BALL,Bola de praia
+BEACH_BALL/DES,"Bola usada no Torneio de Vôlei de Praia RISE. Foi apresentada pela primeira vez na revista da RISE, 『The Cross』. Dois anos depois, a mesma revista anunciou oficialmente Sara como uma das cinco maiores estrelas da cortada."
+WATER_MELON_BEACH_BALL,Bola de praia Melancia
+WATER_MELON_BEACH_BALL/DES,"Isto é certamente uma bola de voleibol… mas ao bater, soa como uma melancia madura."
+SEAWEED_BALL,Bola enredada em algas marinhas
+SEAWEED_BALL/DES,"Pra recuperar a bola que as crianças tinham perdido, Dave mergulhou no mar. Por algum motivo, ela parecia um pouco assustadora."
+REYS,
+PRODUCT_SKIN_NISHIKAWA_HIGHSCHOOL,Nishikawa Colegial
+PRODUCT_SKIN_ISABEL_WEDDING,Isabel em Vestido de Noiva
+PRODUCT_SKIN_JAEHYEON_TRAINING,Jaehyun em Treinamento
+BDF,
+PRODUCT_SKIN_RYUHYUN_CHIEF_DISCIPLE,Discípulo Principal Ryuhyeon
+PRODUCT_SKIN_HANRA_YUMMI,Confeiteira Hanla
+PRODUCT_SKIN_AYEONSTEIN,Ayeonstein
+SMM,
+SMM_NORMAL_PASS,Passe Normal
+SMM_NORMAL_PASS_DESC,Obtenha vários uniformes e recompensas com o Passe Normal.
+SMM_SAND_PASS,Passe de Areia
+SMM_SAND_PASS_DESC,"Desbloqueie o Passe de Areia para receber mais 3 dias de presença no evento, uniforme exclusivo e grandes recompensas."
+SMM_TROPICAL_PASS,Passe Tropical
+SMM_TROPICAL_PASS_DESC,"Desbloqueie o Passe Tropical para receber mais 1 dia de presença no evento, uniforme exclusivo e grandes recompensas. Disponível após a compra do Passe de Areia."
+SMM_SAND_TROPICAL_PASS,Passe de Areia + Passe Tropical
+SMM_SAND_TROPICAL_PASS_DESC,Pacote que desbloqueia os Passes de Areia e Tropical de uma só vez.
+SMM_BEGINNER_PACKAGE,Pacote Memórias de Verão para iniciantes
+SMM_BEGINNER_PACKAGE_DESC,Pacote de iniciante com ótimo custo-benefício. Venda limitada a uma única compra.
+SMM_PREMIUM_PACKAGE,Pacote Premium
+SMM_PREMIUM_PACKAGE_DESC,Ganhe 1.000 Moedas de Verão e 1.200 Pontos V com este pacote.
+SMM_ROYAL_PACKAGE,Pacote Real
+SMM_ROYAL_PACKAGE_DESC,Ganhe 1.200 Moedas de Verão e 2.500 Pontos V com este pacote.
+SMM_EXTREME_ROYAL_PACKAGE,Pacote Real Extremo
+SMM_EXTREME_ROYAL_PACKAGE_DESC,Ganhe 2.650 Moedas de Verão e 5.100 Pontos V com este pacote.
+SMM_PACKAGE_1,Pacote Memórias de Verão I
+SMM_PACKAGE_1_DESC,Ganhe 270 Moedas de Verão com este pacote.
+SMM_PACKAGE_2,Pacote Memórias de Verão II
+SMM_PACKAGE_2_DESC,Ganhe 570 Moedas de Verão com este pacote.
+SMM_PACKAGE_3,Pacote Memórias de Verão III
+SMM_PACKAGE_3_DESC,Ganhe 1.875 Moedas de Verão com este pacote.
+SMM_GROWTH_PACKAGE,Pacote de Crescimento
+SMM_GROWTH_PACKAGE_DESC,Pacote com uma grande quantidade de Créditos e Pontos de EXP.
+HLWN 11/3~,
+PRODUCT_SKIN_SARA_WATERSPLASH,Sara Splash
+PRODUCT_SKIN_JENNY_STRAWHAT,Jenny de Chapéu de Palha
+PRODUCT_SKIN_DAVE_DIVER,Mergulhador Dave
+PRODUCT_SKIN_NN_SURFER,Surfista NN
+PRODUCT_SKIN_VAMPIRE_SOHEE,Sohee Vampira
+HLWN2025_NORMAL_PASS,Passe Normal
+HLWN2025_NORMAL_PASS_DESC,Obtenha vários itens e recompensas com o Passe Normal.
+HLWN2025_SURPRISE_SOHEE_PASS,Passe Surpresa da Sohee
+HLWN2025_SURPRISE_SOHEE_PASS_DESC,"Desbloqueie o Passe Surpresa da Sohee para receber mais 3 dias de presença no evento, a skin Sohee Vampira e grandes recompensas."
+BSP,
+RAUL_ROOM,Quarto do Raul
+RAUL_ROOM_DESC,"Ele despertou de um longo sono. A dor de cabeça familiar voltou, aguda e nítida. Olhou para o próprio rosto refletido no vinho e tomou um gole lento. Mágoas antigas são frias e amargas, como a bebida."
+BGM_AGAINST_PHANTOM_LEAGUE_DESC,"CAPÍTULO 11. #「Se algo der errado, você pode nunca mais voltar a jogar vôlei.」"
+BGM_REUNITED_DESC,CAPÍTULO 11. #「Já faz cinco anos.」
+BGM_TWO_QUEENS_DESC,CAPÍTULO 11. #「Desta vez vou mostrar o quanto evoluí.」
+BGM_UNDERGROUND_JUNGLE_DESC,CAPÍTULO 11. #「Nada mais vai me parar. Agora sai da minha frente.」
+BGM_SIWOO_AND_PHANTOM_LEAGUE_DESC,CAPÍTULO 11. #「Os 5 maiores atacantes não são só habilidosos.」
+NEON_SIGN_BALL,Bola Neon
+NEON_SIGN_BALL/DES,"O público adora, mas os jogadores detestam. No vestiário, sempre tem alguém suspirando: “Podemos usar uma bola normal, por favor…?”"
+VENOM_BALL,Bola Venom
+VENOM_BALL/DES,Bola oficial da Liga Fantasma. Foi criada por um designer famoso a pedido pessoal de Carla.
+CLAIRE_UNIFORM,Uniforme da Claire
+CLAIRE_UNIFORM/DES,"Ao fim da partida, os fãs se aglomeram em volta de Claire com este uniforme nas mãos. Dizem que, nos dias de vitória, ele dá autógrafos de bom grado."
+RAUL_SUIT,Terno do Raul
+RAUL_SUIT/DES,"O terno de Raul, feito com o tecido da mais alta qualidade, revela um tom ainda mais profundo e sóbrio sob a luz do sol. A gravata foi escolhida pessoalmente por Carla."
+SIWOO_WHITE_STORMS_UNIFORM,Uniforme White Storms do Siwoo
+SIWOO_WHITE_STORMS_UNIFORM/DES,"O uniforme que Siwoo usou na Liga Fantasma. No dia de seu registro como jogador, Carla lhe entregou o uniforme que já havia preparado, como se soubesse que isso aconteceria."
+PL_STADIUM,Estádio da Liga Fantasma
+PL_STADIUM_DESC,「O All-Star da Liga Fantasma está começando!」 As luzes brilhantes cintilaram e o público explodiu em euforia. Você também se levantou de repente e gritou das arquibancadas.
+SIF_HAIR,Cabelo de Sif
+SIF_UNIFORM,Uniforme de Sif
+SIF_SHOES,Sapatos de Sif
+CLAIRE_HAIR,Cabelo de Claire
+CLAIRE_SHOES,Sapatos de Claire
+RAUL_HAIR,Cabelo de Raul
+RAUL_UNIFORM,Uniforme de Raul
+RAUL_SHOES,Sapatos de Raul
+LEAGUE_UNIFORM_1,Uniforme vermelho da Liga Fantasma
+LEAGUE_UNIFORM_2,Uniforme azul da Liga Fantasma
+LEAGUE_UNIFORM_3,Uniforme vermelho e branco da Liga Fantasma
+BSP_REWARD_ADD_VOUCHER,Bilhete de contribuição adicional
+BSP_NORMAL_PASS,Passe Normal
+BSP_NORMAL_PASS_DESC,Obtenha vários uniformes e recompensas com o Passe Normal.
+BSP_PREMIUM_PASS,Passe Premium
+BSP_PREMIUM_PASS_DESC,"Desbloqueie o Passe Premium para receber mais 3 dias de presença no evento, uniforme exclusivo e grandes recompensas."
+BSP_ROYAL_PASS,Passe Royal
+BSP_ROYAL_PASS_DESC,Desbloqueie o Passe Royal para receber mais 1 dia de presença no evento e grandes recompensas. Disponível após a compra do Passe Premium.
+BSP_PREMIUM_ROYAL_PASS,Passe Premium + Passe Royal
+BSP_PREMIUM_ROYAL_PASS_DESC,Pacote que desbloqueia os Passes Premium e Royal de uma só vez.
+BSP_BEGINNER_PACKAGE,Pacote de Iniciante Fera
+BSP_BEGINNER_PACKAGE_DESC,Pacote de iniciante com ótimo custo-benefício. Venda limitada a uma única compra.
+BSP_PREMIUM_PACKAGE,Pacote Premium
+BSP_PREMIUM_PACKAGE_DESC,Ganhe Moedas Fera x1.200 e Bilhetes de Recrutamento de Atacante Fera x10 com este pacote.
+BSP_ROYAL_PACKAGE,Pacote Real
+BSP_ROYAL_PACKAGE_DESC,Ganhe Moedas Fera x1.800 e Bilhetes de Recrutamento de Atacante Fera x20 com este pacote.
+BSP_EXTREME_ROYAL_PACKAGE,Pacote Real Extremo
+BSP_EXTREME_ROYAL_PACKAGE_DESC,Ganhe Moedas Fera x3.600 e Bilhetes de Recrutamento de Atacante Fera x40 com este pacote.
+BSP_PACKAGE_1,Pacote Fera I
+BSP_PACKAGE_1_DESC,Ganhe Moedas Fera x180 com este pacote.
+BSP_PACKAGE_2,Pacote Fera II
+BSP_PACKAGE_2_DESC,Ganhe Moedas Fera x380 com este pacote.
+BSP_PACKAGE_3,Pacote Fera III
+BSP_PACKAGE_3_DESC,Ganhe Moedas Fera x1.250 com este pacote.
+BSP_GROWTH_PACKAGE,Pacote de Crescimento
+BSP_GROWTH_PACKAGE_DESC,Pacote com uma grande quantidade de Créditos e Pontos de EXP.
+BSP_MINI_PACKAGE,Pacote Mini Fera
+BSP_MINI_PACKAGE_DESC,Ganhe Bilhetes de Recrutamento de Atacante Fera x5 com este pacote.
+XMAS 12/10~,
+XMAS2025_NORMAL_PASS,Passe Normal
+XMAS2025_NORMAL_PASS_DESC,Obtenha vários itens e recompensas com o Passe Normal.
+XMAS2025_PREMIUM_PASS,Passe Rudolph da Liscia
+XMAS2025_PREMIUM_PASS_DESC,"Desbloqueia o Passe Rudolph da Liscia, adiciona 3 dias extras de presença no evento e concede a skin Liscia Rudolph e muitas recompensas."
+XMAS2025_PREMIUM_PASS_DESC_2,Desbloqueie o Passe Rudolph da Liscia para ganhar muitas recompensas
+SNOWY_STREET,Rua Nevada
+SNOWY_STREET_DESC,"Noite silenciosa. Talvez esta noite, o desejo de alguém se torne realidade."
+JINGLE_BELL_BALL,Bola Jingle Bell
+JINGLE_BELL_BALL/DES,"Tlim! Uma bola especial que traz o clima de fim de ano. Nesta época, é a escolha perfeita."
+STAR_SNOW_BALL,Bola de Neve Estelar
+STAR_SNOW_BALL/DES,O protagonista de hoje… talvez seja esta bola?
+BGM_CALRA_TRAP_DESC,CAPÍTULO 9. #「Poxa! Que triste perder alguém com tanto talento.」
+BGM_ALICE_DESC,CAPÍTULO 5. #「Vou te mostrar a cortada que vai mudar a sua vida.」
+BGM_MENACE2PLAY_DESC,Música tema principal do evento Red Eyes#「Red eyes」
+BGM_JENNY_LAST_STAND_DESC,CAPÍTULO 9. #「Como uma chama impulsionada pelo vento.」
+PHANTOM_COURT_ON,Quadra da Liga Fantasma
+PHANTOM_COURT_ON_DESC,Uma arena subterrânea cuja existência nem sequer é conhecida pelo público. Apenas membros considerados confiáveis para guardar o segredo podem assistir às partidas.
+PRODUCT_SKIN_LISIA_RUDOLPH,Rudolph Liscia
+Tiger Eyes 01/16~,
+PRODUCT_SKIN_NISHIKAWA_BLACK_THUNDER,Nishikawa Trovão Negro
+PRODUCT_SKIN_HONGSI_MAID,Hongshi Camareira
+RED_HOWL_CUT,Corte Uivo vermelho
+RED_HOWL_CUT/DES,"Penteado Apaixonado. Só de usar este estilo, parece que a paixão pelo vôlei ferve por dentro."
+OBSIDIAN_ROUGH,Obsidian áspero
+OBSIDIAN_ROUGH/DES,"Penteado Bagunçado. Depois de jogar por um bom tempo, está encharcado de suor. Mas você nunca se sentiu tão bem!"
+BASIC_STRIKE_CUT,Corte Golpe básico
+BASIC_STRIKE_CUT/DES,"Penteado Chic. De alguma forma, você fica mais sensível e seus sentidos parecem mais aguçados."
+BRAIDED_HAIR,Cabelo trançado
+BRAIDED_HAIR/DES,"Penteado com tranças em círculo. A cada salto alto, as tranças quicam alegremente. Só de olhar, o humor melhora."
+BLUE_WHALE_UNIFORM,Uniforme de baleia azul
+BLUE_WHALE_UNIFORM/DES,"Baleia Azul. Jogadores altos, muita potência e um craque excepcional. Um time simples, porém poderoso, que domina a defesa adversária com um estilo clássico."
+BLACK_BEAR_UNIFORM,Uniforme de urso preto
+BLACK_BEAR_UNIFORM/DES,Urso preto. Executa ataques rápidos como um raio mirando a linha de fundo. Um time que derruba a defesa adversária com ataques de tempo imprevisível dos seus ponteiros.
+GREEN_HUNTER_UNIFORM,Uniforme de caçador verde
+GREEN_HUNTER_UNIFORM/DES,"Caçador verde. Eles sabem melhor do que ninguém que um saque poderoso pode mudar o rumo da partida. Com treinos focados em saque em cada sessão, atacam com confiança até bolas longe da rede."
+TEAHOUSE,Casa de Chá do Coliseu
+TEAHOUSE_DESC,"Uma casa de chá que vende chá aromático e doces. Foi aberta por uma ex-jogadora de renome mundial. Ainda hoje, uma antiga colega de equipe a visita no Ano-Novo."
+BGM_TIGER_EYES,"Tema principal do evento Olhos de Tigre#「Bem-vindo, garoto!」"
+BLACK_NISHI_BALL,Bola Nishikawa Preta
+BLACK_NISHI_BALL/DES,"Numa noite em que todas as luzes do estádio se apagaram. Em algum momento, esta bola se misturou entre as outras bolas de vôlei. E, num instante, um relâmpago negro lampejou, envolvendo a bola, como se estivesse despertando de um sono profundo."
+PEARL_BALL,Bola de madrepérola
+PEARL_BALL/DES,Um item artesanal montado peça por peça por um mestre artesão. É tão belo que dá vontade de mantê-lo em exibição.
+EV2601_NORMAL_PASS,Passe Normal
+EV2601_NORMAL_PASS_DESC,Obtenha vários uniformes e recompensas com o Passe Normal.
+EV2601_PREMIUM_PASS,Passe Premium
+EV2601_PREMIUM_PASS_DESC,"Desbloqueie o Passe Premium para receber mais 3 dias de presença no evento, uniforme exclusivo e grandes recompensas."
+EV2601_ROYAL_PASS,Passe Royal
+EV2601_ROYAL_PASS_DESC,Desbloqueie o Passe Royal para receber mais 1 dia de presença no evento e grandes recompensas. Disponível após a compra do Passe Premium.
+EV2601_PREMIUM_AND_ROYAL_PASS,Passe Premium + Passe Royal
+EV2601_PREMIUM_AND_ROYAL_PASS_DESC,Pacote que desbloqueia os Passes Premium e Royal de uma só vez.
+EV2601_GROWTH_PACKAGE,Pacote de Crescimento
+EV2601_GROWTH_PACKAGE_DESC,Pacote com uma grande quantidade de Créditos e Pontos de EXP.
+EV2601_PREMIUM_PACKAGE,Pacote Premium
+EV2601_PREMIUM_PACKAGE_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x10 e muitas recompensas com este pacote.
+EV2601_ROYAL_PACKAGE,Pacote Real
+EV2601_ROYAL_PACKAGE_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x20 e muitas recompensas com este pacote.
+EV2601_EXTREME_ROYAL_PACKAGE,Pacote Real Extremo
+EV2601_EXTREME_ROYAL_PACKAGE_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x40 e grandes recompensas com este pacote.
+EV2601_PACKAGE_1,Pacote Olhos de Tigre I
+EV2601_PACKAGE_1_DESC,Ganhe Moedas Tiger x300 e Pontos V x360 com este pacote.
+EV2601_PACKAGE_2,Pacote Olhos de Tigre II
+EV2601_PACKAGE_2_DESC,Ganhe Moedas Tiger x860 e Pontos V x1.270 com este pacote.
+EV2601_MINI_TIGER_PACKAGE,Pacote Tigre Bebê
+EV2601_MINI_TIGER_PACKAGE_DESC,"Ganhe Bilhetes de Recrutamento de Jogador em Destaque x10, Pontos V x400 e muitos Créditos e EXP com este pacote."
+RYUHYUN_HAIR,Cabelo de Ryuhyeon
+HANRA_UNIFORM,Uniforme de Hanla
+MUYOUNG_UNIFORM,Uniforme de Muyeong
+REY_BLUE_HAIR,Cabelo Arisco Azul
+REY_PURPLE_HAIR,Cabelo Arisco Marrom
+REY_BROWN_HAIR,Cabelo Arisco Roxo
+REY_SKY_HAIR,Cabelo Arisco Azul-celeste
+REY_YELLOW_HAIR,Cabelo Arisco Amarelo
+SIWOO_WHITE_STORMS_HAIR,Cabelo de White Storms
+SIWOO_WHITE_STORMS_SHOES,Tênis de White Storms
+RED_HORSE_HAIR,Penteado Cavalo Carmesim 2026
+RED_HORSE_HAIR/DES,"Usar esta máscara faz você sentir que seus pés ficaram mais rápidos. Claro, é apenas impressão."
+UNICORN_HAIR,Penteado Unicórnio 2026
+UNICORN_HAIR/DES,"Usar esta máscara faz você sentir que ficou mais inteligente. Claro, é apenas impressão."
+2026_LUCKY_BAG,Bola Saquinho da Sorte 2026
+2026_LUCKY_BAG/DES,"Quando Ryuhyeon proibiu o voleibol, Hanla fez isto pessoalmente para animar Sodam, que estava quase chorando."
+윈드 스파이커 03/26~,
+BLOND_HAIR,Cabelo dourado fresco
+BLOND_HAIR/DES,"Estilo simples, mas chamativo."
+PINK_CURL_HAIR,Cabelo cacheado rosa adorável
+PINK_CURL_HAIR/DES,"Pular, rolar e cair não é problema. Graças à grande quantidade de spray, o penteado fica bem fixo no lugar."
+BROWN_BUN_HAIR,Penteado coque arrumado
+BROWN_BUN_HAIR/DES,Cabelos soltos levemente arrepiados são o charme.
+ASHVILLE_WISLES_UNIFORM,Uniforme do Asheville Weasels
+ASHVILLE_WISLES_UNIFORM/DES,"Uniforme de um time prestigiado no LOV. O Asheville Weasels é conhecido por seu sólido sistema de base, com jogadores subindo constantemente ao time principal, criando forte entrosamento."
+BLACK_LIONS_UNIFORM,Uniforme do Black Lions
+BLACK_LIONS_UNIFORM/DES,"Black Lions tradicionalmente usa uniformes com preto, branco e dourado. É bem avaliado independentemente do gênero."
+IRIS_UNIFORM,Uniforme da Iris
+IRIS_UNIFORM/DES,"Embora tenha usado muitos uniformes, este é o favorito de Iris."
+YURI_UNIFORM,Uniforme do Yuri
+YURI_UNIFORM/DES,"Atualmente, ele usa o número 11, mas seu objetivo é um dia usar o número de Victor."
+WIND_SPIKER_UNIFROM,Uniforme da Sara Ponteira
+WIND_SPIKER_UNIFROM/DES,É o uniforme mais popular do Asheville Weasels. Alguns fãs dizem que ao usá-lo se sentem mais rápidos.
+WIND_BALL,Bola Wind Spiral
+WIND_BALL/DES,"Uma bola de vôlei envolta em um redemoinho. Se conseguir controlá-la livremente, ganhará reconhecimento dos fãs do Asheville Weasels."
+BLUE_RIDGE_ARENA,Arena Blue Ridge
+BLUE_RIDGE_ARENA/DESC,O estádio do Asheville Weasels. Fotos de momentos históricos e jogadores estão expostas nas paredes.
+RAINBOW_BALL,Bola Prism Rainbow
+RAINBOW_BALL/DES,"Uma bola de vôlei personalizada feita por fãs de Sara. Ela disse que sempre que vê essa bola, sente como se ouvisse os aplausos enchendo a arena."
+BGM_JENNY_AND_SARA_DESC,CAPÍTULO 12. #「Mas eu quero tentar mais uma vez.」
+BGM_SAVIOR_SEO_SARA_DESC,"CAPÍTULO 12. #「O que eu tenho que fazer não é me deixar levar, mas inspirar todo mundo.」"
+BGM_MEET_YURI_DESC,"CAPÍTULO 12. #「Ei, cabeça-dura. Ouvi dizer que você estava se metendo em encrenca em um lugar perigoso e que seu pai te trouxe à força.」"
+BGM_MEET_IRIS_DESC,"CAPÍTULO 12. #「É exatamente nessa hora que eu, como capitã, devia fazer algo!」"
+PHANTOM_LEAGUE_COURT,Quadra Liga Fantasma
+PHANTOM_LEAGUE_COURT/DESC,"Após sua estreia, Raul rapidamente se tornou uma superestrela ao conquistar o prêmio de MVP em todos os torneios de que participou, mas acabou envolvido em um esquema da diretoria do Black Lions e foi expulso da liga. Quando todos os clubes das grandes ligas se recusaram a contratá-lo, Raul e Carla decidiram criar uma liga própria. Esta liga é a Liga Fantasma."
+EV2604_NORMAL_PASS,Passe Normal
+EV2604_NORMAL_PASS_DESC,Obtenha vários uniformes e recompensas com o Passe Normal.
+EV2604_PREMIUM_PASS,Passe Premium
+EV2604_PREMIUM_PASS_DESC,"Desbloqueie o Passe Premium para receber mais 3 dias de presença no evento, uniforme exclusivo e grandes recompensas."
+EV2604_ROYAL_PASS,Passe Royal
+EV2604_ROYAL_PASS_DESC,Desbloqueie o Passe Royal para receber mais 1 dia de presença no evento e grandes recompensas. Disponível após a compra do Passe Premium.
+EV2604_PREMIUM_ROYAL_PASS,Passe Premium + Passe Royal
+EV2604_PREMIUM_ROYAL_PASS_DESC,Pacote que desbloqueia os Passes Premium e Royal de uma só vez.
+EV2604_PACKAGE_1,Pacote Atacante do Vento I
+EV2604_PACKAGE_1_DESC,Ganhe Moedas Wind x300 e Pontos V x360 com este pacote.
+EV2604_PACKAGE_2,Pacote Atacante do Vento II
+EV2604_PACKAGE_2_DESC,Ganhe Moedas Wind x860 e Pontos V x1.270 com este pacote.
+EV2604_BREEZE_PACKAGE,Pacote Brisa
+EV2604_BREEZE_PACKAGE_DESC,"Ganhe Bilhetes de Recrutamento de Jogador em Destaque x10, Pontos V x400 e muitos Créditos e EXP com este pacote."
+EV2604_BREEZE_PACKAGE_SECOND,Pacote Brisa Retorna
+EV2604_BREEZE_PACKAGE_SECOND_DESC,"Ganhe Bilhetes de Recrutamento de Jogador em Destaque x10, Pontos V x400 e muitos Créditos e EXP com este pacote."
+EV2604_GUST_PACKAGE,Pacote Rajada
+EV2604_GUST_PACKAGE_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x10 e muitas recompensas com este pacote.
+EV2604_GUST_PACKAGE_SECOND,Pacote Rajada Retorna
+EV2604_GUST_PACKAGE_SECOND_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x10 e muitas recompensas com este pacote.
+EV2604_BLADE_PACKAGE,Pacote Vento Cortante
+EV2604_BLADE_PACKAGE_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x20 e muitas recompensas com este pacote.
+EV2604_BLADE_PACKAGE_SECOND,Pacote Vento Cortante Retorna
+EV2604_BLADE_PACKAGE_SECOND_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x20 e muitas recompensas com este pacote.
+EV2604_TEMPEST_PACKAGE,Pacote Tempestade
+EV2604_TEMPEST_PACKAGE_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x40 e grandes recompensas com este pacote.
+EV2604_TEMPEST_PACKAGE_SECOND,Pacote Tempestade Retorna
+EV2604_TEMPEST_PACKAGE_SECOND_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x40 e grandes recompensas com este pacote.
+EV2604_GROWTH_PACKAGE,Pacote de Crescimento
+EV2604_GROWTH_PACKAGE_DESC,Pacote com uma grande quantidade de Créditos e Pontos de EXP.
+EV2604_GROWTH_PACKAGE_SECOND,Pacote de Crescimento Retorna
+EV2604_GROWTH_PACKAGE_SECOND_DESC,Pacote com uma grande quantidade de Créditos e Pontos de EXP.
+IRIS_SHOES,Sapatos Iris
+YURI_SHOES,Sapatos Yuri
+WIND_SPIKER_SHOES,Sapatos Atacante do Vento
+MINJUN_HAIR,Cabelo vermelho espetado
+8주년 이벤트 4/23~,
+8TH_BALL,Bola Comemorativa de 8º Aniversário
+8TH_BALL/DES,Bola comemorativa de 8º aniversário do The Spike Cross. Criada para expressar nossa gratidão a todos que estiveram conosco ao longo dessa jornada.
+MYSTIC_AURORA_BALL,Bola Aurora Mística
+MYSTIC_AURORA_BALL/DES,"Disponível para compra no show dos Phantoms. Não demore, pois pode esgotar."
+PHANTOM_STUDIO,Estúdio Phantom
+PHANTOM_STUDIO/DES,"Estúdio onde os membros do Phantoms se reuniram para gravar músicas. Um espaço onde eles quebraram a cabeça inúmeras vezes para criar esta música ""See You Tomorrow, Sunset""."
+8TH_SIF_SHOES,Tênis de Sif dos Phantoms
+8TH_SIF_UNIFORM,Uniforme de Sif dos Phantoms
+8TH_SIF_UNIFORM/DES,"Traje de Sif, baterista dos Phantoms. Fixado firmemente com clipes para não se desajustar durante apresentações intensas."
+8TH_SIF_HAIR,Cabelo de Sif dos Phantoms
+8TH_SIF_HAIR/DES,Penteado estilo funky. Balança com estilo sempre que a bateria é tocada com intensidade.
+8TH_ELLIO_SHOES,Tênis de Ellio dos Phantoms
+8TH_ELLIO_UNIFORM,Uniforme de Ellio dos Phantoms
+8TH_ELLIO_UNIFORM/DES,"Traje de palco de Ellio, tecladista dos Phantoms. Ele consertou pessoalmente uma jaqueta rasgada durante a apresentação e a transformou em seu próprio traje de palco."
+8TH_ELLIO_HAIR,Cabelo de Ellio dos Phantoms
+8TH_ELLIO_HAIR/DES,Penteado meio preso. É o estilo favorito dos fãs.
+8TH_JENNY_SHOES,Tênis de Jenny dos Phantoms
+8TH_JENNY_UNIFORM,Uniforme de Jenny dos Phantoms
+8TH_JENNY_UNIFORM/DES,"Traje de palco de Jenny, vocalista dos Phantoms. É projetado com shorts embutidos para que a saia não levante."
+8TH_JENNY_HAIR,Cabelo de Jenny dos Phantoms
+8TH_JENNY_HAIR/DES,Penteado de duas marias-chiquinhas. Os fãs continuam debatendo qual combina mais com Jenny: cabelo solto ou em duas marias-chiquinhas.
+8TH_CLAIRE_SHOES,Tênis de Claire dos Phantoms
+8TH_CLAIRE_UNIFORM,Uniforme de Claire dos Phantoms
+8TH_CLAIRE_UNIFORM/DES,"Traje de palco de Claire, guitarrista dos Phantoms. Graças ao corte solto, ele pode se mover livremente e se apresentar por todo o palco."
+8TH_CLAIRE_HAIR,Cabelo de Claire dos Phantoms
+8TH_CLAIRE_HAIR/DES,Penteado característico que ele mantém desde que recebeu uma faixa de cabelo de um fã em seu primeiro concerto.
+8TH_HARI_SHOES,Tênis de Hari dos Phantoms
+8TH_HARI_UNIFORM,Uniforme de Hari dos Phantoms
+8TH_HARI_UNIFORMDES,"Traje de palco de Hari, baixista dos Phantoms. Possui um zíper nas costas, então ela precisa da ajuda de outros membros para vestir."
+8TH_HARI_HAIR,Cabelo de Hari dos Phantoms
+8TH_HARI_HAIR/DES,Penteado com adorno de fita. Destaca ainda mais um ar adorável.
+BGM_8TH_ANNIVERSARY,"See You Tomorrow, Sunset (Inst.)"
+BGM_8TH_ANNIVERSARY_DESC,"Phantoms Concert. #「Duas lesões. Duas superações.#Eu me decidi. Vou voar em direção ao sol no céu.#Mesmo que minhas asas de cera derretam.#Porque estou procurando.#Algo que quero agarrar, mesmo apostando minha vida.」"
+PRODUCT_8TH_ELLIO_SKIN,Estrela do Bis
+EV2605_FIRST_GIG_PACKAGE,Pacote Primeira Apresentação
+EV2605_FIRST_GIG_PACKAGE_DESC,Pacote com 10 Bilhetes de Recrutamento de Jogador em Destaque e uma grande quantidade de recursos.
+EV2605_RISING_STAR_PACKAGE,Pacote Rising Star
+EV2605_RISING_STAR_PACKAGE_DESC,"Pacote com 10 Bilhetes de Recrutamento de Jogador em Destaque, 13 Bilhetes de Recrutamento de Jogador em Destaque dos Phantoms e uma grande quantidade de recursos."
+EV2605_BEST_GIG_PACKAGE,Pacote Melhor Palco
+EV2605_BEST_GIG_PACKAGE_DESC,"Pacote com 20 Bilhetes de Recrutamento de Jogador em Destaque, 17 Bilhetes de Recrutamento de Jogador em Destaque dos Phantoms e uma grande quantidade de recursos."
+PRODUCT_8TH_HARI_SKIN,Midnight
+PRODUCT_8TH_JENNY_SKIN,Shooting Star
+DAEJI_SCHOOL_UNIFORM_MALE,Uniforme escolar masculino do Colégio Daeji
+DAEJI_SCHOOL_UNIFORM_MALE/DES,"Inspirado no design do uniforme de uma escola de artes próxima. Simples, mas estiloso."
+DAEJI_SCHOOL_UNIFORM_FEMALE,Uniforme escolar feminino do Colégio Daeji
+DAEJI_SCHOOL_UNIFORM_FEMALE/DES,As alunas podem escolher entre laço ou gravata para o uniforme escolar. Um pouco mais de estudantes escolhem o laço.
+웨스턴 이벤트 5/22~,
+PRODUCT_SKIN_RYUHYUN_RED_HOOD,Red Hood
+PRODUCT_SKIN_SIF_BOUNTY_HUNTER,Caçadora de Recompensas
+PRODUCT_SKIN_CLAIRE_GOD_FATHER,O Poderoso Chefão
+EV2606_NORMAL_PASS,Passe Normal
+EV2606_NORMAL_PASS_DESC,Obtenha vários uniformes e recompensas com o Passe Normal.
+EV2606_PREMIUM_PASS,Passe Premium
+EV2606_PREMIUM_PASS_DESC,"Desbloqueie o Passe Premium para receber mais 3 dias de presença no evento, uniforme exclusivo e grandes recompensas."
+EV2606_ROYAL_PASS,Passe Royal
+EV2606_ROYAL_PASS_DESC,Desbloqueie o Passe Royal para receber mais 1 dia de presença no evento e grandes recompensas. Disponível após a compra do Passe Premium.
+EV2606_PREMIUM_ROYAL_PASS,Passe Premium + Passe Royal
+EV2606_PREMIUM_ROYAL_PASS_DESC,Pacote que desbloqueia os Passes Premium e Royal de uma só vez.
+EV2606_GROWTH_PACKAGE,Pacote de Crescimento
+EV2606_GROWTH_PACKAGE_DESC,Pacote com uma grande quantidade de Créditos e Pontos de EXP.
+EV2606_PREMIUM_PACKAGE,Pacote Premium
+EV2606_PREMIUM_PACKAGE_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x10 e muitas recompensas com este pacote.
+EV2606_ROYAL_PACKAGE,Pacote Real
+EV2606_ROYAL_PACKAGE_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x20 e muitas recompensas com este pacote.
+EV2606_EXTREME_ROYAL_PACKAGE,Pacote Real Extremo
+EV2606_EXTREME_ROYAL_PACKAGE_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x40 e grandes recompensas com este pacote.
+EV2606_PACKAGE_1,Pacote Western I
+EV2606_PACKAGE_1_DESC,Um pacote onde você pode obter Moedas de Western x300 e Pontos V x360.
+EV2606_PACKAGE_2,Pacote Western II
+EV2606_PACKAGE_2_DESC,Um pacote onde você pode obter Moedas de Western x860 e Pontos V x1.270.
+EV2606_RED_HOOD_PACKAGE,Pacote Red Hood
+EV2606_RED_HOOD_PACKAGE_DESC,"Ganhe Bilhetes de Recrutamento de Jogador em Destaque x10, Pontos V x400 e muitos Créditos e EXP com este pacote."
+TUMBLEWEED_BALL,Bola de Estepicursor
+TUMBLEWEED_BALL/DES,Uma bola feita de trepadeiras secas e fortemente entrelaçadas. É difícil reconhecer sua forma original.
+CACTUS_BALL,Bola de Cacto
+CACTUS_BALL/DES,A bola mais espinhosa do mundo. Ela vai fazer você acordar em um piscar de olhos.
+BGM_BANG_TO_SPIKE_DESC,"Western Event. #「No fim das contas, o voleibol é apenas mais um duelo.」"
+SUNRIM_VILLAGE,Vila de Seonrim(?)
+SUNRIM_VILLAGE/DESC,"Bem-vindo à ""Vila de Seonrim"", um santuário para os andarilhos da fronteira do Velho Oeste. Passe a bola de voleibol por um momento aqui e esqueça o cansaço da sua jornada."
+RED_HOOD_RYUHYUN_UNIFORM,Uniforme de Ryuhyeon Red Hood
+RED_HOOD_RYUHYUN_UNIFORM/DES,"Tudo ao redor estava envolvido em chamas, e os moradores da vila não estavam em lugar nenhum. Arrastando seu corpo ferido em busca das pessoas, Ryuhyeon finalmente descobriu a capa de seu mestre, ensangrentada e rasgada. Era claramente obra da gangue Fantasmas. Um momento depois, Ryuhyeon pegou a capa de seu mestre, jogou-a sobre os ombros e preparou-se para aceitar seu destino cruel. ...Ele já teve um sonho extremamente vívido como esse."
+RED_HOOD_RYUHYUN_HAIR,Cabelo de Ryuhyeon Red Hood
+RED_HOOD_RYUHYUN_HAIR/DES,"Um chapéu de cowboy muito usado pelos moradores da colônia ao entrar e sair da vila. É leve, resistente e não se desgasta com o vento ou com a chuva. Depois de decidir se isolar, o xerife Ryuhyeon começou a usar este chapéu puxado para baixo."
+RED_HOOD_RYUHYUN_SHOES,Sapatos de Ryuhyeon Red Hood
+BOUNTY_HUNTER_SIF_UNIFORM,Uniforme de Sif Caçadora de Recompensas
+BOUNTY_HUNTER_SIF_UNIFORM/DES,"Uma vestimenta um tanto chamativa para um andarilho que vaga pelo ermo implacável. No entanto, para ela, que enfrenta duelos de vida ou morte todas as vezes, o olhar dos outros não importa nem um pouco. Ela simplesmente vaga pelo ermo vestindo as roupas esplêndidas que lhe agradam."
+BOUNTY_HUNTER_SIF_HAIR,Cabelo de Sif Caçadora de Recompensas
+BOUNTY_HUNTER_SIF_HAIR/DES,"O precioso chapéu de cowboy de Sif. Ele guarda lembranças de quando ela cometeu um erro em sua primeira missão com seu parceiro, o veterano Raul, e estava desanimada, até que ele puxou o chapéu para baixo em sua cabeça. É o seu tesouro número um, insubstituível."
+BOUNTY_HUNTER_SIF_SHOES,Sapatos de Sif Caçadora de Recompensas
+GOD_FATHER_CLAIRE_UNIFORM,Uniforme de Claire O Poderoso Chefão
+GOD_FATHER_CLAIRE_UNIFORM/DES,"Chamativo demais para combinar com o governante dos becos. No entanto, para ele, que sempre gosta de ser o centro das atenções, é a vestimenta perfeita."
+GOD_FATHER_CLAIRE_HAIR,Cabelo de Claire O Poderoso Chefão
+GOD_FATHER_CLAIRE_HAIR/DES,"Um elegante chapéu fedora branco. Quem quer que se atreva a sujar um pouco que seja este chapéu de uma brancura impecável, jamais voltará para casa em segurança."
+GOD_FATHER_CLAIRE_SHOES,Sapatos de Claire O Poderoso Chefão
+WESTERN_UNIFORM_MALE,Uniforme Masculino de Western
+WESTERN_UNIFORM_MALE/DES,"Vestimenta de um pioneiro durão. Os jeans são tão fortes e resistentes que, se necessário, você pode facilmente riscar um fósforo neles para acender o fogo."
+WANTED_HAIR_MALE,Cabelo Masculino de Cartaz de Procurado
+WANTED_HAIR_MALE/DES,PROCURADO. Claire Roman. Vivo ou morto. Recompensa de 25 dólares.
+WESTERN_UNIFORM_FEMALE,Uniforme Feminino de Western
+WESTERN_UNIFORM_FEMALE/DES,"Vestimenta de um cowboy. É extremamente quente, permitindo jogar vôlei até mesmo no ermo sob ventos frios."
+WANTED_HAIR_FEMALE,Cabelo Feminino de Cartaz de Procurado
+WANTED_HAIR_FEMALE/DES,PROCURADO. Hongshi. Vivo ou morto. Recompensa de 100 dólares.
+WESTERN_RYUHYUN/LINE,Eu sou sempre aquele que caça.
+WESTERN_CLAIRE/LINE,Essa sua arrogância termina hoje.
+WESTERN_SIF/LINE,"Bang!! ...Opa, seu coração quase saiu pela boca, garoto?"
+WESTERN_SHOES_MALE,Sapatos de Pistoleiro
+WESTERN_SHOES_FEMALE,Botas da Fronteira
+PROFILE_BG_STARTER_COURT,Quadra Iniciante
+PROFILE_BG_GOLDEN_RALLY,Rali Dourado
+PROFILE_BG_CHAMPIONSHIP_COURT,Quadra do Campeonato
+PROFILE_BG_MIDNIGHT_VOLLEY,Vôlei da Meia-noite
+PROFILE_BG_DREAM_SKY,Céu dos Sonhos
+PROFILE_BG_BEGINNER_COURT,Quadra do Novato
+PROFILE_BG_BLACKOUT,Apagão
+PROFILE_BG_CARBON_PATTERN,Padrão de Carbono
+PROFILE_BG_SPIKE_STUDIO,Estúdio de Cortadas
+PROFILE_BG_CLOUD_COURT,Quadra de Nuvens
+PROFILE_BG_CENTER_STAGE,Palco Central
+PROFILE_FRAME_BLACK,Moldura Negra
+PROFILE_FRAME_GRAY,Moldura Cinza
+PROFILE_FRAME_TRANSPARENT,Moldura Transparente
+PROFILE_FRAME_SPIKE_STUDIO,Estúdio de Cortadas
+PROFILE_FRAME_BLUE_FLAME,Chama Azul
+PROFILE_FRAME_BUTTERFLY,Borboleta
+PROFILE_FRAME_BOUNTY_HUNTER,Caçador de Recompensas
+PROFILE_FRAME_MUYEONG_BUBBLE,Bolha Muyeong
+PROFILE_TITLE_COURT_TRAINEE,Aprendiz na Quadra
+PROFILE_TITLE_COURT_EXPERT,Especialista na Quadra
+PROFILE_TITLE_NAMED_PLAYER,Jogador Renomado
+PROFILE_TITLE_RISING_STAR,Estrela em Ascensão
+PROFILE_TITLE_ALLSTAR_PLAYER,Jogador All-Star
+PROFILE_TITLE_ACE_CANDIDATE,Candidato a Craque
+PROFILE_STICKER_CREDIT,Crédito
+PROFILE_STICKER_ATTENDANCE_STAMP,Carimbo de Presença
+PROFILE_STICKER_DRAGON_COIN,Moeda de Dragão
+PROFILE_STICKER_VPOINT,Pontos V
+PROFILE_STICKER_AWAKEN_ITEM,Fragmento de Esforço
+PROFILE_STICKER_WIND_COIN,Moeda de Vento
+PROFILE_STICKER_VPOINT_BUNDLE,Pacote de Pontos V
+PROFILE_STICKER_VESSENCE,Essência V
+PROFILE_STICKER_PHANTOM_COIN,Moeda Fantasma
+PROFILE_STICKER_KINGMAKER_COIN,Moeda Fazedor de Reis
+PROFILE_STICKER_TIGER_COIN,Moeda de Tigre
+PROFILE_STICKER_SUSPICIOUS_BLUE_FLAME,Chama Azul Suspeita
+PROFILE_STICKER_BLUE_FLAME,Chama Azul
+PROFILE_STICKER_WINTER_COIN,Moeda de Inverno
+PROFILE_STICKER_STAR,Estrela
+PROFILE_STICKER_CREDIT_RICH,Rico em Créditos
+PROFILE_STICKER_VPOINT_RICH,Rico em Pontos V
+PROFILE_STICKER_WHISTLE,Apito
+PROFILE_STICKER_CREDIT_BUNDLE,Pacote de Créditos
+PROFILE_STICKER_MB_BADGE,Emblema de Bloqueador Central
+PROFILE_STICKER_WS_BADGE,Emblema de Ponteiro
+PROFILE_STICKER_SE_BADGE,Emblema de Levantador
+PROFILE_STICKER_PHANTOM,Fantasma
+PROFILE_STICKER_DEATH_BLOOM,Death Bloom
+PROFILE_STICKER_POWER,Poder
+PROFILE_STICKER_DISCOURAGED,Desanimado
+PROFILE_STICKER_JUMP,Pulo
+PROFILE_STICKER_SHOES,Sapatos
+PROFILE_STICKER_DASH,Arrancada
+PROFILE_STICKER_DEFENSE,Defesa
+PROFILE_STICKER_FOCUS,Engajado
+PROFILE_STICKER_CARELESS,Distraído
+PROFILE_STICKER_DUMBBELL,Haltere
+PROFILE_STICKER_WORKEDUP,Agitado
+PROFILE_STICKER_SPEED_TOSS,Levantamento Rápido
+PROFILE_STICKER_SKULL,Caveira
+PROFILE_STICKER_CRITICAL_TOSS,Levantamento Crítico
+PROFILE_STICKER_CACTUS,Cacto
+PROFILE_STICKER_TIRE,Pneu
+PROFILE_STICKER_BUTTERFLY,Borboleta
+PROFILE_STICKER_SNIPE,Tiro Certeiro
+PROFILE_STICKER_FRANTIC,Imprudência
+PROFILE_STICKER_WINGS_ICARUS,Asas de Ícaro
+PROFILE_STICKER_TOSS,Levantamento
+PROFILE_STICKER_TYPHOON,Tufão
+PROFILE_STICKER_PAIN_KILLER,Analgésico
+PROFILE_STICKER_IMPERIAL_ORDER,Ordem Imperial
+PROFILE_STICKER_ANGRY_SKULL,Caveira Irritada
+PROFILE_STICKER_SMILE_SKULL,Caveira Sorridente
+PROFILE_STICKER_HYUNMU,Tartaruga Negra
+PROFILE_STICKER_BLUE_DRAGON,Dragão Azul
+PROFILE_STICKER_JUJAK,Fênix Vermelha
+PROFILE_STICKER_WHITE_TIGER,Tigre Branco
+PROFILE_STICKER_UNIFORM,Uniforme
+PROFILE_STICKER_VOLLEY_BALL,Voleibol
+EV2607_HELLO_DAVE_PACKAGE,Pacote Hello Dave
+EV2607_HELLO_DAVE_PACKAGE_DESC,Ganhe 10 Bilhetes de Recrutamento de Jogador em Destaque do Aquecimento e uma grande quantidade de recursos com este pacote.
+EV2607_LAB_ESSENTIALS_PACKAGE,Pacote de Experimentos Científicos
+EV2607_LAB_ESSENTIALS_PACKAGE_DESC,Ganhe 13 Bilhetes de Recrutamento de Jogador em Destaque do Aquecimento e uma grande quantidade de recursos com este pacote.
+EV2607_SUMMER_VACATION_PACKAGE,Pacote de Férias de Verão
+EV2607_SUMMER_VACATION_PACKAGE_DESC,Ganhe 17 Bilhetes de Recrutamento de Jogador em Destaque do Aquecimento e uma enorme quantidade de recursos com este pacote.
+서머 트레이닝 이벤트(7/29~),
+COCONUT_BALL,Bola de Coco
+COCONUT_BALL/DES,"Toda vez que você corta, dá para ouvir a água de coco balançando lá dentro."
+HANRA_BALL,Bola da Hanla
+HANRA_BALL/DES,Uma bola de vôlei que Hanla trouxe para o treinamento de verão. Dizem que ela comprou por impulso só porque gostou da combinação de cores.
+VIOLA_BALL,Bola da Viola
+VIOLA_BALL/DES,Uma bola de vôlei que Viola estima muito. É um presente que Isabel lhe deu quando ela disse que iria treinar.
+SUMMER_TRAINING_UNIFORM_MALE,Uniforme Masculino de Treinamento de Verão
+SUMMER_TRAINING_UNIFORM_MALE/DES,Basta sacudir o uniforme depois da partida para a areia cair como por magia.
+SUMMER_TRAINING_UNIFORM_FEMALE,Uniforme Feminino de Treinamento de Verão
+SUMMER_TRAINING_UNIFORM_FEMALE/DES,"Feito para não subir ou enrolar, mesmo durante movimentos intensos."
+PRODUCT_SKIN_SUMMER_TRAINING,Treinamento de Verão
+PRODUCT_SKIN_SUMMER_TRAINING/DES,
+EV2608_NORMAL_PASS,Passe Normal
+EV2608_NORMAL_PASS_DESC,Obtenha vários uniformes e recompensas com o Passe Normal.
+EV2608_PREMIUM_PASS,Passe Premium
+EV2608_PREMIUM_PASS_DESC,"Desbloqueie o Passe Premium para receber mais 3 dias de presença no evento, uniforme exclusivo e grandes recompensas."
+EV2608_ROYAL_PASS,Passe Royal
+EV2608_ROYAL_PASS_DESC,Desbloqueie o Passe Royal para receber mais 1 dia de presença no evento e grandes recompensas. Disponível após a compra do Passe Premium.
+EV2608_PREMIUM_ROYAL_PASS,Passe Premium + Passe Royal
+EV2608_PREMIUM_ROYAL_PASS_DESC,Pacote que desbloqueia os Passes Premium e Royal de uma só vez.
+EV2608_GROWTH_PACKAGE,Pacote de Crescimento
+EV2608_GROWTH_PACKAGE_DESC,Pacote com uma grande quantidade de Créditos e Pontos de EXP.
+EV2608_CORAL_RUBY_PACKAGE,Pacote Rubi Coral
+EV2608_CORAL_RUBY_PACKAGE_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x10 e muitas recompensas com este pacote.
+EV2608_ROYAL_PACKAGE,Pacote Real
+EV2608_ROYAL_PACKAGE_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x20 e muitas recompensas com este pacote.
+EV2608_EXTREME_ROYAL_PACKAGE,Pacote Real Extremo
+EV2608_EXTREME_ROYAL_PACKAGE_DESC,Ganhe Bilhetes de Recrutamento de Jogador em Destaque x40 e grandes recompensas com este pacote.
+EV2608_PACKAGE_1,Pacote de Treinamento de Verão I
+EV2608_PACKAGE_1_DESC,Pacote com 300 Moedas de Palmeira e 360 Pontos V.
+EV2608_PACKAGE_2,Pacote de Treinamento de Verão II
+EV2608_PACKAGE_2_DESC,Pacote com 860 Moedas de Palmeira e 1.270 Pontos V.
+EV2608_VIOLET_SAPPHIRE_PACKAGE,Pacote Safira Violeta
+EV2608_VIOLET_SAPPHIRE_PACKAGE_DESC,"Ganhe Bilhetes de Recrutamento de Jogador em Destaque x10, Pontos V x400 e muitos Créditos e EXP com este pacote."
+SIWOO_ROOM,Quarto do Siwoo
+SIWOO_ROOM/DESC,"Sobre a mesa, há uma foto de família tirada na infância. No entanto, o pai não aparece em lugar nenhum da imagem."
+DAEJI_GYM,Ginásio do Colégio Daeji
+DAEJI_GYM/DESC,"De vez em quando, o diretor toca trompete aqui, mostrando uma habilidade bastante impressionante."
+PINK_POP_SPIKES_UNIFORM,Uniforme Pink Pop Spikes
+PINK_POP_SPIKES_UNIFORM/DES,O uniforme de uma equipe de vôlei que participa de um torneio de vôlei de praia.
+BGM_SUMMER_RUNNING_DESC,Summer Training. #「Foi verdadeiramente o melhor verão.」
+BGM_THE_SECOND_MOVE_DESC,CAPÍTULO 1. #「Apenas uma conquistará a vaga pro torneio nacional.」
+BGM_TOPSY_TURVY_DESC,CAPÍTULO 1. #「O importante é que o ensaio solo de trompete do diretor vai começar!」
+BGM_CHAPTER1_OPENING_1_DESC,CAPÍTULO 1. #「Mostra mais uma vez o que significa ser um verdadeiro craque!」
+VICE_PRINCIPAL_HAIR,Cabelo do vice-diretor
+VICE_PRINCIPAL_HAIR/DES,30 anos de docência. A paixão do primeiro dia diante da turma e o cabelo farto de outrora não deixaram nem rastro.
+콘텐츠 업데이트 (8/26~),
+PROFILE_BG_TERRA_HALLWAY,Corredor do Colégio Daeji
+PROFILE_BG_CHERRY_BLOSSOM_SUNSET,Pôr do Sol das Cerejeiras
+PROFILE_STICKER_MINI_HONGSHI,Mini Hongshi
+PROFILE_STICKER_MINI_MIKE,Mini Mike
+PROFILE_STICKER_MINI_ISABEL,Mini Isabel
+PROFILE_STICKER_MINI_YOONSEOK,Mini Yunseok
+PROFILE_STICKER_MINI_JENNY,Mini Jenny
+시즌 3 업데이트,
+EV2609_GROWTH_PACKAGE,Pacote de Crescimento
+EV2609_GROWTH_PACKAGE_DESC,Pacote que concede uma grande quantidade de Créditos e Pontos de EXP.
+EV2609_WELCOME_ELITE_PACKAGE,Pacote Elite de Boas-vindas
+EV2609_WELCOME_ELITE_PACKAGE_DESC,Pacote que concede 10 Bilhetes de Recrutamento de Jogadores em Destaque e uma pequena quantidade de moedas.
+EV2609_PACKAGE_1,Pacote Elite 1
+EV2609_PACKAGE_1_DESC,Pacote que permite obter Moeda Elite x300 e Ponto V x360.
+EV2609_PACKAGE_2,Pacote Elite 2
+EV2609_PACKAGE_2_DESC,Pacote que permite obter Moedas Elite x860 e Pontos V x1270.
+EV2609_ELITE_PREMIUM_PACKAGE,Pacote Premium Elite
+EV2609_ELITE_PREMIUM_PACKAGE_DESC,Pacote que concede 10 Bilhetes de Recrutamento de Jogadores em Destaque e uma grande quantidade de moedas.
+EV2609_ELITE_ROYAL_PACKAGE,Pacote Real Elite
+EV2609_ELITE_ROYAL_PACKAGE_DESC,Pacote que concede 20 Bilhetes de Recrutamento de Jogadores em Destaque e uma grande quantidade de moedas.
+EV2609_EXTREME_ROYAL_PACKAGE,Pacote Real Extremo Elite
+EV2609_EXTREME_ROYAL_PACKAGE_DESC,Pacote que concede 40 Bilhetes de Recrutamento de Jogadores em Destaque e uma enorme quantidade de moedas.
+EV2609_NORMAL_PASS,Passe Normal
+EV2609_NORMAL_PASS_DESC,Obtenha vários uniformes e recompensas com o Passe Normal.
+EV2609_PREMIUM_PASS,Passe Premium
+EV2609_PREMIUM_PASS_DESC,"Desbloqueie o Passe Premium para receber mais 3 dias de presença no evento, uniforme exclusivo e grandes recompensas."
+EV2609_ROYAL_PASS,Passe Royal
+EV2609_ROYAL_PASS_DESC,Desbloqueie o Passe Royal para receber mais 1 dia de presença no evento e grandes recompensas. Disponível após a compra do Passe Premium.
+EV2609_PREMIUM_ROYAL_PASS,Passe Premium + Passe Royal
+EV2609_PREMIUM_ROYAL_PASS_DESC,Pacote que desbloqueia os Passes Premium e Royal de uma só vez.
+BEGINNER_PLAYER_RECRUIT_TICKET,Bilhete de Iniciantes
+BEGINNER_RECRUIT_PACKAGE,Pacote de Bilhetes de Iniciantes
+BEGINNER_RECRUIT_PACKAGE_DESC,Recebe 40 Bilhetes de Iniciantes.
+DEFAULT_40VP_PACKAGE,Pacote de Pontos V x40
+DEFAULT_40VP_PACKAGE_DESC,Receba 40 Pontos V.
+DEFAULT_200VP_PACKAGE,Pacote de Pontos V x200
+DEFAULT_200VP_PACKAGE_DESC,Receba 200 Pontos V.
+DEFAULT_420VP_PACKAGE,Pacote de Pontos V x420
+DEFAULT_420VP_PACKAGE_DESC,Receba 420 Pontos V.
+DEFAULT_1280VP_PACKAGE,Pacote de Pontos V x1280
+DEFAULT_1280VP_PACKAGE_DESC,Receba 1280 Pontos V.
+DEFAULT_2160VP_PACKAGE,Pacote de Pontos V x2160
+DEFAULT_2160VP_PACKAGE_DESC,Receba 2160 Pontos V.
+DEFAULT_4000VP_PACKAGE,Pacote de Pontos V x4.000
+DEFAULT_4000VP_PACKAGE_DESC,Receba 4.000 Pontos V.
+DEFAULT_40VP_PACKAGE_2X,Pacote Ponto V x40 2x
+DEFAULT_40VP_PACKAGE_2X_DESC,40 Pontos V + 40 de bônus!#O bônus é renovado periodicamente.
+DEFAULT_200VP_PACKAGE_2X,Pacote Ponto V x200 2x
+DEFAULT_200VP_PACKAGE_2X_DESC,200 Pontos V + 200 de bônus!#O bônus é renovado periodicamente.
+DEFAULT_420VP_PACKAGE_2X,Pacote Ponto V x420 2x
+DEFAULT_420VP_PACKAGE_2X_DESC,420 Pontos V + 420 de bônus!#O bônus é renovado periodicamente.
+DEFAULT_1280VP_PACKAGE_2X,Pacote Ponto V x1280 2x
+DEFAULT_1280VP_PACKAGE_2X_DESC,1280 Pontos V + 1280 de bônus!#O bônus é renovado periodicamente.
+DEFAULT_2160VP_PACKAGE_2X,Pacote Ponto V x2160 2x
+DEFAULT_2160VP_PACKAGE_2X_DESC,2160 Pontos V + 2160 de bônus!#O bônus é renovado periodicamente.
+DEFAULT_4000VP_PACKAGE_2X,Pacote Ponto V x4000 2x
+DEFAULT_4000VP_PACKAGE_2X_DESC,4000 Pontos V + 4000 de bônus!#O bônus é renovado periodicamente.
+상품(Product시트에 들어갈 것),
+GITAE_UNIFROM,Uniforme de Han Gitae
+GITAE_UNIFROM/DESC,"Uniforme masculino do time de vôlei da Universidade Cheongmyeong.#Feito com um tecido especial de alta resistência, que não rasga facilmente com atrito ou impactos fortes."
+BACK_ELITE_WAIT_ROOM,Centro de Treinamento da Seleção Nacional
+BACK_ELITE_WAIT_ROOM/DESC,"Centro de treinamento exclusivo que reúne os melhores jogadores de vôlei da Coreia do Sul.#Conta com as maiores instalações profissionais do país e sistemas de treinamento de ponta. Como lugar que lapida os melhores jogadores, é conhecido pela intensidade extrema de seus treinos."
+BACK_ELITE_HALLWAY,Fundo do Corredor do Ginásio
+BACK_ELITE_HALLWAY/DESC,"Corredor do ginásio do Centro de Treinamento da Seleção Nacional.#Quando Inho e seu parceiro faziam parte da seleção, costumavam caminhar por aqui e conversar sobre seus sonhos."
+YOUTH_BALL,Bola Exclusiva do NTC
+YOUTH_BALL/DES,"Bola exclusiva do Centro de Treinamento da Seleção Nacional, fabricada pela marca de vôlei 'RISE'."
+GITAE_BALL,Bola Favorita de Han Gitae
+GITAE_BALL/DES,Bola de vôlei muito estimada por Han Gitae.#Dizem que ele sempre treina com ela no dia de uma partida importante.
+YOUTH_UNIFORM_MALE,Uniforme Masculino da Seleção Juvenil
+YOUTH_UNIFORM_MALE/DES,"Uniforme masculino oficial da seleção juvenil, fabricado pela marca de vôlei 'RISE'.#É tão popular que vende como água na temporada de torneios internacionais."
+YOUTH_UNIFORM_FEMALE,Uniforme Feminino da Seleção Juvenil
+YOUTH_UNIFORM_FEMALE/DES,"Uniforme feminino oficial da seleção juvenil, fabricado pela marca de vôlei 'RISE'.#É tão popular que vende como água na temporada de torneios internacionais."
+JAEHYUN_UNIFORM,Uniforme de Jaehyun
+JAEHYUN_UNIFORM/DES,"Uniforme masculino oficial do time de vôlei do Colégio Céu.#No dia em que o recebeu pela primeira vez, Jaehyun ficou um bom tempo diante do espelho."
+JAEHYUN_SHOES,Tênis de Jaehyun
+SEJIN_UNIFORM,Uniforme de Kang Sejin
+SEJIN_UNIFORM/DES,"Uniforme masculino oficial do time de vôlei do Colégio Cheonan.#Por algum motivo, Kang Sejin gosta especialmente de fazer pose quando o veste."
+SEJIN_SHOES,Tênis de Kang Sejin
+YUNA_UNIFORM,Uniforme de Seo Yuna
+YUNA_UNIFORM/DES,Uniforme feminino oficial do time de vôlei do Colégio Cheolwon.#É a peça favorita de Seo Yuna: ela tem 5 conjuntos idênticos e os usa alternadamente.
+YUNA_SHOES,Tênis de Seo Yuna
+BGM_COLEMAN_STORY_DESC,CHAPTER 13. #「Você começou a jogar vôlei cedo. Não sabe de nada.」
+BGM_NATIONAL_TRAINING_MATCH_DESC,CHAPTER 13. #「Tenho que fazer tudo o que estiver ao meu alcance!」
+BGM_TRAINING_CAMP_BUDDIES_DESC,CHAPTER 13. #「Quero muito fazer parte da seleção nacional!」
+PROFILE_FRAME_EV2609,Moldura da Fase de Elite
+PROFILE_TITLE_ELITE_SPIKER,Jogador de Elite
+PROFILE_STICKER_GLOBAL,Adesivo Global
+PROFILE_STICKER_GITAE,Adesivo de Han Gitae
+PROFILE_STICKER_TROPHY,Adesivo do Troféu de Elite
+,
+PROFILE_BG_ELITE_COURT,Quadra de Elite

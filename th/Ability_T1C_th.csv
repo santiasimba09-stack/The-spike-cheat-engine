@@ -1,0 +1,131 @@
+﻿KEY,태국어(th)
+ABILITY/ADRENALINE/TITLE,อะดรีนาลีน
+ABILITY/ADRENALINE/DES,ทุกครั้งที่ผู้เล่นฝ่ายเราลบ {CONDITION} ค่า {STRENGTH} เพิ่มเติมจาก {FEVER_MODE} จะเพิ่มขึ้น <buff_amount> รีเซ็ตเมื่อ {FEVER_MODE} สิ้นสุด
+ABILITY/ARTISTIC_DEFENSE/TITLE,การป้องกันที่งดงาม
+ABILITY/ARTISTIC_DEFENSE/DES,เมื่อหยุดการโจมตีด้วย {SLIDING} ความเสียหายที่ได้รับจะลดลงชั่วคราว <decrease_percent>
+ABILITY/ATTACK_CHANCE/TITLE,โอกาสโจมตี
+ABILITY/ATTACK_CHANCE/DES,ในสถานการณ์ {FREE_BALL} ค่าสถานะทั้งหมดจะเพิ่มขึ้นชั่วคราว <buff_amount>
+ABILITY/BULK_UP/TITLE,บัลค์อัป
+ABILITY/BULK_UP/DES,หลังจากหยุดการโจมตีด้วย {RECEIVE} หรือ {BLOCKING} ค่า {HEIGHT} จะเพิ่มขึ้น <height_amount>
+ABILITY/BUNDANG_QUICK/TITLE,บุนดังควิก
+ABILITY/BUNDANG_QUICK/DES,เมื่อจำนวนการแตะของทีมเราเป็น 1 การใช้ {COMMON/WORD/SPIKE_JUMP} จะเพิ่ม {BALL_POWER} <increase_percent> จนกว่าจะลงพื้น
+ABILITY/BURNING_UP/TITLE,เบิร์นนิ่งอัป
+ABILITY/BURNING_UP/DES,เมื่อเข้าสู่ {FEVER_MODE} จะลบ {CONDITION} และเข้าสู่สถานะ {ANGRY} เป็นเวลา <condition_time>
+ABILITY/CAT_THERAPY/TITLE,แมวบำบัด
+ABILITY/CAT_THERAPY/DES,ระหว่าง {FEVER_MODE} หากเข้าสู่สถานะ {SAD} จะลบ {CONDITION} ของผู้เล่นฝ่ายเราและทำให้เป็น {FOCUS} เป็นเวลา <condition_time>
+ABILITY/BERSERK_ATTACK/TITLE,เบอร์เซิร์กแอตแทก
+ABILITY/BERSERK_ATTACK/DES,เมื่อ {STAMINA} ต่ำกว่าทีมคู่แข่ง {STRENGTH} จะเพิ่มขึ้นสูงสุด <buff_amount> ตามส่วนต่าง
+ABILITY/BERSERK_BOOST/TITLE,เบอร์เซิร์กบูสต์
+ABILITY/BERSERK_BOOST/DES,เมื่อ {STAMINA} เหลือครึ่งหนึ่งหรือน้อยกว่า การใช้ {SPIKE} จะได้รับ {FEVER_POINT} <fever_count>
+ABILITY/BERSERK_DRAIN/TITLE,เบอร์เซิร์กเดรน
+ABILITY/BERSERK_DRAIN/DES,เมื่อ {STAMINA} เหลือครึ่งหนึ่งหรือน้อยกว่า จะฟื้นฟู {STAMINA} เท่ากับ <effect_percent> ของความเสียหายจาก {SPIKE}
+ABILITY/CONCENTRATION/TITLE,สมาธิ
+ABILITY/CONCENTRATION/DES,ทุกครั้งที่ทีมเราเสียแต้ม {STRENGTH} และ {DEFENSE} จะเพิ่มขึ้น <buff_amount> รีเซ็ตเมื่อทีมเราทำแต้มได้
+ABILITY/CONDITION_BOOST/TITLE,คอนดิชันบูสต์
+ABILITY/CONDITION_BOOST/DES,เมื่อลบ {CONDITION} จะได้รับ {FEVER_POINT} <fever_count>
+ABILITY/CRITICAL_BOOST/TITLE,คริติคอลบูสต์
+ABILITY/CRITICAL_BOOST/DES,เมื่อโจมตีคู่แข่งที่อยู่ในสถานะ {SAD} จะได้รับ {FEVER_POINT} <fever_count>
+ABILITY/DAVID_AND_GOLIATH/TITLE,เดวิดและโกไลแอท
+ABILITY/DAVID_AND_GOLIATH/DES,{STRENGTH} และ {DEFENSE} เพิ่มขึ้นตาม <effect_percent> ของส่วนต่าง {HEIGHT} กับคู่แข่งที่มี {COMMON/POSITION} เดียวกัน (สูงสุด 30cm)
+ABILITY/SUPER_DIRECT/TITLE,ไดเรกต์แอตแทก
+ABILITY/SUPER_DIRECT/DES,เมื่อตีกลับ {BALL} ที่มาจากทีมคู่แข่งด้วย {SPIKE} ค่า {BALL_POWER} จะเพิ่มขึ้นชั่วคราว <increase_percent>
+ABILITY/DRAGON_STYLE/TITLE,วิชามังกรฟ้า
+ABILITY/DRAGON_STYLE/DES,เมื่อใช้ {SPIKE} จาก {DATEN} ที่ 3.3m หรือต่ำกว่า ค่า {BALL_POWER} จะเพิ่มขึ้นชั่วคราว <increase_percent>
+ABILITY/ETERNAL_FEVER/TITLE,อีเทอร์นัลฟีเวอร์
+ABILITY/ETERNAL_FEVER/DES,ระหว่าง {FEVER_MODE} เมื่อได้รับ {FEVER_POINT} จะยืด {COMMON/SKILL/DURATION} ของ {FEVER_MODE} ด้วยประสิทธิภาพ <effect_percent>
+ABILITY/GLADIUS/TITLE,กลาดิอุส
+ABILITY/GLADIUS/DES,ขณะอยู่ในสถานะ {ANGRY} หากเป็นสถานการณ์ {FREE_BALL} จะแปลง {DEFENSE} <effect_percent> เป็น {STRENGTH}
+ABILITY/GRACE_OF_THE_SKY/TITLE,พรจากฟากฟ้า
+ABILITY/GRACE_OF_THE_SKY/DES,ขณะอยู่ในสถานะ {ANGRY} การใช้ {SERVE} จะใช้ {SERVE_SKY} และได้รับ {FEVER_POINT} <fever_count>
+ABILITY/HEART_BREAKER/TITLE,ฮาร์ตเบรกเกอร์
+ABILITY/HEART_BREAKER/DES,{STRENGTH} เพิ่มขึ้น <buff_amount> ต่อผู้เล่นคู่แข่งแต่ละคนที่อยู่ในสถานะ {SAD} หรือ {CARELESS}
+ABILITY/HEAT_SINK/TITLE,ฮีตซิงก์
+ABILITY/HEAT_SINK/DES,ทุกครั้งที่เข้าสู่ {FEVER_MODE} ค่า {DEFENSE} จะเพิ่มขึ้น <buff_amount>
+ABILITY/INFERNO_BEAST/TITLE,อินเฟอร์โนบีสต์
+ABILITY/INFERNO_BEAST/DES,{STRENGTH} และ {SPEED} เพิ่มขึ้น <buff_amount> และความเร็วการเคลื่อนที่กลางอากาศเพิ่มเป็นสองเท่า
+ABILITY/IRON_WALL/TITLE,กำแพงเหล็ก
+ABILITY/IRON_WALL/DES,เมื่อหยุดการโจมตีด้วย {BLOCKING} หาก {HEIGHT} สูงกว่าผู้เล่นคู่แข่งที่โจมตี จะมีโอกาส <proc_percent> ที่จะเกิด {BLOCK_KILL}
+ABILITY/LEON_HEART_ARENA/TITLE,หัวใจของเลออน
+ABILITY/LEON_HEART_ARENA/DES,เมื่อใช้ {COMMON/WORD/SPIKE_JUMP} ใกล้ {LINE_END} ค่า {BALL_POWER} จะเพิ่มขึ้น <increase_percent> จนกว่าจะลงพื้น
+ABILITY/LIMIT_BREAK_ARENA/TITLE,ก้าวข้ามขีดจำกัด
+ABILITY/LIMIT_BREAK_ARENA/DES,เมื่อใช้ {COMMON/WORD/SPIKE_JUMP} จะใช้ {STAMINA} ที่เหลือครึ่งหนึ่ง และเพิ่ม {STRENGTH} กับ {DEFENSE} <buff_amount> รีเซ็ตเมื่อ {RALLY} สิ้นสุด
+ABILITY/LUCKY_RECEIVE_ARENA/TITLE,รับลูกโชคดี
+ABILITY/LUCKY_RECEIVE_ARENA/DES,เมื่อใช้ {RECEIVE} มีโอกาส <proc_percent> ที่จะกลายเป็น {COMMON/WORD/PERFECT_RECEIVE}
+ABILITY/OVERCLOCK/TITLE,โอเวอร์คล็อก
+ABILITY/OVERCLOCK/DES,ขณะอยู่ในสถานะ {ANGRY} ค่า {COMMON/SKILL/COOLDOWN} ของ {ACTIVE_SKILL} จะลดลงเร็วขึ้น <effect_percent>
+ABILITY/POWER_REBOUND/TITLE,พาวเวอร์รีบาวด์
+ABILITY/POWER_REBOUND/DES,เมื่อโจมตีคู่แข่งโดยไม่ผ่าน {TOSS} {BALL} มีโอกาส <proc_percent> ที่จะเด้งกลับมา
+ABILITY/QUICK_RECHARGE/TITLE,ควิกรีชาร์จ
+ABILITY/QUICK_RECHARGE/DES,ระยะป้องกันของ {SLIDING} เพิ่มขึ้น <increase_percent> และความเร็วในการลุกเพิ่มขึ้น
+ABILITY/SENSITIVE_HEART/TITLE,เซนซิทีฟฮาร์ต
+ABILITY/SENSITIVE_HEART/DES,{STRENGTH} เพิ่มเติมและ {COMMON/SKILL/DURATION} ของสถานะ {FOCUS} เพิ่มขึ้น <increase_percent>
+ABILITY/BURNING_HEART/TITLE,เบิร์นนิ่งฮาร์ต
+ABILITY/BURNING_HEART/DES,{STRENGTH} เพิ่มเติมและ {COMMON/SKILL/DURATION} ของสถานะ {ANGRY} เพิ่มขึ้น <increase_percent>
+ABILITY/SENSITIVE_LINK/TITLE,เซนซิทีฟลิงก์
+ABILITY/SENSITIVE_LINK/DES,เมื่อทำ {COMMON/WORD/PERFECT_RECEIVE} จะทำให้ผู้เล่นฝ่ายเราคนอื่นเป็น {FOCUS} เป็นเวลา <condition_time>
+ABILITY/SPOTLIGHT/TITLE,สปอตไลต์
+ABILITY/SPOTLIGHT/DES,เมื่อผู้เล่นฝ่ายเราใช้ {ACTIVE_SKILL} {TOSS} ครั้งถัดไปมีโอกาส <proc_percent> ที่จะเปลี่ยนเป็น {SKILL/SPOTLIGHT_TOSS/TITLE}
+ABILITY/STABLE_ATTACK/TITLE,สเตเบิลแอตแทก
+ABILITY/STABLE_ATTACK/DES,เมื่อ {STAMINA} สูงกว่าทีมคู่แข่ง {STRENGTH} จะเพิ่มขึ้นสูงสุด <buff_amount> ตามส่วนต่าง
+ABILITY/STABLE_BOOST/TITLE,สเตเบิลบูสต์
+ABILITY/STABLE_BOOST/DES,เมื่อ {STAMINA} เหลือครึ่งหนึ่งหรือมากกว่า การใช้ {SPIKE} จะได้รับ {FEVER_POINT} <fever_count>
+ABILITY/STAGE_DOMINANCE/TITLE,ยึดครองเวที
+ABILITY/STAGE_DOMINANCE/DES,เมื่อ {RALLY} เริ่ม จะกำหนดพื้นที่เรืองแสงบน {COURT} การกระโดดบนพื้นที่นั้นจะเพิ่ม {STRENGTH} และ {JUMP} ชั่วคราว <buff_amount>
+ABILITY/SUN_SPARK/TITLE,ประกายแสงอาทิตย์
+ABILITY/SUN_SPARK/DES,เมื่อไม่ได้อยู่ในสถานะ {SAD} ค่า {STRENGTH} และ {DEFENSE} จะเพิ่มขึ้น <buff_amount> เมื่อ {RALLY} สิ้นสุดจะเข้าสู่สถานะ {SAD}
+ABILITY/SUPER_SAVE/TITLE,ซูเปอร์เซฟ
+ABILITY/SUPER_SAVE/DES,หลังจากหยุดการโจมตีด้วย {SLIDING} จะเข้าสู่สถานะ {ANGRY} เป็นเวลา <condition_time> หาก {STAMINA} เหลือครึ่งหนึ่งหรือมากกว่า จะเข้าสู่สถานะ {FOCUS} แทน
+ABILITY/THUNDER_SPIKE_ARENA/TITLE,ลูกตบฟ้าคะนอง
+ABILITY/THUNDER_SPIKE_ARENA/DES,เมื่อใช้ {SPIKE} จาก {DATEN} ที่ 4m ขึ้นไป ค่า {BALL_POWER} จะเพิ่มขึ้นชั่วคราว <increase_percent>
+ABILITY/TIGER_STYLE/TITLE,วิชาพยัคฆ์ขาว
+ABILITY/TIGER_STYLE/DES,เมื่อโจมตีคู่แข่งที่อยู่ในสถานะ {SAD} ผู้เล่นคู่แข่งคนถัดไปที่แตะ {BALL} จะเข้าสู่สถานะ {SAD} เป็นเวลา <condition_time>
+ABILITY/TORTOISE_STYLE/TITLE,วิชาเต่าดำ
+ABILITY/TORTOISE_STYLE/DES,เมื่อเข้าสู่สถานะ {FOCUS} หรือ {ANGRY} จะทำให้คู่แข่งที่มี {COMMON/POSITION} เดียวกันเป็น {SAD} เป็นเวลา <condition_time>
+ABILITY/TOUGH_ARMOR/TITLE,เกราะแข็งแกร่ง
+ABILITY/TOUGH_ARMOR/DES,หลังจากหยุดการโจมตีด้วย {BLOCKING} ค่า {STATUS} ทั้งหมดจะเพิ่มขึ้นชั่วคราว <buff_amount>
+ABILITY/TRACE/TITLE,เทรซ
+ABILITY/TRACE/DES,เมื่อ {RALLY} สิ้นสุด หากไม่มี {ACTIVE_SKILL} หรือ {TOGGLE_SKILL} มีโอกาส <proc_percent> ที่จะคัดลอก {ACTIVE_SKILL} ของผู้เล่นฝ่ายเราแบบใช้ครั้งเดียว
+ABILITY/UNDERDOG/TITLE,ทีมรองบ่อน
+ABILITY/UNDERDOG/DES,ต่อผู้เล่นฝ่ายเราที่มีเกรด S- แต่ละคน {BALL_POWER} ของ {SPIKE} จะเพิ่มขึ้น <increase_percent>
+ABILITY/VERMILLION_STYLE/TITLE,วิชาหงส์แดง
+ABILITY/VERMILLION_STYLE/DES,เมื่อผู้เล่นคู่แข่งที่มี {COMMON/POSITION} เดียวกันเข้าสู่สถานะ {SAD} หรือ {CARELESS} จะเข้าสู่สถานะ {ANGRY} เป็นเวลา <condition_time>
+ABILITY/VIOLET_BLOSSOM/TITLE,ไวโอเล็ตบลอสซัม
+ABILITY/VIOLET_BLOSSOM/DES,{DEFENSE} และ {SPEED} เพิ่มขึ้น <buff_amount> ขณะมี {CONDITION} การใช้ {TOSS} จะลบ {CONDITION} และทำให้เกิด {FREE_BALL}
+ABILITY/YOONSEOK_DREAM/TITLE,ความฝันของยุนซอก
+ABILITY/YOONSEOK_DREAM/DES,เมื่อ {RALLY} สิ้นสุด {STRENGTH} ของผู้เล่นทั้งหมดจะเพิ่มขึ้น <buff_amount> ผลจะเพิ่มเป็นสองเท่าสำหรับ {SKILL/YOONSEOK/TITLE}
+ABILITY/PERFECT_PARRY/TITLE,เพอร์เฟกต์แพร์รี
+ABILITY/PERFECT_PARRY/DES,เมื่อทำ {COMMON/WORD/PERFECT_RECEIVE} หาก {STAMINA} ต่ำกว่าทีมคู่แข่ง จะสลับ {STAMINA} ของทั้งสองทีมและได้รับ {FEVER_POINT} <fever_count>
+ABILITY/CURE_RECEIVE_ARENA/TITLE,รับลูกฟื้นฟู
+ABILITY/CURE_RECEIVE_ARENA/DES,เมื่อทำ {COMMON/WORD/PERFECT_RECEIVE} จะฟื้นฟู {STAMINA} <heal_amount>
+ABILITY/GREATEST_SHOWMAN/TITLE,สุดยอดโชว์
+ABILITY/GREATEST_SHOWMAN/DES,เมื่อไม่ได้อยู่ใน {FEVER_MODE} การใช้ {ACTIVE_SKILL} ของผู้เล่นฝ่ายเรา 4 ครั้งจะฟื้นฟู {STAMINA} <heal_amount> และเข้าสู่ {FEVER_MODE}
+ABILITY/FEVER_ATTACK/TITLE,โจมตีฟีเวอร์
+ABILITY/FEVER_ATTACK/DES,ระหว่าง {FEVER_MODE} ค่า {STRENGTH} จะเพิ่มขึ้นสูงสุด <buff_amount> ตาม {COMMON/SKILL/DURATION} ที่เหลือของ {FEVER_MODE}
+ABILITY/DREAM_WALKER/TITLE,นักเดินในฝัน
+ABILITY/DREAM_WALKER/DES,ต่อ {INGAME/CHANGE_PLAYER} แต่ละครั้ง {STRENGTH} และ {DEFENSE} จะเพิ่มขึ้น <buff_amount>
+ABILITY/RIP_CURRENT_ARENA/TITLE,กระแสน้ำหวนกลับ
+ABILITY/RIP_CURRENT_ARENA/DES,{STRENGTH} และ {DEFENSE} เพิ่มขึ้น <buff_amount> แต่ความเร็วการเคลื่อนที่กลางอากาศลดลงครึ่งหนึ่ง
+ABILITY/FORTIFY/TITLE,เสริมป้อม
+ABILITY/FORTIFY/DES,เมื่อ {DEFENSE} มากกว่า 200 หรือ {HEIGHT} อย่างน้อย 200cm ความเร็วชาร์จ {BLOCKING} ระยะป้องกันของ {RECEIVE} และระยะป้องกันของ {SLIDING} จะเพิ่มขึ้น <increase_percent>
+ABILITY/SUPER_SLIDING/TITLE,ซูเปอร์สไลด์
+ABILITY/SUPER_SLIDING/DES,เมื่อหยุดการโจมตีด้วย {SLIDING} มีโอกาส <proc_percent> ที่จะไม่รับความเสียหาย ({RALLY} ละหนึ่งครั้ง)
+ABILITY/LUCID_DREAM/TITLE,ฝันรู้ตัว
+ABILITY/LUCID_DREAM/DES,หากใช้ {INGAME/CHANGE_PLAYER} 6 ครั้งขึ้นไป จะได้รับ {FEVER_POINT} <fever_count> เมื่อ {MATCH} เริ่ม
+ABILITY/RESILIENCE/TITLE,พลังฟื้นตัว
+ABILITY/RESILIENCE/DES,เมื่อลบ {CONDITION} จะฟื้นฟู {STAMINA} <heal_amount>
+ABILITY/GLASS_CANNON/TITLE,ปืนใหญ่แก้ว
+ABILITY/GLASS_CANNON/DES,{STRENGTH} เพิ่มขึ้น <buff_amount> {STAMINA} ไม่สามารถเกินครึ่งหนึ่งได้
+ABILITY/DEJAVU/TITLE,เดจาวู
+ABILITY/DEJAVU/DES,หากใช้ {INGAME/CHANGE_PLAYER} 6 ครั้งขึ้นไป ค่า {COMMON/SKILL/COOLDOWN} ของ {ACTIVE_SKILL} จะลดลงเร็วขึ้น <effect_percent>
+ABILITY/LITTLE_GIANT/TITLE,ยักษ์จิ๋ว
+ABILITY/LITTLE_GIANT/DES,เมื่อ {HEIGHT} เดิมต่ำที่สุดในบรรดา {PLAYER} ทั้งหมด {BALL_POWER} ของ {SPIKE} จะเพิ่มขึ้น <increase_percent>
+ABILITY/HOT_STREAK/TITLE,ฮอตสตรีก
+ABILITY/HOT_STREAK/DES,ขณะอยู่ในสถานะ {ANGRY} หาก {DREAM_SHARD} แบบสุ่มโอกาสอื่นเปิดใช้งานไม่สำเร็จ จะมีโอกาส <proc_percent> ที่จะบังคับเปิดใช้งาน
+ABILITY/IGNITION/TITLE,จุดไฟ
+ABILITY/IGNITION/DES,เมื่อผู้เล่นฝ่ายเราคนอื่นใช้ {ACTIVE_SKILL} จะเข้าสู่สถานะ {ANGRY} เป็นเวลา <condition_time>
+ABILITY/LUCKY_PUNCH/TITLE,หมัดนำโชค
+ABILITY/LUCKY_PUNCH/DES,ทุกครั้งที่ {DREAM_SHARD} แบบสุ่มโอกาสของผู้เล่นฝ่ายเราเปิดใช้งานสำเร็จ {STRENGTH} จะเพิ่มขึ้น <buff_amount> รีเซ็ตหลังจากใช้ {SPIKE}
+ABILITY/RECKLESS/TITLE,วู่วาม
+ABILITY/RECKLESS/DES,{STRENGTH} เพิ่มขึ้น <buff_amount> เมื่อใช้ {SERVE} จะไม่ใช้ {SERVE_FLOATER} และ {SERVE_BASIC}
+ABILITY/ENCORE/TITLE,อังกอร์
+ABILITY/ENCORE/DES,เมื่อใช้ {ACTIVE_SKILL} หากมีการใช้ {SKILL} เดียวกันแล้วใน {RALLY} นี้ จะฟื้นฟู {STAMINA} ทั้งหมดและได้รับ {FEVER_POINT} <fever_count>

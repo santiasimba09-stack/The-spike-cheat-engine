@@ -1,0 +1,431 @@
+﻿KEY,영어(en)
+BAEK_SIWOO/NICKNAME,Greatest Spiker
+,
+,
+,
+PLAYER/KIM_HEESUNG/NICKNAME,Greatest Middle Blocker
+PLAYER/KIM_HEESUNG/LINE,The best...? You're giving me too much credit.
+SKILLNAME_HEESUNG,Absolute Block
+SKILLDES_HEESUNG,Perfectly blocks any attack when skill is activated.
+PLAYER/KIM_HEESUNG/CATCHPHRASE,“I'll block that spike!”
+PLAYER/KIM_HEESUNG/SIMPLE_DES,"Captain of Hanbit High and arguably the best high school middle blocker. Though only a first-year, he earned the nickname ‘Invulnerable' by perfectly shutting down last year's 'Best Player' award winner's quick attacks.# His trademark 90-degree bow when greeting reflects his upright, sincere personality. Despite his usually gentle demeanor, his competitive fire explodes on court, making him quite intimidating to face."
+PLAYER/KIM_HEESUNG/SIMPLE_DES_02,"A freshman who has secured the captain position at Hanbit High through sheer skill. He is considered the best in his role, having surpassed last year's Greatest Middle Blocker."
+PLAYER/KIM_HEESUNG/BACKNUM,
+PLAYER/KIM_HEESUNG/BIRTHDAY,
+PLAYER/KIM_HEESUNG/MOTTO,"Endless effort, endless humility!"
+PLAYER/OASIS/NICKNAME,Prince of the Sea
+PLAYER/OASIS/LINE,"Okay, let’s have some fun!"
+PLAYER/OASIS/LINE_02,"Yes, more wonderful sunshine today! Let the volleyball of dreams begin!"
+SKILLNAME_OASIS,High Noon
+SKILLDES_OASIS,Grow stronger every time the opposing team scores 3 points. Becomes the strongest player at 15 points.
+PLAYER/OASIS/CATCHPHRASE,“Let's have fun. That's what volleyball is about!”
+PLAYER/OASIS/SIMPLE_DES,"The world's best professional beach volleyball player. Currently retired and developing youth players at Sun Volleyball Team. 'Oasis' isn't his real name, and nothing is known about his pre-professional career. He just laughs off any questions about his past."
+SKILLNAME_OASIS2,Sunrise
+SKILLNAME_OASIS3,Sunset
+PLAYER/OASIS/DETAIL_DES,"Oasis is a player alias, not his real name. His true identity remains unknown, and his activities prior to becoming a professional player are undisclosed. He embraces a free-spirited playstyle, unconstrained by competition or financial motivations."
+PLAYER/OASIS/NEW_DES,
+SKILLDOLPA_OASIS,Stats further increase in proportion to skill efficiency.
+PLAYER/OASIS/BIRTH,
+PLAYER/OASIS/BACKNUM,
+PLAYER/OASIS/MOTTO,"Where there’s a dream, there’s my home!"
+PLAYER/HAN_SOLHWA/NICKNAME,Greatest Setter
+PLAYER/HAN_SOLHWA/LINE,May this place see a bloom of flowers.
+SKILLNAME_SOLHWA,Surprise Attack
+SKILLDES_SOLHWA,Seolhwa attacks right away when the skill is activated. This attack cannot be blocked.
+PLAYER/HAN_SOLHWA/CATCHPHRASE,“I'll draw out your full potential.”
+PLAYER/HAN_SOLHWA/SIMPLE_DES,"The nation's top high school setter. He's been recognized for tremendous potential since middle school. Originally played as an attacker but switched to setter in high school. Thanks to his middle school achievements, many still remember him as a 'monster attacker.' People still suggest he'd be better as an attacker, but he firmly refuses, apparently due to middle school trauma. His excellence in both offense and defense makes his talent obvious even to casual observers."
+PLAYER/HAN_SOLHWA/BIRTH,
+PLAYER/HAN_SOLHWA/BACKNUM,
+PLAYER/HAN_SOLHWA/MOTTO,"Don’t think as you live, live as you think."
+SKILLNAME_JAEHYUN,Determination
+SKILLDES_JAEHYUN,"When your team’s stamina is at or below 30%, all stats increase."
+SKILLDOLPA_JAEHYUN,Stats further increase in proportion to skill efficiency.
+PLAYER/NAM_JAEHYUN/CATCHPHRASE,“I won't let a single ball slip by. That's my path to the top.”
+PLAYER/NAM_JAEHYUN/SIMPLE_DES,"Outside hitter for Sky High and Siwoo Baek's rival. Along with Yongsup Lee, he's considered one of the best high school attackers. Known for incredible stamina from his well-conditioned body and unbreakable willpower. He never stops moving during matches, exhausting anyone trying to mark him.# Completely lacks natural volleyball talent - his coordination is so poor he has to memorize every single movement and drill it repeatedly just to keep up with others. His coach, who cares about him most, even suggested he quit volleyball. But Jaehyun never gave up, training several times harder than everyone else to reach where he is today. He continues working tirelessly toward becoming the best."
+PLAYER/NAM_JAEHYUN/DETAIL_DES,"On the surface, he appears to be a delinquent, but he is deeply focused on his goals and never indulges in pointless behavior. With both parents being teachers, he excels academically and is recognized as a top student."
+PLAYER/NAM_JAEHYUN/BIRTH,
+PLAYER/NAM_JAEHYUN/BACKNUM,
+PLAYER/NAM_JAEHYUN/MOTTO,Ad astra per aspera# (The road to the stars is paved with thorns.)
+PLAYER/LEE_YOUNGSEOB/NICKNAME,Greatest Spiker
+PLAYER/LEE_YOUNGSEOB/LINE,"I’ll go easy on you, so give it your best shot."
+SKILLNAME_YOUNGSUB,Hidden Brilliance
+SKILLDES_YOUNGSUB,"Even without any special abilities, he’s the greatest high school spiker who dominates the court with his physicality."
+PLAYER/LEE_YOUNGSEOB/CATCHPHRASE,"“My name's Yongsup Lee. I'm 169cm tall, and I'm Jisan High's ace.”"
+PLAYER/LEE_YOUNGSEOB/SIMPLE_DES,"The ace of Jisan High. Though short in stature, he’s earned his place as a top-tier ace with explosive jumps and crushing spikes. The true backbone of the team, he embodies the ideal leader who always looks after his teammates. His stiff, formal way of speaking can make him seem intimidating, but in truth, he’s surprisingly kind to his juniors."
+PLAYER/LEE_YOUNGSEOB/DETAIL_DES,"A leader who leads the team and understands their emotions to offer what’s needed. Acts as the team’s focal point. His speech is firm, giving off a disciplined vibe. However, despite his tone, he is known as a kind senior to his juniors."
+PLAYER/LEE_YOUNGSEOB/NEW_DES,
+PLAYER/LEE_YOUNGSEOB/BIRTH,
+PLAYER/LEE_YOUNGSEOB/BACKNUM,
+PLAYER/LEE_YOUNGSEOB/MOTTO,“Impossible” is just an excuse for those who don't try.
+PLAYER/LISIA/NICKNAME,Maiden of the Sky
+PLAYER/LISIA/LINE,Immerse yourself in the charm of beach volleyball!
+SKILLNAME_LISIA,Skyball Serve
+SKILLDES_LISIA,"She has a powerful serve that she throws high into the sky. If she performs consecutively successful serves, her chance of success decreases."
+SKILLDOLPA_LISIA,Chance of a successful serve increases according to skill efficiency.
+PLAYER/LISIA/CATCHPHRASE,"“Romance, freedom, the sea! Isn't beach volleyball just wonderful?”"
+PLAYER/LISIA/SIMPLE_DES,"Player for Sun Receivers, the youth team of Sun Volleyball Team. Like her idol Oasis, she aims to enjoy the sport without being constrained by rules and victory. Though relatively new to beach volleyball, she's already secured a starting position and performs more brilliantly than anyone.# Playing under the scorching sun all day has given her quite an appetite - she never leaves food unfinished and calmly devours even bizarre dishes, making her the main culprit behind emptying Oasis's wallet.# She delivers the team's most devastating serves, launching the ball high before hammering it down with both power and precision that prevents opponents from even attempting returns. However, her power control needs work - consecutive attempts often sail out of bounds."
+PLAYER/LISIA/BIRTH,
+PLAYER/LISIA/BACKNUM,
+PLAYER/LISIA/MOTTO,R = VD (Reality = Vivid Dream)
+SKILLNAME_ATIS,Rip Current
+SKILLDES_ATIS,"His recovery speed after sliding is slow, but his physical power is supreme."
+PLAYER/ARTIS/CATCHPHRASE,"“...Good, everyone's here. Welcome to Summer Splash.”"
+PLAYER/ARTIS/SIMPLE_DES,"Youth coach for the International Beach Volleyball Federation. His intimidating height and fierce expression make him seem unapproachable, but he genuinely cares for children with a warm heart.# Former teammate of Oasis who starred together at Sun Volleyball Team. Later transferred to Palm Spikes, becoming Oasis's rival. The transition reportedly involved considerable friction between them."
+PLAYER/ARTIS/BIRTH,
+PLAYER/ATRIS/BACKNUM,
+PLAYER/ARTIS/MOTTO,"There may be trials, but no failure."
+PLAYER/SANGHYEON/NICKNAME,Star of the Court
+PLAYER/SANGHYEON/LINE,Could you hit the Like button before you watch the game?
+SKILLNAME_SANGHYEON,Highlight
+SKILLDES_SANGHYEON,"When the skill is activated, it temporarily boosts the entire team’s abilities."
+PLAYER/SANGHYEON/CATCHPHRASE,“Please hit ‘Like’ before watching the match!”
+PLAYER/SANGHYEON/SIMPLE_DES,"The court's golden boy. His height and movie-star looks have earned him legions of fans. Fully aware of his marketability, he leverages it to orchestrate 'Superstar Challenge,' functioning more as a marketing mastermind than a traditional player. While this project opened new professional pathways for talented high schoolers, its reality-TV-style drama caused many players to burn out and quit. He embodies both volleyball's commercial potential and its pitfalls.# Ironically, he is very passionate about the sport itself. Though he gained fame as a player-influencer in Artistry High, he was already an industry insider by middle school, having created his own youth league. His obsession with volleyball's commercial viability stems from watching that self-created league fail due to lack of interest. Someone who recognized his unique talents later recruited him for training in Italy."
+PLAYER/SANGHYEON/BIRTH,
+PLAYER/SANGHYEON/BACKNUM,
+PLAYER/SANGHYEON/MOTTO,You’ll never get ahead by doing the same as everyone else★
+PLAYER/AYEON/NICKNAME,The Volleyball Chemist
+PLAYER/AYEON/LINE,2KNO₃... S.. 3C...
+SKILLNAME_AYEON,Chemical Reaction
+SKILLDES_AYEON,"After Ayeon makes the first receive, the ensuing set enables a powerful spike.#The spike enhanced by Chemical Reaction travels faster and greatly reduces the opponent's stamina when it explodes."
+SKILLDOLPA_AYEON,Chemical Reaction's additional attack power increases with skill efficiency.
+PLAYER/AYEON/CATCHPHRASE,“Hehe... would you like to be my friend?”
+PLAYER/AYEON/SIMPLE_DES,"Starting setter for Chemistry High. A skilled player who led the previously weak Chemistry High volleyball team to national tournament preliminaries. Her eyesight deteriorated from nightly reading, so she wears thick glasses. Chemistry High's volleyball fan club members reportedly go crazy for her with glasses on, though they admire her quietly from a distance to avoid making her uncomfortable. Ayeon has no idea the fan club exists and thinks people avoid her."
+PLAYER/AYEON/BIRTH,
+PLAYER/AYEON/BACKNUM,
+PLAYER/AYEON/MOTTO,Intelligence is the ability to adapt to change.
+PLAYER/JEONG_SOHEE/NICKNAME,Setter of Faith
+PLAYER/JEONG_SOHEE/LINE,"All right, let’s see what you got!"
+SKILLNAME_SOHEE,Stable Set
+SKILLDES_SOHEE,"When the skill is activated, sets appear to move slowly in midair."
+PLAYER/JEONG_SOHEE/CATCHPHRASE,"“It's okay if my legs are shaking, as long as I don't stop.”"
+PLAYER/JEONG_SOHEE/SIMPLE_DES,"Starting setter for Yellow Panther. Her cheerful and considerate nature means she can't ignore teammates being left out. Her meddling sometimes causes trouble, but she says it helped her make many good friends.# Despite her outgoing appearance, she gets quite lonely. Starting her career in Japan at a young age and shouldering team responsibilities made it increasingly difficult to open up to others. Her only weakness is constantly putting her emotions aside to meet everyone's expectations."
+PLAYER/JEONG_SOHEE/BIRTH,
+PLAYER/JEONG_SOHEE/BACKNUM,
+PLAYER/JEONG_SOHEE/MOTTO,"Don’t rush, but never stop!"
+PLAYER/NISHIKAWA_WEAKED/NICKNAME,Thunder Spiker
+PLAYER/NISHIKAWA_WEAKED/LINE,Haha! We’ll see what’s what!
+PLAYER/NISHIKAWA/NICKNAME,National Wing Spiker
+PLAYER/NISHIKAWA/LINE,I’ll prove your worth.
+SKILLNAME_NISIKAWA1,Energize
+SKILLDES_NISIKAWA1,Approaches let you control the height of your jump.
+SKILLNAME_NISIKAWA2,Thunder Spike
+SKILLDES_NISIKAWA2,Perform a more powerful Spike when the contact point with the ball is 4m or higher.
+SKILLNAME_NISIKAWA3,Topspin Feint
+SKILLDES_NISIKAWA3,Perform a feint that falls faster.
+SKILLNAME_NISIKAWA4,Multi Swing
+SKILLDES_NISIKAWA4,Allows for two swings in the air. Spike power is enhanced on the second swing.
+PLAYER/NISHIKAWA/CATCHPHRASE,“I'll prove your worth.”
+PLAYER/NISHIKAWA/SIMPLE_DES,"One of the Big Five attackers. When he spikes, thunder echoes through the gym, earning him the nickname 'Thunder Nishikawa.' Considered to have the best jumping skills among the Big Five, he's the one every young volleyball player dreams of becoming.# He’s the perfect example of the 'handsome without glasses' trope, hiding his sharp, piercing eyes behind thick-rimmed glasses. As a child, his sharp gaze often led to misunderstandings, so he began wearing glasses to get along better with others. The outdated design of his frames was chosen by his mentor."
+SKILLNAME_NISIKAWA5,Power Save
+PLAYER/NISHIKAWA/DETAIL_DES,"Among the Top 5 Spikers, he is renowned for having the best jumping ability. With an excessively positive mindset, he interprets any criticism as praise. Despite his natural talent, his relentless determination and effort have shaped him into a professional player, and he continues to improve."
+SKILLDOLPA_NISIKAWA,Grows stronger in proportion to skill efficiency.
+PLAYER/NISHIKAWA/BIRTH,
+PLAYER/NISHIKAWA/BACKNUM,
+PLAYER/NISHIKAWA/MOTTO,"Even just 1% is good, as long as I surpass yesterday’s me."
+PLAYER/YAMADERA/NICKNAME,Locking Middle Blocker
+PLAYER/YAMADERA/LINE,*Sigh* Why me...?
+SKILLNAME_YAMADERA,Lock
+SKILLDES_YAMADERA,"After Yamadera’s first bump, the last opposing player to have touched the ball becomes Locked.#The Locked condition greatly reduces stats for a short period of time."
+PLAYER/YAMADERA/CATCHPHRASE,“If this is going to take long... mind if I leave first?”
+PLAYER/YAMADERA/SIMPLE_DES,"Starting middle blocker for Valentia Spike. Extremely uncomfortable with social interaction and a chronic case of can't-be-bothered syndrome. His gloomy appearance and characteristically blunt speech lead to frequent misunderstandings.# Nishikawa's high school junior who had a depressing school life due to his introverted nature, OCD tendencies, and poor social skills. His life changed when Nishikawa approached him first after entering high school and invited him to join the volleyball club. Now they work together as an oddball duo.# Excels at observing opponents during matches to find solutions, quickly identifying small habits or strategies to neutralize their strengths."
+PLAYER/YAMADERA/BIRTH,
+PLAYER/YAMADERA/BACKNUM,
+PLAYER/YAMADERA/MOTTO,Speed corrupts the soul.
+PLAYER/ROBERTO/NICKNAME,Colosseum Armor
+PLAYER/ROBERTO/LINE,Good moves require good muscles!
+SKILLNAME_ROBERTO,Armor
+SKILLDES_ROBERTO,"Attack, Speed, and Jump are increased based on the accuracy of a block. Blocking also becomes more stable."
+SKILLDOLPA_ROBERTO,The gauge fills quicker according to skill efficiency.
+PLAYER/ROBERTO/CATCHPHRASE,"“I'm stopping you here, today.”"
+PLAYER/ROBERTO/SIMPLE_DES,"Roberto the Iron Wall. Built like a suit of armor with muscle covering every inch of his frame, and his stamina is so great that his breathing stays steady to the end of a match. But he's not just a physical specimen - his court awareness and tactical thinking are exceptional, making him a nightmare matchup. He instantly bonds with anyone who shares his appreciation for serious muscle development."
+PLAYER/ROBERTO/BIRTH,
+PLAYER/ROBERTO/BACKNUM,
+PLAYER/ROBERTO/MOTTO,"Talent shows in the frame, effort shows in the muscle."
+PLAYER/NN/NICKNAME,World’s Greatest Eccentric
+PLAYER/NN/LINE,Huh? You started? Already?
+SKILLNAME_NN,Snipe
+SKILLDES_NN,Perform a set to the chosen spot very quickly.
+PLAYER/NN/SIMPLE_DES,"Chocolate milk is a beverage that combines the flavor of chocolate with the nutrition of milk and provides a balance of carbohydrates, protein, and fat. It is a popular choice for increased calcium intake, especially in children."
+PLAYER/NN/BIRTH,Manufacturing Year/Month: YYYY.MM
+PLAYER/NN/BACKNUM,Raw Milk Grade: 1A
+PLAYER/NN/MOTTO,Ad Copy : Get chocolate milk?
+PLAYER/ISABEL/NICKNAME,Queen of the Colosseum
+PLAYER/ISABEL/LINE,I’m hoping to see a whammy of a spike from you...
+SKILLNAME_ISABEL,Parry
+SKILLDES_ISABEL,"Charges power in proportion to the opponent’s spike power. The more power is charged, the stronger her spikes and jumps become.#Receiving recovers stamina."
+SKILLDOLPA_ISABEL,Charge capacity increases with skill efficiency.
+PLAYER/ISABEL/CATCHPHRASE,"“If I get to receive a killer spike, I’ll face you every day.”"
+PLAYER/ISABEL/SIMPLE_DES,"Queen of the Colosseum. She wandered searching for strong attackers before settling in the Colosseum League, where she's now considered one of the strongest players. Her ideal type is reportedly an attacker who can deliver serves so powerful she can't even touch them.# She excels at defensive balance and loves receiving opponents' attacks then immediately counterattacking. She plays volleyball for the thrill of shutting down enemy attacks and paying them back with points."
+PLAYER/ISABEL/BIRTH,
+PLAYER/ISABEL/BACKNUM,
+PLAYER/ISABEL/MOTTO,The desert is beautiful because somewhere it hides a spring.
+PLAYER/LEON/NICKNAME,Beast of the Colosseum
+PLAYER/LEON/LINE,Good luck. You’ll need it.
+SKILLNAME_LEON,Pride
+SKILLDES_LEON,"The farther you are from the net, the more powerful your spike. Spikes near the net are weaker than normal."
+PLAYER/LEON/CATCHPHRASE,“Good luck. You'll need it.”
+PLAYER/LEON/SIMPLE_DES,"Captain of Green Leon. His rough playing style and sharp tongue often draw criticism. Having always pursued strength above all else, he's completely indifferent to those he considers weak, but turns docile as a lamb around Isabel and Roberto, whom he respects as strong players. He is secretly delighted when others acknowledge his skills."
+PLAYER/LEON/BIRTH,
+PLAYER/LEON/BACKNUM,
+PLAYER/LEON/MOTTO,Steel grows stronger the more it’s forged.
+PLAYER/VIOLA/NICKNAME,Viola
+SKILLNAME_VIOLA,Frantic
+SKILLDES_VIOLA,She enjoys setting the ball far from the net. Sometimes her sets recover the team’s stamina.
+PLAYER/VIOLA/CATCHPHRASE,"""Ordinary sets aren't fun, are they?"""
+PLAYER/VIOLA/SIMPLE_DES,"The Colosseum's mischievous girl, considered a candidate to succeed Isabel as the next queen. She loves romance stories indiscriminately and is especially interested in Isabel's love life. For someone so interested in others' romance, she's surprisingly dense about her own situation, leaving quite a few people secretly pining for her. She suffers from amnesia and remembers nothing from childhood.# She has strong hands and enjoys unconventional plays, especially setting back attacks during quick situations by sending the ball behind the attack line. Her unique setter style gives new teammates quite a hard time adjusting."
+PLAYER/VIOLA/BIRTH,
+PLAYER/VIOLA/BACKNUM,
+PLAYER/VIOLA/MOTTO,You only live once. Enjoy it to the fullest.
+PLAYER/MA_YOONSEOK/NICKNAME,Self-Professed Greatest Spiker
+PLAYER/MA_YOONSEOK/LINE,"I... I’ll go easy on you, so... so give it your best shot!"
+SKILLNAME_YOONSEOK,Yoonseok
+SKILLDES_YOONSEOK,Increases the likelihood of all members of the opposing team becoming careless.
+SKILLDOLPA_YOONSEOK,Feinted balls fall quicker in proportion to skill efficiency.
+PLAYER/MA_YOONSEOK/SIMPLE_DES,"I, one of the world's Big Five attackers, am temporarily hiding my identity while enjoying my youth in high school. However, I'm troubled by the constant confessions from female students lately. Especially the volleyball team manager, Dahee Jung. Recently, she's been openly showing her feelings for me. Why don't they understand that a cool guy like me lives only for volleyball? The path of a popular star is indeed rough.# Source: Yoonseok Ma's diary"
+PLAYER/MA_YOONSEOK/BIRTH,
+PLAYER/MA_YOONSEOK/BACKNUM,
+PLAYER/MA_YOONSEOK/MOTTO,Living well is the best revenge!
+PLAYER/JO_MINJUN/NICKNAME,Unlucky Spiker
+PLAYER/JO_MINJUN/LINE,I was sure today would be a lucky day...
+SKILLNAME_MINJUN,Blitz Spin
+SKILLDES_MINJUN,A spike that alters the trajectory of the ball in midair.
+SKILLDOLPA_MINJUN,Ball spin increases in proportion to skill efficiency.
+PLAYER/JO_MINJUN/CATCHPHRASE,"“No matter what happens, I won't run away. I know running away hurts more.”"
+PLAYER/JO_MINJUN/SIMPLE_DES,"The unlucky attacker. Misfortune strikes without fail at every important match, so he's rarely had a chance to show his full abilities. But for him, misfortune is just another seasoning to life. He brushes off the past and quickly starts new challenges. Teams with Minjun Cho never lose their fighting spirit."
+PLAYER/JO_MINJUN/BIRTH,
+PLAYER/JO_MINJUN/BACKNUM,
+PLAYER/JO_MINJUN/MOTTO,Eyes forward. There’s no looking back in my life.
+SKILLNAME_RYUHYUN,Azure Dragon
+SKILLDES_RYUHYUN,"By holding down the spike button in midair, Ryuhyeon can gather energy to deliver a charged spike.#The more energy he gathers, the stronger the attack power."
+PLAYER/RYUHYUN/CATCHPHRASE,“I will protect Seonrim.”
+PLAYER/RYUHYUN/SIMPLE_DES,"Student council president of Seonrim High and grand disciple of the traditional martial art 'Seonrim.' Raised from childhood by Seonrim's master as his top student. He wants to carry on the master's legacy and continue Seonrim's martial arts tradition, but his growing love for volleyball creates inner conflict.# His body, forged through years of martial arts training, allows him to deliver powerful spikes from any position. Even after a long break from volleyball, his spikes remain as heavy as stone."
+SKILLDOLPA_RYUHYUN,Charging speed increases in proportion to Skill Efficiency.
+PLAYER/RYUHYUN/DETAIL_DES,"He frequently whistles, a habit born out of no particular reason. However, this behavior becomes more prominent whenever Muyeong starts nagging."
+PLAYER/RYUHYUN/BIRTH,
+PLAYER/RYUHYUN/BACKNUM,
+PLAYER/RYUHYUN/MOTTO,"I may sway, but I will not break."
+PLAYER/RYUHYUN/NICKNAME,The Dragon Spiker
+PLAYER/RYUHYUN/LINE,I will protect the future of Seonrim.
+PLAYER/RYUHYUN/LINE_02,I’ll definitely win today!
+SKILLNAME_HONGSI,RAWR!
+SKILLDES_HONGSI,"On the first serve during the match, there is a high chance to put the entire opposing team into a [Discouraged] state.#Players touched by Hongshi's spike are marked, and if hit again, they will fail to defend."
+PLAYER/HONGSI/CATCHPHRASE,“Boys! Be Ambitious!”
+PLAYER/HONGSI/SIMPLE_DES,"One of Seonrim High's top martial artists. Full of curiosity, she often ditches school to explore the world. She and Ryuhyeon share the same mental age, so they constantly bicker and fight.# When she's in a good mood, she lets out spirited shouts while serving. She thinks everyone gets intimidated when she raises her voice, but in reality, everyone finds her so adorable that their concentration wavers."
+PLAYER/HONGSI/BIRTH,
+PLAYER/HONGSI/BACKNUM,
+PLAYER/HONGSI/MOTTO,"The world is vast, and adventure never ends!"
+PLAYER/HONGSI/NICKNAME,The Tiger Spiker
+PLAYER/HONGSI/LINE,"Bring it on, young man!"
+INGAME/HONGSI/LINE,The smallest Hongshi is the spiciest!
+SKILLNAME_MOOYOUNG,Protect
+SKILLNAME_MOOYOUNG_REMAKE,Aegis
+SKILLDES_MOOYOUNG,"When bumping, a large drop of water is generated around the body.#The player surrounded by the water experiences a significant increase in defense, and special ball effects are ignored."
+SKILLDES_MOOYOUNG_REMAKE,"When his trait activates, Muyeong enters the Aegis state, increasing the defense and defensive range of the player with the lowest defense. #Defending a feint while in the Aegis state transitions him to the Smite state."
+PLAYER/MUYEONG/CATCHPHRASE,“Touching the ball after so long feels strange. I must have missed it.”
+PLAYER/MUYEONG/SIMPLE_DES,"One of Seonrim's disciples with a cautious, composed personality that lands him with various odd jobs. He has an old soul - when Ryuhyeon gets stuck-up or Hongshi causes trouble, he clicks his tongue and launches into lectures.# His defensive prowess earned him the title 'Guardian of Seonrim.' Strategic thinking is his forte - he never panics, calmly reads situations, then chooses optimal moves. Not flashy, but extremely troublesome to face. He accurately gauges teammates' abilities and seamlessly coordinates them, elevating the entire team's defense."
+SKILLDOLPA_MOOYOUNG,The increase in defense and the reduction of power for the protected target are proportional to Skill Efficiency.
+SKILLDOLPA_MOOYOUNG_REMAKE,"Defense and defensive range in the Aegis state, and attack power in the Smite state, increase in proportion to skill efficiency."
+PLAYER/MUYEONG/BIRTH,
+PLAYER/MUYEONG/BACKNUM,
+PLAYER/MUYEONG/MOTTO,Don’t take it the wrong way. Just come here and listen to me.
+PLAYER/MUYEONG/NICKNAME,The Tortoise Setter
+PLAYER/MUYEONG/LINE,This strange feeling... I'm looking forward to it.
+PLAYER/MUYEONG/LINE_02,Gentleness is the greatest strength...
+SKILLNAME_HANRA,The Sun
+SKILLDES_HANRA,"Hanra's presence significantly reduces the chance of her teammates becoming [Discouraged].#Her physical abilities, such as defense, speed, defensive range, sliding speed, and block preparation speed, are superior to those of other players."
+PLAYER/HANRA/CATCHPHRASE,“I humbly request your guidance.”
+PLAYER/HANRA/SIMPLE_DES,"One of Seonrim High's four most skilled martial artists, and surprisingly, her martial arts abilities surpass even Ryuhyeon's. However, she acknowledges Ryuhyeon as Seonrim's grand disciple and focuses on supporting him. She essentially serves as the disciplinary committee head, and Hanra handles most campus disturbances.# Despite her cold, stoic exterior, she absolutely loves cute things. Thinking this hobby doesn't suit her image, she tries to hide it from others."
+PLAYER/HANRA/BIRTH,
+PLAYER/HANRA/BACKNUM,
+PLAYER/HANRA/MOTTO,"The stronger you are, the kinder you should be."
+PLAYER/HANRA/NICKNAME,The Vermillion Middle Blocker
+PLAYER/HANRA/LINE,It can't be helped. Just one match!
+PLAYER/HANRA/LINE_02,Be careful not to go blind!
+SKILLNAME_SODAM,Sunflower
+SKILLDES_SODAM,The height of the set changes depending on the distance between the spiker and Sodam.#There is a 5% chance to put the entire team into the [Engaged] state whenever the team concedes a point.
+PLAYER/SODAM/CATCHPHRASE,“Is it... okay to play volleyball now...?”
+PLAYER/SODAM/SIMPLE_DES,"Attends martial arts school but dreams of being a volleyball player instead of a martial artist. She happened to visit Seonrim High and fell for volleyball after watching students play passionately, leading her to enroll there. She was crushed when Ryuhyeon banned volleyball shortly after her arrival.# She adores Hanra and follows her around like a chick. She often gets stomachaches from dutifully eating the enormous portions Hanra feeds her."
+SKILLDOLPA_SODAM,Skill activation rate increases in proportion to Skill Efficiency.
+PLAYER/SODAM/BIRTH,
+PLAYER/SODAM/BACKNUM,
+PLAYER/SODAM/MOTTO,"If you have a dream, protect it."
+SKILLNAME_SARAH,CRITICAL Toss
+PLAYER/SARA/CATCHPHRASE,"""You always surpass my expectations."""
+PLAYER/SARA/SIMPLE_DES,"One of the Big Five attackers who dominates courts with explosive reflexes and speed. Even after reaching the Big Five, she remains humble and continues working toward growth. According to Asheville Weasels' master coach, Sara has the finest volleyball IQ among the Big Five.# Her high volleyball intelligence makes her an all-around player capable of pro-level performance at any position. During the off-season, she's temporarily playing setter to team with Siwoo but will return to attacking soon.# Though praised by everyone around her, she becomes clumsy around Siwoo, worrying and blushing at his every word and making uncharacteristic mistakes due to nerves. This sometimes makes Siwoo question her abilities."
+SKILLDES_SARAH,"During a set, a circle appears around the ball, indicating the perfect timing for a spike. Spiking the ball at the exact moment the circle touches the ball results in a much stronger attack.#Occasionally, at a low chance, Sara will spike the ball herself."
+PLAYER/SARA/SIMPLE_DES_02,"Sara Seo, one of the World’s Big Five Spikers. A player renowned for her incredibly fast movement on the court. As an all-rounder, she can perform at a pro starter level in any position. Currently filling in as a Setter for Siwoo, she is expected to return to her Spiker role in the future."
+PLAYER/SARA/BIRTH,
+PLAYER/SARA/BACKNUM,
+PLAYER/SARA/MOTTO,"No matter how hard you hit, you won't score 2 points."
+SKILLNAME_MIKE,Tire
+SKILLDES_MIKE,"While wearing a tire, speed and jump power decrease.#When sufficient impact accumulates through a receive, the tire is removed, greatly increasing jump power and speed."
+PLAYER/MIKE/CATCHPHRASE,"“Ready, Dave?”"
+PLAYER/MIKE/SIMPLE_DES,"Dave's older twin brother who co-runs the lodge. He enjoys exercising with sandbags strapped to his ankles and was famous during his playing days for extreme training methods like running with tires tied to his waist.# While he has no hair on top, his sideburns are thicker than anyone's. He carefully grooms them in front of the mirror every morning."
+PLAYER/MIKE/BIRTH,
+PLAYER/MIKE/BACKNUM,
+PLAYER/MIKE/MOTTO,Sweat never lies!
+SKILLNAME_DAVE,Warm-Up
+SKILLDES_DAVE,"If stationary, performs push-up motions. #The longer he performs push-ups, the stronger his physical stats become, and his body size gradually increases."
+PLAYER/DAVE/CATCHPHRASE,"“Let's do this, Mike!”"
+PLAYER/DAVE/SIMPLE_DES,"Owner of the lodge where Rockwell Camp is held. Former volleyball player, though he was more famous for his magnificent mustache and muscular build than his skills. His solid physique and carefully maintained silky hair are points of pride.# A true gentleman and genuinely good person. When Rockwell Camp starts, he and his older twin brother Mike voluntarily help care for the children, which he takes great pride in. However, his excessive concern for the kids sometimes leads to over-the-top moments."
+PLAYER/DAVE/BIRTH,
+PLAYER/DAVE/BACKNUM,
+PLAYER/DAVE/MOTTO,Muscles never betray you!
+PLAYER/CLYDE/LINE,"Navi, let's kill some time for a bit."
+PLAYER/CLYDE/NICKNAME,Promising Middle Blocker
+SKILLNAME_CLYDE,Navi
+SKILLDES_CLYDE,"Clyde’s beloved cat accompanies him on the court. #The cat roams around, changing players in the Discouraged condition to Engaged."
+PLAYER/CLYDE/CATCHPHRASE,"“Here, kitty, dinner’s ready!”"
+PLAYER/CLYDE/SIMPLE_DES,"Starting middle blocker for Rockwell Youth Volleyball Team. Not as rich as Tania, but still from a quite well-off family.# Has an extremely laid-back personality - when he disappears for stretches, he's usually playing with cats. As a child, he'd often vanish chasing cats, causing small panics, and it was always Tania who had to track him down and bring him back. Even now, Tania remains his only real friend, and the two still bicker whenever they meet."
+PLAYER/CLYDE/BIRTH,
+PLAYER/CLYDE/BACKNUM,
+PLAYER/CLYDE/MOTTO,I can’t live without cats.
+SKILLNAME_TANIA,Speed Set
+SKILLDES_TANIA,"Performs rapidly descending sets. #When spiking Tania’s sets, the faster the set descends, the greater the ball’s impact. #(This player is challenging for beginners to use.)"
+PLAYER/TANIA/CATCHPHRASE,"“Alright, if you lose to Tania, get ready to pack your bags and go home. Got it?”"
+PLAYER/TANIA/SIMPLE_DES,"Youngest daughter of world-famous Wilton Group's chairman. She naturally fell for volleyball while playing with balls from 'RISE,' Wilton Group's volleyball brand. She has both passion and talent but grew up spoiled, making her somewhat self-centered. She carelessly delivers quick sets without considering teammates, often leaving them scrambled.# She's known Clyde, another rich kid, since childhood. She's secretly bothered that Clyde doesn't try to impress her like others do and aims to make him recognize her greatness someday."
+PLAYER/TANIA/BIRTH,
+PLAYER/TANIA/BACKNUM,
+PLAYER/TANIA/MOTTO,I am the protagonist of my own life.
+PLAYER/JENNY/NICKNAME,Wild Cat
+SKILLNAME_JENNY,Icarus
+SKILLDES_JENNY,"Attack power and jump height increase based on the highest contact point achieved during the match.#When the highest contact point is updated, spike power increases by 25%."
+PLAYER/JENNY/CATCHPHRASE,“I can lose to others. But I can't lose to myself!“
+PLAYER/JENNY/SIMPLE_DES,"Phantom League's youngest attacker. After promising Sara Seo in childhood to 'become the best volleyball players,' she's been pushing forward relentlessly ever since. A childhood injury nearly ended her volleyball career forever, but through sheer determination and blood, sweat, and tears, she overcame it and showed the most remarkable growth rate in Phantom League. Her emotional intensity runs high, causing dramatic performance swings based on her mental state, but when she's locked in, her focus becomes razor-sharp.# Having devoted her entire life to volleyball, she's out of touch with general knowledge and struggles with normal teenage social interactions. It's not that she's uninterested in other things - she simply hasn't had opportunities to explore them, so she sometimes watches her peers with quiet longing."
+PLAYER/JENNY/BIRTH,
+PLAYER/JENNY/BACKNUM,
+PLAYER/JENNY/MOTTO,"Farther than anyone, higher than anyone."
+SKILLNAME_ELLIO,Abyss Toss
+SKILLDES_ELLIO,"The deeper you spike Ellio's toss, the more powerful it becomes."
+PLAYER/ELLIO/DES,I'll show you the most beautiful match.
+PLAYER/ELLIO/CATCHPHRASE,“We need to play in a way that entertains the audience. We're professionals.”
+PLAYER/ELLIO/SIMPLE_DES,"Once played for a prestigious team but was released for unknown reasons and drifted to Phantom League. Now he plays on the same team as Jenny, gaining popularity through excellent fan service and showmanship.# He feels sorry watching Jenny gradually break down in Phantom League and secretly looks after her, making him one of the few people she truly opens up to. He calls himself 'materialistic,' but everyone unanimously considers him a 'good person.' Though he acts selfish and calculating on the outside, he's always carefully supporting those around him behind the scenes."
+PLAYER/ELLIO/BIRTH,
+PLAYER/ELLIO/BACKNUM,
+PLAYER/ELLIO/MOTTO,"Soft as the breeze, flexible as the reed."
+SKILLNAME_RAUL,
+SKILLDES_RAUL,
+PLAYER/JENNY/DES,I'll jump higher than anyone else!
+PLAYER/RAUL/SIMPLE_DES,"The only Lv.4 player in the Phantom League and one of the five top spikers. Raul is fierce and combative, finding thrill in facing strong opponents. He hates taking orders from others, except from his older sister, Carla, whom he obeys without question. He never forgets a grudge or a favor, and surprisingly values loyalty."
+PLAYER/RAUL/BIRTH,
+PLAYER/RAUL/BACKNUM,
+PLAYER/RAUL/MOTTO,I'd rather crush than be crushed.
+PLAYER/RAUL_FIRST_SHOW/LINE,You're in my way. Move.
+PLAYER/RAUL_FIRST_SHOW/NICKNAME,Beast Spiker Raul
+SKILLNAME_LUCAS,Flare
+SKILLDES_LUCAS,"When the ability is activated, all stats temporarily increase significantly. However, the more you use the ability, the more your stats decrease when not using it."
+PLAYER/LUCAS/CATCHPHRASE,“How can you call yourself a superstar if you just do what you're told?”
+PLAYER/LUCAS/SIMPLE_DES,"Phantom League's strongest attacker. Natural talent and instinct let him excel at whatever he tries. Self-centered with strong narcissistic tendencies, but he takes his responsibilities as a superstar seriously.# Before his final Phantom League match, he accidentally glimpsed Sanghyeon's tablet and discovered notes that had been erased and rewritten countless times. When he saw the word 'Oasis' on the last line, he immediately grasped its meaning and adopted it as his stage name."
+PLAYER/LUCAS/BIRTH,
+PLAYER/LUCAS/BACKNUM,
+PLAYER/LUCAS/MOTTO,"Where there are fans, that’s my stage!"
+SKILLNAME_ZERO,Spotlight
+SKILLDES_ZERO,"When the skill is activated, a low toss is made. The toss glows as it approaches its peak, and you cannot spike before that. Spiking at the right time delivers more power, but if you fail, the wing spiker becomes Discouraged."
+PLAYER/ZERO/CATCHPHRASE,“I'll make you a superstar.”
+PLAYER/ZERO/SIMPLE_DES,"This is Sanghyeon from 5 years ago. From the moment he entered middle school, his overwhelming talent drew attention as a 'genius setter.' He was considered capable of excelling at any position, not just setter. This talent earned him Sun Spark's starting setter role after advancing to Phantom League. 'Zero' isn't his real name but one he chose for international activities. Rumors suggest Carla gave him the name.# After leaving Phantom League, Sanghyeon transferred to Artistry High. On his first day, even his old middle school friends didn't recognize him - he'd dyed his hair in bright colors and completely changed the way he spoke. Some friends asked why, but Sanghyeon just kept his eyes on his phone screen, offering no explanation."
+PLAYER/ZERO/BIRTH,
+PLAYER/ZERO/BACKNUM,
+PLAYER/ZERO/MOTTO,A mistake made once must never be repeated.
+SKILLNAME_HARI,Death Bloom
+SKILLDES_HARI,"A mark is left on the opposing player who last touched the ball during the receive. When the ability is activated at the desired moment, all marked players are temporarily restricted in their actions."
+PLAYER/HARI/CATCHPHRASE,“...It's just work.”
+PLAYER/HARI/SIMPLE_DES,"Former Queen of the Colosseum and member of Phantom League's 15-person committee. Isabel only claimed the queen's throne after Hari vanished from the Colosseum.# She executes any order Carla gives without question - except one. She refuses to throw away the old, worn wrist guard on her left wrist, defying even Carla's commands on this matter. Only Carla and Hari know why.# Her specialty is thoroughly analyzing opponents to completely dominate matches. Enemy players become paralyzed, unable to execute even their most confident plays."
+PLAYER/HARI/BIRTH,
+PLAYER/HARI/BACKNUM,
+PLAYER/HARI/MOTTO,...
+SKILLNAME_CROW,Dark Crow
+SKILLDES_CROW,Can deliver spikes that ignore 50% of the opponent's defense.
+PLAYER/CROW/CATCHPHRASE,“Too bad. We're winning this match.”
+PLAYER/CROW/SIMPLE_DES,"Middle blocker who partnered with Isabel as a duo. Though they were recognized as top Colosseum players together, he's actually neurotic and obsessive by nature. Despite his high-strung personality, he carefully looks after Isabel with deep camaraderie."
+PLAYER/CROW/BIRTH,
+PLAYER/CROW/BACKNUM,
+PLAYER/CROW/MOTTO,Live in the moment
+SKILLNAME_RAUL,Beast Spike
+SKILLDES_RAUL,You can perform a powerful spike in midair by gaining momentum.
+PLAYER/RAUL/CATCHPHRASE,"""I’ll crush you."""
+PLAYER/RAUL/SIMPLE_DES,"One of the Big Five attackers. With overwhelming power, he crushes his opponents on the court. Not only is he incredibly strong, but his ball control is frighteningly precise, allowing him to fire cannon-like serves straight onto the sideline without hesitation.# Once known for recording the highest transfer fee across all five major leagues, he shattered multiple personal award records and drew global attention from fans. He even declared he would claim the MVP title in all five leagues and transferred teams to compete with Victor for the championship. However, after a major incident that caused a huge uproar and led to his suspension, he is now seeking redemption in the Phantom League."
+PLAYER/RAUL/BIRTH,
+PLAYER/RAUL/BACKNUM,
+PLAYER/RAUL/MOTTO,Crush or be crushed.
+SKILLNAME_SIF,Gladius Wall
+SKILLDES_SIF,Restores 30 stamina and temporarily increases teammates' defense.#The defense boost scales with each teammate’s attack power.
+PLAYER/SIF/CATCHPHRASE,"“Name’s Sif. Setter of Inferno Nero."""
+PLAYER/SIF/SIMPLE_DES,"The best setter in the Phantom League. Three words define her: calm, composed, perfectionist. She’s the reliable backbone of her team, never panicking and always finding solutions when things get tough.# # But that’s just the surface.# # At her core lies love, pure and fiery. Everything else is just a mask. Her heart beats only for Raul, and she constantly struggles to suppress her overflowing admiration for him. Sometimes, her feelings slip out unintentionally, but she still firmly believes that no one has noticed her secret."
+PLAYER/SIF/BIRTH,
+PLAYER/SIF/BACKNUM,
+PLAYER/SIF/MOTTO,"For Raul, always and forever!"
+SKILLNAME_CLAIRE,Overdrive
+SKILLDES_CLAIRE,"Overdrive gauge is filled at the end of each rally.#When the trait is activated, your team’s overall stats increase for a certain duration.#The fuller the gauge, the greater the stat boost and duration."
+PLAYER/CLAIRE/CATCHPHRASE,"""Victory belongs to me."""
+PLAYER/CLAIRE/SIMPLE_DES,"A genius middle blocker who’s every bit as arrogant as he is skilled. His striking looks and dominating playstyle make him impossible to ignore, drawing crowds wherever he plays. Though he’s known for his terrible fan service, he insists he’s being as polite as he can be in his own way.# Cursed with bad luck when it comes to rivals, he’s always been stuck in second place, first behind Lucas, now behind Raul. Enraged by his failure to win MVP, he’s grown to despise the two who took the title. Determined to defeat Raul, he even switched his position to middle blocker. This season, he’s ready to claim the MVP crown, no matter what it takes."
+PLAYER/CLAIRE/BIRTH,
+PLAYER/CLAIRE/BACKNUM,
+PLAYER/CLAIRE/MOTTO,Only in rich soil does the finest fruit grow.
+SKILLNAME_SARA_WS,Typhoon
+SKILLDES_SARA_WS,"After leaping via the Gust Skill, holding the Spike Button allows you to hover briefly as target points rapidly appear on the opponent's court. #Releasing the Spike Button will strike that point."
+PLAYER/SARA_WS/CATCHPHRASE,"""I've got your back."""
+PLAYER/SARA_WS/SIMPLE_DES,"One of the World’s Big Five Spikers. Having hidden her true talent just to play alongside Siwoo, she has finally revealed her full potential. Though she is usually gentle and kind, she is a girl of ""iron will in a velvet glove"" who shows unparalleled skill once the match begins. Despite being a minor, she debuted in the American-based global pro league LOV (League One Volleyball) and led her team to victory in her first season. After winning back-to-back MVP titles, she rose to become the final member of the World’s Big Five Spikers. The world is now buzzing over the birth of this new superstar."
+PLAYER/SARA_WS/BIRTH,
+PLAYER/SARA_WS/BACKNUM,
+PLAYER/SARA_WS/MOTTO,"No matter how hard you hit, you won't score 2 points."
+SKILLNAME_IRIS,Imperial Order
+SKILLDES_IRIS,"When the Skill is active, the number of Compasses on the Court increases to 3. #The compasses rotate at different speeds, but there is always a moment when they overlap toward the opponent's court."
+PLAYER/IRIS/CATCHPHRASE,"""...I wonder if the Owner is going to scold me again today... hehe..."""
+PLAYER/IRIS/SIMPLE_DES,"The captain of the Asheville Weasels. She took over the captain’s armband and has led the team since the retirement of Kelly, one of the World’s Big Five Spikers. Although she feels a deep sense of responsibility and a desire to lead the team well, her naturally timid personality leaves her constantly struggling between the front office and the players.## However, it would be a huge mistake to think she is merely gentle. The captaincy of the Asheville Weasels isn't a position for the unskilled; she is a highly talented and incredibly demanding Setter. If a spiker can't keep up with her toss, she will repeatedly set the exact same ball until they succeed. ""I'm going to send the same toss again now."" It’s said that even the most battle-hardened veterans of the Asheville Weasels get chills down their spines when they hear her ice-cold voice."
+PLAYER/IRIS/BIRTH,
+PLAYER/IRIS/BACKNUM,
+PLAYER/IRIS/MOTTO,Good is the enemy of Great.
+SKILLNAME_YURI,Pain Killer
+SKILLDES_YURI,"When the Skill is active, your team's Speed, Defense, Attack Power, and Jump increase. #Gravity also increases, and Sliding Recovery Speed becomes faster."
+PLAYER/YURI/CATCHPHRASE,"""I only do what I want to do."""
+PLAYER/YURI/SIMPLE_DES,"The troublemaker of the Black Lions. He couldn't care less about what others think, earning him a reputation as a total rebel. With a personality that forces him to speak his mind no matter what, his interviews almost always end up as front-page news.## His goal is to become a ""player better than Victor."" Although he is still just a reserve player for the Black Lions, that doesn't matter to him at all. He believes this is the only way to repay Victor, who led him to volleyball when he was about to head down the wrong path. Guided by his personal conviction that ""I can't live owing anyone anything,"" Yuri is training today to surpass his ultimate target: Victor."
+PLAYER/YURI/BIRTH,
+PLAYER/YURI/BACKNUM,
+PLAYER/YURI/MOTTO,"When you hit a wrong note, whether it becomes good or bad depends on the very next note you play."
+SKILLNAME_HAEUN,
+SKILLDES_HAEUN,
+PLAYER/SHIN_HAEUN/CATCHPHRASE,What do you think~ Isn't this penguin cute?
+PLAYER/SHIN_HAEUN/SIMPLE_DES,"The vice-captain and starting setter of the Jisan High School Volleyball Club. She played volleyball together with Dahee back in middle school and considers herself Dahee's best friend. However, because of her twisted personality of teasing those she likes for no reason, Dahee actually keeps her distance a bit. Although she can be somewhat self-centered, she isn't bad at heart and quietly looks after Dahee behind the scenes. She is highly trusted within the volleyball club, making it almost certain that she will be the next captain. Her favorite animal is the penguin."
+PLAYER/SHIN_HAEUN/BIRTH,
+PLAYER/SHIN_HAEUN/BACKNUM,
+PLAYER/SHIN_HAEUN/MOTTO,Joyful and exciting today as well!
+SKILLNAME_SAYA,Fish Bun
+SKILLDES_SAYA,"Upon trait activation, eats a Fish Bun to replenish physical strength.#Recovers the team's stamina and increases all of their own stats."
+PLAYER/YOO_SAYA/CATCHPHRASE,"""I’ll do my best. If I can help everyone."""
+PLAYER/YOO_SAYA/SIMPLE_DES,"Starting middle blocker of Terra High’s volleyball club. At first glance, she seems cold and blunt, but she is a loyal girl who cares about her team and friends more than anyone else. Sometimes, she acts on quirky ideas without hesitation, leaving those around her flustered. Her favorite food is Fish Bun, and her favorite friend is Boss the cat."
+PLAYER/YOO_SAYA/BIRTH,
+PLAYER/YOO_SAYA/BACKNUM,
+PLAYER/YOO_SAYA/MOTTO,A journey of a thousand miles begins with a single step.
+SKILLNAME_JIHOON,Miraculous Toss
+SKILLDES_JIHOON,"Upon trait activation, performs a Miraculous Toss.#If losing to the opponent team, the larger the score difference between the teams, the more the power of the ball spiked from the Miraculous Toss increases. (Stacks up to 7 points)"
+PLAYER/LEE_JIHOON/CATCHPHRASE,"""No one can stop me!"""
+PLAYER/LEE_JIHOON/SIMPLE_DES,"Starting setter of Terra High’s volleyball club. With his natural friendliness, he plays the role of the team’s mood maker wherever he goes. In elementary school, he moved to the United States with his father, where he faced players bigger than himself and developed strong stamina and mental toughness. He never loses heart, even against powerful opponents, and stays full of energy even when all his teammates are exhausted, making him a reliable source of vitality for the team.
+His hobby is running. However, he has a terrible sense of direction, so he often wanders off the walking path and gets lost. When walking his dog, he frequently ends up in another neighborhood."
+PLAYER/LEE_JIHOON/BIRTH,
+PLAYER/LEE_JIHOON/BACKNUM,
+PLAYER/LEE_JIHOON/MOTTO,Hakuna Matata (Everything will be alright.)
+LINE/LUCAS/SUMMERTRAINING_1,"Is this all I can do? <wait=85>Hah,"
+LINE/LUCAS/SUMMERTRAINING_2,Not even close!
+LINE/VIOLA/SUMMERTRAINING,Loser buys ice cream. Deal?
+LINE/HANRA/SUMMERTRAINING,"Hehe, it seems it will take quite some time to get used to this heat."
+SKILLNAME_GITAE,Intimidation
+SKILLDES_GITAE,"While the skill is active, landing a Kill Block deactivates the active skill of the opponent who last spiked. That opponent suffers a debuff for a set duration."
+PLAYER/HAN_GITAE/CATCHPHRASE,"If you’re the best, you should be able to turn a match like this around!"
+PLAYER/HAN_GITAE/SIMPLE_DES,"A key middle blocker and the team’s mood-maker, with an unmatched presence both on and off the court.#His confidence is well-founded, and he has plenty of nerve. The deeper his team falls into trouble, the more fired up he gets, sending everyone’s morale soaring. Straightforward and action-oriented, he dislikes beating around the bush and is clear about his likes and dislikes, but never holds a grudge. Despite his intimidating first impression, he is remarkably friendly and approaches even strangers without hesitation. He also has an unexpectedly caring side: he might quietly give a dejected junior a gentle tap on the head and casually say, ""Let’s grab something to eat.""#His goal: to be the strongest in the world!"
+PLAYER/HAN_GITAE/BIRTH,
+PLAYER/HAN_GITAE/BACKNUM,
+PLAYER/HAN_GITAE/MOTTO,Simple is the best
+SKILLNAME_YUNA,Full-Body Spike
+SKILLDES_YUNA,Spikes in various poses depending on the ball’s position. The spike’s trajectory changes with that position.
+PLAYER/SEO_YUNA/CATCHPHRASE,"Having talent doesn’t mean you always win, and lacking it doesn’t mean you always lose!"
+PLAYER/SEO_YUNA/SIMPLE_DES,"A hardworking wing spiker who earned a place on the national team through relentless effort despite difficult circumstances.#Bright, cheerful, and easy to get along with, she is loved wherever she goes, like the team’s mascot. She always carries a training notebook to help her overcome the limits of her natural physique. On the court, she is fiercely competitive and determined, using her exceptional flexibility to strike the ball from any angle. Even after a loss, she stays upbeat and says, ""It’s okay!"" Yet she is tenacious and stubborn enough to train alone in secret at night. Despite her cute appearance, she seems eager to be seen as a dependable senior by her juniors."
+PLAYER/SEO_YUNA/BIRTH,
+PLAYER/SEO_YUNA/BACKNUM,
+PLAYER/SEO_YUNA/MOTTO,It does not matter how slowly you go as long as you do not stop.
+SKILLNAME_SEJIN,Fortune's Turn
+SKILLDES_SEJIN,"When the skill is activated, removes allies’ debuffs at or below a certain level."
+PLAYER/KANG_SEJIN/CATCHPHRASE,I want to be a truly cool player... not just pretend to be one.
+PLAYER/KANG_SEJIN/SIMPLE_DES,"A setter who strives for a flawless, cool image, but whose poker face crumbles and ears turn red at sincere praise or kindness. Eager to impress, he puts effort into looking cool in everything from fashion to gaming nicknames. In reality, he is a bit of a goof who can’t even watch horror movies or eat bell peppers. He may seem distant at first, but once he opens up to someone, he approaches them freely. When the team is in trouble, he handles the match more calmly than anyone."
+PLAYER/KANG_SEJIN/BIRTH,
+PLAYER/KANG_SEJIN/BACKNUM,
+PLAYER/KANG_SEJIN/MOTTO,Praise can make even a whale dance.

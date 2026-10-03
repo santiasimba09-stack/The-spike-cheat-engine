@@ -1,0 +1,431 @@
+﻿KEY,스페인어(es)
+BAEK_SIWOO/NICKNAME,El mejor rematador
+,
+,
+,
+PLAYER/KIM_HEESUNG/NICKNAME,Mejor bloqueador central
+PLAYER/KIM_HEESUNG/LINE,Me dicen el mejor... Eso es una sobreestimación.
+SKILLNAME_HEESUNG,Bloqueo absoluto
+SKILLDES_HEESUNG,"Al activar la habilidad, bloquea perfectamente cualquier ataque."
+PLAYER/KIM_HEESUNG/CATCHPHRASE,"""¡Ese remate, yo lo bloqueo!"""
+PLAYER/KIM_HEESUNG/SIMPLE_DES,"Capitán del equipo de la Escuela Hanbit y considerado el mejor central del nivel escolar. Aunque apenas está en primer año, ganó el apodo de ""el impenetrable Heesung"" tras bloquear a la perfección los ataques rápidos del MVP del año pasado.# Es conocido por su carácter recto y disciplinado: siempre se inclina en un ángulo exacto de 90 grados al saludar, lo que se ha convertido en su sello personal. Fuera de la cancha tiene una sonrisa amable, pero una vez empieza el partido, su instinto competitivo se enciende y enfrentarlo puede ser realmente intimidante."
+PLAYER/KIM_HEESUNG/SIMPLE_DES_02,"Aunque está en primer año de secundaria, es un experto que ha ocupado el puesto de capitán en Escuela Hanbit. Se considera el mejor en la práctica tras haber vencido al mejor bloqueador central del año pasado."
+PLAYER/KIM_HEESUNG/BACKNUM,
+PLAYER/KIM_HEESUNG/BIRTHDAY,
+PLAYER/KIM_HEESUNG/MOTTO,¡Esforcémonos sin fin y seamos siempre humildes!
+PLAYER/OASIS/NICKNAME,Príncipe del mar
+PLAYER/OASIS/LINE,¿Listo para disfrutar?
+PLAYER/OASIS/LINE_02,"¡Ah, otro día con buen sol! ¡Vamos a jugar voleibol con romanticismo!"
+SKILLNAME_OASIS,Mediodía
+SKILLDES_OASIS,"Se vuelve más fuerte cada vez que el equipo contrario obtiene 3 puntos, convirtiéndose en el jugador más fuerte al alcanzar los 15 puntos."
+PLAYER/OASIS/CATCHPHRASE,"""¡Vamos a disfrutarlo al máximo! ¿Acaso eso no es el voleibol?"""
+PLAYER/OASIS/SIMPLE_DES,"El mejor jugador profesional de voleibol de playa del mundo. Actualmente retirado, dedica su tiempo a formar jóvenes talentos en el Equipo de Voleibol Solar. Como lo indica su nombre, ""Oasis"" no es su verdadero nombre, y no se sabe nada sobre su vida antes de debutar como profesional. Cuando le preguntan por su pasado, simplemente responde con una sonrisa."
+SKILLNAME_OASIS2,Amanecer
+SKILLNAME_OASIS3,Atardecer
+PLAYER/OASIS/DETAIL_DES,"Oasis es un nombre de jugador, no su nombre real. Su verdadero nombre es desconocido, y no se sabe nada sobre sus actividades antes de debutar como profesional. Es un espíritu libre, que busca un juego sin ataduras a la competencia ni al dinero."
+PLAYER/OASIS/NEW_DES,
+SKILLDOLPA_OASIS,Las estadísticas que aumentan en proporción a la eficiencia de la habilidad son más altas.
+PLAYER/OASIS/BIRTH,
+PLAYER/OASIS/BACKNUM,
+PLAYER/OASIS/MOTTO,"¡Donde hay un sueño, ahí está mi hogar!"
+PLAYER/HAN_SOLHWA/NICKNAME,Mejor colocador
+PLAYER/HAN_SOLHWA/LINE,Aquí es donde floreceré.
+SKILLNAME_SOLHWA,ATQ sorpresa
+SKILLDES_SOLHWA,"Al activar la habilidad, Seolhwa ataca de inmediato. Este ataque no puede ser bloqueado."
+PLAYER/HAN_SOLHWA/CATCHPHRASE,"""Haré que muestres todo tu potencial."""
+PLAYER/HAN_SOLHWA/SIMPLE_DES,"Considerado el mejor colocador de secundaria. Desde sus años en la escuela media se hizo famoso por su increíble potencial. Originalmente jugaba como atacante, pero al entrar a la secundaria cambió de posición a colocador. Aún hay muchos que lo recuerdan como el “monstruo atacante” por su desempeño en esa época, y no falta quien diga que ese rol le sigue quedando mejor. Sin embargo, él lo niega rotundamente, como si una especie de trauma de su etapa anterior aún lo marcara. Es tan bueno en ataque como en defensa, y hasta alguien sin experiencia en voleibol puede notar que es un jugador fuera de lo común."
+PLAYER/HAN_SOLHWA/BIRTH,
+PLAYER/HAN_SOLHWA/BACKNUM,
+PLAYER/HAN_SOLHWA/MOTTO,"No vivas según lo que te toca, vive según lo que piensas."
+SKILLNAME_JAEHYUN,Determinación
+SKILLDES_JAEHYUN,"Cuando la energía del equipo es del 30% o menos, todas las estadísticas aumentan."
+SKILLDOLPA_JAEHYUN,Las estadísticas que aumentan en proporción a la eficiencia de la habilidad son más altas.
+PLAYER/NAM_JAEHYUN/CATCHPHRASE,"""No voy a dejar pasar ni un solo balón. Ese es el camino para convertirme en el mejor."""
+PLAYER/NAM_JAEHYUN/SIMPLE_DES,"Es el atacante de punta de la Escuela Haneul. Rival de Siwoo y, junto a Youngsup, uno de los mejores rematadores a nivel escolar. Se distingue por su resistencia impresionante, fruto de un cuerpo bien entrenado, y una voluntad inquebrantable. Nunca deja de moverse durante el partido, lo que agota incluso al defensor más resistente que intenta marcarlo. No tiene ningún talento natural para el voleibol.# De hecho, su coordinación es tan pobre que ha tenido que memorizar cada movimiento y repetirlo cientos de veces solo para estar al nivel de los demás. Incluso su entrenador más cercano llegó a sugerirle que abandonara el deporte. Pero Jaehyun nunca se rindió. Entrenó el doble, el triple, hasta diez veces más que los demás, y gracias a eso ha llegado hasta aquí. Hoy también, sigue entrenando sin descanso para convertirse en el mejor jugador."
+PLAYER/NAM_JAEHYUN/DETAIL_DES,"Tiene la imagen de ser algo rebelde, pero es el tipo de persona que se enfoca solo en sus objetivos, por lo que no pierde el tiempo en tonterías. Con padres que son ambos maestros, es un estudiante excelente y destaca por su rendimiento académico."
+PLAYER/NAM_JAEHYUN/BIRTH,
+PLAYER/NAM_JAEHYUN/BACKNUM,
+PLAYER/NAM_JAEHYUN/MOTTO,Ad astra per aspera# (El camino hacia las estrellas es un camino de espinas.)
+PLAYER/LEE_YOUNGSEOB/NICKNAME,El mejor rematador
+PLAYER/LEE_YOUNGSEOB/LINE,"Me contendré un poco, así que esfuérzate."
+SKILLNAME_YOUNGSUB,Brillo discreto
+SKILLDES_YOUNGSUB,"Aunque no tenga habilidades especiales, puede dominar la cancha con sus extraordinarias habilidades físicas, siendo el Mejor rematador de la preparatoria."
+PLAYER/LEE_YOUNGSEOB/CATCHPHRASE,"«Me llamo Youngsup, mido 169 cm y soy el as de la Escuela Jisan.»"
+PLAYER/LEE_YOUNGSEOB/SIMPLE_DES,"El as de la Escuela Jisan. A pesar de su baja estatura, ha sabido imponerse como el mejor as del equipo gracias a su salto explosivo y una potencia impresionante. Es el verdadero pilar del equipo y un líder nato, siempre atento a sus compañeros y cuidando cada detalle. Aunque su forma de hablar puede parecer dura al principio, en realidad es muy amable con sus compañeros más jóvenes."
+PLAYER/LEE_YOUNGSEOB/DETAIL_DES,"Un estilo de liderazgo que guía al equipo, comprende bien sus sentimientos y puede proponer lo que se necesita. Juega un papel clave como el punto de referencia del equipo. Su forma de hablar es rígida y tiene una presencia autoritaria. Sin embargo, aunque su manera de hablar es así, en realidad es considerado un líder muy amable y cercano con los más jóvenes."
+PLAYER/LEE_YOUNGSEOB/NEW_DES,
+PLAYER/LEE_YOUNGSEOB/BIRTH,
+PLAYER/LEE_YOUNGSEOB/BACKNUM,
+PLAYER/LEE_YOUNGSEOB/MOTTO,Lo imposible es la excusa de quien no se esfuerza.
+PLAYER/LISIA/NICKNAME,La Dama Celestial
+PLAYER/LISIA/LINE,¡Sumérgete en el encanto del voleibol de playa!
+SKILLNAME_LISIA,Saque celestial
+SKILLDES_LISIA,"Realiza saques potentes que suben alto. Si logra varios saques consecutivos, la tasa de éxito disminuye."
+SKILLDOLPA_LISIA,La tasa de éxito del saque aumenta según la eficiencia de la habilidad.
+PLAYER/LISIA/CATCHPHRASE,"""¡Romance, libertad y mar! ¿No es increíble el voleibol de playa?"""
+PLAYER/LISIA/SIMPLE_DES,"Jugadora del equipo juvenil de Sun Receivers. Su objetivo es disfrutar del deporte sin obsesionarse con las reglas o la victoria, tal como su ídolo Oasis. Aunque no lleva mucho tiempo en el voleibol de playa, ya se ha ganado el puesto de titular y brilla más que nadie en la cancha.# Después de pasar días enteros bajo el sol jugando en la playa, tiene un apetito fuera de lo común. Nunca deja comida en el plato, y se come incluso los platos más raros sin inmutarse, por lo que se dice que es la principal culpable de dejar la billetera de Oasis vacía.# Tiene el saque más poderoso del equipo. Su estilo consiste en lanzar el balón bien alto y golpearlo con fuerza y precisión, haciendo que muchas veces los rivales ni siquiera puedan intentar recibirlo. Eso sí, aún le cuesta controlar la fuerza, y si lo intenta varias veces seguidas, fácilmente puede mandar la pelota fuera de la cancha como si fuera un jonrón."
+PLAYER/LISIA/BIRTH,
+PLAYER/LISIA/BACKNUM,
+PLAYER/LISIA/MOTTO,R = VD (Realidad = Sueño Vívido)
+SKILLNAME_ATIS,Corriente de resaca
+SKILLDES_ATIS,"Aunque se levanta lentamente después de deslizarse, posee habilidades físicas superiores."
+PLAYER/ARTIS/CATCHPHRASE,"""...Bien, ya están todos. Bienvenidos al Summer Splash."""
+PLAYER/ARTIS/SIMPLE_DES,"Entrenador juvenil de la Federación Internacional de Voleibol de Playa. Por su gran altura y expresión seria, puede parecer intimidante, pero en realidad tiene un corazón cálido y cuida sinceramente de los niños.# Fue excompañero de Oasis y juntos brillaron como estrellas del Equipo de Voleibol Solar. Más tarde se trasladó a los Palm Spikes, convirtiéndose en su rival. Se dice que hubo bastante tensión durante ese proceso."
+PLAYER/ARTIS/BIRTH,
+PLAYER/ATRIS/BACKNUM,
+PLAYER/ARTIS/MOTTO,"Puede haber pruebas, pero no hay fracasos."
+PLAYER/SANGHYEON/NICKNAME,Ídolo de la cancha
+PLAYER/SANGHYEON/LINE,"Por favor, denle un like antes de ver el partido"
+SKILLNAME_SANGHYEON,Destacado
+SKILLDES_SANGHYEON,"Al activar la habilidad, aumenta temporalmente las habilidades de todo el equipo."
+PLAYER/SANGHYEON/CATCHPHRASE,"""¡Antes de ver el partido, no olviden dejar su like!"""
+PLAYER/SANGHYEON/SIMPLE_DES,"Ídolo de la cancha. Gracias a su gran estatura y rostro atractivo, tiene una enorme base de fans. Él mismo es muy consciente de su carisma y lo aprovecha al máximo, organizando el ‘Superstar Challenge’, donde actúa más como productor o estratega de marketing que como jugador. Este proyecto abrió una nueva vía para que jóvenes promesas del voleibol escolar lleguen al mundo profesional, aunque su estilo de edición llamativo y provocador también ha llevado a varios a abandonar el deporte. Es una figura que, para bien o para mal, representa la comercialización del voleibol.# Pese a todo, su pasión por el voleibol es más fuerte que la de muchos. Comenzó a hacerse conocido como jugador-creador en una escuela de artes, pero ya en secundaria había fundado su propia liga de voleibol para jóvenes, ganándose cierto reconocimiento en el medio. Su interés por el aspecto comercial del deporte nació cuando aquella liga no logró captar público y tuvo que cerrar. Más adelante, fue descubierto por alguien que supo ver su potencial, y gracias a eso vivió un tiempo como estudiante en Italia."
+PLAYER/SANGHYEON/BIRTH,
+PLAYER/SANGHYEON/BACKNUM,
+PLAYER/SANGHYEON/MOTTO,Nunca superarás a los demás si solo haces lo mismo que ellos★
+PLAYER/AYEON/NICKNAME,El químico en la cancha
+PLAYER/AYEON/LINE,2KNO₃... S.. 3C...
+SKILLNAME_AYEON,Reacción química
+SKILLDES_AYEON,"La colocación posterior a la primera recepción de Ayeon permite realizar un remate potente.#El remate con Reacción química viaja más rápido y, al explotar, reduce enormemente la energía rival."
+SKILLDOLPA_AYEON,El ATQ adicional de la reacción química aumenta según la eficiencia de la habilidad.
+PLAYER/AYEON/CATCHPHRASE,“Jeje… ¿Te gustaría ser mi amigo?”
+PLAYER/AYEON/SIMPLE_DES,"Colocadora titular de la Escuela Hwahak. Su talento llevó al débil club de voleibol de la escuela hasta las eliminatorias del Torneo Nacional. Leer cada noche le ha deteriorado la vista, así que lleva gafas gruesas. A los miembros del club de fans les encanta cómo le quedan, aunque la observan en silencio y desde lejos para no incomodarla. Ayeon ni siquiera sabe que tiene un club de fans y cree, equivocadamente, que los demás se sienten incómodos en su presencia."
+PLAYER/AYEON/BIRTH,
+PLAYER/AYEON/BACKNUM,
+PLAYER/AYEON/MOTTO,La inteligencia es la capacidad de adaptarse al cambio.
+PLAYER/JEONG_SOHEE/NICKNAME,La colocadora de fe
+PLAYER/JEONG_SOHEE/LINE,"¡Vamos, vamos! ¡Veamos de qué eres capaz!"
+SKILLNAME_SOHEE,Colocación estable
+SKILLDES_SOHEE,"Al activar la habilidad, realiza una colocación que parece moverse lentamente en el aire."
+PLAYER/JEONG_SOHEE/CATCHPHRASE,"«Aunque te tiemblen las piernas, está bien. Lo importante es no detenerse.»"
+PLAYER/JEONG_SOHEE/SIMPLE_DES,"Colocadora titular de los Yellow Panthers. Tiene una personalidad alegre y considerada, y no puede ignorar a quienes se sienten excluidos dentro del equipo. Aunque su actitud entrometida a veces la mete en líos, ella dice que gracias a eso ha hecho muchos buenos amigos.# A pesar de su apariencia positiva, en realidad es muy sensible a la soledad. Comenzó su carrera en Japón desde muy joven, asumiendo un rol clave dentro del equipo, lo que con el tiempo hizo que le costara abrirse con los demás. Su única debilidad es que suele dejar sus propios sentimientos de lado para cumplir con las expectativas de sus fans, compañeros y familia."
+PLAYER/JEONG_SOHEE/BIRTH,
+PLAYER/JEONG_SOHEE/BACKNUM,
+PLAYER/JEONG_SOHEE/MOTTO,"No te apresures, pero no te detengas."
+PLAYER/NISHIKAWA_WEAKED/NICKNAME,El rematador del trueno
+PLAYER/NISHIKAWA_WEAKED/LINE,¡Ja ja! ¿Quieres ver cómo lo hago?
+PLAYER/NISHIKAWA/NICKNAME,Atacante de punta del equipo nacional
+PLAYER/NISHIKAWA/LINE,Te mostraré de lo que eres capaz.
+SKILLNAME_NISIKAWA1,Carga
+SKILLDES_NISIKAWA1,Puede ajustar la altura de sus saltos con una carrera de impulso.
+SKILLNAME_NISIKAWA2,Remate trueno
+SKILLDES_NISIKAWA2,Puede realizar remates más potentes desde un punto de contacto de 4 m o más.
+SKILLNAME_NISIKAWA3,Finta topspin
+SKILLDES_NISIKAWA3,Puede realizar fintas que caen rápidamente.
+SKILLNAME_NISIKAWA4,Golpe múltiple
+SKILLDES_NISIKAWA4,Se puede hacer 2 swings en el aire. Aumenta el poder del remate en el segundo swing.
+PLAYER/NISHIKAWA/CATCHPHRASE,«Yo demostraré lo que vales.»
+PLAYER/NISHIKAWA/SIMPLE_DES,"Uno de los cinco mejores rematadores del mundo. Cuando lanza un remate, el sonido retumba como un trueno en el gimnasio, por eso lo llaman Nishikawa el Trueno. Incluso entre los 5 mejores rematadores, es reconocido por tener la mejor capacidad de salto, y muchos jóvenes que recién empiezan en el voleibol sueñan con llegar a ser como él algún día.# También es conocido por encarnar el cliché de ""verse guapo sin gafas"". Normalmente usa unas gruesas gafas de pasta, pero al quitárselas, deja ver una mirada afilada e intensa. De niño, su expresión severa causaba muchos malentendidos, así que empezó a llevar gafas para parecer más accesible. El diseño anticuado de sus gafas fue elegido por su entrenador, a quien respeta profundamente."
+SKILLNAME_NISIKAWA5,Ahorro de energía
+PLAYER/NISHIKAWA/DETAIL_DES,"Es considerado el jugador con la mejor habilidad de salto entre los 5 mejores rematadores, sin duda alguna. Su actitud excesivamente positiva lo lleva a interpretar cualquier crítica como un cumplido. A pesar de tener un talento innato, se convirtió en un jugador profesional gracias a su firme objetivo y dedicación, demostrando un esfuerzo impresionante. Hoy en día, sigue mostrando su crecimiento y evolución."
+SKILLDOLPA_NISIKAWA,Aumenta en proporción a la eficiencia de la habilidad.
+PLAYER/NISHIKAWA/BIRTH,
+PLAYER/NISHIKAWA/BACKNUM,
+PLAYER/NISHIKAWA/MOTTO,"Aunque sea un 1%, superemos al yo de ayer"
+PLAYER/YAMADERA/NICKNAME,El bloqueador central del bloqueo de habilidades
+PLAYER/YAMADERA/LINE,Ah... ¿Por qué yo...?
+SKILLNAME_YAMADERA,Bloquear
+SKILLDES_YAMADERA,"Tras la primera recepción de Yamadera, el último rival que tocó el balón entra en estado de Bloqueo.#Este estado reduce considerablemente sus estadísticas durante un breve periodo."
+PLAYER/YAMADERA/CATCHPHRASE,"""Si la conversación se va a alargar... ¿podría irme antes...?"""
+PLAYER/YAMADERA/SIMPLE_DES,"Titular como central en los Valentia Spikes. Tiene serias dificultades para relacionarse con los demás y todo le da pereza: un caso grave de desinterés crónico. Su aspecto melancólico y su forma directa de hablar suelen provocar malentendidos.# Es el junior de Nishikawa en la secundaria de Nishikawa. Su personalidad introvertida, su obsesión por la limpieza y su baja habilidad social hicieron de sus años escolares una etapa oscura, hasta que Nishikawa se le acercó y lo invitó a unirse al club de voleibol. A partir de ese momento, su vida cambió por completo. Ahora forman un dúo excéntrico dentro del equipo.# Durante los partidos, es experto en observar cuidadosamente al rival y encontrar soluciones. Detecta rápidamente patrones o estrategias y neutraliza los puntos fuertes del oponente antes de que puedan brillar."
+PLAYER/YAMADERA/BIRTH,
+PLAYER/YAMADERA/BACKNUM,
+PLAYER/YAMADERA/MOTTO,La velocidad destruye el alma.
+PLAYER/ROBERTO/NICKNAME,La armadura del Coliseo
+PLAYER/ROBERTO/LINE,¡Los buenos movimientos vienen de buenos músculos!
+SKILLNAME_ROBERTO,Armadura
+SKILLDES_ROBERTO,"Dependiendo de la precisión de su Bloqueo, aumentan sus estadísticas de ATQ, VEL y la Habilidad de salto, con bloqueos más sólidos."
+SKILLDOLPA_ROBERTO,La barra de carga aumenta más rápido en función de la eficiencia de la habilidad.
+PLAYER/ROBERTO/CATCHPHRASE,"""Hoy aquí, te detendré."""
+PLAYER/ROBERTO/SIMPLE_DES,"Roberto, la muralla impenetrable. Su cuerpo está cubierto de músculos gruesos como si llevara una armadura. Su resistencia es impresionante y no muestra señales de cansancio hasta el final del partido. No solo tiene mucha fuerza, sino que también posee una gran visión y un juicio excelente, lo que lo hace un rival muy difícil. Cuando encuentra a alguien con músculos tan impresionantes como los suyos, se convierte rápidamente en su amigo."
+PLAYER/ROBERTO/BIRTH,
+PLAYER/ROBERTO/BACKNUM,
+PLAYER/ROBERTO/MOTTO,"El talento está en los huesos, el esfuerzo en los músculos."
+PLAYER/NN/NICKNAME,El mejor excéntrico del mundo
+PLAYER/NN/LINE,¿Qué... ya empezó? ¿Tan rápido?
+SKILLNAME_NN,Francotirador
+SKILLDES_NN,Realiza colocaciones muy rápidos a la posición indicada.
+PLAYER/NN/SIMPLE_DES,"La leche con chocolate combina el sabor del chocolate con los nutrientes de la leche, proporcionando una ingesta equilibrada de carbohidratos, proteínas y grasas, especialmente popular entre los niños por su aporte de calcio y sabor."
+PLAYER/NN/BIRTH,Mes/Año de fabricación: YYYY.MM
+PLAYER/NN/BACKNUM,Grado de la leche cruda: 1A
+PLAYER/NN/MOTTO,Frase publicitaria : ¿Quieres leche con chocolate?
+PLAYER/ISABEL/NICKNAME,Reina del Coliseo
+PLAYER/ISABEL/LINE,Espero un remate poderoso..
+SKILLNAME_ISABEL,Parada
+SKILLDES_ISABEL,"Carga poder basado en la fuerza del remate del oponente. Cuanta más fuerza carga, más fuerte puede ser su remate y salto.#Al recibir, recupera energía."
+SKILLDOLPA_ISABEL,La capacidad de carga aumenta en función de la eficiencia de la habilidad.
+PLAYER/ISABEL/CATCHPHRASE,"""Si me lanzas un buen remate, podría enfrentarte todos los días sin problema."""
+PLAYER/ISABEL/SIMPLE_DES,"La reina del Coliseo. Tras vagar en busca de rematadores poderosos, terminó asentándose en la liga del Coliseo. Hoy en día, es considerada una de las jugadoras más fuertes del torneo. Como dato curioso, dicen que su tipo ideal es un rematador capaz de lanzar un saque tan fuerte que ni ella podría tocarlo.# Tiene un equilibrio defensivo excepcional, y disfruta recibir el ataque rival para inmediatamente pasar al contraataque por su cuenta. Ella misma dice que juega voleibol por esa sensación electrizante de borrar el ataque del rival y devolverlo en forma de punto."
+PLAYER/ISABEL/BIRTH,
+PLAYER/ISABEL/BACKNUM,
+PLAYER/ISABEL/MOTTO,Lo que embellece al desierto es que en algún lugar esconde un manantial.
+PLAYER/LEON/NICKNAME,La bestia del Coliseo
+PLAYER/LEON/LINE,Buena suerte. La necesitarás.
+SKILLNAME_LEON,Orgullo
+SKILLDES_LEON,"Cuanto más lejos de la red, más potente es su remate, pero cerca de la red, su remate es más débil de lo normal."
+PLAYER/LEON/CATCHPHRASE,"""Buena suerte. La vas a necesitar."""
+PLAYER/LEON/SIMPLE_DES,"Capitán de León Verde. Su estilo de juego agresivo y su lengua afilada suelen atraer miradas de desaprobación. Como ha vivido siempre persiguiendo la fuerza, es completamente indiferente hacia los débiles, aunque frente a Isabel y Roberto, a quienes reconoce como fuertes, se comporta como un corderito. Eso sí, cuando alguien a su alrededor reconoce su habilidad, se alegra en secreto."
+PLAYER/LEON/BIRTH,
+PLAYER/LEON/BACKNUM,
+PLAYER/LEON/MOTTO,El hierro se fortalece a golpes.
+PLAYER/VIOLA/NICKNAME,Viola
+SKILLNAME_VIOLA,Impredecible
+SKILLDES_VIOLA,"Disfruta realizar colocaciones lejos de la red. A veces, junto con la colocación, restaura la energía del equipo."
+PLAYER/VIOLA/CATCHPHRASE,«¿No te parece aburrida una colocación normal?»
+PLAYER/VIOLA/SIMPLE_DES,"La traviesa del Coliseo, considerada la próxima candidata al trono tras Isabel. Le encantan las historias de amor, sin importar de quién sean, aunque muestra un interés especial por las de Isabel. Curiosamente, a pesar de esa afición, es bastante despistada respecto a sus propios sentimientos, lo que deja a más de uno suspirando en silencio.# Sufre de amnesia y no tiene ningún recuerdo de su infancia. Tiene muy buena fuerza en las manos y disfruta de jugadas poco convencionales. Le encanta levantar para un ataque de fondo en jugadas rápidas, por lo que suele mandar el balón detrás de la línea de ataque. Por su estilo tan peculiar como colocadora, quienes juegan con ella por primera vez suelen pasarla bastante mal al principio."
+PLAYER/VIOLA/BIRTH,
+PLAYER/VIOLA/BACKNUM,
+PLAYER/VIOLA/MOTTO,"La vida es una sola, disfrútala al máximo."
+PLAYER/MA_YOONSEOK/NICKNAME,Autoproclamado mejor rematador
+PLAYER/MA_YOONSEOK/LINE,"M-me contendré un poco, ¡así que e-esfuérzate!"
+SKILLNAME_YOONSEOK,Yunseok
+SKILLDES_YOONSEOK,Aumenta la probabilidad de que todos los jugadores del equipo contrario se descuiden.
+SKILLDOLPA_YOONSEOK,La finta cae más rápido según la eficiencia de la habilidad.
+PLAYER/MA_YOONSEOK/SIMPLE_DES,"Soy uno de los cinco mejores rematadores del mundo, pero por ahora he decidido ocultar mi identidad y disfrutar de mi juventud en la secundaria. El problema es que últimamente no paro de recibir confesiones de chicas. Especialmente de Dahee, la manager del equipo de voleibol, que últimamente muestra muy abiertamente su interés por mí. ¿Por qué no entienden que un hombre genial sólo tiene ojos para el voleibol? Ser una estrella popular no es nada fácil.# Fuente: Diario personal de Yunseok"
+PLAYER/MA_YOONSEOK/BIRTH,
+PLAYER/MA_YOONSEOK/BACKNUM,
+PLAYER/MA_YOONSEOK/MOTTO,¡Vivir bien es la mejor venganza!
+PLAYER/JO_MINJUN/NICKNAME,El rematador desafortunado
+PLAYER/JO_MINJUN/LINE,Hoy seguramente tendría buena suerte...
+SKILLNAME_MINJUN,Blitz Spin
+SKILLDES_MINJUN,Puede realizar un remate cuya trayectoria se desvía en el aire.
+SKILLDOLPA_MINJUN,El giro del balón se intensifica en función de la eficiencia de la habilidad.
+PLAYER/JO_MINJUN/CATCHPHRASE,"""Pase lo que pase, no voy a huir. Sé muy bien que huir duele aún más."""
+PLAYER/JO_MINJUN/SIMPLE_DES,"El rematador desafortunado. En cada partido importante, la mala suerte aparece sin falta, y nunca ha podido mostrar todo su potencial. Aun así, para él, la desgracia no es más que el condimento de la vida. Sacude el pasado con ligereza y no tarda en lanzarse a un nuevo desafío. Dicen que cuando Minjun está en un equipo, el ánimo nunca se viene abajo."
+PLAYER/JO_MINJUN/BIRTH,
+PLAYER/JO_MINJUN/BACKNUM,
+PLAYER/JO_MINJUN/MOTTO,"Miremos solo hacia adelante, no hay retroceso en mi vida."
+SKILLNAME_RYUHYUN,Dragón Azul
+SKILLDES_RYUHYUN,"Puedes cargar energía manteniendo presionado el botón de remate en el aire, lo que permite un remate más fuerte.#Cuanto más tiempo se cargue, mayor será la potencia de ATQ."
+PLAYER/RYUHYUN/CATCHPHRASE,"""Protegeré Seonlim."""
+PLAYER/RYUHYUN/SIMPLE_DES,"Presidente del consejo estudiantil de la Escuela Seonlim y gran discípulo del arte marcial tradicional “Seonlim”. De niño, fue confiado al maestro de la escuela y criado como su aprendiz más cercano. Aunque su intención es continuar el legado de su maestro y preservar las artes de Seonlim, su amor por el voleibol no deja de crecer, y eso le causa un conflicto interno.# Gracias a un cuerpo forjado por años de entrenamiento marcial, puede lanzar potentes remates desde cualquier postura. A pesar de haber estado mucho tiempo alejado del voleibol, sus remates siguen siendo tan pesados como una roca."
+SKILLDOLPA_RYUHYUN,La velocidad de carga aumenta en proporción a la eficiencia de la habilidad.
+PLAYER/RYUHYUN/DETAIL_DES,"Suele silbar con frecuencia, sin ninguna razón en particular, es solo una costumbre. Sin embargo, se intensifica cuando comienzan las regañinas de Muyeong."
+PLAYER/RYUHYUN/BIRTH,
+PLAYER/RYUHYUN/BACKNUM,
+PLAYER/RYUHYUN/MOTTO,"Puede tambalearse, pero no se quiebra."
+PLAYER/RYUHYUN/NICKNAME,Rematador de Dragón Azul
+PLAYER/RYUHYUN/LINE,Protegeré el futuro de Seonlim.
+PLAYER/RYUHYUN/LINE_02,¡Hoy definitivamente ganaré!
+SKILLNAME_HONGSI,¡Rugido!
+SKILLDES_HONGSI,"En su primer saque del partido, tiene una alta probabilidad de poner a todo el equipo rival en estado de Desánimo.#Los jugadores que reciban un remate de Hongsi quedan marcados; si reciben otro, fallarán en la defensa."
+PLAYER/HONGSI/CATCHPHRASE,"""¡Joven! ¡Debes tener ambición!"""
+PLAYER/HONGSI/SIMPLE_DES,"Una de los artistas marciales más destacados de la Escuela Seonlim. Curiosa por naturaleza, no es raro que se escape de la escuela con la excusa de “explorar el mundo” y termine vagando por ahí.# Tiene la misma madurez mental que Ryuhyeon, por lo que siempre terminan discutiendo por cualquier cosa. Cuando está de buen humor, lanza sus saques acompañados de un enérgico grito de batalla. Ella cree que su voz poderosa impone respeto… pero en realidad, todos lo encuentran tan adorable que les cuesta mantenerse concentrados."
+PLAYER/HONGSI/BIRTH,
+PLAYER/HONGSI/BACKNUM,
+PLAYER/HONGSI/MOTTO,¡El mundo es inmenso y la aventura no tiene fin!
+PLAYER/HONGSI/NICKNAME,Rematadora de Tigre Blanco
+PLAYER/HONGSI/LINE,"¡Ven aquí, chico!"
+INGAME/HONGSI/LINE,¡El caqui más pequeño es el más picante!
+SKILLNAME_MOOYOUNG,Protección
+SKILLNAME_MOOYOUNG_REMAKE,Amparo
+SKILLDES_MOOYOUNG,"Al recibir, genera una gran burbuja de agua alrededor del cuerpo.#Los jugadores envueltos en la burbuja ven su DEF significativamente aumentada y pueden ignorar los efectos especiales del balón."
+SKILLDES_MOOYOUNG_REMAKE,"Al activar el rasgo, se entra en estado de Amparo, aumentando la defensa y el rango de defensa del jugador con la defensa más baja. #Si se defiende una finta mientras se está en estado de Amparo, se pasa al estado de Castigo."
+PLAYER/MUYEONG/CATCHPHRASE,"""Hace tiempo que no tocaba un balón… Es una sensación extraña. Supongo que lo echaba de menos."""
+PLAYER/MUYEONG/SIMPLE_DES,"Uno de los discípulos de Seonlim, conocido por su carácter tranquilo y reflexivo, lo que lo lleva a encargarse de todo tipo de tareas dentro del equipo. Tiene un aire de adulto prematuro: cuando Ryuhyeon actúa con arrogancia o Hongsi se mete en líos, no puede evitar chasquear la lengua y soltar alguna regañina.# Destaca por su excelente defensa y es conocido como el “guardián” de Seonlim. Su fuerte son las jugadas inteligentes: nunca pierde la calma, analiza la situación con claridad y elige siempre la mejor opción. Aunque no tiene un estilo llamativo, enfrentarse a él resulta sorprendentemente complicado. Como entiende perfectamente las habilidades de sus compañeros, logra conectar sus movimientos con fluidez, elevando el nivel defensivo de todo el equipo."
+SKILLDOLPA_MOOYOUNG,La mejora en DEF y la reducción de daño para los jugadores protegidos aumentan en proporción a la eficiencia de la habilidad.
+SKILLDOLPA_MOOYOUNG_REMAKE,"En proporción a la eficiencia de la habilidad, aumentan la defensa y el rango de defensa del estado de Amparo, así como el poder de ataque del estado de Castigo."
+PLAYER/MUYEONG/BIRTH,
+PLAYER/MUYEONG/BACKNUM,
+PLAYER/MUYEONG/MOTTO,"No te lo tomes a mal, solo ven y escúchame un momento."
+PLAYER/MUYEONG/NICKNAME,El Colocador de Tortuga Negra
+PLAYER/MUYEONG/LINE,Este sentimiento extraño... Me emociona.
+PLAYER/MUYEONG/LINE_02,La suavidad es la mayor fuerza..
+SKILLNAME_HANRA,Sol
+SKILLDES_HANRA,"La presencia de Hanra reduce significativamente la probabilidad de [Desánimo] de los compañeros.# Sus habilidades físicas, como la DEF, VEL, rango de defensa, VEL de plancha, y preparación para el bloqueo, son superiores a las de los jugadores normales."
+PLAYER/HANRA/CATCHPHRASE,"""Permítame aprender una lección de usted."""
+PLAYER/HANRA/SIMPLE_DES,"Es una de los cuatro mejores artistas marciales de Escuela Seonlim, y aunque cueste creerlo, se dice que supera incluso a Ryuhyeon en habilidad técnica. Aun así, reconoce a Ryuhyeon como el Gran Discípulo de Seonlim y prefiere enfocarse en apoyarlo. En la práctica, cumple el rol de jefe disciplinario, resolviendo casi todos los incidentes que ocurren dentro de la escuela.# A primera vista parece fría y reservada, pero en realidad le encantan las cosas adorables. Sin embargo, cree que ese gusto no va con su imagen, así que hace lo posible por ocultarlo."
+PLAYER/HANRA/BIRTH,
+PLAYER/HANRA/BACKNUM,
+PLAYER/HANRA/MOTTO,"Cuanto más fuerte eres, más amable debes ser."
+PLAYER/HANRA/NICKNAME,Bloqueadora central del Fénix Rojo
+PLAYER/HANRA/LINE,No hay opción. ¡Solo un partido!
+PLAYER/HANRA/LINE_02,¡Cuidado para no perder la vista!
+SKILLNAME_SODAM,Girasol
+SKILLDES_SODAM,El colocación varía dependiendo de la distancia entre el rematador y el jugador.#Hay un 5% de probabilidad de que todo el equipo entre en un estado de [Inmersión] cada vez que el equipo tenga un punto en contra.
+PLAYER/SODAM/CATCHPHRASE,"""¿Está bien… si vuelvo a jugar voleibol?"""
+PLAYER/SODAM/SIMPLE_DES,"Aunque asiste a una escuela de artes marciales, sueña más con ser jugadora de voleibol que con convertirse en luchadora. Un día, durante una visita a Seonlim, quedó cautivada al ver a los estudiantes jugar con tanta pasión, y decidió inscribirse en esa escuela para seguir su sueño. Poco después de ingresar, se sintió profundamente desanimada cuando Ryuhyeon prohibió el voleibol dentro del instituto.# Admira muchísimo a Hanra y la sigue a todos lados como un pollito. A menudo acepta encantada las enormes cantidades de comida que Hanra le ofrece, comiéndoselas como un pajarito… aunque no sea raro que termine con dolor de estómago por eso."
+SKILLDOLPA_SODAM,La probabilidad de activar la habilidad aumenta en proporción a la eficiencia de la habilidad.
+PLAYER/SODAM/BIRTH,
+PLAYER/SODAM/BACKNUM,
+PLAYER/SODAM/MOTTO,"Si tienes un sueño, debes protegerlo."
+SKILLNAME_SARAH,Colocación crítica
+PLAYER/SARA/CATCHPHRASE,"""Siempre superas mis expectativas."""
+PLAYER/SARA/SIMPLE_DES,"Una de los cinco mejores rematadores del mundo, domina la cancha con su explosiva velocidad y agilidad. Incluso tras alcanzar la cima, nunca se deja llevar por la arrogancia y sigue esforzándose por mejorar día a día. Según el entrenador del legendario equipo Asheville Weasels, en términos de comprensión del voleibol, Sara es sin duda la número uno entre las cinco grandes.# Gracias a su gran inteligencia táctica, puede desempeñarse como jugadora todoterreno, rindiendo a nivel profesional en cualquier posición. Actualmente, fuera de temporada, está actuando como colocadora temporal para poder jugar junto a Siwoo, aunque no pasará mucho tiempo antes de que regrese a su rol natural como rematadora.# Recibe elogios constantes de todos a su alrededor, pero en cuanto se encuentra frente a Siwoo, se vuelve torpe y nerviosa. Basta una palabra de él para hacerla dudar o sonrojarse, y a veces comete errores tontos que normalmente no haría. Por eso, Siwoo llega incluso a preguntarse si su fama es merecida."
+SKILLDES_SARAH,"Al colocar el balón, aparece un círculo a su alrededor que indica el momento ideal para rematar. Si rematas justo cuando el círculo toca el balón, el golpe será mucho más potente.#En ocasiones, también remata directamente."
+PLAYER/SARA/SIMPLE_DES_02,"Sara, una de los 5 mejores rematadores del mundo, es famosa por moverse rápidamente por la cancha. Como jugadora versátil, puede desempeñar cualquier posición a nivel profesional. Actualmente juega como colocadora de manera temporal para ayudar a Siwoo, pero en algún momento podría regresar como atacante."
+PLAYER/SARA/BIRTH,
+PLAYER/SARA/BACKNUM,
+PLAYER/SARA/MOTTO,"No importa cuán fuerte remates, sigue siendo solo un punto."
+SKILLNAME_MIKE,Neumático
+SKILLDES_MIKE,"Mientras lleva un neumático, la velocidad y la capacidad de salto disminuyen.#Al recibir suficientes impactos, el neumático se suelta y la velocidad y el salto aumentan considerablemente."
+PLAYER/MIKE/CATCHPHRASE,"""¿Listo, Dave?"""
+PLAYER/MIKE/SIMPLE_DES,"Es el hermano gemelo de Dave y juntos manejan un refugio de montaña. Le gusta entrenar con pesas de arena atadas a los tobillos. Desde su época como jugador, fue famoso por su método intenso de entrenamiento, corriendo con un neumático atado a la cintura.# Aunque tiene poca cabellera, sus patillas son más densas que las de nadie. Se dice que todas las mañanas se para frente al espejo y se las peina con mucho cuidado."
+PLAYER/MIKE/BIRTH,
+PLAYER/MIKE/BACKNUM,
+PLAYER/MIKE/MOTTO,¡El sudor no miente!
+SKILLNAME_DAVE,Estirar
+SKILLDES_DAVE,"Si te quedas quieto, comenzarás a hacer flexiones. #Cuanto más hagas, más aumentan tus habilidades físicas y tu cuerpo se hace más grande."
+PLAYER/DAVE/CATCHPHRASE,"""¡Vamos a empezar, Mike!"""
+PLAYER/DAVE/SIMPLE_DES,"Dueño del refugio donde se celebra el Campamento Rockwell. Fue jugador de voleibol en el pasado, aunque se hizo más famoso por su imponente bigote y su enorme cuerpo musculoso que por su habilidad en la cancha. También presume con orgullo su melena sedosa, cuidadosamente mantenida, junto a su físico trabajado.# Es un caballero de corazón, una de esas raras personas genuinamente bondadosas. Cuando empieza el Campamento Rockwell, cuida con entusiasmo a los niños junto a su hermano Mike, algo que lo llena de orgullo. Sin embargo, su amor por los niños a veces lo lleva a perder un poco el control..."
+PLAYER/DAVE/BIRTH,
+PLAYER/DAVE/BACKNUM,
+PLAYER/DAVE/MOTTO,¡Los músculos nunca te traicionan!
+PLAYER/CLYDE/LINE,"¿Mariposa, vamos a pasar un rato?"
+PLAYER/CLYDE/NICKNAME,Bloqueador Central Prometedor
+SKILLNAME_CLYDE,Mariposa
+SKILLDES_CLYDE,Aparece el gato que Clyde cuida con mucho cariño. #El gato recorre la cancha y cambia a los jugadores que están en estado de desánimo a un estado de inmersión total.
+PLAYER/CLYDE/CATCHPHRASE,“Mariposa~ Vamos a comer~”
+PLAYER/CLYDE/SIMPLE_DES,"Titular como central en el Equipo Juvenil de Voleibol Rockwell.# No es tan adinerado como Tania, pero proviene de una familia bastante rica. Tiene un carácter muy relajado. Si desaparece por un tiempo, hay un 90 % de probabilidades de que esté jugando con un gato. De niño solía escaparse para seguir gatos, causando más de un lío, y siempre era Tania quien lo encontraba y lo traía de vuelta. Hasta hoy, Tania sigue siendo su única amiga, y cada vez que se ven, no pueden evitar pelearse un poco."
+PLAYER/CLYDE/BIRTH,
+PLAYER/CLYDE/BACKNUM,
+PLAYER/CLYDE/MOTTO,No puede vivir sin gatos.
+SKILLNAME_TANIA,Colocación veloz
+SKILLDES_TANIA,"Levanta los pases que caen rápidamente. #Cuando rematas una colocación de Tania, la velocidad de descenso del balón aumenta el poder del golpe. #(Es un jugador de alta dificultad, por lo que puede ser difícil para los principiantes)."
+PLAYER/TANIA/CATCHPHRASE,"""Muy bien. Si pierdes contra Tania, empieza a empacar y prepárate para volver a casa. ¿Entendido?"""
+PLAYER/TANIA/SIMPLE_DES,"Hija menor del presidente del mundialmente famoso grupo Wilton. Desde pequeña jugaba con balones de la marca de voleibol *RISE*, propiedad del grupo familiar, lo que la llevó a enamorarse del deporte de forma natural. Tiene pasión, talento de sobra y una gran energía, pero al haber crecido como la consentida de la familia, tiende a ser bastante egocéntrica.# Suele lanzar pases rápidos por su cuenta sin considerar a sus compañeras, dejándolas desconcertadas en plena jugada. Conoció a Clyde, también de familia adinerada, desde muy pequeños. Le molesta un poco que él no intente impresionarla como hacen los demás, y por eso se ha propuesto lograr que algún día reconozca lo grandiosa que es."
+PLAYER/TANIA/BIRTH,
+PLAYER/TANIA/BACKNUM,
+PLAYER/TANIA/MOTTO,Yo soy la protagonista de mi propia vida.
+PLAYER/JENNY/NICKNAME,Gato salvaje
+SKILLNAME_JENNY,Las alas de Ícaro
+SKILLDES_JENNY,"El poder de ataque y la altura de salto aumentan según el punto de contacto más alto alcanzado durante el partido.#Al actualizar ese punto más alto, la potencia del remate aumenta un 25%."
+PLAYER/JENNY/CATCHPHRASE,"«Puedo perder contra otros, ¡pero jamás contra mí misma!»"
+PLAYER/JENNY/SIMPLE_DES,"La rematadora más joven de la Liga Fantasma. De niña hizo una promesa con Sara: convertirse en la mejor jugadora de voleibol. Desde entonces no ha dejado de avanzar ni un solo día. Estuvo a punto de abandonar el deporte tras una lesión en su infancia, pero gracias a un esfuerzo inmenso logró superarla y ahora es reconocida por tener la evolución más brillante de toda la liga.# Su rendimiento cambia mucho según su estado emocional, pero cuando logra enfocarse, despliega una concentración explosiva. Ha vivido siempre centrada en el voleibol, por eso le cuesta entender las cosas más básicas del día a día y no sabe cómo relacionarse con chicos de su edad. No es que no le interesen esas cosas, simplemente nunca tuvo la oportunidad de conocerlas. A veces, mira a los demás con ojos llenos de curiosidad y algo de envidia."
+PLAYER/JENNY/BIRTH,
+PLAYER/JENNY/BACKNUM,
+PLAYER/JENNY/MOTTO,"Más lejos que nadie, más alto que todos."
+SKILLNAME_ELLIO,Pase del Abismo
+SKILLDES_ELLIO,"Cuanto más vertical sea el remate de una colocación de Ellio, mayor será su potencia."
+PLAYER/ELLIO/DES,Te mostraré el partido más hermoso.
+PLAYER/ELLIO/CATCHPHRASE,"""Tenemos que jugar para divertir al público. Somos profesionales."""
+PLAYER/ELLIO/SIMPLE_DES,"En el pasado, destacó en un equipo bastante conocido, pero por alguna razón fue expulsado y terminó en la Liga Fantasma. Ahora juega en el mismo equipo que Jenny y ha ganado mucha popularidad gracias a su excelente atención a los fans y su showmanship.# Se preocupa en secreto por Jenny, quien poco a poco se está derrumbando en la Liga Fantasma, y por eso es una de las pocas personas en las que ella confía plenamente. Él se llama a sí mismo “superficial”, pero todos los que lo rodean coinciden en que es una buena persona. Aunque parece egoísta y calculador en la superficie, detrás de eso siempre cuida cuidadosamente a quienes lo rodean."
+PLAYER/ELLIO/BIRTH,
+PLAYER/ELLIO/BACKNUM,
+PLAYER/ELLIO/MOTTO,"Como el viento suave, como una caña flexible."
+SKILLNAME_RAUL,
+SKILLDES_RAUL,
+PLAYER/JENNY/DES,¡Saltaré más alto que nadie!
+PLAYER/RAUL/SIMPLE_DES,"El único jugador de Lv.4 en la Liga Fantasma y uno de los cinco grandes rematadores. De carácter agresivo y temerario, disfruta los duelos con oponentes fuertes. Detesta seguir órdenes, excepto las de su hermana Carla. No olvida ni agravios ni favores, y valora la lealtad más de lo que aparenta."
+PLAYER/RAUL/BIRTH,
+PLAYER/RAUL/BACKNUM,
+PLAYER/RAUL/MOTTO,Mejor pisar que ser pisado.
+PLAYER/RAUL_FIRST_SHOW/LINE,Estás en mi camino. Muévete.
+PLAYER/RAUL_FIRST_SHOW/NICKNAME,"Raúl, el Rematador Bestia"
+SKILLNAME_LUCAS,Bengala
+SKILLDES_LUCAS,"Al activar la habilidad, todas las estadísticas aumentan temporalmente de forma significativa. Sin embargo, cuanto más uses la habilidad, más disminuirán tus estadísticas cuando no la uses."
+PLAYER/LUCAS/CATCHPHRASE,"""¿Cómo se supone que uno puede llamarse superestrella si solo hace lo que le dicen?"""
+PLAYER/LUCAS/SIMPLE_DES,"El rematador más poderoso de la Liga Fantasma. Gracias a su instinto y talento innato, es capaz de rendir por encima del promedio en todo lo que hace. Es egocéntrico y profundamente narcisista, pero también tiene un fuerte sentido de la responsabilidad como figura central del equipo.# Antes de su último partido en la liga, por casualidad echó un vistazo a la tablet de Sanghyeon. Allí encontró notas escritas y borradas incontables veces. Al llegar a la última línea y ver la palabra ""Oasis"", comprendió al instante el significado que encerraba y decidió adoptarla como su nuevo nombre."
+PLAYER/LUCAS/BIRTH,
+PLAYER/LUCAS/BACKNUM,
+PLAYER/LUCAS/MOTTO,"¡Donde haya fans, ahí está mi escenario!"
+SKILLNAME_ZERO,Tiempo en el foco
+SKILLDES_ZERO,"Al activar la habilidad, realiza una colocación baja. El balón brilla al acercarse a su punto más alto y no se puede rematar antes. Rematarlo aumenta la potencia del golpe, pero si el atacante de punta falla, entra en estado de Desánimo."
+PLAYER/ZERO/CATCHPHRASE,“Te convertiré en una superestrella.”
+PLAYER/ZERO/SIMPLE_DES,"Así era Sanghyeon hace cinco años. Desde que entró a la secundaria, destacó por su talento abrumador y fue reconocido como un ‘colocador prodigio’. Se decía que podría desempeñarse bien en cualquier posición. Gracias a este don, tras llegar a la Liga Fantasma, siguió siendo el colocador titular del equipo Sun Spark. El nombre ‘Zero’ no es su verdadero nombre, sino uno que se puso él mismo para sus actividades internacionales. Se rumorea que Carla fue quien le dio ese nombre.# Después de dejar la Liga Fantasma, Sanghyeon se transfirió a una escuela de artes. El primer día de clases, ni siquiera sus amigos de la secundaria lo reconocieron. Tenía el cabello teñido de colores llamativos y su forma de hablar había cambiado por completo. Algunos amigos preguntaron la razón, pero Sanghyeon simplemente miraba la pantalla de su celular sin responder."
+PLAYER/ZERO/BIRTH,
+PLAYER/ZERO/BACKNUM,
+PLAYER/ZERO/MOTTO,Un error cometido una vez no debe repetirse nunca más.
+SKILLNAME_HARI,Death Bloom
+SKILLDES_HARI,"Se deja una marca en el jugador rival que tocó el balón por última vez durante la recepción. Cuando se activa la habilidad en el momento deseado, todos los jugadores marcados tendrán restricciones temporales en sus acciones."
+PLAYER/HARI/CATCHPHRASE,“…Es por trabajo.”
+PLAYER/HARI/SIMPLE_DES,"Fue la Reina del Coliseo y ahora forma parte del comité de quince miembros de la Liga Fantasma. Solo después de su misteriosa desaparición del Coliseo, Isabel pudo ocupar el trono que ella dejó.# Siempre cumple las órdenes de Carla sin dudar. Sin embargo, hay una sola orden que se niega rotundamente a seguir: deshacerse del viejo y desgastado protector de muñeca que lleva en la izquierda. Ni siquiera la palabra de Carla basta para hacerlo, y solo ellas dos conocen el verdadero motivo.# Su especialidad es analizar a fondo al oponente y tomar control total del partido. Los jugadores rivales, incapaces de ejecutar siquiera sus jugadas más confiadas, acaban bloqueados y superados sin entender cómo."
+PLAYER/HARI/BIRTH,
+PLAYER/HARI/BACKNUM,
+PLAYER/HARI/MOTTO,...
+SKILLNAME_CROW,Cuervo Oscuro
+SKILLDES_CROW,Puede realizar remates que ignoran el 50% de la defensa rival.
+PLAYER/CROW/CATCHPHRASE,"""Lástima. Este partido lo ganamos nosotros."""
+PLAYER/CROW/SIMPLE_DES,"Fue el compañero de dúo de Isabel y actuaba como central. Juntos fueron considerados los mejores jugadores del Coliseo. Sin embargo, en realidad tiene una personalidad nerviosa y obsesiva. A pesar de su carácter tan sensible, siempre cuidó de Isabel con atención y siente un fuerte lazo de compañerismo hacia ella."
+PLAYER/CROW/BIRTH,
+PLAYER/CROW/BACKNUM,
+PLAYER/CROW/MOTTO,Carpe diem.
+SKILLNAME_RAUL,Remate Bestial
+SKILLDES_RAUL,Puedes realizar un remate poderoso en el aire al ganar impulso.
+PLAYER/RAUL/CATCHPHRASE,"""Te voy a aplastar."""
+PLAYER/RAUL/SIMPLE_DES,"Uno de los cinco mejores rematadores del mundo. Con una potencia abrumadora, aplasta a sus rivales. Su control del balón es tan preciso que lanza saques como cañonazos directamente a la línea lateral.# En su momento, registró la mayor tarifa de transferencia en la historia de las cinco grandes ligas y rompió múltiples récords individuales, captando la atención mundial. Declaró que ganaría los MVP de las cinco ligas y cambió de equipo para competir con Victor por el título. Sin embargo, un incidente grave provocó un escándalo y terminó siendo sancionado. Ahora busca retomar su carrera en la Liga Fantasma."
+PLAYER/RAUL/BIRTH,
+PLAYER/RAUL/BACKNUM,
+PLAYER/RAUL/MOTTO,"Si tienes que elegir, vive pisando antes que ser pisoteado."
+SKILLNAME_SIF,Muro Gladius
+SKILLDES_SIF,Recupera 30 de resistencia y aumenta temporalmente la defensa de los compañeros.#El aumento de defensa es proporcional al ATQ de cada compañero.
+PLAYER/SIF/CATCHPHRASE,“Sif. La colocadora de Inferno Nero.”
+PLAYER/SIF/SIMPLE_DES,"La mejor colocadora de la Liga Fantasma. Si hubiera que definirla con tres palabras, serían: fría, serena y perfeccionista. Nunca pierde la calma y siempre encuentra la solución, convirtiéndose en el pilar más sólido del equipo.# # Pero esa es solo la imagen que muestra hacia afuera…# # En esencia, ella es puro amor. Todo lo que deja ver no es más que una máscara. ¡Lo único que realmente enciende su corazón es el amor! Hoy también, intenta contener como puede el torrente de cariño y admiración que siente por Raúl. A veces, sin darse cuenta, esos sentimientos se le escapan en voz alta… pero ella está convencida de que nadie lo ha notado todavía."
+PLAYER/SIF/BIRTH,
+PLAYER/SIF/BACKNUM,
+PLAYER/SIF/MOTTO,¡Todo por mi compañero veterano!
+SKILLNAME_CLAIRE,Overdrive
+SKILLDES_CLAIRE,"La barra de Overdrive se carga al finalizar cada rally.#Al activar la característica, los atributos de todo el equipo aumentan durante un tiempo determinado.#Cuanto más se llene la barra de Overdrive, mayor será el aumento de atributos y la duración del efecto."
+PLAYER/CLAIRE/CATCHPHRASE,“La victoria me pertenece.”
+PLAYER/CLAIRE/SIMPLE_DES,"Un bloqueador central prodigioso, tan arrogante que raya en lo excesivo… pero con el talento necesario para respaldarlo. Su apariencia llamativa y su estilo de juego espectacular atraen miradas por donde pasa, lo que le ha ganado una base de fans constante. Aunque tiene fama de dar el peor fan service, según él, se esfuerza al máximo por tratarlos con la mayor cortesía posible.# Tiene una suerte terrible con sus rivales. Antes fue Lucas, y ahora es Raúl quien lo mantiene atrapado en el eterno título de “segundo lugar de la Liga Fantasma”. Incapaz de aceptar no haber sido MVP, acabó desarrollando un profundo resentimiento hacia ambos jugadores que sí lo lograron. En especial, para derrotar a Raúl incluso cambió de posición y se volvió bloqueador central. Esta temporada, ha jurado que se llevará el MVP cueste lo que cueste."
+PLAYER/CLAIRE/BIRTH,
+PLAYER/CLAIRE/BACKNUM,
+PLAYER/CLAIRE/MOTTO,Los frutos más jugosos solo nacen en una tierra verdaderamente fértil.
+SKILLNAME_SARA_WS,Tifón
+SKILLDES_SARA_WS,"Tras saltar con la mejora Ráfaga, mantener presionado el Botón de Remate te permite planear brevemente mientras aparecen puntos de impacto en la cancha rival. #Al soltar el Botón de Remate, se realizará el golpe en dicho punto."
+PLAYER/SARA_WS/CATCHPHRASE,“Déjame el resto a mí.”
+PLAYER/SARA_WS/SIMPLE_DES,"Una de los 5 mejores rematadores del mundo. Tras ocultar su verdadero talento solo para jugar junto a Siwoo, finalmente ha revelado su auténtico potencial. Aunque suele ser amable, es una chica de ""voluntad de hierro bajo una apariencia dulce"" que muestra una habilidad inigualable una vez que comienza el partido. Siendo menor de edad, debutó en la liga profesional global LOV (League One Volleyball), con sede en América, y llevó a su equipo a la victoria desde su debut. Tras ganar varios títulos de MVP consecutivamente, ascendió como la última de los 5 mejores rematadores. El mundo entero clama ante el nacimiento de esta nueva superestrella."
+PLAYER/SARA_WS/BIRTH,
+PLAYER/SARA_WS/BACKNUM,
+PLAYER/SARA_WS/MOTTO,"No importa cuán fuerte remates, sigue siendo solo un punto."
+SKILLNAME_IRIS,Orden Imperial
+SKILLDES_IRIS,"Al activar la mejora, el número de brújulas en la cancha aumenta a 3. #Las brújulas giran a diferentes velocidades, pero siempre hay un momento en el que coinciden apuntando hacia la cancha rival."
+PLAYER/IRIS/CATCHPHRASE,"""...¿Me regañará el Dueño otra vez hoy?... je, je..."""
+PLAYER/IRIS/SIMPLE_DES,"Capitana de las Asheville Weasels. Heredó el brazalete y ha liderado al equipo desde el retiro de Kelly, una de los 5 mejores rematadores del mundo. Aunque tiene un gran sentido de la responsabilidad y el deseo de guiar bien al equipo, su personalidad tímida la hace sufrir constantemente al estar atrapada entre la directiva y las jugadoras.## Por supuesto, sería un gran error pensar que es simplemente dócil. La capitanía de las Asheville Weasels no es un puesto que se ocupe sin talento; ella es una colocadora excepcional y extremadamente exigente. Si una atacante no logra seguir su colocación, repetirá el mismo pase una y otra vez hasta que salga bien. ""A partir de ahora, volveré a hacer el mismo pase"". Se dice que incluso las veteranas más curtidas de las Asheville Weasels sienten escalofríos al escuchar su voz fría como el hielo."
+PLAYER/IRIS/BIRTH,
+PLAYER/IRIS/BACKNUM,
+PLAYER/IRIS/MOTTO,Lo bueno es enemigo de lo grande.
+SKILLNAME_YURI,Analgésico
+SKILLDES_YURI,"Al activar la mejora, aumentan la Velocidad, Defensa, Poder de Ataque y Salto de los jugadores de tu equipo. #La Gravedad también aumenta y la Velocidad de recuperación tras plancha se vuelve más rápida."
+PLAYER/YURI/CATCHPHRASE,"""Solo hago lo que me dicta mi corazón."""
+PLAYER/YURI/SIMPLE_DES,"El rebelde de los Black Lions. No le importa en absoluto lo que piensen los demás, por lo que tiene fama de ser un tipo problemático. Gracias a su personalidad de decir siempre lo que piensa para quedarse a gusto, cada vez que concede una entrevista, suele aparecer una noticia a toda página en los periódicos.## Su objetivo es convertirse en un ""jugador mejor que Victor"". Aunque todavía es solo un jugador del segundo equipo de los Black Lions, eso no le importa lo más mínimo. Cree que esta es la única forma de recompensar a Victor, quien lo guio por el camino del voleibol cuando estaba a punto de descarriarse. Siguiendo su convicción de ""No puedo vivir debiendo nada a nadie"", Yuri sigue entrenando hoy para superar a su meta: Victor."
+PLAYER/YURI/BIRTH,
+PLAYER/YURI/BACKNUM,
+PLAYER/YURI/MOTTO,"Cuando tocas una nota falsa, que sea buena o mala depende de la siguiente nota que toques."
+SKILLNAME_HAEUN,
+SKILLDES_HAEUN,
+PLAYER/SHIN_HAEUN/CATCHPHRASE,"""¿Qué tal~ ¿No es lindo este pingüino?"""
+PLAYER/SHIN_HAEUN/SIMPLE_DES,"Subcapitana y colocadora titular del club de voleibol de la Secundaria Jisan. En la escuela secundaria jugó al voleibol junto a Dahee y se considera a sí misma su mejor amiga. Sin embargo, debido a su personalidad retorcida por la que le gusta molestar a quienes le interesan, la propia Dahee mantiene un poco las distancias. Aunque es algo egocéntrica, no es mala persona y cuida mucho de Dahee en secreto. Goza de mucha confianza en el club de voleibol, por lo que es casi seguro que será la próxima capitana. Su animal favorito es el pingüino."
+PLAYER/SHIN_HAEUN/BIRTH,
+PLAYER/SHIN_HAEUN/BACKNUM,
+PLAYER/SHIN_HAEUN/MOTTO,¡Hoy también a divertirse y pasarlo en grande!
+SKILLNAME_SAYA,Bungeoppang
+SKILLDES_SAYA,"Al activar la característica, come un Bungeoppang para recuperar energía.#Recupera la estamina del equipo y aumenta todas sus propias estadísticas."
+PLAYER/YOO_SAYA/CATCHPHRASE,"""Daré lo mejor de mí. Si puedo ayudar a todos."""
+PLAYER/YOO_SAYA/SIMPLE_DES,"Bloqueadora central titular del club de voleibol de la Escuela Daeji. A primera vista parece fría y seca, pero es una chica leal que aprecia a su equipo y a sus amigos más que nadie. A veces pone en práctica ideas extrañas sin pensarlo dos veces, dejando desconcertados a quienes la rodean. Su comida favorita es el Bungeoppang, y su amigo favorito es el gato Boss."
+PLAYER/YOO_SAYA/BIRTH,
+PLAYER/YOO_SAYA/BACKNUM,
+PLAYER/YOO_SAYA/MOTTO,Un viaje de mil millas comienza con el primer paso.
+SKILLNAME_JIHOON,Colocación milagrosa
+SKILLDES_JIHOON,"Al activar la característica, realiza una colocación milagrosa.#Si se va perdiendo contra el equipo contrario, cuanto mayor sea la diferencia de puntos entre los equipos, más aumentará la potencia del balón rematado tras la colocación milagrosa. (Se acumula hasta 7 puntos)"
+PLAYER/LEE_JIHOON/CATCHPHRASE,"""¡Nadie puede detenerme!"""
+PLAYER/LEE_JIHOON/SIMPLE_DES,"Colocador titular del club de voleibol de la Escuela Daeji. Con su característica facilidad para llevarse bien con los demás, actúa como el animador del equipo en cualquier lugar. En primaria, se mudó a Estados Unidos con su padre, donde se enfrentó a jugadores más corpulentos que él y desarrolló una gran resistencia física y mental. No se intimida ni siquiera ante rivales fuertes, y cuando todos sus compañeros están agotados, él sigue lleno de energía, convirtiéndose en una fuente de vitalidad confiable para el equipo.
+Su pasatiempo es correr. Sin embargo, tiene un pésimo sentido de la orientación, así que suele salirse del camino de paseo y terminar perdido. Cuando saca a pasear a su perro, no es raro que acabe llegando a otro barrio."
+PLAYER/LEE_JIHOON/BIRTH,
+PLAYER/LEE_JIHOON/BACKNUM,
+PLAYER/LEE_JIHOON/MOTTO,Hakuna Matata (Todo saldrá bien.)
+LINE/LUCAS/SUMMERTRAINING_1,"¿Esto es todo lo que puedo hacer? <wait=85>Ja,"
+LINE/LUCAS/SUMMERTRAINING_2,¡Claro que no!
+LINE/VIOLA/SUMMERTRAINING,Quien pierda invita a un helado. ¿Trato hecho?
+LINE/HANRA/SUMMERTRAINING,"Je, je. Parece que me llevará bastante tiempo acostumbrarme a este calor."
+SKILLNAME_GITAE,Intimidación
+SKILLDES_GITAE,"Mientras la habilidad está activa, lograr un bloqueo ganador desactiva la habilidad activa del rival que realizó el último remate. Ese rival sufre un efecto negativo durante un tiempo determinado."
+PLAYER/HAN_GITAE/CATCHPHRASE,"¡Si eres el mejor, deberías poder remontar un partido como este!"
+PLAYER/HAN_GITAE/SIMPLE_DES,"Un central clave y el animador del equipo, con una presencia inconfundible tanto dentro como fuera de la cancha.#Su confianza tiene fundamento y le sobra valor. Cuanto peor lo pasa el equipo, más se enciende él y más eleva la moral de todos. Directo y decidido, prefiere actuar, detesta los rodeos y tiene claros sus gustos, pero no guarda rencor. Aunque de primeras parece intimidante, es tan sociable que se acerca sin reparos incluso a desconocidos. También tiene una faceta cariñosa inesperada: puede darle una suave palmada en la cabeza a un compañero menor desanimado y decir con naturalidad: ""Vamos a comer algo"", cuidándolo a su manera.#Su objetivo: ¡ser el más fuerte del mundo!"
+PLAYER/HAN_GITAE/BIRTH,
+PLAYER/HAN_GITAE/BACKNUM,
+PLAYER/HAN_GITAE/MOTTO,Lo simple es lo mejor
+SKILLNAME_YUNA,Remate de cuerpo entero
+SKILLDES_YUNA,Remata en distintas posturas según la posición del balón. La trayectoria del remate cambia en función de esa posición.
+PLAYER/SEO_YUNA/CATCHPHRASE,"¡Tener talento no significa ganar siempre, y no tenerlo tampoco significa perder siempre!"
+PLAYER/SEO_YUNA/SIMPLE_DES,"Una rematadora de punta trabajadora que, pese a las dificultades de su entorno, llegó a la selección nacional a base de un esfuerzo incansable.#Alegre, luminosa y sociable, se gana el cariño de todos como si fuera la mascota del equipo. Siempre lleva un cuaderno de entrenamiento para superar los límites de su físico natural. En la cancha muestra una gran determinación y unas ganas feroces de ganar, y su extraordinaria flexibilidad le permite golpear el balón desde cualquier ángulo. Incluso después de perder, sigue sonriendo y dice: ""¡No pasa nada!"" Aun así, tiene la tenacidad y la terquedad necesarias para entrenar sola y a escondidas por las noches. Pese a su aspecto adorable, parece querer que los más jóvenes la vean como una veterana en quien confiar."
+PLAYER/SEO_YUNA/BIRTH,
+PLAYER/SEO_YUNA/BACKNUM,
+PLAYER/SEO_YUNA/MOTTO,"No importa lo despacio que vayas, siempre que no te detengas."
+SKILLNAME_SEJIN,Giro de la Fortuna
+SKILLDES_SEJIN,"Al activar la habilidad, elimina los efectos negativos de los aliados de un nivel determinado o inferior."
+PLAYER/KANG_SEJIN/CATCHPHRASE,Quiero ser un jugador realmente genial... no solo aparentarlo.
+PLAYER/KANG_SEJIN/SIMPLE_DES,"Un colocador que aspira a una imagen perfecta y distante, pero cuya cara de póquer se desmorona y cuyas orejas se ponen rojas ante un elogio sincero o un gesto amable. Deseoso de impresionar, se esfuerza por resultar genial en todo, desde la ropa hasta sus apodos en los videojuegos. En realidad, es algo despistado: ni siquiera puede ver películas de terror ni comer pimientos. Al principio parece mantener las distancias, pero cuando se abre a alguien se acerca sin reparos. Y cuando el equipo está en apuros, dirige el partido con más calma que nadie."
+PLAYER/KANG_SEJIN/BIRTH,
+PLAYER/KANG_SEJIN/BACKNUM,
+PLAYER/KANG_SEJIN/MOTTO,Los elogios pueden hacer bailar hasta a una ballena.

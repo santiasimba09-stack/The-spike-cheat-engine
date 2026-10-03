@@ -1,0 +1,991 @@
+﻿KEY,일본어(ja)
+상시 인앱결제 상품,
+NORMAL_CREDIT_150K_PACKAGE,"クレジットx150,000パック"
+NORMAL_CREDIT_150K_PACKAGE_DESC,"クレジット150,000を#獲得します。"
+NORMAL_CREDIT_500K_PACKAGE,"クレジットx500,000パック"
+NORMAL_CREDIT_500K_PACKAGE_DESC,"クレジット500,000を#獲得します。"
+NORMAL_CREDIT_1600K_PACKAGE,"クレジットx1,600,000パック"
+NORMAL_CREDIT_1600K_PACKAGE_DESC,"クレジット1,600,000を#獲得します。"
+100_VPOINT_PACKAGE,Vポイントx100パック
+100_VPOINT_PACKAGE_DESC,Vポイント100個を#獲得します。
+300_VPOINT_PACKAGE,Vポイントx300パック
+300_VPOINT_PACKAGE_DESC,Vポイント300個を#獲得します。
+1200_VPOINT_PACKAGE,Vポイントx1200パック
+1200_VPOINT_PACKAGE_DESC,Vポイント1200個を#獲得します。
+40_VPOINT_PACKAGE,Vポイントx40パック
+40_VPOINT_PACKAGE_DESC,Vポイント40個を#獲得します。
+200_VPOINT_PACKAGE,Vポイントx200パック
+200_VPOINT_PACKAGE_DESC,Vポイント200個を#獲得します。
+420_VPOINT_PACKAGE,Vポイントx420パック
+420_VPOINT_PACKAGE_DESC,Vポイント420個を#獲得します。
+1280_VPOINT_PACKAGE,Vポイントx1280パック
+1280_VPOINT_PACKAGE_DESC,Vポイント1280個を#獲得します。
+2160_VPOINT_PACKAGE,Vポイントx2160パック
+2160_VPOINT_PACKAGE_DESC,Vポイント2160個を#獲得します。
+4000_VPOINT_PACKAGE,"Vポイントx4,000パック"
+4000_VPOINT_PACKAGE_DESC,"Vポイント4,000個を#獲得します。"
+60_BLUEFLAME_PACKAGE,ブルーフレイムx60パック
+60_BLUEFLAME_PACKAGE_DESC,ブルーフレイム60個を#獲得します。
+150_BLUEFLAME_PACKAGE,ブルーフレイムx150パック
+150_BLUEFLAME_PACKAGE_DESC,ブルーフレイム150個を#獲得します。
+450_BLUEFLAME_PACKAGE,ブルーフレイムx450パック
+450_BLUEFLAME_PACKAGE_DESC,ブルーフレイム450個を#獲得します。
+BEGINNER_PACKAGE,初心者パック
+BEGINNER_PACKAGE_DESC,1回のみ購入可能なお得な#初心者向けのパックです。
+BEGINNER_GROWTH_BOOST_PACKAGE,初心者成長ブーストパック
+BEGINNER_GROWTH_BOOST_PACKAGE_DESC,1回のみ購入可能な初心者向け#成長ブーストパックです。
+EXPERT_PACKAGE,エキスパートパック
+EXPERT_PACKAGE_DESC,1回のみ購入可能な超お得な#エキスパートパックです。
+EXP_PACKAGE,EXPパック
+EXP_PACKAGE_DESC,"EXPポイント30,000を#獲得します。"
+MORE_EXP_PACKAGE,EXPパック V2
+MORE_EXP_PACKAGE_DESC,"EXPポイント90,000を#獲得します。"
+REMOVE_ADS_PACKAGE,広告非表示
+REMOVE_ADS_PACKAGE_DESC,広告非表示をまだ購入していない場合に限り、1回だけ購入できます。#試合終了後に表示される広告を非表示にします。
+PLAYER_RECRUITMENT_PACKAGE,選手募集パック
+PLAYER_RECRUITMENT_PACKAGE_DESC,1回のみ購入可能な商品です。#選手獲得に必要な通貨を大量に#入手できます。
+GROWTH_BOOST_PACKAGE,成長ブーストパック
+GROWTH_BOOST_PACKAGE_DESC,1回のみ購入可能な商品です。#お得な成長ブーストパックです。
+MONTHLY_VPOINT,マンスリーVポイントパック
+MONTHLY_VPOINT_DESC,毎月1回のみ購入可能な#Vポイント商品です。
+MONTHLY_BLUEFLAME,マンスリーブルーフレイムパック
+MONTHLY_BLUEFLAME_DESC,毎月1回のみ購入可能な#ブルーフレイム商品です。
+WEEKLY_EXPPOINT,ウィークリーEXPパック
+WEEKLY_EXPPOINT_DESC,毎週1回のみ購入可能な#EXPポイント商品です。
+WEEKLY_VPOINT,ウィークリーVポイントパック
+WEEKLY_VPOINT_DESC,毎週1回のみ購入可能な#Vポイント商品です。
+WEEKLY_BLUEFLAME,ウィークリーブルーフレイムパック
+WEEKLY_BLUEFLAME_DESC,毎週1回のみ購入可能な#ブルーフレイム商品です。
+COLOSSEO_BEGINNER_PACKAGE,コロッセオ初心者パック
+COLOSSEO_BEGINNER_PACKAGE_DESC,1回のみ購入可能な商品です。大量のブルーフレイムを獲得できます。
+COLOSSEO_EXPERT_PACKAGE,コロッセオエキスパートパック
+COLOSSEO_EXPERT_PACKAGE_DESC,1回のみ購入可能な商品です。大量のブルーフレイムを獲得でき、コロッセオで新しい能力カードと4番目のカード選択肢が解放されます。
+COLOSSEUM_TICKET_DESC,1日1回のみ購入可能な商品です。コロッセオに追加で入場して報酬を獲得できます。
+PTL_ROYAL_PACKAGE,ファントム・ロイヤル・パッケージ
+상시 일반 상품,
+RED_YELLOW_BALL,レッドイエローボール
+BLUE_YELLOW_BALL,ブルーイエローボール
+GREEN_PINK_BALL,グリーンピンクボール
+ORANGE_BLUE_BALL,オレンジブルーボール
+WHITE_BALL,ホワイトボール
+BASKET_BALL,バスケットボール
+OSIK_BALL,OSIKボール
+VALENTIA_BALL,バレンシアボール
+RED_VALENTIA_BALL,レッド・バレンシアボール
+BLACK_WHITE,ブラック・ホワイトユニフォーム
+ORANGE_BLACK,オレンジ・ブラックユニフォーム
+BLUE_BLACK,ブルー・ブラックユニフォーム
+BLACK_GOLD,ブラック・ゴールドユニフォーム
+PINK_BLACK,ピンク・ブラックユニフォーム
+BLACK_PINK,ブラック・ピンクユニフォーム
+00001HAIR(WHITE_PERM),ホワイトパーマ
+00002HAIR(BLACK_PERM),ブラックパーマ
+00003HAIR(SPIKY_HAIR),ツンツンヘア
+00004HAIR(BUZZCUT),坊主
+00005HAIR(SPORTS_HAIR),スポーツカット
+00006HAIR(LONG_DOWN_HAIR),ミディアムヘア
+00007HAIR(GRAY_BABY_PERM),グレーベイビーパーマ
+00008HAIR(GRAY_PERM),グレーパーマ
+00009HAIR(PUDDING_HAIR),プリンヘア
+00010HAIR(BLACK_DOWN_HAIR),ブラックヘア
+00011HAIR(PROTRUDING_HAIR),リーゼント
+00012HAIR(GRAY_UPHAIR),グレーアップヘア
+00013HAIR(ROOSTER_UPHAIR),モヒカン
+00014HAIR(GRANDPA_HAIR),おじいちゃんヘア
+00015HAIR(ORANGE_HAIR),オレンジヘア
+00016HAIR(WHITE_PERM_2),ホワイトパーマ2
+00017HAIR(BLACK_OVER_HAIR),ブラックオールバック
+00018HAIR(THUNDER_HAIR),サンダーヘア
+00019HAIR(BLACK_OVER_HAIR2),ブラックオールバック2
+00020HAIR(VOLLEYBALL_MASK),バレーボールマスク
+00021HAIR(BROWN_PERM),ブラウンパーマ
+00022HAIR(GREEN_FAIRY_HAIR),グリーン妖精ヘア
+00023HAIR(WINE_FAIRY_HAIR),ワイン妖精ヘア
+00024HAIR(RED_FOX_MASK),赤狐マスク
+00025HAIR(BLUE_FOX_MASK),青狐マスク
+00026HAIR(CLOWN_MASK),ピエロマスク
+00027HAIR(HOONYA_HAIR),ふにゃヘア
+00028HAIR(GOLD_SHORTCUT),ゴールドショートカット
+00029HAIR(BROWN_BUN),ブラウンシニヨン
+00030HAIR(ASH_GRAY_DOWN_PERM),アッシュグレーダウンパーマ
+00031HAIR(KHAKI_GREEN_SHAG_CUT),カーキシャギーカット
+00032HAIR(OSIK_HAIR),OSIKヘア
+00033HAIR(NEAT_GLASSES_HAIR),きちっとしたメガネヘア
+00034HAIR(GRASSHOPPER_HAIR),バッタヘア
+00035HAIR(BUSHY_HAIR),もじゃもじゃヘア
+00036HAIR(COOL_CROW_HAIR),カラスヘア（サングラス付き）
+00037HAIR(BLONDE_PONYTAIL_HAIR),ブロンドポニーテール
+00038HAIR(CROW_HAIR),カラスヘア
+00039HAIR(ANGULAR_HAIR),角ばったヘア
+00040HAIR(SMOOTH_HAIR),ツルツルヘア
+00041HAIR(YAMADERA_HAIR),山寺ヘア
+00042HAIR(NISHIKAWA_HAIR),西川ヘア
+00043HAIR(GLASSES_NISHIKAWA_HAIR),メガネ西川ヘア
+ISABEL_HAIR(ISABEL_HAIR),イザベルヘア
+ROBERTO_HAIR(ROBERTO_HAIR),ロベルトヘア
+NN_HAIR(NN_HAIR),NNヘア
+ZACO1_HAIR(WHITE_SHADOW_PERM),ホワイトシャドウパーマ
+ZACO2_HAIR(PINK_HAIR),ピンクヘア
+ZACO3_HAIR(REDBLACK_HAIR),レッドブラックヘア
+VIOLA_HAIR,ヴィオラヘア
+LEON_HAIR,レオンヘア
+STRANGER_HAIR1(RED_THUNDER_HAIR),レッドサンダーヘア
+STRANGER_HAIR2(RED_STATIC_HAIR),レッドスパークヘア
+00000UNIFORM(BLACK_WHITE_UNIFORM),ブラック・ホワイトユニフォーム
+00001UNIFORM(BLUE_GRAY_UNIFORM),ブルー・グレーユニフォーム
+00002UNIFORM(BLACK_GOLD_UNIFORM),ブラック・ゴールドユニフォーム
+00003UNIFORM(RED_BLACK_UNIFORM),レッド・ブラックユニフォーム
+00004UNIFORM(BLACK_YELLOW_UNIFORM),ブラック・イエローユニフォーム
+00005UNIFORM(BLUE_HOTPINK_UNIFORM),ブルー・ホットピンクユニフォーム
+00006UNIFORM(BLUE_BLACK_UNIFORM),ブルー・ブラックユニフォーム
+00007UNIFORM(WHITE_MINT_UNIFORM),ホワイト・ミントユニフォーム
+00008UNIFORM(WHITE_BLUE_UNIFORM),ホワイト・ブルーユニフォーム
+00009UNIFORM(WHITE_BROWN_UNIFORM),ホワイト・ブラウンユニフォーム
+00010UNIFORM(BLACK_MINT_UNIFORM),ブラック・ミントユニフォーム
+00011UNIFORM(BLACK_PINK_UNIFORM),ブラック・ピンクユニフォーム
+00012UNIFORM(PRO_WRESTLING_UNIFORM),プロレスリングユニフォーム
+00013UNIFORM(WHITE_PINK_UNIFORM),ホワイト・ピンクユニフォーム
+00014UNIFORM(WHITE_PURPLE_UNIFORM),ホワイト・パープルユニフォーム
+00015UNIFORM(GRAY_VINTAGE_UNIFORM),グレーヴィンテージユニフォーム
+00016UNIFORM(ORIGINAL_PURPLE_UNIFORM),オリジナルパープルユニフォーム
+00017UNIFORM(PLUMBER_UNIFORM),オーバーオール
+00018UNIFORM(ORANGE_BLACK_UNIFORM),オレンジ・ブラックユニフォーム
+00019UNIFORM(BLUE_GREEN_UNIFORM),ブルー・グリーンユニフォーム
+00020UNIFORM(SNOW_MINT_UNIFORM),スノーミントユニフォーム
+00021UNIFORM(WHITE_LEMON_UNIFORM),ホワイト・レモンユニフォーム
+00022UNIFORM(GRAY_UNIQUE_UNIFORM),グレーユニークユニフォーム
+00023UNIFORM(RED_GRAY_UNIFORM),レッド・グレーユニフォーム
+00024UNIFORM(OFFICE_WORKER),会社員
+00025UNIFORM(TAKAYU),タカユ
+00026UNIFORM(SUPER_MUSCLE_UNIFORM),スーパーマッスル
+00027UNIFORM(PRECIOUS_UNIFORM),大切なユニフォーム
+00039UNIFORM(YELLOW_CARDIGAN_UNIFORM),イエローカーディガン
+00028UNIFORM(GRASSHOPPER_UNIFORM),バッタ
+00029UNIFORM(BEE_UNIFORM),みつばち
+00030UNIFORM(PINK_TILE_UNIFORM),ピンクタイル
+00031UNIFORM(RED_DRESS_UNIFORM),レッドスーツ
+00032UNIFORM(ALL_GREEN_UNIFORM),オールグリーン
+00033UNIFORM(SPARKLE_UNIFORM),キラキラボタンジャケット
+00034UNIFORM(SUMMER_CAMP_BLUE_SWIMSUIT),夏合宿水着（ブルー）
+00035UNIFORM(SUMMER_CAMP_GRAY_SWIMSUIT),夏合宿水着（グレー）
+00036UNIFORM(DRESSUP_OASIS_SUNTAN),ドレスアップ：オアシスの日焼け
+00037UNIFORM(DRESSUP_SUN_VOLLEYBALL_TEAM_SUNTAN),ドレスアップ：太陽バレーボールチームの日焼け
+00038UNIFORM(VALENTIA_UNIFORM),バレンシアユニフォーム
+ROBERTO_UNIFORM(ARMATURA_UNIFORM),アルマトゥーラユニフォーム
+NN_UNIFORM(NN_UNIFORM),NNユニフォーム
+RED_ZACO_UNIFORM,レッドスクードユニフォーム
+BLUE_ZACO_UNIFORM,ブルーランシアユニフォーム
+YELLOW_ZACO_UNIFORM,イエロースピアユニフォーム
+GREEN_ZACO_UNIFORM,グリーン・レオンユニフォーム
+STRANGER_UNIFORM,レッド・バレンシアユニフォーム
+00000SHOES(NORMAL_VOLLEYBALL_SHOES),普通のバレーボールシューズ
+00001SHOES(NORMAL_BASKETBALL_SHOES),普通のバスケットシューズ
+00002SHOES(WHITE_VOLLEYBALL_SHOES),白いバレーボールシューズ
+00003SHOES(WHITE_BLACK_MIXED_VOLLEYBALL_SHOES),白と黒のバレーボールシューズ
+00004SHOES(WHITE_BLACK_BLUE_MIXED_BASKETBALL_SHOES),白と黒と青のバスケットシューズ
+00005SHOES(BLUE_PATTERNED_VOLLEYBALL_SHOES),青模様のバレーボールシューズ
+00006SHOES(WHITE_RED_VOLLEYBALL_SHOES),白と赤のバレーボールシューズ
+00007SHOES(PINK_VOLLEYBALL_SHOES),ピンクのバレーボールシューズ
+00008SHOES(ORANGE_VOLLEYBALL_SHOES),オレンジのバレーボールシューズ
+00009SHOES(RED_LUXURY_VOLLEYBALL_SHOES),赤のバレーボールシューズ
+00010SHOES(BLUE_AO_SHOES),ブルーシューズ
+00011SHOES(ONI_OF_AO_VOLLEYBALL_SHOES),青鬼バレーボールシューズ
+00012SHOES(WHITE_STRIPED_VOLLEYBALL_SHOES),白いストライプのバレーボールシューズ
+00013SHOES(BLACK_WHITE_SHOES),白黒シューズ
+00014SHOES(PENGUIN_SHOES),ペンギンシューズ
+STRANGER_SHOES(SPECIAL_NISHIKAWA_SHOES),スペシャル西川バレーボールシューズ
+RED_BLACK_STRIPE,赤黒ストライプユニフォーム
+WHITE_BLUE_V,白青Vユニフォーム
+YELLOW_SKY_BLUE,黄空色ユニフォーム
+SKYBLUE_WHITE,空色白ユニフォーム
+BLACK_DANDY,黒ダンディユニフォーム
+BLACK_LIGHT_GREEN,黒ライトグリーンユニフォーム
+RED_BLACK_TIGER,赤黒タイガーユニフォーム
+HEART_PINK,ハートピンクユニフォーム
+HEART_VIOLET,ハートバイオレットユニフォーム
+TEARD_BLACK,ティアドブラックユニフォーム
+BLUE_DANDY,青ダンディユニフォーム
+CYAN_GREEN,シアングリーンユニフォーム
+DUST_WHITE,ダストホワイトユニフォーム
+DUST_YELLOW,ダストイエローユニフォーム
+ALLSTAR,オールスターユニフォーム
+PINK_PATTERN,ピンクパターンユニフォーム
+OFFICE,オフィスユニフォーム
+GRAY_FLOWER,グレーフラワーユニフォーム
+MUSCLE,マッスルユニフォーム
+BLUE_PINK,ブルーピンクユニフォーム
+WINE_OFFICE,ワインオフィスユニフォーム
+RAIN,レインユニフォーム
+PINK_EAGLE,ピンクイーグルユニフォーム
+YELLOW_DANDY,イエローダンディユニフォーム
+GREEN_OFFICE,グリーンオフィスユニフォーム
+RED_SHINY,レッドシャイニーユニフォーム
+MUSCLE2,マッスル2ユニフォーム
+MUSCLE3,マッスル3ユニフォーム
+MUSCLE4,マッスル4ユニフォーム
+RED_BLACK_GRADATION,赤黒グラデーションユニフォーム
+SHOOTING_STAR,シューティングスターユニフォーム
+SKYBLUE_FANGS,スカイブルーファングスユニフォーム
+WHITE_PINK_FLOWER,ホワイトピンクフラワーユニフォーム
+ONE_BLACK_DANDY,ワンブラックダンディユニフォーム
+BLUE_BEAST,ブルービーストユニフォーム
+X_BLACK,エックスブラックユニフォーム
+THUNDER,サンダーユニフォーム
+PURPLE_MOON,パープルムーンユニフォーム
+BLACK_TIGER,ブラックタイガーユニフォーム
+BEACH1,ビーチ1ヘア
+SWIMMING2,水泳2ヘア
+SIWOO_HAIR,新ヘア
+BLACK_UPHAIR,ブラックアップヘア
+BLACK_BUZZCUT,ブラックバズカット
+BLACK_CHEOLS_HAIR,ブラックチョルヘア
+BLACK_DOWN_HAIR,ブラックダウンヘア
+WHITE_UPHAIR,ホワイトアップヘア
+DARK_GRAY_CURLY_HAIR,ダークグレーカーリーヘア
+PUDDING_HAIR,プリンヘア
+NAVY_HAIR,ネイビーヘア
+BLACK_RUSH_HAIR,ブラックラッシュヘア
+BLACK_DOBOK,黒い道着
+WHITE_DOBOK,白い道着
+DRAGON_DOBOK,青龍道着
+TIGER_DOBOK,白虎道着
+SODAM_DOBOK,小町翆の衣装
+JUJAK_DOBOK,朱雀道着
+HYUNMU_DOBOK,玄武道着
+ORANGE_MINT_SHOES,オレンジミントシューズ
+MINT_YELLOW_SHOES,ミントイエローシューズ
+RED_PREMIUM_SHOES,レッドプレミアムシューズ
+BLUE_PREMIUM_SHOES,ブループレミアムシューズ
+BLUE_DRAGON_SHOES,ブルードラゴンシューズ
+HONGSI_HAIR,日向乃ヘア
+SODAM_HAIR,翆ヘア
+HANRA_HAIR,雀煉華ヘア
+MUYEONG_HAIR,瀬亜ヘア
+RYUHYUN_HAIR,青龍真一ヘア
+BAMBOO_HAT_RYUHYUN,青龍真一の笠
+BAMBOO_HAT_SIWOO,白井新の笠
+GREEN_PRETTY_HAIR,グリーンプリティーヘア
+VIOLET_PRETTY_HAIR,パープルプリティーヘア
+BROWN_DOWN_HAIR,ブラウンヘア
+BLUE_SHARP_HAIR,ブルーカルマヘア
+YELLOW_PERM_HAIR,イエローパーマヘア
+SUNRIM_PRACTICE_BALL,仙林高校のボール
+SUNRIM_BALL,マスターボール
+WINTER_CANDY_BALL,ウィンターキャンディボール
+WINTER_SNOW_BALL,ウィンタースノーボール
+CHRISTMAS_BALL,クリスマスボール
+MIKE_HAIR,マイクヘア
+DAVE_HAIR,デイブヘア
+SARA_HAIR,紗良ヘア
+TANIA_HAIR,タニアヘア
+CLYDE_HAIR,クライドヘア
+GRAY_SNOW_HAIR,グレー・スノーヘア
+WINTER_BLUE_HAIR,ウィンターブルーヘア
+HOLIDAY_YELLOW_HAIR,ホリデーイエローヘア
+PARTY_CURL_HAIR,パーティーカールヘア
+PARTY_RABBIT_HAIR,パーティーラビットヘア
+PARTY_MAID_HAIR,パーティーメイドヘア
+PARTY_YELLOW_UNIFORM,パーティーイエローユニフォーム
+PARTY_MAID_UNIFORM,パーティーメイドユニフォーム
+SANTA_UNIFORM,サンタユニフォーム
+HOLIDAY_BLACK_UNIFORM,ホリデーブラックユニフォーム
+HOLIDAY_BLACK_MAN_UNIFORM,ホリデーブラックメンズユニフォーム
+HOT_CHRISTMAS_UNIFORM,ホットクリスマスユニフォーム
+CHRISTMAS_MAN_UNIFORM,クリスマスメンズユニフォーム
+WINTER_SPIKE_SHOES,ウィンタースパイクシューズ
+BLUE_SNOW_SHOES,ブルースノーシューズ
+CHRISTMAS_SHOES,クリスマスシューズ
+BOUQUET_BALL,花束バレーボール
+RISE_BALL,ライズバレーボール
+SUIT_SHOES,ビジネスシューズ
+STUDENT_SHOES,学生靴
+WEDDING_ISABEL_SHOES,ウェディングドレス イザベルシューズ
+TRAINING_JAEHYUN_SHOES,黒崎陵トレーニングシューズ
+HIGHSCHOOL_NISHIKAWA_SHOES,高校生西川シューズ
+HIGHSCHOOL_UNIFORM_M,高校生制服(男)
+HIGHSCHOOL_UNIFORM_W,高校生制服(女)
+TRAINING_UNIFORM_M,トレーニングウェア(男)
+TRAINING_UNIFORM_W,トレーニングウェア(女)
+WEDDING_SUIT_M,結婚式スーツ(男)
+WEDDING_SUIT_W,結婚式ドレス(女)
+HIGHSCOOL_NISHIKAWA_HAIR,高校生西川ヘア
+TRAINING_JAEHYUN_HAIR,トレーニング 黒崎陵ヘア
+WEDDING_ISABEL_HAIR,ウェディングドレス イザベルヘア
+7TH_SIWOO_HAIR,7周年記念白井新ヘア
+7TH_SIWOO_UNIFORM,7周年記念白井新ユニフォーム
+7TH_DAHEE_HAIR,7周年記念夏希ヘア
+7TH_DAHEE_UNIFORM,7周年記念夏希ユニフォーム
+7TH_DAHEE_HAIR_UNIFORM,7周年記念夏希ヘア＆ユニフォームセット
+NERO_ASPIDE_HAIR,ネロ・アスピデ フェドラヘア
+NERO_ASPIDE_UNIFORM,ネロ・アスピデ
+NERO_ASPIDE_UNIFORM/DES,ラウルの私設護衛、“ミア・ファミリア（我が家族）”の一員だけに許される特注スーツ。ラウル自ら仕立て屋に連れて行き合わせる黒のストライプスーツと毒蛇の刺青がその証。#「このスーツを着た瞬間、お前は俺の兄弟だ。」
+DAMA_DE_LA_NOTTE_HAIR,ダマ・デ・ラ・ノッテ ヘア
+DAMA_DE_LA_NOTTE_UNIFORM,ダマ・デ・ラ・ノッテ
+DAMA_DE_LA_NOTTE_UNIFORM/DES,カルラが主催するパーティーに招かれた〈15人委員会〉の中枢メンバーのドレスコード。赤い毛皮と黒いドレスに身を包んだ彼女たちは、単なるゲストではない。メディア、司法、金融を支配する裏の支配者として、影から世界を操っている。#「Buona sera。我々こそがこの地の法であり、哲学であり、声なのだ。」
+RESEARCHER_HAIR,研究員ゴーグル
+RESEARCHER_HAIR/DES,星野夢の同僚研究員のゴーグル。星野夢と顔を合わせると、恥ずかしさのあまり、ついゴーグルで顔を隠してしまう。
+RESEARCHER_UNIFORM,研究員の実験服
+RESEARCHER_UNIFORM/DES,星野夢の同僚研究員の白衣。自分の気持ちを伝えられないまま実験に没頭していたせいで、いつの間にか染みだらけになっていた。
+BREAD_HAIR,パンマスク
+BREAD_HAIR/DES,雀を笑顔にするため、誰かがこのマスクをかぶって校内を歩き、ベーカリーを宣伝している。
+BREAD_UNIFORM,ベーカリーユニフォーム
+BREAD_UNIFORM/DES,仙林ベーカリーの公式ユニフォーム。かわいい刺繍は雀が自らデザインしたものだ。
+PINATA_BALL,ピニャータボール
+PINATA_BALL/DES,青龍真一は、師匠と手をつないで初めて参加した青龍祭で受け取ったピニャータを、今でも大切に持っている。このバレーボールは、そのピニャータをモチーフにした青龍祭限定モデルだ。
+FESTIVAL_BALLOON_BALL,トリックボール
+FESTIVAL_BALLOON_BALL/DES,日向乃が真一にイタズラするために作った青龍祭限定のバレーボール。見た目は風船でも、実はずっしり重い。
+RAINY_HIGHSCHOOL,雨の降る高校
+RAINY_HIGHSCHOOL_DESC,濡れたアスファルトの匂い、失踪者を探す掲示板、生徒たちのひそひそ話。学校を辞めると決めたあの日の記憶は今も鮮明だ。
+PHANTOM_STADIUM_ENTRANCE,ファントムリーグスタジアム入口
+PHANTOM_STADIUM_ENTRANCE_DESC,かつてここには、最高のスーパースターと彼の全盛期を共にしたキングメーカーがいた。
+FESTIVAL_CLASSROOM,お祭り真っ最中の教室
+FESTIVAL_CLASSROOM_DESC,仙林高の生徒たちが本気で飾りつけてみた教室。皆、流行りにはやや疎いゆえ、野暮に見えはせぬかと気を揉んでおったようだ。「雀、それはいくらなんでも可愛く飾りすぎじゃないか？」
+VOLLEYBALL_CLUBROOM,大地高校バレー部の部室
+VOLLEYBALL_CLUBROOM_DESC,かつては地元の強豪だったが、黄金世代が卒業してから衰退してしまった。今でも壁の片隅には、先輩たちの落書きが残っている。「俺たちの記録を破ってくれるのを待っているよ。」
+BGM_AZURE_DRAGON_FESTIVAL_DESC,青龍祭イベントメインテーマ曲#「伝説によれば—遥か昔、一人の青年がこの場所で青龍に出会ったと言われています。」
+BGM_MAIN_LOBBY_DESC,The Spike Cross ロビーのテーマ曲
+BGM_RYUHYEON_DAYDREAM_DESC,CHAPTER 07. 回想シーン。#「そして、必ず…必ずあなたに認められてみせます。」
+BGM_RYUHYEON_VS_SIWOO_DESC,CHAPTER 07. 青龍真一ボス戦。#「仙林の未来は私が守る。」
+BGM_THIS_IS_SUNRIM_DESC,CHAPTER 07. 仙林高校のメインテーマ#「…実は待っていたんでしょ？こんなふうに全力で試合ができるアツい瞬間を。」
+BGM_CLASH_OF_FANTOMS_DESC,CHAPTER 09. メイン試合BGM#「ここにいる全員が自分の人生を賭けてバレーをしているんですよ。」
+SODAM_UNIFORM,小町・翆ユニフォーム
+HARI_UNIFORM,ハリのユニフォーム
+HARI_UNIFORM/DES,華やかな刺繍とバレーボールウェアらしくないデザインはすべてカルラの作品。ハリの意見は一切反映されていない。
+CROW_UNIFORM,クロウのユニフォーム
+CROW_UNIFORM/DES,試合前、決まった順番で肩にテーピングを巻く。少しでもズレると気になって試合に集中できない。
+LUCAS_UNIFORM,ルーカスのユニフォーム
+LUCAS_UNIFORM/DES,かつて、ファンの心を熱くさせたスーパースターがいた。彼のスパイクは太陽のように眩しかった。
+ZERO_UNIFORM,ゼロのユニフォーム
+ZERO_UNIFORM/DES,ファントムリーグを去った後、白石優翔はこのユニフォームを一度も着ていない。それでも、今も大切にクローゼットの奥にしまっている。
+SUN_BALL,真昼
+SUN_BALL/DES,ファントムリーグの最高のスーパースターのために作られた記念ボール。カルラの指示で使用禁止となり、今ではコートで見ることはできないが、今でもファンに最も愛されているボール。
+MOON_BALL,満月
+MOON_BALL/DES,ファントムリーグには、ファンに愛された伝説のコンビがいた。その一人、天才セッターを偲んでファンが募金し、作られた唯一無二のバレーボール。
+BGM_SUPERSTAR_CHALLANGE1_DESC,CHAPTER 04. 白石優翔ボス戦。#「試合をご覧になる前に、「いいね」ボタンをお願いします〜」
+BGM_RECONCILIATION_DESC,CHAPTER 05. 第8話。#「でもあの日見た『あのスパイク』が、俺の人生を変えたんだ。」
+BGM_TRIP_DESC,CHAPTER 02. 第1話。#「海だ、海だー！」
+BGM_THE_GEMSTONE_DESC,CHAPTER 06. 第4話。#「選手になるにはやっぱり才能が一番大事でしょうか…？」
+BGM_WINTER_WONDERLAND_DESC,CHAPTER 08. 第1話。#「ロックウェルキャンプからの招待状」
+BGM_SARAH_SHOW_DESC,CHAPTER 08. エピローグ#「バレンシア・スパイクス vs アッシュビル・ウィーズルズ」
+BGM_EYE_OF_THE_DAY_DESC,CHAPTER 10. シルバースターテーマ曲#「女王」
+BGM_BLUEBELL_COLOSSEUM_DESC,CHAPTER 10. ブルーベルテーマ曲。#「素敵なスパイクさえ見せてくれれば…私、毎日でも相手できるわよ？」
+BGM_TAKE_ME_HIGHER_DESC,CHAPTER 10. ルーカスボス戦。#「ルーカスvsラウル」
+BGM_ROAD_TO_SUPERSTAR_DESC,CHAPTER 10.#「僕のパートナーなら、きっとみんなのスーパースターになってくれる。」
+BGM_SUMMER_MEMORIES_DESC,サマーメモリーズイベントメインテーマ曲#「こんな時はビーチバレーを思いきり楽しめばいいんだ。」
+BGM_MAIN_TITLE_DESC,The Spike Cross Mian Title #「俺が君の本当の力を証明してみせよう」
+SUMMER_BEACH,夏の海
+SUMMER_BEACH_DESC,リシアの思い出の場所。プロを目指して疲れていたリシアは、ここでオアシスの活躍を見てビーチバレーに夢中になった。
+SEONRIM_HIGH,仙林
+SEONRIM_HIGH_DESC,青龍真一が父に引き取られた日、息が上がるほど急な山道を登ると、「仙林」と書かれた門が現れた。その下で、父は穏やかな笑みを浮かべて立っていた。
+REGIONAL_COMPETITION_STADIUM,観客席
+REGIONAL_COMPETITION_STADIUM_DESC,数十年前、ここで飛鳥夏希の父がコートを駆けていた。その日、観客席では少年がチョコ牛乳を飲みながら目を輝かせていた。
+NIGHT_STADIUM_FRONT,外通路（夜）
+NIGHT_STADIUM_FRONT_DESC,スーパースターチャレンジが終わった後、白石優翔はしばらくここに佇んでいた。歓声で満ちていたファントムリーグ。その輝かしい時代を思い出しながら、彼はスーパースターチャレンジを作ったが――
+SUPERSTAR,スーパースター
+SUPERSTAR_DESC,繰り返される悪夢。ライブ配信が終わるたびに、目を閉じるとまぶたの裏に過去の記憶が浮かび上がる。
+DAEJI_HIGH_FRONT_PARK,大地高校前の公園
+DAEJI_HIGH_FRONT_PARK_DESC,大地高校近くの散歩道。ここでお弁当を食べると、いつもよりおいしく感じる。
+CARLA_OFFICE,カルラのオフィス
+CARLA_OFFICE_DESC,ファントムリーグ地下の最深部に隠されたオフィス。巨大な水槽の向こうには、誰も入れない秘密の空間がある。
+KINGMAKER_STADIUM,ファントムリーグ競技場（過去）
+KINGMAKER_STADIUM_DESC,プロになれなかった選手たちが情熱だけで作り上げたリーグ。捨てられた地下施設をバレーボールコートに改造したのがファントムリーグの始まりだった。
+BGM_MEET_OASIS_DESC,CHAPTER 02. 第06話#「逃げ腰より、堂々とぶつかってみる方が格好いいよな！」
+BGM_MEET_LISIA_DESC,CHAPTER 02. 第03話_試合勝利#「彼と一緒にプレーするのが私の夢ですから！」
+SUMMER_MEMORIES_BEACH,ビーチ
+SUMMER_MEMORIES_BEACH_DESC,RISEビーチバレーボールトーナメントが開催されるビーチ。その勝利の日、有田・紗良はジェニーを思いながら夕暮れまで浜辺を歩いた。
+SUMMER_MEMORIES_SUNSETBEACH,夕焼けの海
+SUMMER_MEMORIES_SUNSETBEACH_DESC,サマースプラッシュキャンプが開催されたビーチ。焚き火の音を聞きながら、白井・新と黒崎・陵は全国大会で再会することを約束した。
+STRAWHAT_JENNY_UNIFORM,ジェニー水着
+STRAWHAT_JENNY_UNIFORM/DES,「この麦わら帽子、君に預けるね。大切な帽子だよ。いつか必ず返しに来て。」…とお姉ちゃんが言う夢を見た。
+WATERSPLASH_SARA_UNIFORM,有田・紗良の水着
+WATERSPLASH_SARA_UNIFORM/DES,トーナメント前、カメラがやけに気になって買った水着。着てみたら派手すぎて顔が真っ赤になった。
+SURFER_NN_UNIFORM,NN水着
+SURFER_NN_UNIFORM/DES,たまに海へ出てサーフィンを楽しむ。借金取りに追われるときはサーフボードで逃げることも。
+DIVER_DAVE_UNIFORM,デイブ水着
+DIVER_DAVE_UNIFORM/DES,潜れば必ずマグロを釣り上げる。たまには海底に眠る宝箱まで見つけてくる。いったいどこまで潜るんだろう？
+BEACH_BALL,ビーチボール
+BEACH_BALL/DES,RISEビーチバレートーナメントで使用されるボール。RISE発行の雑誌『ザ・クロス』で初めて紹介された。2年後、同誌で有田・紗良が新たな「五大スパイカー」になったと公式発表された。
+WATER_MELON_BEACH_BALL,スイカビーチボール
+WATER_MELON_BEACH_BALL/DES,これは間違いなくバレーボールだ。……なのに叩くと、なぜか食べ頃の音がする。
+SEAWEED_BALL,海藻が絡みついたボール
+SEAWEED_BALL/DES,子供たちが失くしたボールを、デイブが海に飛び込んで拾ってきた。見た目はちょっと気味が悪い。
+REYS,
+PRODUCT_SKIN_NISHIKAWA_HIGHSCHOOL,ハイスクール西川
+PRODUCT_SKIN_ISABEL_WEDDING,ウェディングドレス・イザベル
+PRODUCT_SKIN_JAEHYEON_TRAINING,トレーニング 黒崎陵
+BDF,
+PRODUCT_SKIN_RYUHYUN_CHIEF_DISCIPLE,一番弟子 青龍真一
+PRODUCT_SKIN_HANRA_YUMMI,パティシエ雀煉華
+PRODUCT_SKIN_AYEONSTEIN,ホシノシュタイン
+SMM,
+SMM_NORMAL_PASS,ノーマルパス
+SMM_NORMAL_PASS_DESC,ノーマルパスでさまざまなユニフォームと報酬をゲットしましょう
+SMM_SAND_PASS,サンドパス
+SMM_SAND_PASS_DESC,サンドパスを開放すると、イベントログインパスが3日分進み、限定ユニフォームとたくさんの報酬がゲットできます。
+SMM_TROPICAL_PASS,トロピカルパス
+SMM_TROPICAL_PASS_DESC,トロピカルパスを開放すると、イベントログインパスが1日分進み、限定ユニフォームとたくさんの報酬がゲットできます。サンドパス購入後に購入可能です。
+SMM_SAND_TROPICAL_PASS,サンドパス + トロピカルパス
+SMM_SAND_TROPICAL_PASS_DESC,サンドパスとトロピカルパスをまとめて開放できるお得なパックです。
+SMM_BEGINNER_PACKAGE,サマーメモリーズ初心者パック
+SMM_BEGINNER_PACKAGE_DESC,1回のみ購入可能なお得な#初心者向けのパックです。
+SMM_PREMIUM_PACKAGE,プレミアムパッケージ
+SMM_PREMIUM_PACKAGE_DESC,"サマーコインx1,000とVポイントx1,200を獲得できるパッケージです。"
+SMM_ROYAL_PACKAGE,ロイヤルパッケージ
+SMM_ROYAL_PACKAGE_DESC,"サマーコインx1,200とVポイントx2,500を獲得できるパッケージです。"
+SMM_EXTREME_ROYAL_PACKAGE,エクストリームロイヤルパッケージ
+SMM_EXTREME_ROYAL_PACKAGE_DESC,"サマーコインx2,650とVポイントx5,100を獲得できるパッケージです。"
+SMM_PACKAGE_1,サマーメモリーズパッケージ I
+SMM_PACKAGE_1_DESC,サマーコインx270を獲得できるパッケージです。
+SMM_PACKAGE_2,サマーメモリーズパッケージ II
+SMM_PACKAGE_2_DESC,サマーコインx570を獲得できるパッケージです。
+SMM_PACKAGE_3,サマーメモリーズパッケージ III
+SMM_PACKAGE_3_DESC,サマーコインx1875を獲得できるパッケージです。
+SMM_GROWTH_PACKAGE,成長パッケージ
+SMM_GROWTH_PACKAGE_DESC,大量のクレジットとEXPポイントを獲得できるパッケージです。
+HLWN 11/3~,
+PRODUCT_SKIN_SARA_WATERSPLASH,ウォータースプラッシュ・紗良
+PRODUCT_SKIN_JENNY_STRAWHAT,麦わら帽子ジェニー
+PRODUCT_SKIN_DAVE_DIVER,ダイバー・デイブ
+PRODUCT_SKIN_NN_SURFER,サーファーNN
+PRODUCT_SKIN_VAMPIRE_SOHEE,梨花伯爵
+HLWN2025_NORMAL_PASS,ノーマルパス
+HLWN2025_NORMAL_PASS_DESC,ノーマルパスでさまざまなアイテムと報酬をゲットしましょう
+HLWN2025_SURPRISE_SOHEE_PASS,サプライズ梨花パス
+HLWN2025_SURPRISE_SOHEE_PASS_DESC,サプライズ梨花パスを開放すると、イベントログインパスが3日分進み、梨花伯爵スキンと大量の通貨がゲットできます。
+BSP,
+RAUL_ROOM,ラウルの部屋
+RAUL_ROOM_DESC,長い眠りから目覚めた。なじみ深い頭痛が鋭く走る。ワインに映る自分の顔を見下ろし、男はゆっくりと喉へ流し込んだ。古い怨念は、酒のように冷たく苦い。
+BGM_AGAINST_PHANTOM_LEAGUE_DESC,CHAPTER 11. #「下手したら二度とバレーができなくなるかもしれない。」
+BGM_REUNITED_DESC,CHAPTER 11. #「もう5年も経ったな。」
+BGM_TWO_QUEENS_DESC,CHAPTER 11. #「今度は私が見せてあげます。これまで私がどれだけ成長したか。」
+BGM_UNDERGROUND_JUNGLE_DESC,CHAPTER 11. #「もうためらう理由もありません。どいてください。」
+BGM_SIWOO_AND_PHANTOM_LEAGUE_DESC,CHAPTER 11. #「5大スパイカーってのは、ただ実力が高い選手のことじゃない。」
+NEON_SIGN_BALL,ネオンサインボール
+NEON_SIGN_BALL/DES,観客ウケは最高、選手ウケは最悪。「普通のボールを使わせてくれ…」と、ロッカールームからため息が漏れる。
+VENOM_BALL,ベノムボール
+VENOM_BALL/DES,ファントムリーグの公式球。カルラが有名デザイナーに直接依頼して作らせたボールだ。
+CLAIRE_UNIFORM,クレールのユニフォーム
+CLAIRE_UNIFORM/DES,試合が終わると、ファンたちはこのユニフォームを手にクレールに群がる。勝った日には気前よくサインしてくれるらしい。
+RAUL_SUIT,ラウルのスーツ
+RAUL_SUIT/DES,ラウルのスーツ。最高級の生地で仕立てられ、陽の光を浴びると一層深く重厚な色合いを見せる。ネクタイはカルラが自ら選んだものだ。
+SIWOO_WHITE_STORMS_UNIFORM,新のホワイトストームズユニフォーム
+SIWOO_WHITE_STORMS_UNIFORM/DES,ファントムリーグで新が着用したユニフォーム。選手登録の日、カルラはまるでこうなると分かっていたかのように、用意していたユニフォームを新に差し出した。
+PL_STADIUM,ファントムリーグ競技場
+PL_STADIUM_DESC,「ファントムリーグ・オールスター戦が開催されます！」華やかなライトが閃き、人々は興奮して歓声を上げた。観客席のあなたも思わず立ち上がり、声を張り上げた。
+SIF_HAIR,シフのヘア
+SIF_UNIFORM,シフのユニフォーム
+SIF_SHOES,シフのシューズ
+CLAIRE_HAIR,クレールのヘア
+CLAIRE_SHOES,クレールのシューズ
+RAUL_HAIR,ラウルのヘア
+RAUL_UNIFORM,ラウルのユニフォーム
+RAUL_SHOES,ラウルのシューズ
+LEAGUE_UNIFORM_1,ファントムリーグ・レッド
+LEAGUE_UNIFORM_2,ファントムリーグ・ブルー
+LEAGUE_UNIFORM_3,ファントムリーグ・レッドホワイト
+BSP_REWARD_ADD_VOUCHER,追加貢献度チケット
+BSP_NORMAL_PASS,ノーマルパス
+BSP_NORMAL_PASS_DESC,ノーマルパスでさまざまなユニフォームと報酬をゲットしましょう
+BSP_PREMIUM_PASS,プレミアムパス
+BSP_PREMIUM_PASS_DESC,プレミアムパスを開放すると、イベントログインパスが3日分進み、限定ユニフォームとたくさんの報酬がゲットできます。
+BSP_ROYAL_PASS,ロイヤルパス
+BSP_ROYAL_PASS_DESC,ロイヤルパスを開放すると、イベントログインパスが1日分進み、たくさんの報酬がゲットできます。プレミアムパス購入後に購入可能です。
+BSP_PREMIUM_ROYAL_PASS,プレミアムパス＋ロイヤルパス
+BSP_PREMIUM_ROYAL_PASS_DESC,プレミアムパスとロイヤルパスをまとめて開放できるお得なパックです。
+BSP_BEGINNER_PACKAGE,ビースト初心者パック
+BSP_BEGINNER_PACKAGE_DESC,1回のみ購入可能なお得な#初心者向けのパックです。
+BSP_PREMIUM_PACKAGE,プレミアムパッケージ
+BSP_PREMIUM_PACKAGE_DESC,"ビーストコインx1,200とビーストスパイカー選手募集券x10を獲得できるパッケージです。"
+BSP_ROYAL_PACKAGE,ロイヤルパッケージ
+BSP_ROYAL_PACKAGE_DESC,"ビーストコインx1,800とビーストスパイカー選手募集券x20を獲得できるパッケージです。"
+BSP_EXTREME_ROYAL_PACKAGE,エクストリームロイヤルパッケージ
+BSP_EXTREME_ROYAL_PACKAGE_DESC,"ビーストコインx3,600とビーストスパイカー選手募集券x40を獲得できるパッケージです。"
+BSP_PACKAGE_1,ビーストパッケージ I
+BSP_PACKAGE_1_DESC,ビーストコインx180を獲得できるパッケージです。
+BSP_PACKAGE_2,ビーストパッケージ II
+BSP_PACKAGE_2_DESC,ビーストコインx380を獲得できるパッケージです。
+BSP_PACKAGE_3,ビーストパッケージ III
+BSP_PACKAGE_3_DESC,"ビーストコインx1,250を獲得できるパッケージです。"
+BSP_GROWTH_PACKAGE,成長パッケージ
+BSP_GROWTH_PACKAGE_DESC,大量のクレジットとEXPポイントを獲得できるパッケージです。
+BSP_MINI_PACKAGE,ミニビーストパッケージ
+BSP_MINI_PACKAGE_DESC,ビーストスパイカー選手募集券x5を獲得できるパッケージです。
+XMAS 12/10~,
+XMAS2025_NORMAL_PASS,ノーマルパス
+XMAS2025_NORMAL_PASS_DESC,ノーマルパスでさまざまなアイテムと報酬をゲットしましょう
+XMAS2025_PREMIUM_PASS,ルドルフリシアパス
+XMAS2025_PREMIUM_PASS_DESC,イベントログインパスが3日分進み、ルドルフリシアスキンと大量の通貨を獲得できるルドルフリシアパスが開放されます。
+XMAS2025_PREMIUM_PASS_DESC_2,ルドルフリシアパスを開放して大量の報酬をゲット
+SNOWY_STREET,雪降る街
+SNOWY_STREET_DESC,静かな夜。今夜、誰かの願いが叶うかもしれない。
+JINGLE_BELL_BALL,ジングルベルボール
+JINGLE_BELL_BALL/DES,チリン！年末の雰囲気を感じさせる特別なバレーボール。やっぱりこの時期はこれだ。
+STAR_SNOW_BALL,スター・スノーボール
+STAR_SNOW_BALL/DES,今日の主役は……たぶん、このボール。
+BGM_CALRA_TRAP_DESC,CHAPTER 9. #「才能ある選手を失うなんて、残念ですね。」
+BGM_ALICE_DESC,CHAPTER 5. #「俺がお前の人生を変えるスパイクを見せてやる。」
+BGM_MENACE2PLAY_DESC,レッドアイズ イベント メインテーマ曲#「Red eyes」
+BGM_JENNY_LAST_STAND_DESC,CHAPTER 9. #「風を抱いた炎のように、燃え上がるように。」
+PHANTOM_COURT_ON,ファントムリーグ・コート
+PHANTOM_COURT_ON_DESC,一般人にはその存在すら知られていない地下競技場。秘密を守る信用があると認められた会員のみが試合を観戦できる。
+PRODUCT_SKIN_LISIA_RUDOLPH,ルドルフ・リシア
+Tiger Eyes 01/16~,
+PRODUCT_SKIN_NISHIKAWA_BLACK_THUNDER,ブラックサンダー西川
+PRODUCT_SKIN_HONGSI_MAID,茶屋娘日向乃
+RED_HOWL_CUT,レッドハウルカット
+RED_HOWL_CUT/DES,情熱のヘアスタイル。このスタイルにするだけで、バレーへの情熱が湧き上がってくる気がする。
+OBSIDIAN_ROUGH,オブシディアン・ラフ
+OBSIDIAN_ROUGH/DES,乱れたヘアスタイル。たっぷり試合を戦った後で、汗でびっしょりだ。だけど、気分は今までで一番いい！
+BASIC_STRIKE_CUT,ベーシックストライクカット
+BASIC_STRIKE_CUT/DES,シックなヘアスタイル。なんだか神経が研ぎ澄まされて、感覚が鋭くなる気がする。
+BRAIDED_HAIR,編み込みヘア
+BRAIDED_HAIR/DES,丸く編んだヘアスタイル。高く跳ぶたびに、編み込みがぽんぽん弾む。見ているだけで気分が上がる。
+BLUE_WHALE_UNIFORM,ブルー・ホエールユニフォーム
+BLUE_WHALE_UNIFORM/DES,ブルー・ホエール。高身長、強烈なパワー、そして優れたエース。王道スタイルで相手守備を押しつぶす、シンプルだが強力なチームだ。
+BLACK_BEAR_UNIFORM,ブラック・ベアユニフォーム
+BLACK_BEAR_UNIFORM/DES,ブラック・ベア。エンドラインを狙う稲妻のような速攻スパイクを繰り出す。ウイングスパイカーの変則的なタイミング攻撃で相手守備を崩すチームだ。
+GREEN_HUNTER_UNIFORM,グリーン・ハンターユニフォーム
+GREEN_HUNTER_UNIFORM/DES,グリーン・ハンター。強烈なサーブが試合の流れを変えることを誰よりも理解している。毎回の練習でサーブを徹底的に鍛え、ネットから遠いボールでも自信を持って攻撃する。
+TEAHOUSE,コロッセオ・ティーハウス
+TEAHOUSE_DESC,香り高いお茶とお菓子を売る茶屋。かつて世界的に名を馳せた選手が開いた店だ。今でも新年になると、彼女のかつての仲間がここを訪れる。
+BGM_TIGER_EYES,タイガーアイズイベント メインテーマ曲#「ようこそ、少年！」
+BLACK_NISHI_BALL,ブラック・西川ボール
+BLACK_NISHI_BALL/DES,会場の灯りがすべて消えた夜。いつの間にか、このボールは他のバレーボールに紛れ込んでいた。そして一瞬、ボールを包み込むように黒い稲妻が閃いた。まるで眠りから目覚めたかのように。
+PEARL_BALL,螺鈿ボール
+PEARL_BALL/DES,職人が一つ一つ貼り合わせて仕上げた手工芸品。あまりにも美しくて、つい大切に飾っておきたくなる。
+EV2601_NORMAL_PASS,ノーマルパス
+EV2601_NORMAL_PASS_DESC,ノーマルパスでさまざまなユニフォームや通貨を獲得できます。
+EV2601_PREMIUM_PASS,プレミアムパス
+EV2601_PREMIUM_PASS_DESC,イベントログインパスが3日分進みます。限定ユニフォームと大量の通貨を獲得できるプレミアムパスが解放されます。
+EV2601_ROYAL_PASS,ロイヤルパス
+EV2601_ROYAL_PASS_DESC,ロイヤルパスを開放すると、イベントログインパスが1日分進み、たくさんの報酬がゲットできます。プレミアムパス購入後に購入可能です。
+EV2601_PREMIUM_AND_ROYAL_PASS,プレミアムパス＋ロイヤルパス
+EV2601_PREMIUM_AND_ROYAL_PASS_DESC,プレミアムパスとロイヤルパスをまとめて開放できるお得なパックです。
+EV2601_GROWTH_PACKAGE,成長パッケージ
+EV2601_GROWTH_PACKAGE_DESC,大量のクレジットとEXPポイントを獲得できるパッケージです。
+EV2601_PREMIUM_PACKAGE,プレミアムパッケージ
+EV2601_PREMIUM_PACKAGE_DESC,ピックアップ選手募集券x10と大量の報酬を獲得できるパッケージです。
+EV2601_ROYAL_PACKAGE,ロイヤルパッケージ
+EV2601_ROYAL_PACKAGE_DESC,ピックアップ選手募集券x20と大量の報酬を獲得できるパッケージです。
+EV2601_EXTREME_ROYAL_PACKAGE,エクストリームロイヤルパッケージ
+EV2601_EXTREME_ROYAL_PACKAGE_DESC,ピックアップ選手募集券x40と超大量の報酬を獲得できるパッケージです。
+EV2601_PACKAGE_1,タイガーアイズパッケージ I
+EV2601_PACKAGE_1_DESC,タイガーコインx300とVポイントx360を獲得できるパッケージです。
+EV2601_PACKAGE_2,タイガーアイズパッケージ II
+EV2601_PACKAGE_2_DESC,"タイガーコインx860とVポイントx1,270を獲得できるパッケージです。"
+EV2601_MINI_TIGER_PACKAGE,ベビータイガーパッケージ
+EV2601_MINI_TIGER_PACKAGE_DESC,ピックアップ選手募集券x10とVポイントx400、大量のクレジットとEXPポイントを獲得できるパッケージです。
+RYUHYUN_HAIR,真一ヘア
+HANRA_UNIFORM,煉華ユニフォーム
+MUYOUNG_UNIFORM,瀬亜ユニフォーム
+REY_BLUE_HAIR,ツンツンブルーヘア
+REY_PURPLE_HAIR,ツンツンブラウンヘア
+REY_BROWN_HAIR,ツンツンパープルヘア
+REY_SKY_HAIR,ツンツンスカイヘア
+REY_YELLOW_HAIR,ツンツンイエローヘア
+SIWOO_WHITE_STORMS_HAIR,ホワイトストームズヘア
+SIWOO_WHITE_STORMS_SHOES,ホワイトストームズシューズ
+RED_HORSE_HAIR,2026 赤い馬ヘア
+RED_HORSE_HAIR/DES,この仮面をつけると足が速くなった気分になる。もちろん気のせいだ。
+UNICORN_HAIR,2026 ユニコーンヘア
+UNICORN_HAIR/DES,この仮面をつけると頭が良くなった気分になる。もちろん気のせいだ。
+2026_LUCKY_BAG,2026 福袋ボール
+2026_LUCKY_BAG/DES,青龍真一がバレーボールを禁止すると、泣きそうになった小町翆を慰めるために雀煉華が自ら作った。
+윈드 스파이커 03/26~,
+BLOND_HAIR,爽やかなゴールドヘア
+BLOND_HAIR/DES,シンプルながら目を引くスタイル。
+PINK_CURL_HAIR,愛らしいピンクのカールヘア
+PINK_CURL_HAIR/DES,ジャンプして転がり、転んでも問題ない。スプレーをたっぷり使ってしっかり固定されている。
+BROWN_BUN_HAIR,きちんとしたお団子ヘア
+BROWN_BUN_HAIR/DES,少し飛び出た後れ毛が魅力ポイントだ。
+ASHVILLE_WISLES_UNIFORM,アッシュビル・ウィーズルズのユニフォーム
+ASHVILLE_WISLES_UNIFORM/DES,LOVの名門チームのユニフォーム。アッシュビル・ウィーズルズは特に育成システムが整っていることで有名で、ユース出身選手が着実にトップチームへ成長してきたことで、チームワークが非常に強固だ。
+BLACK_LIONS_UNIFORM,ブラックライオンズのユニフォーム
+BLACK_LIONS_UNIFORM/DES,ブラックライオンズは伝統的に黒・白・金を組み合わせたユニフォームを着用している。男女問わず評価の高いユニフォームだ。
+IRIS_UNIFORM,アイリスのユニフォーム
+IRIS_UNIFORM/DES,これまで多くのユニフォームを着てきたが、アイリスが最も気に入っているのはこれだ。
+YURI_UNIFORM,ユーリのユニフォーム
+YURI_UNIFORM/DES,現在の背番号は11だが、いつかビクトルの背番号を受け継ぐのが目標だ。
+WIND_SPIKER_UNIFROM,ウィングスパイカー・有田紗良のユニフォーム
+WIND_SPIKER_UNIFROM/DES,アッシュビル・ウィーズルズのユニフォームの中で最も人気がある。これを着ると足が速くなる気がすると言うファンもいる。
+WIND_BALL,ウィンドスパイラルボール
+WIND_BALL/DES,つむじ風が巻き起こるバレーボール。このボールを自在に扱えれば、アッシュビル・ウィーズルズのファンに認められるだろう。
+BLUE_RIDGE_ARENA,ブルーリッジ・アリーナ
+BLUE_RIDGE_ARENA/DESC,アッシュビル・ウィーズルズのホームスタジアム。歴史的瞬間や選手の姿を収めた写真が壁に飾られている。
+RAINBOW_BALL,プリズムレインボーボール
+RAINBOW_BALL/DES,紗良を応援するファンが作ったカスタムバレーボール。紗良はこのボールを見るたび、会場を埋め尽くすファンの歓声が聞こえる気がすると語った。
+BGM_JENNY_AND_SARA_DESC,CHAPTER 12. #「でもあたし、もう一度挑戦してみたい。」
+BGM_SAVIOR_SEO_SARA_DESC,CHAPTER 12. #「私がやるべきことは振り回されることじゃなくて、みんなの心に火をつけることですから。」
+BGM_MEET_YURI_DESC,CHAPTER 12. #「おい、バカ。お前、危ない所で暴れてお父さんに連れ戻されたんだって？」
+BGM_MEET_IRIS_DESC,CHAPTER 12. #「こ、こんなときこそキャプテンの私が何とかしてあげないと…！」
+PHANTOM_LEAGUE_COURT,ファントムリーグコート
+PHANTOM_LEAGUE_COURT/DESC,デビュー後、ラウルは出場したすべての大会でMVPを獲得し、一躍スーパースターへと駆け上がるが、ブラックライオンズの経営陣の策略に巻き込まれ、リーグから追放されてしまう。その後、ビッグリーグのすべてのクラブが彼の獲得を拒否すると、ラウルとカルラは自らリーグを作ることを決意する。このリーグこそがファントムリーグである。
+EV2604_NORMAL_PASS,ノーマルパス
+EV2604_NORMAL_PASS_DESC,ノーマルパスでさまざまなユニフォームや通貨を獲得できます。
+EV2604_PREMIUM_PASS,プレミアムパス
+EV2604_PREMIUM_PASS_DESC,イベントログインパスが3日分進みます。限定ユニフォームと大量の通貨を獲得できるプレミアムパスが解放されます。
+EV2604_ROYAL_PASS,ロイヤルパス
+EV2604_ROYAL_PASS_DESC,ロイヤルパスを開放すると、イベントログインパスが1日分進み、たくさんの報酬がゲットできます。プレミアムパス購入後に購入可能です。
+EV2604_PREMIUM_ROYAL_PASS,プレミアムパス＋ロイヤルパス
+EV2604_PREMIUM_ROYAL_PASS_DESC,プレミアムパスとロイヤルパスをまとめて開放できるお得なパックです。
+EV2604_PACKAGE_1,ウィンドスパイカー パッケージ I
+EV2604_PACKAGE_1_DESC,ウィンドコインx300とVポイントx360を獲得できるパッケージです。
+EV2604_PACKAGE_2,ウィンドスパイカー パッケージ II
+EV2604_PACKAGE_2_DESC,"ウィンドコインx860とVポイントx1,270を獲得できるパッケージです。"
+EV2604_BREEZE_PACKAGE,そよ風パッケージ
+EV2604_BREEZE_PACKAGE_DESC,ピックアップ選手募集券x10とVポイントx400、大量のクレジットとEXPポイントを獲得できるパッケージです。
+EV2604_BREEZE_PACKAGE_SECOND,追加そよ風パッケージ
+EV2604_BREEZE_PACKAGE_SECOND_DESC,ピックアップ選手募集券x10とVポイントx400、大量のクレジットとEXPポイントを獲得できるパッケージです。
+EV2604_GUST_PACKAGE,ガストパッケージ
+EV2604_GUST_PACKAGE_DESC,ピックアップ選手募集券x10と大量の報酬を獲得できるパッケージです。
+EV2604_GUST_PACKAGE_SECOND,追加ガストパッケージ
+EV2604_GUST_PACKAGE_SECOND_DESC,ピックアップ選手募集券x10と大量の報酬を獲得できるパッケージです。
+EV2604_BLADE_PACKAGE,ブレードパッケージ
+EV2604_BLADE_PACKAGE_DESC,ピックアップ選手募集券x20と大量の報酬を獲得できるパッケージです。
+EV2604_BLADE_PACKAGE_SECOND,追加ブレードパッケージ
+EV2604_BLADE_PACKAGE_SECOND_DESC,ピックアップ選手募集券x20と大量の報酬を獲得できるパッケージです。
+EV2604_TEMPEST_PACKAGE,テンペストパッケージ
+EV2604_TEMPEST_PACKAGE_DESC,ピックアップ選手募集券x40と超大量の報酬を獲得できるパッケージです。
+EV2604_TEMPEST_PACKAGE_SECOND,追加テンペストパッケージ
+EV2604_TEMPEST_PACKAGE_SECOND_DESC,ピックアップ選手募集券x40と超大量の報酬を獲得できるパッケージです。
+EV2604_GROWTH_PACKAGE,成長パッケージ
+EV2604_GROWTH_PACKAGE_DESC,大量のクレジットとEXPポイントを獲得できるパッケージです。
+EV2604_GROWTH_PACKAGE_SECOND,追加成長パッケージ
+EV2604_GROWTH_PACKAGE_SECOND_DESC,大量のクレジットとEXPポイントを獲得できるパッケージです。
+IRIS_SHOES,アイリスのシューズ
+YURI_SHOES,ユーリのシューズ
+WIND_SPIKER_SHOES,ウィンドスパイカーのシューズ
+MINJUN_HAIR,赤いツンツンヘア
+8주년 이벤트 4/23~,
+8TH_BALL,8周年記念ボール
+8TH_BALL/DES,ザ・スパイク クロス8周年記念ボール。これまで共に歩んできたすべての方々への感謝を込めて制作された記念ボールです。
+MYSTIC_AURORA_BALL,ミスティックオーロラボール
+MYSTIC_AURORA_BALL/DES,ファントムズコンサートで購入できます。遅れると売り切れる可能性があるのでご注意ください。
+PHANTOM_STUDIO,ファントムスタジオ
+PHANTOM_STUDIO/DES,"ファントムズのメンバーが集まり、楽曲を録音したスタジオ。今回の楽曲「See You Tomorrow, Sunset」を生み出すために、何度も頭を悩ませた場所だ。"
+8TH_SIF_SHOES,ファントムズシフシューズ
+8TH_SIF_UNIFORM,ファントムズシフユニフォーム
+8TH_SIF_UNIFORM/DES,ファントムズのドラマー、シフの衣装。激しい演奏中でも服が乱れないよう、クリップでしっかり固定している。
+8TH_SIF_HAIR,ファントムズシフヘア
+8TH_SIF_HAIR/DES,ファンキーなヘアスタイル。激しくドラムを叩くたびに、かっこよくなびく。
+8TH_ELLIO_SHOES,ファントムズエリオシューズ
+8TH_ELLIO_UNIFORM,ファントムズエリオユニフォーム
+8TH_ELLIO_UNIFORM/DES,ファントムズのキーボーディスト、エリオのステージ衣装。公演中に破れたジャケットを自ら修繕し、自分だけのステージ衣装として仕上げた。
+8TH_ELLIO_HAIR,ファントムズエリオヘア
+8TH_ELLIO_HAIR/DES,ハーフアップのヘアスタイル。ファンに最も人気のあるスタイルだ。
+8TH_JENNY_SHOES,ファントムズジェニーシューズ
+8TH_JENNY_UNIFORM,ファントムズジェニーユニフォーム
+8TH_JENNY_UNIFORM/DES,ファントムズのボーカリスト、ジェニーのステージ衣装。スカートがめくれ上がらないよう、インナーショーツ一体型で作られている。
+8TH_JENNY_HAIR,ファントムズジェニーヘア
+8TH_JENNY_HAIR/DES,ツインテールのヘアスタイル。髪を下ろした姿とツインテールのどちらがジェニーに似合うか、ファンの間で議論が続いている。
+8TH_CLAIRE_SHOES,ファントムズクレールシューズ
+8TH_CLAIRE_UNIFORM,ファントムズクレールユニフォーム
+8TH_CLAIRE_UNIFORM/DES,ファントムズのギタリスト、クレールのステージ衣装。ゆったりとしたフィット感のおかげで、ステージ上を自由に駆け回りながら演奏できる。
+8TH_CLAIRE_HAIR,ファントムズクレールヘア
+8TH_CLAIRE_HAIR/DES,初めてのコンサートでファンからヘアバンドをもらって以来、ずっと続けているシグネチャーヘアスタイル。
+8TH_HARI_SHOES,ファントムズハリシューズ
+8TH_HARI_UNIFORM,ファントムズハリユニフォーム
+8TH_HARI_UNIFORMDES,ファントムズのベーシスト、ハリのステージ衣装。背中にジッパーが付いているため、着るときは他のメンバーの助けが必要だ。
+8TH_HARI_HAIR,ファントムズハリヘア
+8TH_HARI_HAIR/DES,リボン飾りをつけたヘアスタイル。可愛らしい雰囲気をより一層引き立てる。
+BGM_8TH_ANNIVERSARY,"See You Tomorrow, Sunset (Inst.)"
+BGM_8TH_ANNIVERSARY_DESC,Phantoms Concert. #「二度の負傷。二度の克服。#決心した。あの空の太陽へ向かって飛び立つ。#たとえ蝋の翼が溶けても。#探しているから。#人生を懸けてでも掴み取りたい何かを。」
+PRODUCT_8TH_ELLIO_SKIN,アンコールの主役
+EV2605_FIRST_GIG_PACKAGE,初公演パッケージ
+EV2605_FIRST_GIG_PACKAGE_DESC,ピックアップ選手募集券x10と大量の報酬を獲得できるパッケージです。
+EV2605_RISING_STAR_PACKAGE,ライジングスターパッケージ
+EV2605_RISING_STAR_PACKAGE_DESC,ピックアップ選手募集券x10とファントムズピックアップ選手募集券x13、大量の報酬を獲得できるパッケージです。
+EV2605_BEST_GIG_PACKAGE,最高の舞台パッケージ
+EV2605_BEST_GIG_PACKAGE_DESC,ピックアップ選手募集券x20とファントムズピックアップ選手募集券x17、大量の報酬を獲得できるパッケージです。
+PRODUCT_8TH_HARI_SKIN,ミッドナイト
+PRODUCT_8TH_JENNY_SKIN,シューティングスター
+DAEJI_SCHOOL_UNIFORM_MALE,大地高校男子制服
+DAEJI_SCHOOL_UNIFORM_MALE/DES,近隣の芸術高校の制服デザインに影響を受けている。控えめだが、かっこいい。
+DAEJI_SCHOOL_UNIFORM_FEMALE,大地高校女子制服
+DAEJI_SCHOOL_UNIFORM_FEMALE/DES,女子生徒の制服は、リボンかネクタイかを選ぶことができる。リボンを選ぶ生徒の方がやや多い。
+웨스턴 이벤트 5/22~,
+PRODUCT_SKIN_RYUHYUN_RED_HOOD,レッドフード
+PRODUCT_SKIN_SIF_BOUNTY_HUNTER,バウンティハンター
+PRODUCT_SKIN_CLAIRE_GOD_FATHER,ゴッドファーザー
+EV2606_NORMAL_PASS,ノーマルパス
+EV2606_NORMAL_PASS_DESC,ノーマルパスでさまざまなユニフォームと報酬をゲットしましょう
+EV2606_PREMIUM_PASS,プレミアムパス
+EV2606_PREMIUM_PASS_DESC,イベントログインパスが3日分進みます。限定ユニフォームと大量の通貨を獲得できるプレミアムパスが解放されます。
+EV2606_ROYAL_PASS,ロイヤルパス
+EV2606_ROYAL_PASS_DESC,ロイヤルパスを開放すると、イベントログインパスが1日分進み、たくさんの報酬がゲットできます。プレミアムパス購入後に購入可能です。
+EV2606_PREMIUM_ROYAL_PASS,プレミアムパス＋ロイヤルパス
+EV2606_PREMIUM_ROYAL_PASS_DESC,プレミアムパスとロイヤルパスをまとめて開放できるお得なパックです。
+EV2606_GROWTH_PACKAGE,成長パッケージ
+EV2606_GROWTH_PACKAGE_DESC,大量のクレジットとEXPポイントを獲得できるパッケージです。
+EV2606_PREMIUM_PACKAGE,プレミアムパッケージ
+EV2606_PREMIUM_PACKAGE_DESC,ピックアップ選手募集券x10と大量の報酬を獲得できるパッケージです。
+EV2606_ROYAL_PACKAGE,ロイヤルパッケージ
+EV2606_ROYAL_PACKAGE_DESC,ピックアップ選手募集券x20と大量の報酬を獲得できるパッケージです。
+EV2606_EXTREME_ROYAL_PACKAGE,エクストリームロイヤルパッケージ
+EV2606_EXTREME_ROYAL_PACKAGE_DESC,ピックアップ選手募集券x40と超大量の報酬を獲得できるパッケージです。
+EV2606_PACKAGE_1,ウェスタンパッケージI
+EV2606_PACKAGE_1_DESC,ウェスタンコイン×300、Vポイント×360を獲得できるパッケージです。
+EV2606_PACKAGE_2,ウェスタンパッケージII
+EV2606_PACKAGE_2_DESC,"ウェスタンコイン×860、Vポイント×1,270を獲得できるパッケージです。"
+EV2606_RED_HOOD_PACKAGE,レッドフードパッケージ
+EV2606_RED_HOOD_PACKAGE_DESC,ピックアップ選手募集券x10とVポイントx400、大量のクレジットとEXPポイントを獲得できるパッケージです。
+TUMBLEWEED_BALL,回転草のボール
+TUMBLEWEED_BALL/DES,枯れ果てたツルが固く絡み合ったボール。元の姿を判別するのは難しい。
+CACTUS_BALL,サボテンボール
+CACTUS_BALL/DES,世界で一番チクチクするボール。一瞬で目が覚める。
+BGM_BANG_TO_SPIKE_DESC,Western Event. #「結局、バレーボールもまた一つの決闘に過ぎない。」
+SUNRIM_VILLAGE,仙林の町(?)
+SUNRIM_VILLAGE/DESC,西部の開拓地の放浪者たちの安息の地、「仙林の町」へようこそ。ここでしばしバレーボールを交わしながら、旅の疲れを忘れてみてください。
+RED_HOOD_RYUHYUN_UNIFORM,レッドフード青龍ユニフォーム
+RED_HOOD_RYUHYUN_UNIFORM/DES,四方はすっかり火の海に包まれており、村人たちの姿はどこにも見えなかった。傷ついた体を引きずり、人々を探し求めて彷徨っていた真一がようやく見つけたのは、血まみれになってボロボロに裂けた師匠のマントだった。ファントムズの連中の仕業に違いなかった。真一は師匠のマントを拾い上げて肩に羽織ると、自らの過酷な運命を受け入れる覚悟を決めた。……という、実に生々しい夢を見たことがある。
+RED_HOOD_RYUHYUN_HAIR,レッドフード青龍ヘアー
+RED_HOOD_RYUHYUN_HAIR/DES,開拓地の住民たちが村の内外を行き来する際、愛用するカウボーイハット。軽くて丈夫で、雨風にさらされても傷まない。隠遁を決意して以来、保安官の真一はこの帽子を深く被って過ごすようになった。
+RED_HOOD_RYUHYUN_SHOES,レッドフード青龍シューズ
+BOUNTY_HUNTER_SIF_UNIFORM,バウンティハンターシフユニフォーム
+BOUNTY_HUNTER_SIF_UNIFORM/DES,荒涼とした荒野を旅する流れ者の身なりにしては、いささか華やかだ。しかし、毎度命がけの決闘を繰り広げる彼女にとって、他人の目など知ったことではない。ただ、自分が気に入った見事な衣装を身にまとい、荒野を駆けるのみだ。
+BOUNTY_HUNTER_SIF_HAIR,バウンティハンターシフヘアー
+BOUNTY_HUNTER_SIF_HAIR/DES,シフの大切なカウボーイハット。パートナーであるラウル先輩との初任務で失敗を犯し、落ち込んでいた時、先輩が頭に深く被せてくれた思い出が詰まっている。何物にも代えがたい彼女の宝物第1号だ。
+BOUNTY_HUNTER_SIF_SHOES,バウンティハンターシフシューズ
+GOD_FATHER_CLAIRE_UNIFORM,ゴッドファーザークレールユニフォーム
+GOD_FATHER_CLAIRE_UNIFORM/DES,裏通りの支配者にはいささか華やかすぎる。しかし、常に人々の中心に立つことを好む彼にとっては、まさにうってつけの衣装だ。
+GOD_FATHER_CLAIRE_HAIR,ゴッドファーザークレールヘアー
+GOD_FATHER_CLAIRE_HAIR/DES,粋な白いフェドラ帽。この潔癖なまでに真っ白な帽子を少しでも汚した者は、決して無事に家へ帰ることはできないだろう。
+GOD_FATHER_CLAIRE_SHOES,ゴッドファーザークレールシューズ
+WESTERN_UNIFORM_MALE,ウェスタン男子ユニフォーム
+WESTERN_UNIFORM_MALE/DES,タフな開拓者の衣装。あまりにも強くて丈夫なジーンズなので、いざという時はマッチをさっと擦って火をつけることもできる。
+WANTED_HAIR_MALE,指名手配書男子ヘアー
+WANTED_HAIR_MALE/DES,「指名手配。クレール・ロマン。生死不問。賞金25ドル。」
+WESTERN_UNIFORM_FEMALE,ウェスタン女子ユニフォーム
+WESTERN_UNIFORM_FEMALE/DES,カウボーイの衣装。冷たい風が吹き荒れる荒野でもバレーボールができるよう、非常に暖かい。
+WANTED_HAIR_FEMALE,指名手配書女子ヘアー
+WANTED_HAIR_FEMALE/DES,「指名手配。白羽。生死不問。賞金100ドル。」
+WESTERN_RYUHYUN/LINE,私はいつでも狩る側だ。
+WESTERN_CLAIRE/LINE,その得意げな態度も今日が最後だな。
+WESTERN_SIF/LINE,バン！！…おや、心臓が止まるかと思ったかい、坊や？
+WESTERN_SHOES_MALE,ガンスリンガーシューズ
+WESTERN_SHOES_FEMALE,荒野のブーツ
+PROFILE_BG_STARTER_COURT,スターターコート
+PROFILE_BG_GOLDEN_RALLY,ゴールデンラリー
+PROFILE_BG_CHAMPIONSHIP_COURT,チャンピオンシップコート
+PROFILE_BG_MIDNIGHT_VOLLEY,ミッドナイトバレー
+PROFILE_BG_DREAM_SKY,ドリームスカイ
+PROFILE_BG_BEGINNER_COURT,初心者のコート
+PROFILE_BG_BLACKOUT,ブラックアウト
+PROFILE_BG_CARBON_PATTERN,カーボンパターン
+PROFILE_BG_SPIKE_STUDIO,スパイクスタジオ
+PROFILE_BG_CLOUD_COURT,クラウドコート
+PROFILE_BG_CENTER_STAGE,センターステージ
+PROFILE_FRAME_BLACK,ブラックフレーム
+PROFILE_FRAME_GRAY,グレーフレーム
+PROFILE_FRAME_TRANSPARENT,透明フレーム
+PROFILE_FRAME_SPIKE_STUDIO,スパイクスタジオ
+PROFILE_FRAME_BLUE_FLAME,ブルーフレイム
+PROFILE_FRAME_BUTTERFLY,蝶
+PROFILE_FRAME_BOUNTY_HUNTER,バウンティハンター
+PROFILE_FRAME_MUYEONG_BUBBLE,瀬亜バブル
+PROFILE_TITLE_COURT_TRAINEE,コート上の練習生
+PROFILE_TITLE_COURT_EXPERT,コート上の熟練者
+PROFILE_TITLE_NAMED_PLAYER,名の知れたプレイヤー
+PROFILE_TITLE_RISING_STAR,ライジングスター
+PROFILE_TITLE_ALLSTAR_PLAYER,オールスタープレイヤー
+PROFILE_TITLE_ACE_CANDIDATE,エース候補
+PROFILE_STICKER_CREDIT,クレジット
+PROFILE_STICKER_ATTENDANCE_STAMP,出席スタンプ
+PROFILE_STICKER_DRAGON_COIN,ドラゴンコイン
+PROFILE_STICKER_VPOINT,Vポイント
+PROFILE_STICKER_AWAKEN_ITEM,努力のかけら
+PROFILE_STICKER_WIND_COIN,ウィンドコイン
+PROFILE_STICKER_VPOINT_BUNDLE,Vポイントの束
+PROFILE_STICKER_VESSENCE,Vエッセンス
+PROFILE_STICKER_PHANTOM_COIN,ファントムコイン
+PROFILE_STICKER_KINGMAKER_COIN,キングメーカーコイン
+PROFILE_STICKER_TIGER_COIN,タイガーコイン
+PROFILE_STICKER_SUSPICIOUS_BLUE_FLAME,怪しいブルーフレイム
+PROFILE_STICKER_BLUE_FLAME,ブルーフレイム
+PROFILE_STICKER_WINTER_COIN,ウィンターコイン
+PROFILE_STICKER_STAR,星
+PROFILE_STICKER_CREDIT_RICH,クレジットリッチ
+PROFILE_STICKER_VPOINT_RICH,Vポイントリッチ
+PROFILE_STICKER_WHISTLE,ホイッスル
+PROFILE_STICKER_CREDIT_BUNDLE,クレジットの束
+PROFILE_STICKER_MB_BADGE,ミドルブロッカーバッジ
+PROFILE_STICKER_WS_BADGE,ウィングスパイカーバッジ
+PROFILE_STICKER_SE_BADGE,セッターバッジ
+PROFILE_STICKER_PHANTOM,ファントム
+PROFILE_STICKER_DEATH_BLOOM,滅花
+PROFILE_STICKER_POWER,パワー
+PROFILE_STICKER_DISCOURAGED,ビビり
+PROFILE_STICKER_JUMP,ジャンプ
+PROFILE_STICKER_SHOES,靴
+PROFILE_STICKER_DASH,ダッシュ
+PROFILE_STICKER_DEFENSE,ディフェンス
+PROFILE_STICKER_FOCUS,没頭
+PROFILE_STICKER_CARELESS,油断
+PROFILE_STICKER_DUMBBELL,ダンベル
+PROFILE_STICKER_WORKEDUP,興奮
+PROFILE_STICKER_SPEED_TOSS,スピードトス
+PROFILE_STICKER_SKULL,骸骨
+PROFILE_STICKER_CRITICAL_TOSS,クリティカルトス
+PROFILE_STICKER_CACTUS,サボテン
+PROFILE_STICKER_TIRE,タイヤ
+PROFILE_STICKER_BUTTERFLY,蝶
+PROFILE_STICKER_SNIPE,スナイプ
+PROFILE_STICKER_FRANTIC,わがまま
+PROFILE_STICKER_WINGS_ICARUS,イカロスの翼
+PROFILE_STICKER_TOSS,トス
+PROFILE_STICKER_TYPHOON,台風
+PROFILE_STICKER_PAIN_KILLER,ペインキラー
+PROFILE_STICKER_IMPERIAL_ORDER,インペリアルオーダー
+PROFILE_STICKER_ANGRY_SKULL,怒る骸骨
+PROFILE_STICKER_SMILE_SKULL,スマイルスカル
+PROFILE_STICKER_HYUNMU,玄武
+PROFILE_STICKER_BLUE_DRAGON,青龍
+PROFILE_STICKER_JUJAK,朱雀
+PROFILE_STICKER_WHITE_TIGER,白虎
+PROFILE_STICKER_UNIFORM,ユニフォーム
+PROFILE_STICKER_VOLLEY_BALL,バレーボール
+EV2607_HELLO_DAVE_PACKAGE,ハロー・デイブパック
+EV2607_HELLO_DAVE_PACKAGE_DESC,ウォーミングアップピックアップ選手募集券x10と大量の報酬を獲得できるパッケージです。
+EV2607_LAB_ESSENTIALS_PACKAGE,科学実験パック
+EV2607_LAB_ESSENTIALS_PACKAGE_DESC,ウォーミングアップピックアップ選手募集券x13と大量の報酬を獲得できるパッケージです。
+EV2607_SUMMER_VACATION_PACKAGE,サマーバケーションパック
+EV2607_SUMMER_VACATION_PACKAGE_DESC,ウォーミングアップピックアップ選手募集券x17と超大量の報酬を獲得できるパッケージです。
+서머 트레이닝 이벤트(7/29~),
+COCONUT_BALL,ココナッツボール
+COCONUT_BALL/DES,スパイクを打つたびに、中でココナッツウォーターがチャプチャプと音を立てる。
+HANRA_BALL,雀煉華ボール
+HANRA_BALL/DES,夏合宿に合わせて雀煉華が持って現れたバレーボール。色合いが気に入って、つい衝動買いしてしまったらしい。
+VIOLA_BALL,ヴィオラボール
+VIOLA_BALL/DES,ヴィオラが大切にしているバレーボール。トレーニングに行ってくると言った際、イザベルがプレゼントしてくれた品だ。
+SUMMER_TRAINING_UNIFORM_MALE,サマートレーニング男子ユニフォーム
+SUMMER_TRAINING_UNIFORM_MALE/DES,試合が終わった後にサッと払えば、砂が嘘のように落ちる。
+SUMMER_TRAINING_UNIFORM_FEMALE,サマートレーニング女子ユニフォーム
+SUMMER_TRAINING_UNIFORM_FEMALE/DES,激しい動きでも服がめくれ上がらないよう製作されている。
+PRODUCT_SKIN_SUMMER_TRAINING,サマートレーニング
+PRODUCT_SKIN_SUMMER_TRAINING/DES,
+EV2608_NORMAL_PASS,ノーマルパス
+EV2608_NORMAL_PASS_DESC,ノーマルパスでさまざまなユニフォームと報酬をゲットしましょう
+EV2608_PREMIUM_PASS,プレミアムパス
+EV2608_PREMIUM_PASS_DESC,イベントログインパスが3日分進みます。限定ユニフォームと大量の通貨を獲得できるプレミアムパスが解放されます。
+EV2608_ROYAL_PASS,ロイヤルパス
+EV2608_ROYAL_PASS_DESC,ロイヤルパスを開放すると、イベントログインパスが1日分進み、たくさんの報酬がゲットできます。プレミアムパス購入後に購入可能です。
+EV2608_PREMIUM_ROYAL_PASS,プレミアムパス＋ロイヤルパス
+EV2608_PREMIUM_ROYAL_PASS_DESC,プレミアムパスとロイヤルパスをまとめて開放できるお得なパックです。
+EV2608_GROWTH_PACKAGE,成長パッケージ
+EV2608_GROWTH_PACKAGE_DESC,大量のクレジットとEXPポイントを獲得できるパッケージです。
+EV2608_CORAL_RUBY_PACKAGE,コーラルルビーパッケージ
+EV2608_CORAL_RUBY_PACKAGE_DESC,ピックアップ選手募集券x10と大量の報酬を獲得できるパッケージです。
+EV2608_ROYAL_PACKAGE,ロイヤルパッケージ
+EV2608_ROYAL_PACKAGE_DESC,ピックアップ選手募集券x20と大量の報酬を獲得できるパッケージです。
+EV2608_EXTREME_ROYAL_PACKAGE,エクストリームロイヤルパッケージ
+EV2608_EXTREME_ROYAL_PACKAGE_DESC,ピックアップ選手募集券x40と超大量の報酬を獲得できるパッケージです。
+EV2608_PACKAGE_1,サマートレーニングパッケージ I
+EV2608_PACKAGE_1_DESC,パームコインx300、Vポイントx360を獲得できるパッケージです。
+EV2608_PACKAGE_2,サマートレーニングパッケージ II
+EV2608_PACKAGE_2_DESC,"パームコインx860、Vポイントx1,270を獲得できるパッケージです。"
+EV2608_VIOLET_SAPPHIRE_PACKAGE,バイオレットサファイアパッケージ
+EV2608_VIOLET_SAPPHIRE_PACKAGE_DESC,ピックアップ選手募集券x10とVポイントx400、大量のクレジットとEXPポイントを獲得できるパッケージです。
+SIWOO_ROOM,新の部屋
+SIWOO_ROOM/DESC,卓上には幼い頃に撮った家族写真が置いてある。しかし、写真のどこにも父親の姿は見当たらない。
+DAEJI_GYM,大地高校体育館
+DAEJI_GYM/DESC,ここで時々校長先生がトランペットを演奏することがあるが、かなりの腕前だ。
+PINK_POP_SPIKES_UNIFORM,ピンクポップ・スパイクス ユニフォーム
+PINK_POP_SPIKES_UNIFORM/DES,ビーチバレー大会に参加した、あるバレーボールチームのユニフォーム。
+BGM_SUMMER_RUNNING_DESC,Summer Training. #「本当に最高の夏でした。」
+BGM_THE_SECOND_MOVE_DESC,CHAPTER 1. #「全国大会への切符を手にするチームは、たったの1チームだけ。」
+BGM_TOPSY_TURVY_DESC,CHAPTER 1. #「もうすぐ校長先生のトランペットソロの練習時間なんだぞ！」
+BGM_CHAPTER1_OPENING_1_DESC,CHAPTER 1. #「これぞ真のエースという姿をもう一度しっかりと見せつけました！！」
+VICE_PRINCIPAL_HAIR,教頭先生のヘアスタイル
+VICE_PRINCIPAL_HAIR/DES,教職生活30年。初めて教壇に立った日の熱情も、フサフサだった髪の毛も、今や面影すら残っていない。
+콘텐츠 업데이트 (8/26~),
+PROFILE_BG_TERRA_HALLWAY,大地高校の廊下
+PROFILE_BG_CHERRY_BLOSSOM_SUNSET,桜の夕焼け
+PROFILE_STICKER_MINI_HONGSHI,ミニ・日向乃
+PROFILE_STICKER_MINI_MIKE,ミニ・マイク
+PROFILE_STICKER_MINI_ISABEL,ミニ・イザベル
+PROFILE_STICKER_MINI_YOONSEOK,ミニ・忠英
+PROFILE_STICKER_MINI_JENNY,ミニ・ジェニー
+시즌 3 업데이트,
+EV2609_GROWTH_PACKAGE,成長パッケージ
+EV2609_GROWTH_PACKAGE_DESC,大量のクレジットとEXPポイントを獲得できるパッケージです。
+EV2609_WELCOME_ELITE_PACKAGE,ウェルカムエリートパッケージ
+EV2609_WELCOME_ELITE_PACKAGE_DESC,ピックアップ選手募集券x10と少量の通貨を獲得できるパッケージです。
+EV2609_PACKAGE_1,エリートパッケージ1
+EV2609_PACKAGE_1_DESC,エリートコインx300、Vポイントx360を獲得できるパッケージです。
+EV2609_PACKAGE_2,エリートパッケージ2
+EV2609_PACKAGE_2_DESC,エリートコインx860、Vポイントx1270を獲得できるパッケージです。
+EV2609_ELITE_PREMIUM_PACKAGE,エリートプレミアムパッケージ
+EV2609_ELITE_PREMIUM_PACKAGE_DESC,ピックアップ選手募集券x10と大量の通貨を獲得できるパッケージです。
+EV2609_ELITE_ROYAL_PACKAGE,エリートロイヤルパッケージ
+EV2609_ELITE_ROYAL_PACKAGE_DESC,ピックアップ選手募集券x20と大量の通貨を獲得できるパッケージです。
+EV2609_EXTREME_ROYAL_PACKAGE,エリートエクストリームロイヤルパッケージ
+EV2609_EXTREME_ROYAL_PACKAGE_DESC,ピックアップ選手募集券x40と超大量の通貨を獲得できるパッケージです。
+EV2609_NORMAL_PASS,ノーマルパス
+EV2609_NORMAL_PASS_DESC,ノーマルパスでさまざまなユニフォームと通貨を獲得できます。
+EV2609_PREMIUM_PASS,プレミアムパス
+EV2609_PREMIUM_PASS_DESC,イベントログインパスが3日分進みます。限定ユニフォームと大量の通貨を獲得できるプレミアムパスが解放されます。
+EV2609_ROYAL_PASS,ロイヤルパス
+EV2609_ROYAL_PASS_DESC,ロイヤルパスを開放すると、イベントログインパスが1日分進み、大量の通貨を獲得できます。プレミアムパス購入後に購入可能です。
+EV2609_PREMIUM_ROYAL_PASS,プレミアムパス＋ロイヤルパス
+EV2609_PREMIUM_ROYAL_PASS_DESC,プレミアムパスとロイヤルパスをまとめて開放できるお得なパックです。
+BEGINNER_PLAYER_RECRUIT_TICKET,初心者募集券
+BEGINNER_RECRUIT_PACKAGE,初心者募集券パック
+BEGINNER_RECRUIT_PACKAGE_DESC,初心者募集券40枚を獲得します。
+DEFAULT_40VP_PACKAGE,Vポイントx40パック
+DEFAULT_40VP_PACKAGE_DESC,Vポイント40個を#獲得します。
+DEFAULT_200VP_PACKAGE,Vポイントx200パック
+DEFAULT_200VP_PACKAGE_DESC,Vポイント200個を#獲得します。
+DEFAULT_420VP_PACKAGE,Vポイントx420パック
+DEFAULT_420VP_PACKAGE_DESC,Vポイント420個を#獲得します。
+DEFAULT_1280VP_PACKAGE,Vポイントx1280パック
+DEFAULT_1280VP_PACKAGE_DESC,Vポイント1280個を#獲得します。
+DEFAULT_2160VP_PACKAGE,Vポイントx2160パック
+DEFAULT_2160VP_PACKAGE_DESC,Vポイント2160個を#獲得します。
+DEFAULT_4000VP_PACKAGE,"Vポイントx4,000パック"
+DEFAULT_4000VP_PACKAGE_DESC,"Vポイント4,000個を#獲得します。"
+DEFAULT_40VP_PACKAGE_2X,Vポイント x40 2倍パック
+DEFAULT_40VP_PACKAGE_2X_DESC,Vポイント40個 + ボーナス40個！#ボーナス特典は一定期間ごとにリセットされます。
+DEFAULT_200VP_PACKAGE_2X,Vポイント x200 2倍パック
+DEFAULT_200VP_PACKAGE_2X_DESC,Vポイント200個 + ボーナス200個！#ボーナス特典は一定期間ごとにリセットされます。
+DEFAULT_420VP_PACKAGE_2X,Vポイント x420 2倍パック
+DEFAULT_420VP_PACKAGE_2X_DESC,Vポイント420個 + ボーナス420個！#ボーナス特典は一定期間ごとにリセットされます。
+DEFAULT_1280VP_PACKAGE_2X,Vポイント x1280 2倍パック
+DEFAULT_1280VP_PACKAGE_2X_DESC,Vポイント1280個 + ボーナス1280個！#ボーナス特典は一定期間ごとにリセットされます。
+DEFAULT_2160VP_PACKAGE_2X,Vポイント x2160 2倍パック
+DEFAULT_2160VP_PACKAGE_2X_DESC,Vポイント2160個 + ボーナス2160個！#ボーナス特典は一定期間ごとにリセットされます。
+DEFAULT_4000VP_PACKAGE_2X,Vポイント x4000 2倍パック
+DEFAULT_4000VP_PACKAGE_2X_DESC,Vポイント4000個 + ボーナス4000個！#ボーナス特典は一定期間ごとにリセットされます。
+상품(Product시트에 들어갈 것),
+GITAE_UNIFROM,神谷 大河のユニフォーム
+GITAE_UNIFROM/DESC,淸明大学バレー部の男子ユニフォーム。#摩擦や強い衝撃でも破れにくい、特殊な高強度生地で作られている。
+BACK_ELITE_WAIT_ROOM,国家代表トレーニングセンター
+BACK_ELITE_WAIT_ROOM/DESC,韓国最高峰のバレーボール選手たちが集まる専用トレーニングセンター。#国内最大規模の専門施設と最先端のトレーニングシステムを備えている。最高の選手たちを磨き上げる場所だけに、その極めて厳しい練習は悪名高い。
+BACK_ELITE_HALLWAY,体育館の廊下の背景
+BACK_ELITE_HALLWAY/DESC,国家代表トレーニングセンターの体育館の廊下。#飛鳥・隼人と彼のパートナーが国家代表だった頃、ここを歩きながら互いの夢について語り合っていた。
+YOUTH_BALL,NTC専用ボール
+YOUTH_BALL/DES,バレーボールブランド'RISE'が製作した、国家代表トレーニングセンター専用ボール。
+GITAE_BALL,神谷 大河の愛用ボール
+GITAE_BALL/DES,神谷 大河が特に大切にしているバレーボール。#大事な試合がある日は、必ずこのボールで練習するという。
+YOUTH_UNIFORM_MALE,ユース国家代表男子ユニフォーム
+YOUTH_UNIFORM_MALE/DES,バレーボールブランド'RISE'が製作した、ユース国家代表の公式男子ユニフォーム。#人気が高く、国際大会のシーズンには飛ぶように売れる。
+YOUTH_UNIFORM_FEMALE,ユース国家代表女子ユニフォーム
+YOUTH_UNIFORM_FEMALE/DES,バレーボールブランド'RISE'が製作した、ユース国家代表の公式女子ユニフォーム。#人気が高く、国際大会のシーズンには飛ぶように売れる。
+JAEHYUN_UNIFORM,黒崎・陵のユニフォーム
+JAEHYUN_UNIFORM/DES,天空高校バレーボール部の公式男子ユニフォーム。#初めて支給された日、黒崎・陵は鏡の前にかなり長い間立っていた。
+JAEHYUN_SHOES,黒崎 陵のシューズ
+SEJIN_UNIFORM,桐谷 征司のユニフォーム
+SEJIN_UNIFORM/DES,チョナン高校バレーボール部の公式男子ユニフォーム。#なぜか桐谷・征司は、この服を着るとやけに格好をつける。
+SEJIN_SHOES,桐谷 征司のシューズ
+YUNA_UNIFORM,瀬川 優奈のユニフォーム
+YUNA_UNIFORM/DES,チョルウォン高校バレーボール部の公式女子ユニフォーム。#瀬川 優奈のお気に入りで、同じものを5着も持っていて着回している。
+YUNA_SHOES,瀬川 優奈のシューズ
+BGM_COLEMAN_STORY_DESC,CHAPTER 13. #「早くからバレーを始めた君には何もわからないよ。」
+BGM_NATIONAL_TRAINING_MATCH_DESC,CHAPTER 13. #「できることは全部やってみなきゃ！」
+BGM_TRAINING_CAMP_BUDDIES_DESC,CHAPTER 13. #「絶対に国家代表になりたいです！」
+PROFILE_FRAME_EV2609,エリートステージフレーム
+PROFILE_TITLE_ELITE_SPIKER,エリートプレイヤー
+PROFILE_STICKER_GLOBAL,グローバルステッカー
+PROFILE_STICKER_GITAE,神谷 大河ステッカー
+PROFILE_STICKER_TROPHY,エリートトロフィーステッカー
+,
+PROFILE_BG_ELITE_COURT,エリートコート

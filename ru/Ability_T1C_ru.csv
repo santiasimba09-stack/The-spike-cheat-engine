@@ -1,0 +1,131 @@
+﻿KEY,러시아어(ru)
+ABILITY/ADRENALINE/TITLE,Адреналин
+ABILITY/ADRENALINE/DES,"Каждый раз, когда игрок вашей команды снимает {CONDITION}, бонусная {STRENGTH} от {FEVER_MODE} увеличивается на <buff_amount>. Сбрасывается по окончании {FEVER_MODE}."
+ABILITY/ARTISTIC_DEFENSE/TITLE,Артистичная защита
+ABILITY/ARTISTIC_DEFENSE/DES,При остановке атаки с помощью {SLIDING} временно снижает получаемый урон на <decrease_percent>.
+ABILITY/ATTACK_CHANCE/TITLE,Шанс на атаку
+ABILITY/ATTACK_CHANCE/DES,В ситуации {FREE_BALL} временно увеличивает все характеристики на <buff_amount>.
+ABILITY/BULK_UP/TITLE,Набор массы
+ABILITY/BULK_UP/DES,После остановки атаки с помощью {RECEIVE} или {BLOCKING} {HEIGHT} увеличивается на <height_amount>.
+ABILITY/BUNDANG_QUICK/TITLE,Быстрая атака Бунданга
+ABILITY/BUNDANG_QUICK/DES,"Если счет касаний вашей команды равен 1, использование {COMMON/WORD/SPIKE_JUMP} увеличивает {BALL_POWER} на <increase_percent> до приземления."
+ABILITY/BURNING_UP/TITLE,Разогрев
+ABILITY/BURNING_UP/DES,При входе в {FEVER_MODE} снимает {CONDITION} и получает состояние {ANGRY} на <condition_time>.
+ABILITY/CAT_THERAPY/TITLE,Кошачья терапия
+ABILITY/CAT_THERAPY/DES,Во время {FEVER_MODE} при получении состояния {SAD} снимает {CONDITION} с союзников и дает им {FOCUS} на <condition_time>.
+ABILITY/BERSERK_ATTACK/TITLE,Атака берсерка
+ABILITY/BERSERK_ATTACK/DES,"Когда {STAMINA} ниже, чем у команды соперника, {STRENGTH} увеличивается максимум на <buff_amount> в зависимости от разницы."
+ABILITY/BERSERK_BOOST/TITLE,Усиление берсерка
+ABILITY/BERSERK_BOOST/DES,"Когда {STAMINA} не выше половины, использование {SPIKE} дает <fever_count> {FEVER_POINT}."
+ABILITY/BERSERK_DRAIN/TITLE,Поглощение берсерка
+ABILITY/BERSERK_DRAIN/DES,"Когда {STAMINA} не выше половины, восстанавливает {STAMINA} на <effect_percent> от урона, нанесенного {SPIKE}."
+ABILITY/CONCENTRATION/TITLE,Концентрация
+ABILITY/CONCENTRATION/DES,"Каждый раз, когда ваша команда теряет очко, {STRENGTH} и {DEFENSE} увеличиваются на <buff_amount>. Сбрасывается, когда ваша команда набирает очко."
+ABILITY/CONDITION_BOOST/TITLE,Усиление состояния
+ABILITY/CONDITION_BOOST/DES,При снятии {CONDITION} получает <fever_count> {FEVER_POINT}.
+ABILITY/CRITICAL_BOOST/TITLE,Усиление крита
+ABILITY/CRITICAL_BOOST/DES,При атаке соперника в состоянии {SAD} получает <fever_count> {FEVER_POINT}.
+ABILITY/DAVID_AND_GOLIATH/TITLE,Давид и Голиаф
+ABILITY/DAVID_AND_GOLIATH/DES,{STRENGTH} и {DEFENSE} увеличиваются на <effect_percent> от разницы {HEIGHT} с соперником той же {COMMON/POSITION} (макс. 30 см).
+ABILITY/SUPER_DIRECT/TITLE,Прямая атака
+ABILITY/SUPER_DIRECT/DES,При возврате {BALL} от команды соперника с помощью {SPIKE} временно увеличивает {BALL_POWER} на <increase_percent>.
+ABILITY/DRAGON_STYLE/TITLE,Стиль Лазурного дракона
+ABILITY/DRAGON_STYLE/DES,При использовании {SPIKE} с {DATEN} 3.3 м или ниже временно увеличивает {BALL_POWER} на <increase_percent>.
+ABILITY/ETERNAL_FEVER/TITLE,Вечный накал
+ABILITY/ETERNAL_FEVER/DES,Во время {FEVER_MODE} получение {FEVER_POINT} продлевает {COMMON/SKILL/DURATION} {FEVER_MODE} с эффективностью <effect_percent>.
+ABILITY/GLADIUS/TITLE,Гладиус
+ABILITY/GLADIUS/DES,"В состоянии {ANGRY}, если это ситуация {FREE_BALL}, преобразует <effect_percent> от {DEFENSE} в {STRENGTH}."
+ABILITY/GRACE_OF_THE_SKY/TITLE,Милость небес
+ABILITY/GRACE_OF_THE_SKY/DES,В состоянии {ANGRY} использование {SERVE} активирует {SERVE_SKY} и дает <fever_count> {FEVER_POINT}.
+ABILITY/HEART_BREAKER/TITLE,Разбиватель сердец
+ABILITY/HEART_BREAKER/DES,{STRENGTH} увеличивается на <buff_amount> за каждого игрока соперника в состоянии {SAD} или {CARELESS}.
+ABILITY/HEAT_SINK/TITLE,Радиатор
+ABILITY/HEAT_SINK/DES,Каждый раз при входе в {FEVER_MODE} {DEFENSE} увеличивается на <buff_amount>.
+ABILITY/INFERNO_BEAST/TITLE,Адский зверь
+ABILITY/INFERNO_BEAST/DES,"{STRENGTH} и {SPEED} увеличиваются на <buff_amount>, а скорость движения в воздухе удваивается."
+ABILITY/IRON_WALL/TITLE,Железная стена
+ABILITY/IRON_WALL/DES,"При остановке атаки с помощью {BLOCKING}, если {HEIGHT} выше, чем у атакующего соперника, с шансом <proc_percent> срабатывает {BLOCK_KILL}."
+ABILITY/LEON_HEART_ARENA/TITLE,Сердце Леона
+ABILITY/LEON_HEART_ARENA/DES,При использовании {COMMON/WORD/SPIKE_JUMP} рядом с {LINE_END} {BALL_POWER} увеличивается на <increase_percent> до приземления.
+ABILITY/LIMIT_BREAK_ARENA/TITLE,Прорыв предела
+ABILITY/LIMIT_BREAK_ARENA/DES,При использовании {COMMON/WORD/SPIKE_JUMP} расходует половину оставшейся {STAMINA} и увеличивает {STRENGTH} и {DEFENSE} на <buff_amount>. Сбрасывается по окончании {RALLY}.
+ABILITY/LUCKY_RECEIVE_ARENA/TITLE,Удачный приём
+ABILITY/LUCKY_RECEIVE_ARENA/DES,При использовании {RECEIVE} с шансом <proc_percent> становится {COMMON/WORD/PERFECT_RECEIVE}.
+ABILITY/OVERCLOCK/TITLE,Разгон
+ABILITY/OVERCLOCK/DES,В состоянии {ANGRY} {COMMON/SKILL/COOLDOWN} {ACTIVE_SKILL} уменьшается на <effect_percent> быстрее.
+ABILITY/POWER_REBOUND/TITLE,Мощный отскок
+ABILITY/POWER_REBOUND/DES,При атаке соперника без {TOSS} {BALL} с шансом <proc_percent> отскакивает обратно.
+ABILITY/QUICK_RECHARGE/TITLE,Быстрая перезарядка
+ABILITY/QUICK_RECHARGE/DES,"Защитная зона {SLIDING} увеличивается на <increase_percent>, а скорость подъема возрастает."
+ABILITY/SENSITIVE_HEART/TITLE,Чувствительное сердце
+ABILITY/SENSITIVE_HEART/DES,Бонусная {STRENGTH} и {COMMON/SKILL/DURATION} состояния {FOCUS} увеличиваются на <increase_percent>.
+ABILITY/BURNING_HEART/TITLE,Пылающее сердце
+ABILITY/BURNING_HEART/DES,Бонусная {STRENGTH} и {COMMON/SKILL/DURATION} состояния {ANGRY} увеличиваются на <increase_percent>.
+ABILITY/SENSITIVE_LINK/TITLE,Чувствительная связь
+ABILITY/SENSITIVE_LINK/DES,При выполнении {COMMON/WORD/PERFECT_RECEIVE} дает другим союзникам состояние {FOCUS} на <condition_time>.
+ABILITY/SPOTLIGHT/TITLE,Софиты
+ABILITY/SPOTLIGHT/DES,"Когда союзник использует {ACTIVE_SKILL}, следующий {TOSS} с шансом <proc_percent> меняется на {SKILL/SPOTLIGHT_TOSS/TITLE}."
+ABILITY/STABLE_ATTACK/TITLE,Стабильная атака
+ABILITY/STABLE_ATTACK/DES,"Когда {STAMINA} выше, чем у команды соперника, {STRENGTH} увеличивается максимум на <buff_amount> в зависимости от разницы."
+ABILITY/STABLE_BOOST/TITLE,Стабильное усиление
+ABILITY/STABLE_BOOST/DES,"Когда {STAMINA} не ниже половины, использование {SPIKE} дает <fever_count> {FEVER_POINT}."
+ABILITY/STAGE_DOMINANCE/TITLE,Доминирование на сцене
+ABILITY/STAGE_DOMINANCE/DES,В начале {RALLY} отмечает светящуюся зону на {COURT}. Прыжок в этой зоне временно увеличивает {STRENGTH} и {JUMP} на <buff_amount>.
+ABILITY/SUN_SPARK/TITLE,Солнечная искра
+ABILITY/SUN_SPARK/DES,"Если не находится в состоянии {SAD}, {STRENGTH} и {DEFENSE} увеличиваются на <buff_amount>. По окончании {RALLY} получает состояние {SAD}."
+ABILITY/SUPER_SAVE/TITLE,Суперприём в падении
+ABILITY/SUPER_SAVE/DES,"После остановки атаки с помощью {SLIDING} получает состояние {ANGRY} на <condition_time>. Если {STAMINA} не ниже половины, вместо этого получает {FOCUS}."
+ABILITY/THUNDER_SPIKE_ARENA/TITLE,Раскат грома
+ABILITY/THUNDER_SPIKE_ARENA/DES,При использовании {SPIKE} с {DATEN} 4 м или выше временно увеличивает {BALL_POWER} на <increase_percent>.
+ABILITY/TIGER_STYLE/TITLE,Стиль Белого тигра
+ABILITY/TIGER_STYLE/DES,"При атаке соперника в состоянии {SAD} следующий соперник, коснувшийся {BALL}, получает состояние {SAD} на <condition_time>."
+ABILITY/TORTOISE_STYLE/TITLE,Стиль Черной черепахи
+ABILITY/TORTOISE_STYLE/DES,При получении состояния {FOCUS} или {ANGRY} соперник с той же {COMMON/POSITION} получает состояние {SAD} на <condition_time>.
+ABILITY/TOUGH_ARMOR/TITLE,Крепкая броня
+ABILITY/TOUGH_ARMOR/DES,После остановки атаки с помощью {BLOCKING} все {STATUS} временно увеличиваются на <buff_amount>.
+ABILITY/TRACE/TITLE,След
+ABILITY/TRACE/DES,"По окончании {RALLY}, если нет {ACTIVE_SKILL} или {TOGGLE_SKILL}, с шансом <proc_percent> копирует {ACTIVE_SKILL} союзника на одно использование."
+ABILITY/UNDERDOG/TITLE,Аутсайдер
+ABILITY/UNDERDOG/DES,За каждого союзника ранга S- {BALL_POWER} у {SPIKE} увеличивается на <increase_percent>.
+ABILITY/VERMILLION_STYLE/TITLE,Стиль Красного феникса
+ABILITY/VERMILLION_STYLE/DES,"Когда соперник с той же {COMMON/POSITION} получает состояние {SAD} или {CARELESS}, получает {ANGRY} на <condition_time>."
+ABILITY/VIOLET_BLOSSOM/TITLE,Цветение фиалки
+ABILITY/VIOLET_BLOSSOM/DES,"{DEFENSE} и {SPEED} увеличиваются на <buff_amount>. Если есть {CONDITION}, использование {TOSS} снимает {CONDITION} и вызывает {FREE_BALL}."
+ABILITY/YOONSEOK_DREAM/TITLE,Сон Юнсока
+ABILITY/YOONSEOK_DREAM/DES,По окончании {RALLY} {STRENGTH} всех игроков увеличивается на <buff_amount>. Для {SKILL/YOONSEOK/TITLE} эффект удваивается.
+ABILITY/PERFECT_PARRY/TITLE,Идеальное парирование
+ABILITY/PERFECT_PARRY/DES,"При выполнении {COMMON/WORD/PERFECT_RECEIVE}, если {STAMINA} ниже, чем у команды соперника, меняет {STAMINA} обеих команд и дает <fever_count> {FEVER_POINT}."
+ABILITY/CURE_RECEIVE_ARENA/TITLE,Лечащий приём
+ABILITY/CURE_RECEIVE_ARENA/DES,При выполнении {COMMON/WORD/PERFECT_RECEIVE} восстанавливает <heal_amount> {STAMINA}.
+ABILITY/GREATEST_SHOWMAN/TITLE,Невероятное шоу
+ABILITY/GREATEST_SHOWMAN/DES,"Если не в {FEVER_MODE}, 4 использования {ACTIVE_SKILL} союзника восстанавливают <heal_amount> {STAMINA} и включают {FEVER_MODE}."
+ABILITY/FEVER_ATTACK/TITLE,Атака накала
+ABILITY/FEVER_ATTACK/DES,Во время {FEVER_MODE} {STRENGTH} увеличивается максимум на <buff_amount> в зависимости от оставшейся {COMMON/SKILL/DURATION} {FEVER_MODE}.
+ABILITY/DREAM_WALKER/TITLE,Сноходец
+ABILITY/DREAM_WALKER/DES,За каждое {INGAME/CHANGE_PLAYER} {STRENGTH} и {DEFENSE} увеличиваются на <buff_amount>.
+ABILITY/RIP_CURRENT_ARENA/TITLE,Отбойная волна
+ABILITY/RIP_CURRENT_ARENA/DES,"{STRENGTH} и {DEFENSE} увеличиваются на <buff_amount>, но скорость движения в воздухе уменьшается вдвое."
+ABILITY/FORTIFY/TITLE,Укрепление
+ABILITY/FORTIFY/DES,"Когда {DEFENSE} больше 200 или {HEIGHT} не ниже 200 см, скорость заряда {BLOCKING}, зона защиты {RECEIVE} и зона защиты {SLIDING} увеличиваются на <increase_percent>."
+ABILITY/SUPER_SLIDING/TITLE,Суперприём в падении
+ABILITY/SUPER_SLIDING/DES,При остановке атаки с помощью {SLIDING} с шансом <proc_percent> не получает урон. (Один раз за {RALLY})
+ABILITY/LUCID_DREAM/TITLE,Осознанный сон
+ABILITY/LUCID_DREAM/DES,"Если {INGAME/CHANGE_PLAYER} было использовано 6 или более раз, при начале {MATCH} получает <fever_count> {FEVER_POINT}."
+ABILITY/RESILIENCE/TITLE,Стойкость
+ABILITY/RESILIENCE/DES,При снятии {CONDITION} восстанавливает <heal_amount> {STAMINA}.
+ABILITY/GLASS_CANNON/TITLE,Стеклянная пушка
+ABILITY/GLASS_CANNON/DES,{STRENGTH} увеличивается на <buff_amount>. {STAMINA} не может подняться выше половины.
+ABILITY/DEJAVU/TITLE,Дежавю
+ABILITY/DEJAVU/DES,"Если {INGAME/CHANGE_PLAYER} было использовано 6 или более раз, {COMMON/SKILL/COOLDOWN} {ACTIVE_SKILL} уменьшается на <effect_percent> быстрее."
+ABILITY/LITTLE_GIANT/TITLE,Маленький гигант
+ABILITY/LITTLE_GIANT/DES,"Если исходная {HEIGHT} самая низкая среди всех {PLAYER}, {BALL_POWER} у {SPIKE} увеличивается на <increase_percent>."
+ABILITY/HOT_STREAK/TITLE,Серия успехов
+ABILITY/HOT_STREAK/DES,"В состоянии {ANGRY}, если другой {DREAM_SHARD} с шансом активации не сработает, с шансом <proc_percent> принудительно активирует его."
+ABILITY/IGNITION/TITLE,Зажигание
+ABILITY/IGNITION/DES,"Когда другой игрок вашей команды использует {ACTIVE_SKILL}, становится {ANGRY} на <condition_time>."
+ABILITY/LUCKY_PUNCH/TITLE,Удачный удар
+ABILITY/LUCKY_PUNCH/DES,"Каждый раз, когда {DREAM_SHARD} союзного игрока с шансом активации успешно срабатывает, {STRENGTH} увеличивается на <buff_amount>. Сбрасывается после выполнения {SPIKE}."
+ABILITY/RECKLESS/TITLE,Безрассудство
+ABILITY/RECKLESS/DES,{STRENGTH} увеличивается на <buff_amount>. При выполнении {SERVE} не использует {SERVE_FLOATER} и {SERVE_BASIC}.
+ABILITY/ENCORE/TITLE,Бис
+ABILITY/ENCORE/DES,"При использовании {ACTIVE_SKILL}, если в этом {RALLY} уже использовался тот же {SKILL}, полностью восстанавливает {STAMINA} и получает <fever_count> {FEVER_POINT}."

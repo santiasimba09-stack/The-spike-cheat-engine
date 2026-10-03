@@ -1,0 +1,471 @@
+﻿KEY,스페인어(es)
+엘리트룰,
+ELITE_RULE,Regla de Élite
+ELITE_RULE/DEFENSE,Defensa de élite
+ELITE_RULE/DEFENSE/DES,"La Regla Élite requiere una defensa precisa.#Cuanto más coincidan la Recepción o la Plancha con el momento en que el jugador toca el balón, mayor será la precisión. Según la precisión, recibirás una valoración PERFECT, GREAT, GOOD o BAD.#Cuanto más se acerque la valoración a PERFECT, menor será el daño a la Resistencia Individual y a la Fortaleza mental."
+ELITE_RULE/DEFENSE_PERFECT,Defensa PERFECT
+ELITE_RULE/DEFENSE_PERFECT/DES,Una Defensa perfecta dentro del margen de fotogramas indicado contrarresta el 100% del ataque rival y anula las habilidades especiales.#Una Recepción perfecta produce un Pase A y recupera parte de la Resistencia Individual y de la Fortaleza mental.#Recepción: dentro de 1 fotograma#Plancha: dentro de 3 fotogramas
+ELITE_RULE/DEFENSE_GREAT,Defensa GREAT
+ELITE_RULE/DEFENSE_GREAT/DES,"La Defensa GREAT contrarresta el 80% del ataque rival.#Si la Resistencia Individual es insuficiente, la defensa puede fallar incluso con una valoración GREAT."
+ELITE_RULE/DEFENSE_GOOD,Defensa GOOD
+ELITE_RULE/DEFENSE_BAD,Defensa BAD
+ELITE_RULE/DEFENSE_BAD/DES,"Si defiendes demasiado tarde, puedes recibir una valoración BAD. La Defensa BAD aumenta el daño a la Resistencia Individual y a la Fortaleza mental del jugador que defendió, por lo que es mejor evitar una valoración BAD al recibir.#Al hacer una Plancha, no recibirás una valoración de Defensa BAD."
+ELITE_RULE/RECEIVE_COMMAND,Orden de recepción
+ELITE_RULE/RECEIVE_COMMAND/DES,"Con la Regla de Élite, pulsa Recepción para indicar cuándo deben recibir tus compañeros.#Si no das la orden antes de que termine el margen de recepción, los compañeros defenderán por su cuenta en el último instante.#La barra de tiempo de defensa muestra la precisión de la orden o de la decisión automática de tus compañeros."
+ELITE_RULE/EXHAUSTION,Agotamiento
+ELITE_RULE/EXHAUSTION/DES,"Los jugadores que pierden toda su Fortaleza mental entran en estado de Agotamiento.#Durante el Agotamiento, la Resistencia Individual y la Fortaleza mental no se recuperan.#El Agotamiento se puede eliminar sustituyendo al jugador o pidiendo un tiempo muerto; al hacerlo, se recuperan por completo la Fortaleza mental y la Resistencia Individual."
+ELITE_RULE/MENTALITY,Fortaleza mental
+ELITE_RULE/MENTALITY/DES,"Cada jugador tiene su propio Fortaleza mental. Cuando se agota, queda Exhausto.#La Fortaleza mental disminuye en proporción a la Potencia del ataque rival, pero la Defensa puede reducir el daño."
+ELITE_RULE/INDIVIDUAL_STAMINA,Resistencia Individual
+ELITE_RULE/INDIVIDUAL_STAMINA/DES,"Cada jugador tiene su propia Resistencia. Cuando es baja, el balón rebota lejos incluso si realiza una Recepción o una Plancha para defender el ataque rival."
+RULE/ELITE_RECEIVE,Recepción de élite
+RULE/MATCH_RULE,Reglas del partido
+RULE/INDIVIDUAL_STAMINA,Resistencia Individual
+EV2609 이벤트 이후 삭제해도 되는 언어,
+EV2609,Escenario Élite
+EV2609_DES,"En las Etapas de élite se aplican Reglas de élite especiales.##Enfréntate a un equipo rival diferente cada día, cumple las Condiciones de estrellas y consigue Estrellas. Solo se contabilizará el mejor récord de Estrellas obtenido en el partido de ese día.##Puedes obtener una Recompensa diaria por tu primera victoria del día y seguir desafiando el mismo partido para conseguir más Estrellas. Las Recompensas semanales se conceden según el número total de Estrellas acumuladas durante la semana."
+EV2609_COIN,Moneda de élite
+EV2609_COIN_DESC,Moneda de evento que se obtiene en las fases de élite.#Se puede usar en la Tienda.
+EV2609_EXTRA_REWARD_TICKET,Ticket de recompensa adicional
+EV2609_EXTRA_REWARD_TICKET_DESC,Úsalo para recibir una vez más la recompensa diaria de hoy. La recompensa se obtiene al completar una fase y este ticket se puede comprar una vez al día.
+EV2609_RECRUIT_GAUGE,Medidor de reclutamiento élite
+EV2609_RECRUIT_GAUGE_DESC,Medidor de reclutamiento disponible durante el evento Escenario Élite. Se consume primero al fichar jugadores de élite y no tiene límite de acumulación. Desaparece al terminar el evento.
+EV2609_PLAYER_RECRUIT_TICKET,Ticket de reclutamiento de jugadores Pickup de élite
+EV2609_PLAYER_RECRUIT_TICKET_DESC,Ticket de reclutamiento que se puede usar durante el evento Fase de élite.#Permite reclutar jugadores del evento.
+EV2609_RAID_SHOP_POPUP,"Puedes canjear la moneda indicada por distintos tipos de moneda, tickets de reclutamiento y objetos."
+EV2609_POPUP_DESC,"¡Acepta el desafío del Escenario Élite! ¡Conoce a Han Gitae, Seo Yuna y Kang Sejin!"
+EV2609_POPUP_PLAY_TITLE,Escenario Élite
+EV2609_POPUP_PLAY_DESC,Enfréntate a un equipo distinto cada día y gana.
+EV2609_POPUP_PICKUP_TITLE,¡Comienza el reclutamiento destacado de jugadores de élite!
+EV2609_POPUP_PICKUP_DESC,Reclutamiento destacado de jugadores exclusivos del Escenario Élite y#venta de paquetes
+EV2609_LOGIN_BONUS,Pase de asistencia de élite
+EV2609_POPUP_ATTENDANCE_DESC,¡Consigue objetos exclusivos y Monedas de élite!#¡Pase Premium y Pase Royal disponibles!
+DIFFICULTY_EXTREME,Extremo
+EV2609_UNLOCK_EXTRA_REWARD,Restablecer recompensas
+EV2609_CLEAR_RESULT,Resultados de superación
+EV2609_RESET_INFO,Se reinicia todos los días a las 00:00 (UTC).
+NO_CLEAR_RESULT,No hay registros de superación.
+EV2609_CLAIM_WEEKLY_FIRST,Debes recoger la Recompensa semanal
+EV2609_NO_STAGE,Hoy no hay etapas disponibles.
+EV2609_USE_REWARD_TICKET_DES,Úsalo para recibir una vez más la Recompensa diaria de hoy.#La recompensa se obtiene al superar la etapa.
+EV2609_ERROR_ALREADY_CLAIMED_WEEKLY_REWARD,No hay recompensas disponibles.
+EV2609_ERROR_INVALID_EVENT,Este evento no es válido.
+EV2609_ERROR_NOT_STAGE_TODAY,Esta etapa no está disponible hoy.
+EV2609_ERROR_DAILY_REWARD_AVAILABLE,La Recompensa diaria aún está disponible.
+EV2609_ERROR_NOT_ENOUGH_PRODUCT,No tienes suficientes Boletos de recompensa adicional.
+EV2609_ERROR_MATCH_IN_PROGRESS,Hay un partido en curso.
+EV2609_STAR_REQUIRE,o más
+EV2609_MISSION_MB_WIN,Gana {0} partidos controlando a un bloqueador central
+EV2609_MISSION_BACK_ATTACK,Logra {0} ataques zagueros en partidos ganados
+EV2609_MISSION_SERVE_ACE,Consigue {0} aces de saque en partidos ganados
+EV2609_MISSION_PERFECT_RECEIVE,Realiza {0} recepciones perfectas como el jugador que controlas en partidos ganados
+EV2609_MISSION_MB_QUICK,Realiza {0} ataques rápidos controlando a un bloqueador central en partidos ganados
+EV2609_MISSION,Misiones de Etapa de élite
+EV2609_MISSION_DES,Estas misiones exclusivas permanecen disponibles durante todo el Evento de élite. Todas pueden completarse jugando partidos de Etapa de élite.
+EV2609_MATCH_PERIOD_END,El evento ha terminado y ahora solo pueden recogerse las recompensas. ¿Quieres ir a la ventana de Recompensas?
+EV2609_REWARD_ONLY_ONCE,Solo la primera vez
+EV2609_WEEKLY_REWARD,Recompensas semanales
+EV2609_WEEKLY_REWARD_LIST,Lista de recompensas semanales
+EV2609_EXCHANGE_SHOP,Tienda de Monedas de élite
+RECRUIT_ELITE_SEO_YUNA_TITLE,Reclutamiento de Seo Yuna de rango S
+RECRUIT_ELITE_SEO_YUNA_DESC,"Puedes reclutar jugadores, incluida la atacante de punta de rango S Seo Yuna, que se incorpora con el Escenario Élite."
+RECRUIT_ELITE_HAN_GITAE_TITLE,Reclutamiento de Han Gitae de rango S+
+RECRUIT_ELITE_HAN_GITAE_DESC,"Puedes reclutar jugadores, incluido el bloqueador central de rango S+ Han Gitae, que se incorpora con el Escenario Élite."
+RECRUIT_ELITE_KANG_SEJIN_TITLE,Reclutamiento de Kang Sejin de rango S
+RECRUIT_ELITE_KANG_SEJIN_DESC,"Puedes reclutar jugadores, incluido el colocador de rango S Kang Sejin, que se incorpora con el Escenario Élite."
+EV2609_PICKUP_WS,WS Seo Yuna
+EV2609_PICKUP_MB,MB Han Gitae
+EV2609_PICKUP_SE,Se Kang Sejin
+EV2609_LOGIN_BONUS_DESC,Inicia sesión dentro del plazo para obtener diversos objetos y monedas.
+EV2609_SPECIALIZATION_BOX,Caja de puntos de desbloqueo de especialización
+EV2609_SPECIALIZATION_BOX_DES,"Obtén al azar hasta 2 de los 9 tipos de puntos de desbloqueo de especialización. Esta recompensa se puede obtener una vez al día, al conseguir la primera victoria del día."
+,
+,
+,
+,
+,
+,
+,
+상시 편입 언어,
+RECRUIT/GAUGE_SCOUT_READY,¡Obtención garantizada en {0} reclutamientos más!
+RECRUIT/SCOUT_CONFIRM_GAUGE,¿Gastar {0} de medidor para fichar?
+RECRUIT/SCOUT_CONFIRM_GAUGE_ONE,¿Gastar {1} {0} para fichar?
+RECRUIT/SCOUT_CONFIRM_GAUGE_TWO,¿Gastar {1} {0} y {3} {2} para fichar?
+RECRUIT/NO_SKIN_RECRUITING,¡No hay aspectos disponibles para reclutar actualmente!
+ALERT/PICKUP_GAUGE_HELD_CAP,En posesión {0} / Límite {1}
+,
+ALERT/PICKUP_GAUGE_NO_MORE,No puedes obtener más Medidor de reclutamiento destacado.
+RECRUIT_GAUGE,Medidor de reclutamiento destacado
+RECRUIT_GAUGE_DESC,"Se puede usar para fichar jugadores. Al reclutar con Boletos de reclutamiento de jugador destacado o Puntos V, ganas 1 de Medidor de reclutamiento destacado por cada 1 jugador reclutado.#No puedes acumular más de 135 de Medidor de reclutamiento destacado."
+BEGINNER_RECRUIT_TICKET,Boleto de Reclutamiento para Principiantes
+BEGINNER_RECRUIT_TICKET_DESC,Boleto de reclutamiento que ayuda a los principiantes a progresar rápido.#¡Intenta reclutar un jugador de rango S!
+BEGINNER_RECRUIT_GAUGE,Medidor destacado para principiantes
+BEGINNER_RECRUIT_GAUGE_DESC,"Se puede usar para el ojeo de jugadores principiantes. Al reclutar con boletos de reclutamiento para principiantes, el medidor de reclutamiento para principiantes aumenta en 1 por cada jugador reclutado."
+BEGINNER_RECRUIT/SELECT_SCOUT_TARGET,Selecciona un jugador para fichar.
+ALERT/PICKUP_GAUGE_LIMIT,No puedes acumular más de 135 de Medidor de reclutamiento destacado.#¿Continuar reclutando?
+CONVERT,Convertir
+SCOUT_POINT_CONVERSION,Convertir Puntos de fichaje destacado
+PICKUP_GAUGE_LIMIT_DES,Puedes acumular hasta 135 de Medidor de reclutamiento destacado.
+CAN_CONVERT_MORE_ONE,Debes convertir al menos 1.
+MOVE_TO_GUIDE_PLAYER_DES,¿Ver la descripción de {0}?
+NO_MORE_SCOUT_POINT,No tienes Puntos de fichaje destacado.
+CHECK_SCOUT_POINT_AMOUNT,No se puede convertir esta cantidad.
+CALENDAR_BEFORE_FIRST_PURCHASE,Aún no ha comenzado.
+RECRUIT/SCOUT_HELP_LINE_1,El fichaje permite reclutar un jugador de forma garantizada.
+RECRUIT/SCOUT_HELP_LINE_2,Usa el medidor de reclutamiento para fichar.
+RECRUIT/SCOUT_HELP_LINE_3,"En reclutamiento Normal, Posición y Coliseo, puedes fichar con Puntos de fichaje."
+RECRUIT/SCOUT_RULE_GAUGE_CAP,Puedes tener hasta {0} medidores de reclutamiento Pickup.
+RECRUIT/SCOUT_RULE_PICKUP_CONVERT,Los Puntos de fichaje destacado se pueden convertir en medidor de reclutamiento Pickup.
+RECRUIT/SCOUT_RULE_BLOCK,No puedes fichar si el jugador tiene 5 avances o tienes 5 Fragmentos de Esfuerzo.
+,
+,
+BEGINNER_RECRUIT_DESC_1,¡Usa 40 boletos de reclutamiento y consigue 1 jugador de rango S garantizado!
+BEGINNER_RECRUIT_DESC_2,Puedes comprar este producto en la tienda.
+,
+BEGINNER_RECRUIT/RECENTLY_SELECTED,Seleccionado recientemente
+RECRUIT/TAB_BASIC,Reclutamiento de jugadores normales
+RECRUIT/TAB_COLOSSEUM,Reclutamiento de jugadores del Coliseo
+RECRUIT/PICKUP_REMAIN,Termina en {0}
+RECRUIT/SCOUT_ROUND,Ronda {0}
+RECRUIT/SCOUT_NEXT_NEED,Medidor de reclutamiento necesario para fichar: {0}
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,Guía del medidor de reclutamiento para fichajes
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,Ronda
+RECRUIT/SCOUT_GAUGE_TABLE_COL_NEED,Medidor de reclutamiento necesario
+CAN_RECRUIT_SCOUT,¡{0} disponible!
+RECRUIT/TAB_POSITION,Reclutamiento de jugadores por posición
+RECRUIT/TAB_COLOSSEUM,Reclutamiento de jugadores del Coliseo
+RECRUIT_NORMAL,Reclutamiento de jugadores normales
+RECRUIT_WS,Reclutar atacante exterior
+RECRUIT_MB,Reclutar bloqueador central
+RECRUIT_SE,Reclutar colocador
+,
+RECRUIT/SCOUT_CONFIRM_TITLE,Fichar a {0}
+RECRUIT/SCOUT_GAUGE_TABLE_COL_ROUND,Ronda
+RECRUIT/SCOUT_GAUGE_TABLE_TITLE,Fichar
+RECRUIT/SCOUT_GAUGE_TABLE_DES,El fichaje garantiza la obtención de un jugador. Puedes fichar usando Medidor de reclutamiento o Puntos de fichaje.
+RECRUIT/SCOUT_LONG_DES,Fichar con Medidor de reclutamiento reduce la cantidad necesaria para el siguiente fichaje. # Puedes acumular hasta 135 de Medidor de reclutamiento destacado.
+RECRUIT/SCOUT_BLOCKED_AWAKEN,No puedes obtener más.
+RECRUIT/BUY_TICKET_WITH_COIN_AND_RECRUIT,¿Comprar {3} {2} con {1} {0} y reclutar?
+CALENDAR_SCHEDULED,Programado
+CALENDAR_EXPIRED,Disponibilidad finalizada
+CALENDAR_GLOBAL_BEFORE,Próximamente
+CALENDAR_GLOBAL_AFTER,Finalizado
+CALENDAR_CONFIG_MISSING,Es necesario actualizar la configuración
+DIRECT_RECRUIT,Reclutar ahora
+CAN_RECRUIT,Reclutamiento disponible
+EVENT_PICKUP_DES,· {0} se consume primero al fichar jugadores. Desaparece al terminar el evento.
+RECRUIT/NOT_ENUGH_GAUGE,Medidor de reclutamiento insuficiente.
+BEGINNER_RECRUIT,Reclutamiento de jugadores para principiantes
+BEGINNER_RECRUIT_TITLE,Reclutamiento de jugadores para principiantes
+BEGINNER_RECRUIT_DESC,Los boletos de reclutamiento para principiantes te permiten obtener un jugador de rango S garantizado.
+BEGINNER_RECRUIT/CONFIRM_SCOUT_TARGET,Seleccionar jugador
+BEGINNER_RECRUIT/TIP_MINJUN/KEYWORD,Alto anotador
+BEGINNER_RECRUIT/TIP_MINJUN,Fácil de usar y con gran capacidad anotadora: recomendado para todo el contenido
+BEGINNER_RECRUIT/TIP_YOUNGSUB/KEYWORD,Tipo todoterreno
+BEGINNER_RECRUIT/TIP_YOUNGSUB,Fuerza estable que destaca en todo el contenido
+BEGINNER_RECRUIT/TIP_ISABEL/KEYWORD,Tipo de contraataque
+BEGINNER_RECRUIT/TIP_ISABEL,"Difícil en juego normal, pero gran techo en contenido exigente"
+BEGINNER_RECRUIT/TIP_ATIS/KEYWORD,Tipo presión de ataque rápido
+BEGINNER_RECRUIT/TIP_ATIS,Presiona con atletismo superior y ataques rápidos: recomendado para todo
+BEGINNER_RECRUIT/TIP_HANRA/KEYWORD,Tipo defensa estable
+BEGINNER_RECRUIT/TIP_HANRA,Aumenta la estabilidad con gran defensa y apoyo: recomendado para todo
+BEGINNER_RECRUIT/TIP_SANGHYEON/KEYWORD,Tipo refuerzo de equipo
+BEGINNER_RECRUIT/TIP_SANGHYEON,Mejora los atributos de todo el equipo para crear oportunidades tanto defensivas como ofensivas; recomendado para todo el contenido
+BEGINNER_RECRUIT/TIP_LISIA/KEYWORD,Tipo especialista en saque
+BEGINNER_RECRUIT/TIP_LISIA,Amenaza con saques que suben la moral: recomendado para todo
+BEGINNER_RECRUIT/TIP_ZERO/KEYWORD,Tipo apoyo de colocación
+BEGINNER_RECRUIT/TIP_ZERO,Colocaciones potentes que hacen brillar aliados: recomendado para todo
+BEGINNER_RECRUIT/TIP_AHYEON/KEYWORD,Tipo especialista en sinergia
+BEGINNER_RECRUIT/TIP_AHYEON,Neutraliza rivales con sinergia aliada: recomendado en contenido exigente
+RECRUIT/SCOUT_MAXED,Ya se han completado todos los fichajes de este jugador.
+,
+,
+STAR_CONDITION/ALWAYS,Victoria en el partido
+STAR_CONDITION/ONAIR_VIEWERS,Alcanza un máximo de {0} espectadores
+STAR_CONDITION/SPIKE_SCORE,Anota {0} veces con remates
+STAR_CONDITION/BACK_ATTACK_SCORE,Anota {0} veces con Ataques desde la zaga
+STAR_CONDITION/QUICK_SCORE,Anota {0} veces con Ataques rápidos
+STAR_CONDITION/LOSE_SCORE,Pierde menos de {0} puntos
+STAR_CONDITION/LOSE_SCORE_MANUAL,Pierde menos de {0} puntos en el Modo de control manual
+STAR_CONDITION/DIFFICULTY_EXTREME,Gana en la dificultad Muy Difícil
+STAR_CONDITION/DIFFICULTY_HARD,Gana en la dificultad Difícil
+STAR_CONDITION/WIN_SCORE_WITHOUT_AUTO,Gana por una diferencia de al menos {0} puntos en el Modo de control manual
+STAR_CONDITION/WIN_SCORE_WITHOUT_BEGINNER,Gana por una diferencia de al menos {0} puntos sin el Modo principiante
+CONVERTED_GAUGE_AMOUNT,Total convertido: {0}
+COMMON/TOTAL,Total
+TUTORIAL_MB_MOVEMENT,Entrenamiento de central
+TUTORIAL_MISSION/QUICK,Realiza un Ataque rápido
+TUTORIAL_MISSION/FAKE_QUICK,Atrae el bloqueo de Roberto
+TUTORIAL/QUICK,Ataque rápido
+TUTORIAL/QUICK_DES,"Salta antes de que el colocador arme el balón,#y hará una colocación rápida para el central."
+QUICK_TUTORIAL/01,"El ataque rápido es lo más básico para un central.#Si no sabes hacerlo... bueno, no puedes considerarte central, ¿verdad?"
+QUICK_TUTORIAL/02,"Lo importante es saltar antes de que nuestro colocador arme el balón.#Cuando llegue el balón, ya deberías estar a la altura necesaria para atacar."
+QUICK_TUTORIAL/03,"Si coordinas bien el salto, el colocador pondrá el balón justo donde lo necesitas."
+QUICK_TUTORIAL/04,Inténtalo. Salta cerca de mí justo antes de la colocación... ¡y remata!
+RECEIVE_QUICK_TUTORIAL/01,Oh~ ¡Muy bien! Esta vez ha estado bastante logrado.
+RECEIVE_QUICK_TUTORIAL/02,¿Probamos ahora como si fuera un partido de verdad?
+RECEIVE_QUICK_TUTORIAL/03,"Roberto te ayudará.#Se adaptará para que aprendas a coordinar el ataque rápido, así que no te preocupes."
+RECEIVE_QUICK_TUTORIAL/04,"Después de recibir, corre inmediatamente hacia la red.#Haz un ataque rápido como has aprendido."
+FAKE_QUICK_TUTORIAL/01,"Bien, bien. Esto ya empieza a tomar forma."
+FAKE_QUICK_TUTORIAL/02,"Parece que ya dominas más o menos los tiempos del ataque rápido...#Roberto, ahora bloquéalo en serio."
+FAKE_QUICK_TUTORIAL/03,"Esta vez bloqueará en serio siguiendo el ritmo de tu ataque rápido.#Ya no será tan fácil rematar como antes, ¿verdad?"
+FAKE_QUICK_TUTORIAL/04,Pero escucha.#Un central no siempre tiene que rematar el balón.#Confundir a los bloqueadores rivales también forma parte del trabajo.
+FAKE_QUICK_TUTORIAL/05,"Aunque solo saltes en el momento justo como si fueras a hacer un ataque rápido, al rival le costará ignorarte."
+FAKE_QUICK_TUTORIAL/06,"Esta vez, salta sin tocar el balón.#Atrae el bloqueo de Roberto y crea una oportunidad para que nuestro atacante de punta anote con un ataque de segundo tiempo."
+PRACTICE_GO_TUTORIAL_04/01,"Oh~ Excelente, excelente."
+PRACTICE_GO_TUTORIAL_04/02,"Es diferente a jugar como atacante de punta, ¿verdad? ¿Qué tal? ¿Puedes hacerlo?"
+PRACTICE_GO_TUTORIAL_04/03,"Ahora que ya sabes en qué consiste un ataque rápido, aprenderás el resto con más práctica."
+WRONG_ATTACK_POSITION_TIP,Salta dentro de la zona brillante.
+MIDAIR_AT_TOSS_TIP,Tienes que saltar antes de que el colocador arme el balón.
+MIDAIR_AT_TOSS_TIP_THATS_OPEN,"Eso es un ataque de balón alto, no un ataque rápido."
+MIDAIR_AT_TOSS_TIP_TOO_FAST,Intenta saltar un poco más tarde.
+MIDAIR_AT_TOSS_TIP_TOO_FAR,"Cuanto más te alejes de la red, más difícil será realizar un ataque rápido."
+ATTACK_BEFORE_TOSS_TIP,Coordina el ataque con la colocación.
+ATTACK_IN_COURT_TIP,Tienes que contactar el balón más por delante del cuerpo.
+FAKE_JUMP_TIP,Salta en el momento adecuado para un ataque rápido.
+FAKE_QUICK_TIP,Aterriza sin golpear el balón.
+TOO_FAST_QUICK_TIP,Haz el movimiento de ataque en el momento adecuado.
+QUICK_TOSS_FAIL_TIP,Tienes que saltar antes para que pueda colocarte el balón para un ataque rápido.
+BLOCKING_BREAK_TIP,¡Apunta al punto débil y atraviesa el bloqueo!
+,
+,
+,
+SHOP/DOUBLE_BONUS,BONUS! +{0}VP
+SHOP/FIRST_PURCHASE_BONUS,¡Oferta especial!
+COMMON/WEEKDAY_SUN,Domingo
+COMMON/WEEKDAY_MON,Lunes
+COMMON/WEEKDAY_TUE,Martes
+COMMON/WEEKDAY_WED,Miércoles
+COMMON/WEEKDAY_THU,Jueves
+COMMON/WEEKDAY_FRI,Viernes
+COMMON/WEEKDAY_SAT,Sábado
+BLOCKING_LIFE,Resistencia del bloqueo
+NAME/TEAM_NATIONAL_STUDENTS_1,Equipo de entrenamiento sub-21 - A
+NAME/TEAM_NATIONAL_STUDENTS_2,Equipo de entrenamiento sub-21 - B
+NAME/TEAM_NATIONAL_STUDENTS_3,Equipo de entrenamiento sub-21 - Estrellas
+NAME/TEAM_NATIONAL_STUDENTS_4,Equipo de entrenamiento sub-21 - C
+NAME/TEAM_NATIONAL_STUDENTS_5,Equipo de entrenamiento sub-21 - D
+NAME/TEAM_NATIONAL_STUDENTS_6,Equipo de entrenamiento sub-21 - E
+NAME/TEAM_NATIONAL_STUDENTS_7,Equipo de entrenamiento sub-21 - F
+NAME/STAGE_13_01,Maestro y discípulo
+NAME/STAGE_13_02,Buenas noticias
+NAME/STAGE_13_03,Primer día en el centro
+NAME/STAGE_13_04,Presentaciones
+NAME/STAGE_13_05,La cruda realidad
+NAME/STAGE_13_06,Novato de la selección nacional
+NAME/STAGE_13_07,Quien persigue
+NAME/STAGE_13_08,La forma del talento
+NAME/STAGE_13_09,Una y otra vez
+NAME/STAGE_13_10,Una única oportunidad
+NAME/STAGE_13_11,"Adiós, Siwoo"
+NAME/CHAPTER_13,On My Way
+NAME/SEASON_03,Temporada 3
+PLAYER/HAN_GITAE/NICKNAME,Central de acero
+PLAYER/HAN_GITAE/LINE,Justo estaba algo entumecido. ¿Qué tal si calentamos un poco?
+PLAYER/HAN_GITAE/LINE_2,Nada de contenerse. ¡Ven con todo lo que tengas!
+PLAYER/HAN_GITAE/GACHA/LINE,Nada de contenerse.<wait=100> ¡Ven con todo lo que tengas!
+PLAYER/SEO_YUNA/NICKNAME,Talento adaptativo
+PLAYER/SEO_YUNA/LINE,Te lo demostraré. ¡Soy mucho más fuerte de lo que parezco!
+PLAYER/SEO_YUNA/GACHA/LINE,"Ya que el destino nos ha unido,<break><wait=85><b>¡derrotémoslos a todos!"
+PLAYER/SEO_YUNA/GACHA/LINE_2,¡El talento no lo es todo! ¡Se puede superar con esfuerzo!
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM,Animación de tiempo muerto
+,
+SETTING/PREFERENCE/TIMEOUT_SPINE_ANIM/DES,Reproduce con fluidez y en alta calidad las animaciones de las ilustraciones en la pantalla de tiempo muerto. Puede afectar al rendimiento.
+NAME/ELITE_MATCH_MON,All-Star
+NAME/ELITE_MATCH_TUE,Acero Azul
+NAME/ELITE_MATCH_WED,Valentia Spikes
+NAME/ELITE_MATCH_THU,Sylphid Case
+NAME/ELITE_MATCH_FRI,Asheville Weasels
+NAME/ELITE_MATCH_SAT,Metal Blando
+NAME/ELITE_MATCH_SUN,Tormenta Rosa
+,
+,
+,
+,
+,
+NAME/ELITE_MATCH_DES,¡Derrota a los distintos equipos rivales de cada día de la semana y consigue recompensas del evento!
+TUTORIAL/ELITE_RULE_UI_APPEAR_DES,"Cada jugador tiene su propia Resistencia y Fortaleza mental.#La Resistencia se muestra en amarillo y la Fortaleza mental, en azul."
+TUTORIAL/ELITE_RULE_UI_DAMAGE_DES,"El jugador que recibe el balón pierde Resistencia y Fortaleza mental.#Si se queda sin Resistencia, fallará al defender."
+TUTORIAL/ELITE_RULE_DEFENSE_TIMING_DES,"Pulsa el botón de Plancha o Recepción en el momento adecuado para reducir el daño.#Si no pulsas ningún botón, el jugador defenderá según un resultado aleatorio."
+TUTORIAL/ELITE_RULE_RECEIVE_DES,Recibe el balón en el momento preciso para que se eleve de forma estable.#Una Recepción perfecta genera un Balón de oportunidad.
+TUTORIAL/ELITE_RULE_SLIDING_DES,"La Plancha permite defender una zona amplia, pero hace que el balón se eleve de forma menos estable.#Defender con una Plancha no genera un Balón libre."
+TUTORIAL/ELITE_RULE_FLOATER_SERVE_DES,"El Saque flotante y el Saque híbrido infligen daño que ignora la Defensa.#Si no defiendes en el momento preciso, recibirás mucho daño."
+TUTORIAL/ELITE_RULE_MENTALITY_DES,"La Fortaleza mental no se recupera fácilmente entre jugadas.#Cuanto menor sea la Fortaleza mental de un jugador, más Resistencia perderá al defender."
+TUTORIAL/ELITE_RULE_EXHAUST_DES,"Cuando la Fortaleza mental se agota por completo, el jugador queda Exhausto durante un breve período.#La Fortaleza mental no se recupera mientras el jugador está Exhausto."
+TUTORIAL/ELITE_RULE_FORMATION_DES,Las posiciones defensivas de los jugadores no cambian cuando cambia el turno de saque.#Puedes cambiar sus posiciones defensivas durante un tiempo muerto.
+TUTORIAL/RAID_TIP_06,¡Casi perfecto!
+STORYMODE_TIP_9,Se aplican las Reglas Élite.
+MAP_NATIONAL,Gimnasio del Vuelo
+,
+NAME LANG,
+IVAN_NAM,Ivan Nam
+SEONGJIN_PARK,Seongjin Park
+CHEI_YOO,Chei Yoo
+JINKYEONG_KIM,Jinkyeong Kim
+SEOHEE_PYEON,Seohee Pyeon
+JINHYUN_KIM,Jinhyun Kim
+MINSEO_JO,Minseo Jo
+JAEWON_LEE,Jaewon Lee
+MR_COACH,Entrenador
+,
+SPECIALIZATION/PRESET,Preajuste
+SPECIALIZATION/REFUND_ALERT,¿Reembolsar puntos de especialización?
+SPECIALIZATION/RESET_PRESET_ALERT,¿Restablecer el preajuste {0}?
+SPECIALIZATION/PREREQUISITE_AP,AP previo {0}
+SPECIALIZATION/NO_EFFECT,Sin efecto
+SPECIALIZATION/WEAKNESS,Debilidad
+SPECIALIZATION/UNLOCK,Desbloquear
+SPECIALIZATION/DOWNGRADE,Bajar
+SPECIALIZATION/UPGRADE,Subir
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_MIN,No se puede bajar más.
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_LEVEL_EXCEEDS_MAX,Ya está al nivel máximo.
+SPECIALIZATION/ERROR/SPECIALIZATION_AP_OVERSPENT,AP insuficiente. ({0}/{1})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH,No hay suficientes AP en la especialización previa requerida. ({0})
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_AP_NOT_ENOUGH/DEPENDENT,Esto rompe la condición de AP previo de {0}. ({1})
+SPECIALIZATION/ERROR/SPECIALIZATION_CORE_LIMIT_EXCEEDED,Se superó el límite de especializaciones núcleo.
+SPECIALIZATION/ERROR/SPECIALIZATION_IDENTITY_CORE_LIMIT_EXCEEDED,Solo se puede activar 1 especialización núcleo de Identidad.
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_CHAIN_BLOCKED,No se puede elegir la misma debilidad de estadística seguida.
+SPECIALIZATION/ERROR/SPECIALIZATION_WEAKNESS_BALANCE_BROKEN,El equilibrio de debilidades está roto.
+SPECIALIZATION/ERROR/SPECIALIZATION_PREREQUISITE_NOT_UNLOCKED,Primero debes desbloquear la especialización previa requerida.
+SPECIALIZATION/ERROR/NOT_ENOUGH_ITEM_AMOUNT,Puntos de desbloqueo insuficientes. ({0}/{1})
+SPECIALIZATION/POINT/WS/OFFENSE,Puntos de desbloqueo ofensivo WS
+SPECIALIZATION/POINT/WS/DEFENSE,Puntos de desbloqueo defensivo WS
+SPECIALIZATION/POINT/WS/IDENTITY,Puntos de desbloqueo de identidad WS
+SPECIALIZATION/POINT/MB/OFFENSE,Puntos de desbloqueo ofensivo MB
+SPECIALIZATION/POINT/MB/DEFENSE,Puntos de desbloqueo defensivo MB
+SPECIALIZATION/POINT/MB/IDENTITY,Puntos de desbloqueo de identidad MB
+SPECIALIZATION/POINT/SE/OFFENSE,Puntos de desbloqueo ofensivo SE
+SPECIALIZATION/POINT/SE/DEFENSE,Puntos de desbloqueo defensivo SE
+SPECIALIZATION/POINT/SE/IDENTITY,Puntos de desbloqueo de identidad SE
+SPECIALIZATION/POINT/WS/OFFENSE_DESC,Se usan para desbloquear especializaciones ofensivas de WS.
+SPECIALIZATION/POINT/WS/DEFENSE_DESC,Se usan para desbloquear especializaciones defensivas de WS.
+SPECIALIZATION/POINT/WS/IDENTITY_DESC,Se usan para desbloquear especializaciones de identidad de WS.
+SPECIALIZATION/POINT/MB/OFFENSE_DESC,Se usan para desbloquear especializaciones ofensivas de MB.
+SPECIALIZATION/POINT/MB/DEFENSE_DESC,Se usan para desbloquear especializaciones defensivas de MB.
+SPECIALIZATION/POINT/MB/IDENTITY_DESC,Se usan para desbloquear especializaciones de identidad de MB.
+SPECIALIZATION/POINT/SE/OFFENSE_DESC,Se usan para desbloquear especializaciones ofensivas de SE.
+SPECIALIZATION/POINT/SE/DEFENSE_DESC,Se usan para desbloquear especializaciones defensivas de SE.
+SPECIALIZATION/POINT/SE/IDENTITY_DESC,Se usan para desbloquear especializaciones de identidad de SE.
+SPECIALIZATION/HELP/AP,"Tras desbloquear una Especialización con puntos de desbloqueo, usa los AP del jugador para subirla de nivel y activarla.#Puedes recuperar libremente los AP usados bajando su nivel, pero no puedes deshacer el desbloqueo de una Especialización."
+SPECIALIZATION/HELP/AP_ALERT,"* Los efectos y valores de las Especializaciones pueden ajustarse en futuras actualizaciones.#Si se modifica un efecto o valor, podrán recuperarse todos los Puntos de desbloqueo utilizados en las Especializaciones de ese jugador."
+SPECIALIZATION/HELP/PRESET,Puedes guardar la distribución de AP de cada Especialización en un preajuste.#Cambiar de preajuste mantiene las Especializaciones desbloqueadas.
+SPECIALIZATION/STATUS/LOCKED,Bloqueado
+SPECIALIZATION/ACTIVATE,Activar
+SPECIALIZATION/DEACTIVATE,Desactivar
+SPECIALIZATION/TIER/GROWTH,Crecimiento
+SPECIALIZATION/TIER/ENHANCEMENT,Mejora
+SPECIALIZATION/TIER/TACTICAL,Táctica
+SPECIALIZATION/TIER/CORE,Núcleo
+SPECIALIZATION/TIER/UNIQUE,Única
+SPECIALIZATION,Especialización
+IAP,
+EV2609_GROWTH_PACKAGE,Paquete de Crecimiento
+EV2609_GROWTH_PACKAGE_DESC,Paquete que contiene una gran cantidad de Créditos y puntos de EXP.
+EV2609_WELCOME_ELITE_PACKAGE,Paquete Élite de Bienvenida
+EV2609_WELCOME_ELITE_PACKAGE_DESC,Paquete que contiene 10 boletos de reclutamiento de jugador destacado y una pequeña cantidad de monedas.
+EV2609_PACKAGE_1,Paquete Élite 1
+EV2609_PACKAGE_1_DESC,Paquete que te permite obtener Moneda Élite x300 y Punto V x360.
+EV2609_PACKAGE_2,Paquete Élite 2
+EV2609_PACKAGE_2_DESC,Paquete que te permite obtener Monedas Élite x860 y Puntos V x1270.
+EV2609_ELITE_PREMIUM_PACKAGE,Paquete Premium Élite
+EV2609_ELITE_PREMIUM_PACKAGE_DESC,Paquete que contiene 10 boletos de reclutamiento de jugador destacado y una gran cantidad de monedas.
+EV2609_ELITE_ROYAL_PACKAGE,Paquete Real Élite
+EV2609_ELITE_ROYAL_PACKAGE_DESC,Paquete que contiene 20 boletos de reclutamiento de jugador destacado y una gran cantidad de monedas.
+EV2609_EXTREME_ROYAL_PACKAGE,Paquete Real Extremo Élite
+EV2609_EXTREME_ROYAL_PACKAGE_DESC,Paquete que contiene 40 boletos de reclutamiento de jugador destacado y una enorme cantidad de monedas.
+EV2609_NORMAL_PASS,Pase Normal
+EV2609_NORMAL_PASS_DESC,Consigue varios uniformes y recompensas con el Pase Normal.
+EV2609_PREMIUM_PASS,Pase Premium
+EV2609_PREMIUM_PASS_DESC,"Desbloquea el Pase Premium para obtener 3 días extra de asistencia al evento, uniformes exclusivos y muchas recompensas."
+EV2609_ROYAL_PASS,Pase Royal
+EV2609_ROYAL_PASS_DESC,Desbloquea el Pase Royal para obtener 1 día extra de asistencia al evento y muchas recompensas. Disponible tras adquirir el Pase Premium.
+EV2609_PREMIUM_ROYAL_PASS,Pase Premium + Pase Royal
+EV2609_PREMIUM_ROYAL_PASS_DESC,Un paquete que desbloquea ambos Pases Premium y Royal al instante.
+BEGINNER_PLAYER_RECRUIT_TICKET,Boleto de Reclutamiento para Principiantes
+BEGINNER_RECRUIT_PACKAGE,Paquete de Boletos Principiantes
+BEGINNER_RECRUIT_PACKAGE_DESC,Recibirás 40 Boletos para Principiantes.
+DEFAULT_40VP_PACKAGE,Paquete de Puntos V x40
+DEFAULT_40VP_PACKAGE_DESC,Recibirás 40 Puntos V.
+DEFAULT_200VP_PACKAGE,Paquete de Puntos V x200
+DEFAULT_200VP_PACKAGE_DESC,Recibirás 200 Puntos V.
+DEFAULT_420VP_PACKAGE,Paquete de Puntos V x420
+DEFAULT_420VP_PACKAGE_DESC,Recibirás 420 Puntos V.
+DEFAULT_1280VP_PACKAGE,Paquete de Puntos V x1280
+DEFAULT_1280VP_PACKAGE_DESC,Recibirás 1280 Puntos V.
+DEFAULT_2160VP_PACKAGE,Paquete de Puntos V x2160
+DEFAULT_2160VP_PACKAGE_DESC,Recibirás 2160 Puntos V.
+DEFAULT_4000VP_PACKAGE,Paquete de Puntos V x4.000
+DEFAULT_4000VP_PACKAGE_DESC,Recibirás 4.000 Puntos V.
+DEFAULT_40VP_PACKAGE_2X,Paquete Punto V x40 2x
+DEFAULT_40VP_PACKAGE_2X_DESC,¡40 Puntos V + 40 de bonificación!#Esta bonificación se restablece periódicamente.
+DEFAULT_200VP_PACKAGE_2X,Paquete Punto V x200 2x
+DEFAULT_200VP_PACKAGE_2X_DESC,¡200 Puntos V + 200 de bonificación!#Esta bonificación se restablece periódicamente.
+DEFAULT_420VP_PACKAGE_2X,Paquete Punto V x420 2x
+DEFAULT_420VP_PACKAGE_2X_DESC,¡420 Puntos V + 420 de bonificación!#Esta bonificación se restablece periódicamente.
+DEFAULT_1280VP_PACKAGE_2X,Paquete Punto V x1280 2x
+DEFAULT_1280VP_PACKAGE_2X_DESC,¡1280 Puntos V + 1280 de bonificación!#Esta bonificación se restablece periódicamente.
+DEFAULT_2160VP_PACKAGE_2X,Paquete Punto V x2160 2x
+DEFAULT_2160VP_PACKAGE_2X_DESC,¡2160 Puntos V + 2160 de bonificación!#Esta bonificación se restablece periódicamente.
+DEFAULT_4000VP_PACKAGE_2X,Paquete Punto V x4000 2x
+DEFAULT_4000VP_PACKAGE_2X_DESC,¡4000 Puntos V + 4000 de bonificación!#Esta bonificación se restablece periódicamente.
+상품(Product시트에 들어갈 것),
+GITAE_UNIFROM,Uniforme de Han Gitae
+GITAE_UNIFROM/DESC,Uniforme masculino del equipo de voleibol de la Universidad Cheongmyeong.#Fabricado con un tejido especial de alta resistencia que no se rasga fácilmente por la fricción ni por impactos fuertes.
+BACK_ELITE_WAIT_ROOM,Centro de Entrenamiento de la Selección Nacional
+BACK_ELITE_WAIT_ROOM/DESC,"Centro de entrenamiento exclusivo donde se reúnen los mejores jugadores de voleibol de Corea del Sur.#Cuenta con las mayores instalaciones profesionales del país y sistemas de entrenamiento de vanguardia. Como lugar que perfecciona a los mejores jugadores, es famoso por la extrema dureza de sus entrenamientos."
+BACK_ELITE_HALLWAY,Fondo del pasillo del gimnasio
+BACK_ELITE_HALLWAY/DESC,"Pasillo del gimnasio del Centro de Entrenamiento de la Selección Nacional.#Cuando Inho y su compañero formaban parte de la selección, solían caminar por aquí y hablar de sus sueños."
+YOUTH_BALL,Balón exclusivo del NTC
+YOUTH_BALL/DES,"Balón exclusivo del Centro de Entrenamiento de la Selección Nacional, fabricado por la marca de voleibol 'RISE'."
+GITAE_BALL,Balón favorito de Han Gitae
+GITAE_BALL/DES,Balón de voleibol muy querido por Han Gitae.#Se dice que siempre entrena con él el día de un partido importante.
+YOUTH_UNIFORM_MALE,Uniforme masculino de la selección juvenil
+YOUTH_UNIFORM_MALE/DES,"Uniforme masculino oficial de la selección juvenil, fabricado por la marca de voleibol 'RISE'.#Es tan popular que se vende como pan caliente durante la temporada de torneos internacionales."
+YOUTH_UNIFORM_FEMALE,Uniforme femenino de la selección juvenil
+YOUTH_UNIFORM_FEMALE/DES,"Uniforme femenino oficial de la selección juvenil, fabricado por la marca de voleibol 'RISE'.#Es tan popular que se vende como pan caliente durante la temporada de torneos internacionales."
+JAEHYUN_UNIFORM,Uniforme de Jaehyun
+JAEHYUN_UNIFORM/DES,"Uniforme masculino oficial del equipo de voleibol de la Escuela Haneul.#El día que lo recibió por primera vez, Jaehyun pasó un buen rato frente al espejo."
+JAEHYUN_SHOES,Zapatillas de Jaehyun
+SEJIN_UNIFORM,Uniforme de Kang Sejin
+SEJIN_UNIFORM/DES,"Uniforme masculino oficial del equipo de voleibol del Instituto Cheonan.#Por alguna razón, Kang Sejin se da más aires de lo normal cuando lo lleva."
+SEJIN_SHOES,Zapatillas de Kang Sejin
+YUNA_UNIFORM,Uniforme de Seo Yuna
+YUNA_UNIFORM/DES,Uniforme femenino oficial del equipo de voleibol del Instituto Cheolwon.#Es la prenda favorita de Seo Yuna: tiene 5 conjuntos idénticos que usa por turnos.
+YUNA_SHOES,Zapatillas de Seo Yuna
+BGM_COLEMAN_STORY_DESC,CHAPTER 13. #「Tú juegas voleibol desde muy pequeño. No entiendes nada.」
+BGM_NATIONAL_TRAINING_MATCH_DESC,CHAPTER 13. #「¡Tengo que hacer todo lo que esté a mi alcance!」
+BGM_TRAINING_CAMP_BUDDIES_DESC,CHAPTER 13. #「¡Quiero formar parte de la selección nacional!」
+PROFILE_FRAME_EV2609,Marco del Escenario Élite
+PROFILE_TITLE_ELITE_SPIKER,Jugador de élite
+PROFILE_STICKER_GLOBAL,Pegatina global
+PROFILE_STICKER_GITAE,Pegatina de Han Gitae
+PROFILE_STICKER_TROPHY,Pegatina del trofeo de élite
+,
+,
+,
+,
+,
+,
+,
+,
+BEGINNER_RECRUIT/CAN_SCOUT,¡Jugador para principiantes disponible!
+RECRUIT/HELP_TITLE,Reclutar jugadores
+RECRUIT/HELP_LINE_1,Puedes obtener jugadores gastando boletos de reclutamiento o moneda.
+RECRUIT/HELP_LINE_2,Los jugadores del reclutamiento de jugadores del evento se pueden obtener mediante fichaje usando el medidor de reclutamiento del evento y el medidor de reclutamiento destacado.
+RECRUIT/HELP_LINE_3,Los jugadores del reclutamiento de jugadores para principiantes se pueden obtener mediante fichaje usando el medidor de reclutamiento para principiantes.
+RECRUIT/HELP_LINE_4,Los boletos de reclutamiento de jugadores destacados del evento caducan cuando termina el evento.
+RECRUIT/SCOUT_NO_MORE,No puedes fichar más.
+RECRUIT/NOT_ENOUGH_GAUGE,Indicador insuficiente.
+RECRUIT/SCOUT_CONFIRM_EVENT_FIRST,Se descontará primero {0}.
+RECRUIT/CURRENCY_NOT_ENOUGH_GO_SHOP,Moneda insuficiente. ¿Quieres ir a la Tienda?
+RECRUIT/BUY_THEN_RECRUIT,Reclutar después de comprar
+COMMON/RECRUIT,Reclutar
+CONVERTED_GAUGE_AMOUNT,Total convertido: {0}
+,
+COMMON/MAX_BUY_COUNT,Número máximo de compras : {0}
+COMMON/TOTAL_BUY_DES,Comprarás un total de {0} artículos.
+COMMON/EASY,Fácil
+COMMON/TOOHARD,Muy Difícil
+,
+RECRUIT/SCOUT_RULE_OVER_ROUND,Puedes seguir fichando con el mismo medidor incluso después de la última ronda.
+RECRUIT/SCOUT_ROUND_AFTER,Ronda {0} en adelante
