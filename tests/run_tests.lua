@@ -361,7 +361,26 @@ local function setupScore(T, mine, theirs)
   ce.symbols["MINE"], ce.symbols["THEIRS"] = 0x8000, 0x8004
   ce.values[0x8000], ce.values[0x8004] = mine, theirs
   T.CONFIG.score.mine, T.CONFIG.score.theirs = { expr = "MINE" }, { expr = "THEIRS" }
+  T.CONFIG.score.enabled = true
 end
+
+test("score editing is off by default (the game closes itself)", function()
+  local T = setup()
+  setupScore(T, 3, 5)
+  T.CONFIG.score.enabled = false
+  T.tick()
+  local v, why = T.Features.adjustScore("mine", 1)
+  eq(v, nil, "adjust refused")
+  truthy(why:find("score editing is off"), "reason")
+  eq(T.Features.matchPoint(), nil, "match point refused")
+  eq(ce.values[0x8000], 3, "score untouched")
+  eq(T.CONFIG.score.enabled, false, "still off")
+end)
+
+test("the shipped config keeps score editing off", function()
+  local T = ce.load(SRC)
+  eq(T.CONFIG.score.enabled, false, "enabled flag")
+end)
 
 test("score adjust clamps at zero and needs the guard", function()
   local T = setup()

@@ -14,8 +14,7 @@ training mode.
 | Perfect timing | `Num1` | Widens the receive and spike timing windows (default 3×). |
 | Skill gauge full | `Num2` | Keeps the skill gauge full. |
 | Freeze match timer | `Num4` | Stops a match clock, if your stage has one. |
-| Match point | `Num5` | Sets your score one point short of winning the set (handles deuce and the 50-point cap). |
-| Score ±1 | `F10` / `F11` | +1 to your score / −1 to the opponent's (never below 0). The window also has buttons for the other two. |
+| ~~Match point / Score ±1~~ | – | **Off.** The game closes itself the instant its score is changed (tested with a single +1), so these buttons are disabled. The trainer does not try to get around that protection. |
 | Speedhack | `F7`, `F8` / `F9` | Game speed from 0.25× to 5× (Cheat Engine speedhack). |
 | Presets | – | Save and load your stat targets, multipliers and speed by name. |
 

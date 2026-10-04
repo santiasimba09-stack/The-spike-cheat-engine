@@ -151,6 +151,10 @@ local CONFIG = {
   },
 
   score = {
+    -- OFF: the Steam build closes itself the instant its score is changed
+    -- (tested 2026-10-04, a single +1). Leave this false; the trainer does
+    -- not try to get around the game's protection.
+    enabled = false,
     mine   = nil,                -- source of your team's score
     theirs = nil,                -- source of the opponent's score
     type   = "int32",
@@ -783,7 +787,10 @@ end
 
 -- Adds `delta` to a score, never going below zero. Returns the new score or
 -- nil + reason.
+local SCORE_OFF = "score editing is off: the game closes itself when its score changes"
+
 function Features.adjustScore(which, delta)
+  if not CONFIG.score.enabled then return nil, SCORE_OFF end
   if not state.guardOk then return nil, state.guardReason end
   local v, addrOrWhy = Values.read(CONFIG.score[which], CONFIG.score.type)
   if v == nil then return nil, addrOrWhy end
@@ -795,6 +802,7 @@ end
 -- Raises your score to one point short of winning the set, respecting the
 -- win-by-two rule and the deuce cap. Never lowers your score.
 function Features.matchPoint()
+  if not CONFIG.score.enabled then return nil, SCORE_OFF end
   if not state.guardOk then return nil, state.guardReason end
   local sc = CONFIG.score
   local mine, mineAddr = Values.read(sc.mine, sc.type)
@@ -1270,12 +1278,18 @@ function UI.build()
   addLabel(f, "Score (mine : theirs)", 10, y + 3)
   UI.scoreValue = addLabel(f, "", 150, y + 3)
   y = y + 24
-  addButton(f, "Mine +1 " .. keyLabel(hk.myScoreUp), 10, y, 105, function() scoreAction("mine", 1) end)
-  addButton(f, "Mine -1", 120, y, 70, function() scoreAction("mine", -1) end)
-  addButton(f, "Theirs +1", 195, y, 80, function() scoreAction("theirs", 1) end)
-  addButton(f, "Theirs -1 " .. keyLabel(hk.theirScoreDown), 280, y, 150, function() scoreAction("theirs", -1) end)
+  local scoreButtons = {
+    addButton(f, "Mine +1 " .. keyLabel(hk.myScoreUp), 10, y, 105, function() scoreAction("mine", 1) end),
+    addButton(f, "Mine -1", 120, y, 70, function() scoreAction("mine", -1) end),
+    addButton(f, "Theirs +1", 195, y, 80, function() scoreAction("theirs", 1) end),
+    addButton(f, "Theirs -1 " .. keyLabel(hk.theirScoreDown), 280, y, 150, function() scoreAction("theirs", -1) end),
+  }
   y = y + 30
-  addButton(f, "Match point " .. keyLabel(hk.matchPoint), 10, y, 180, matchPointAction)
+  scoreButtons[#scoreButtons + 1] = addButton(f, "Match point " .. keyLabel(hk.matchPoint), 10, y, 180, matchPointAction)
+  if not CONFIG.score.enabled then
+    for _, b in ipairs(scoreButtons) do b.Enabled = false end
+    addLabel(f, "Score editing off (the game closes itself)", 200, y + 3)
+  end
   y = y + 36
 
   -- Speed
@@ -1348,9 +1362,11 @@ local function bindHotkeys()
   bindHotkey(hk.toggleSpeed,    function() Features.toggle("speed") end)
   bindHotkey(hk.speedDown,      function() Features.setSpeed(state.speed - CONFIG.speed.step) end)
   bindHotkey(hk.speedUp,        function() Features.setSpeed(state.speed + CONFIG.speed.step) end)
-  bindHotkey(hk.myScoreUp,      function() scoreAction("mine", 1) end)
-  bindHotkey(hk.theirScoreDown, function() scoreAction("theirs", -1) end)
-  bindHotkey(hk.matchPoint,     matchPointAction)
+  if CONFIG.score.enabled then
+    bindHotkey(hk.myScoreUp,      function() scoreAction("mine", 1) end)
+    bindHotkey(hk.theirScoreDown, function() scoreAction("theirs", -1) end)
+    bindHotkey(hk.matchPoint,     matchPointAction)
+  end
   for _, hold in ipairs(CONFIG.holds) do
     bindHotkey(hold.hotkey, function() Features.toggle(hold.key) end)
   end

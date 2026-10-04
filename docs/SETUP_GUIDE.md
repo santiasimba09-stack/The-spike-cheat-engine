@@ -238,6 +238,11 @@ These usually live in one match or team object.
 
 ### Score
 
+> **Skip this.** The Steam build closes itself the instant its score is
+> changed (tested on 2026-10-04 with a single +1), so score editing is
+> switched off in the trainer (`score.enabled = false`). The steps below are
+> kept only for reference.
+
 1. In a training match, scan **4 Bytes**, **Exact value** for your score.
    Score a point → **Exact value** with the new score.
 2. Do the same for the opponent's score.
