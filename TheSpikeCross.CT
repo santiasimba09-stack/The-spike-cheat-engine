@@ -1115,7 +1115,8 @@ function UI.refresh()
   UI.updating = true
   UI.procLabel.Caption = state.pid and ("Attached: pid " .. state.pid) or "Not attached"
   UI.guardLabel.Caption = state.guardReason or ""
-  UI.guardLabel.Font.Color = state.guardOk and 0x008000 or 0x0000C0
+  -- Colours are 0xBBGGRR; bright enough for both light and dark themes.
+  UI.guardLabel.Font.Color = state.guardOk and 0x30B030 or 0x4040FF
   UI.statsBox.Checked = state.statsLocked
   UI.cpuBox.Checked = state.cpuWeak
   UI.speedBox.Checked = state.speedOn
@@ -1130,8 +1131,9 @@ function UI.refresh()
       local v = row.hold.values[1]
       row.value.Caption = v and describe(v.source, v.type) or ""
     end
-    UI.scoreValue.Caption = describe(CONFIG.score.mine, CONFIG.score.type)
-      .. "  :  " .. describe(CONFIG.score.theirs, CONFIG.score.type)
+    local mine = describe(CONFIG.score.mine, CONFIG.score.type)
+    local theirs = describe(CONFIG.score.theirs, CONFIG.score.type)
+    UI.scoreValue.Caption = (mine == theirs and not tonumber(mine)) and mine or (mine .. "  :  " .. theirs)
   end
   UI.statusLabel.Caption = state.status or ""
   UI.updating = false
@@ -1253,12 +1255,13 @@ function UI.build()
   -- Score
   addLabel(f, "Score (mine : theirs)", 10, y + 3)
   UI.scoreValue = addLabel(f, "", 150, y + 3)
-  addButton(f, "Match point " .. keyLabel(hk.matchPoint), 280, y - 2, 150, matchPointAction)
-  y = y + 28
+  y = y + 24
   addButton(f, "Mine +1 " .. keyLabel(hk.myScoreUp), 10, y, 105, function() scoreAction("mine", 1) end)
   addButton(f, "Mine -1", 120, y, 70, function() scoreAction("mine", -1) end)
   addButton(f, "Theirs +1", 195, y, 80, function() scoreAction("theirs", 1) end)
   addButton(f, "Theirs -1 " .. keyLabel(hk.theirScoreDown), 280, y, 150, function() scoreAction("theirs", -1) end)
+  y = y + 30
+  addButton(f, "Match point " .. keyLabel(hk.matchPoint), 10, y, 180, matchPointAction)
   y = y + 36
 
   -- Speed

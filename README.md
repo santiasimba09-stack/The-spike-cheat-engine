@@ -55,9 +55,12 @@ leaderboard modes stay out of the list.
   presets, and `.CT` packaging.
 - **Tested:** 35 logic tests against a mocked Cheat Engine API
   (`tests/run_tests.lua`, run in CI).
-- **Not verified:** nothing has been run inside Cheat Engine or against the
-  game yet. **No addresses are filled in.** They have to be found on your
-  machine with your game version. See the setup guide.
+- **Checked in Cheat Engine:** the table loads, the window opens, the
+  trainer attaches to `TheSpike-Cross.exe`, and re-running the script shuts
+  the old copy down cleanly.
+- **Not verified yet:** hooks, guard and features against the real game.
+  **No addresses are filled in.** They have to be found on your machine with
+  your game version. See the setup guide.
 
 ## Getting started
 
