@@ -135,6 +135,32 @@ test("guard blocks a mode outside the offline list", function()
   eq(T.Features.set("cpu", true), false, "cpu enable")
 end)
 
+test("a session-only guard expires when the game restarts", function()
+  local T = setup()
+  T.tick()
+  T.CONFIG.guard.sessionPid = PID
+  T.tick()
+  eq(T._state.guardOk, true, "valid in its own session")
+  -- The game restarts under a new pid; the old heap address means nothing.
+  ce.processes[PID] = nil
+  ce.processes[PID + 1] = "TheSpike-Cross.exe"
+  ce.time = ce.time + 2500
+  T.tick()
+  T.tick()
+  eq(T._state.pid, PID + 1, "re-attached")
+  eq(T._state.guardOk, false, "guard expired")
+  truthy(T._state.guardReason:find("expired"), "reason")
+end)
+
+test("number boxes accept 3x, commas and spaces", function()
+  local T = setup()
+  eq(T.parseNumber("3x"), 3, "3x")
+  eq(T.parseNumber(" 1,5 "), 1.5, "1,5")
+  eq(T.parseNumber("2.25X"), 2.25, "2.25X")
+  eq(T.parseNumber(""), nil, "empty")
+  eq(T.parseNumber("lots"), nil, "words")
+end)
+
 test("guard unreadable fails closed", function()
   local T = setup()
   ce.symbols["MODE"] = nil

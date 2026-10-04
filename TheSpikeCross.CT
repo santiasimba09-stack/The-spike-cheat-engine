@@ -101,6 +101,8 @@ local CONFIG = {
     type    = "int32",
     allowed = {},                -- e.g. { 1, 2 }
     names   = {},                -- e.g. { [1] = "Story", [2] = "Training" }
+    -- sessionPid: set only when `source` is a plain address found this
+    -- session; the guard then blocks after a game restart.
   },
 
   -- Player stats, as named on the in-game help screen. `offset` is the
@@ -598,6 +600,11 @@ function Guard.check()
   local g = CONFIG.guard
   if not Values.isConfigured(g.source) or type(g.allowed) ~= "table" or #g.allowed == 0 then
     return false, "Mode guard not configured (docs/SETUP_GUIDE.md, step 2)"
+  end
+  -- A guard pointing at a plain heap address (set while testing) is only
+  -- valid in the game process it was found in; `sessionPid` ties it there.
+  if g.sessionPid and g.sessionPid ~= state.pid then
+    return false, "Mode guard expired: the game restarted (guide step 1c)"
   end
   local v, why = Values.read(g.source, g.type or "int32")
   if v == nil then return false, "Mode guard: " .. tostring(why) end
@@ -1163,13 +1170,20 @@ local function addButton(parent, text, x, y, w, onClick)
   return b
 end
 
+-- "3x", " 1,5 " and "2.0" all read as numbers; anything else as nil.
+local function parseNumber(text)
+  local t = tostring(text or ""):gsub("%s", ""):gsub("[xX]$", ""):gsub(",", ".")
+  return tonumber(t)
+end
+Trainer.parseNumber = parseNumber
+
 local function addNumberEdit(parent, x, y, w, initial, onNumber)
   local e = createEdit(parent)
   e.Left, e.Top, e.Width = x, y, w
   e.Text = initial ~= nil and tostring(initial) or ""
   e.OnChange = function(sender)
     if UI.updating then return end
-    onNumber(tonumber(sender.Text))
+    onNumber(parseNumber(sender.Text))
   end
   return e
 end

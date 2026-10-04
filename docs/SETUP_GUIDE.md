@@ -84,6 +84,27 @@ other players:
    match) and check that the value there is **different** from your offline
    values. If it isn't, pick another candidate.
 
+### 1b+. Test it right away (this session only)
+
+Before making it permanent, you can point the running trainer at the address
+you found. Paste this into the bottom box of Cheat Engine's **Lua Engine**
+window (not into the table script) and click **Execute**. Use your own
+address and values:
+
+```lua
+local g = SpikeCrossTrainer.CONFIG.guard
+g.source     = { expr = "2DDFECDA598" }
+g.type       = "int32"
+g.allowed    = { 7, 2 }
+g.names      = { [7] = "Story", [2] = "Training" }
+g.sessionPid = SpikeCrossTrainer._state.pid
+```
+
+The trainer's second line should read **Offline mode: Story** (green) in
+story and **Blocked: mode …** (red) in the menu. `sessionPid` makes the guard
+expire if the game restarts, because a plain address like this one means
+nothing in a new game process.
+
 ### 1c. Make it findable after a restart
 
 Use a **pointer chain**: right-click the address → **Pointer scan for this
